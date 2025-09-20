@@ -1,0 +1,32 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "43d8cbc852f91faa39365402859e5993"
+name = "Prisjakt produktfeed"
+application_url = "https://approx-image-returning-meat.trycloudflare.com"
+embedded = true
+handle = "prisjakt-produktfeed-1"
+
+[build]
+include_config_on_deploy = true
+automatically_update_urls_on_dev = true
+
+[webhooks]
+api_version = "2025-07"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/uninstalled" ]
+  uri = "/webhooks/app/uninstalled"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/scopes_update" ]
+  uri = "/webhooks/app/scopes_update"
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "read_products,read_inventory"
+
+[auth]
+redirect_urls = ["https://approx-image-returning-meat.trycloudflare.com/auth/callback", "https://approx-image-returning-meat.trycloudflare.com/auth/shopify/callback", "https://approx-image-returning-meat.trycloudflare.com/api/auth/callback"]
+
+[pos]
+embedded = false

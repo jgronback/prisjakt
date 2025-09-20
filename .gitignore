@@ -1,0 +1,10 @@
+﻿node_modules/
+.build/
+.cache/
+.vscode/
+.env
+dev.sqlite
+.prisma/
+pnpm-lock.yaml
+yarn.lock
+.DS_Store
