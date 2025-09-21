@@ -33,3 +33,26 @@ export const unauthenticated = shopify.unauthenticated;
 export const login = shopify.login;
 export const registerWebhooks = shopify.registerWebhooks;
 export const sessionStorage = shopify.sessionStorage;
+
+
+// app/shopify.server.ts (visa bara relevanta rader/ändringar)
+import { BillingInterval, shopifyApp } from "@shopify/shopify-app-remix/server";
+// ...dina befintliga imports (Prisma session storage etc.)
+
+export const BILLING_PLAN = "Prisjakt Feed – Monthly";
+
+export const shopify = shopifyApp({
+  // ...dina befintliga options: apiKey, apiSecretKey, appUrl, scopes, sessionStorage, etc.
+  billing: {
+    [BILLING_PLAN]: {
+      amount: 9.0,               // månadspris
+      currencyCode: "USD",       // håll dig till USD för enkelhet
+      interval: BillingInterval.Every30Days,
+      trialDays: 7,              // gratis provperiod
+    },
+  },
+});
+
+export const authenticate = shopify.authenticate;
+// exportera ev. shopify själv också om du inte redan gör det:
+export { shopify };

@@ -3,6 +3,7 @@ import { json, redirect, type LoaderFunctionArgs, type ActionFunctionArgs } from
 import { useLoaderData, Form, useNavigation } from "@remix-run/react";
 import { PrismaClient } from "@prisma/client";
 import { authenticate } from "../shopify.server";
+import { shopify, BILLING_PLAN } from "../shopify.server";
 
 const prisma = new PrismaClient();
 
@@ -17,24 +18,31 @@ export async function loader({ request }: LoaderFunctionArgs) {
   const { session } = await authenticate.admin(request);
   const shop = session.shop;
 
-  // Se till att butiken har en feed-hemlighet
+  // Billing gate: om ingen betalning, visa CTA i Home i stället
+  const check = await shopify.billing.check({ session, plans: [BILLING_PLAN] });
+  if (!check.hasActivePayment) {
+    // Skicka användaren till Home där köp-knappen finns
+    return redirect("/app");
+  }
+
+  // Säkerställ att butiken har en feed-hemlighet
   let settings = await prisma.shopSettings.findUnique({ where: { shop } });
   if (!settings) {
     settings = await prisma.shopSettings.create({ data: { shop, feedSecret: randomSecret() } });
   }
 
   const base = process.env.SHOPIFY_APP_URL?.replace(/\/$/, "") || new URL(request.url).origin;
-  const feedUrl = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${settings.feedSecret}`;
-  const feedUrlAll = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${settings.feedSecret}`;
+  const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${settings.feedSecret}`;
+  const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${settings.feedSecret}`;
 
-  return json({ shop, feedSecret: settings.feedSecret, feedUrl, feedUrlAll });
+  return json({ shop, feedSecret: settings.feedSecret, onlyTagged, allProducts });
 }
 
 export async function action({ request }: ActionFunctionArgs) {
   const { session } = await authenticate.admin(request);
   const shop = session.shop;
-
   const form = await request.formData();
+
   if (form.get("rotate") === "1") {
     const newSecret = randomSecret();
     await prisma.shopSettings.upsert({
@@ -47,44 +55,76 @@ export async function action({ request }: ActionFunctionArgs) {
 }
 
 export default function SettingsPage() {
-  const { shop, feedSecret, feedUrl, feedUrlAll } = useLoaderData<typeof loader>();
+  const { shop, feedSecret, onlyTagged, allProducts } = useLoaderData<typeof loader>();
   const nav = useNavigation();
   const busy = nav.state !== "idle";
 
   return (
-    <div style={{ padding: 16, fontFamily: "Inter, system-ui, sans-serif" }}>
-      <h1 style={{ fontSize: 20, marginBottom: 12 }}>Prisjakt feed – inställningar</h1>
-      <div style={{ marginBottom: 12 }}>Butik: <b>{shop}</b></div>
-
-      <div style={{ marginBottom: 8 }}>
-        <div>Nuvarande hemlighet (sig):</div>
-        <code>{feedSecret}</code>
-      </div>
-
-      <Form method="post" replace>
-        <input type="hidden" name="rotate" value="1" />
-        <button type="submit" disabled={busy} style={{ padding: "8px 12px" }}>
-          {busy ? "Rotera..." : "Rotera hemlighet"}
-        </button>
-      </Form>
-
-      <hr style={{ margin: "16px 0" }} />
-
-      <div style={{ marginBottom: 8 }}>Feed-URL (taggade med <code>prisjakt</code>):</div>
-      <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-        <input readOnly value={feedUrl} style={{ width: "100%" }} />
-        <button onClick={() => navigator.clipboard.writeText(feedUrl)}>Kopiera</button>
-      </div>
-
-      <div style={{ marginTop: 12, marginBottom: 8 }}>Feed-URL (alla aktiva/publicerade med lager):</div>
-      <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-        <input readOnly value={feedUrlAll} style={{ width: "100%" }} />
-        <button onClick={() => navigator.clipboard.writeText(feedUrlAll)}>Kopiera</button>
-      </div>
-
-      <p style={{ marginTop: 12, color: "#666" }}>
-        Ge länken till Prisjakt. Uppdatering var 30–60 min är lagom.
+    <div style={{ padding: 16, fontFamily: "Inter, system-ui, sans-serif", maxWidth: 900 }}>
+      <h1 style={{ fontSize: 22, marginBottom: 6 }}>Feed settings</h1>
+      <p style={{ marginTop: 0, color: "#555" }}>
+        Den här sidan ger dig de <b>färdiga länkar</b> som Prisjakt ska använda för att läsa in dina produkter.
+        <br />
+        <b>Ingenting uppdateras i din butik.</b> Prisjakt hämtar länkarna hos sig – vi rekommenderar att de hämtar
+        <b> var 30–60 minut</b>. (Feeden speglar alltid dina aktuella produktdata i Shopify; vi cachar i 5 min för fart.)
       </p>
+
+      <div style={{ margin: "16px 0", padding: 12, border: "1px solid #eee", borderRadius: 8 }}>
+        <div style={{ marginBottom: 8 }}>Nuvarande hemlighet (sig) för den här butiken:</div>
+        <code>{feedSecret}</code>
+        <Form method="post" replace style={{ marginTop: 10 }}>
+          <input type="hidden" name="rotate" value="1" />
+          <button type="submit" disabled={busy} style={{ padding: "8px 12px" }}>
+            {busy ? "Roterar..." : "Byt hemlighet"}
+          </button>
+        </Form>
+        <div style={{ marginTop: 8, color: "#777" }}>
+          Om du byter hemlighet måste du ge Prisjakt den <b>nya</b> länken nedan.
+        </div>
+      </div>
+
+      <div style={{ display: "grid", gap: 16, gridTemplateColumns: "1fr 1fr" }}>
+        <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
+          <h3 style={{ marginTop: 0 }}>Alternativ A – Endast taggade produkter</h3>
+          <p style={{ marginTop: 4 }}>
+            Skicka endast produkter som du har taggat med <code>prisjakt</code> i Shopify.
+            Detta ger dig full kontroll över vilka produkter som visas på Prisjakt.
+          </p>
+          <input readOnly value={onlyTagged} style={{ width: "100%", marginBottom: 8 }} />
+          <div style={{ display: "flex", gap: 8 }}>
+            <button onClick={() => navigator.clipboard.writeText(onlyTagged)}>Kopiera länk</button>
+            <a href={onlyTagged} target="_blank" rel="noreferrer" style={{ textDecoration: "none", padding: "6px 10px", border: "1px solid #ccc", borderRadius: 6 }}>
+              Öppna i ny flik
+            </a>
+          </div>
+        </div>
+
+        <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
+          <h3 style={{ marginTop: 0 }}>Alternativ B – Alla produkter</h3>
+          <p style={{ marginTop: 4 }}>
+            Skicka <b>alla aktiva &amp; publicerade</b> produkter som har lager &gt; 0,
+            inklusive alla varianter. Snabbast att komma igång.
+          </p>
+          <input readOnly value={allProducts} style={{ width: "100%", marginBottom: 8 }} />
+          <div style={{ display: "flex", gap: 8 }}>
+            <button onClick={() => navigator.clipboard.writeText(allProducts)}>Kopiera länk</button>
+            <a href={allProducts} target="_blank" rel="noreferrer" style={{ textDecoration: "none", padding: "6px 10px", border: "1px solid #ccc", borderRadius: 6 }}>
+              Öppna i ny flik
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div style={{ marginTop: 16, padding: 12, border: "1px dashed #ccc", borderRadius: 8 }}>
+        <b>Instruktion för kunden (kan skickas till Prisjakt):</b>
+        <ol style={{ marginTop: 8, marginBottom: 0 }}>
+          <li>Kopiera en av feed-länkarna ovan.</li>
+          <li>Ge länken till Prisjakt – de lägger in den i sitt system.</li>
+          <li>Rekommenderad uppdateringsfrekvens: var 30–60 minut.</li>
+        </ol>
+      </div>
+
+      <p style={{ marginTop: 12, color: "#666" }}>Butik: <code>{shop}</code></p>
     </div>
   );
 }
