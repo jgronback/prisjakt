@@ -73,7 +73,7 @@ export default function SettingsPage() {
       <div style={note}>
         <b>Hur snabbt uppdateras priser/lagersaldon?</b> <br />
         Dina ändringar i Shopify speglas i feeden inom ca <b>5 minuter</b> (vi har en kort cache för fart).
-        När Prisjakt läser in länken igen uppdateras deras sidan. </b>.
+        När Prisjakt läser in länken igen uppdateras deras sidan. 
       </div>
 
       <div style={{ display: "grid", gap: 16, gridTemplateColumns: "1fr 1fr", marginTop: 16 }}>
