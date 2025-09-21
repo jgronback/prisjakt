@@ -1,19 +1,28 @@
+// app/shopify.server.ts
 import "@shopify/shopify-app-remix/adapters/node";
 import {
   ApiVersion,
   AppDistribution,
   shopifyApp,
+  BillingInterval,
 } from "@shopify/shopify-app-remix/server";
 import { PrismaSessionStorage } from "@shopify/shopify-app-session-storage-prisma";
 import prisma from "./db.server";
 
+// Namn på din plan som visas i Shopifys checkout
+export const BILLING_PLAN = "Prisjakt produktfeed – Månadsvis";
 
-const shopify = shopifyApp({
-  apiKey: process.env.SHOPIFY_API_KEY,
-  apiSecretKey: process.env.SHOPIFY_API_SECRET || "",
+// OBS: exakt EN shopifyApp-konfiguration
+export const shopify = shopifyApp({
+  apiKey: process.env.SHOPIFY_API_KEY!,               // lägg i Vercel
+  apiSecretKey: process.env.SHOPIFY_API_SECRET || "", // lägg i Vercel
   apiVersion: ApiVersion.January25,
-  scopes: process.env.SCOPES?.split(","),
-  appUrl: process.env.SHOPIFY_APP_URL || "",
+  // Använd SHOPIFY_SCOPES (eller fallback till SCOPES om du råkar ha det)
+  scopes: (process.env.SHOPIFY_SCOPES || process.env.SCOPES || "")
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean),                                  // t.ex. "read_products,read_inventory"
+  appUrl: process.env.SHOPIFY_APP_URL || "",           // t.ex. https://prisjakt.vercel.app
   authPathPrefix: "/auth",
   sessionStorage: new PrismaSessionStorage(prisma),
   distribution: AppDistribution.AppStore,
@@ -24,6 +33,16 @@ const shopify = shopifyApp({
   ...(process.env.SHOP_CUSTOM_DOMAIN
     ? { customShopDomains: [process.env.SHOP_CUSTOM_DOMAIN] }
     : {}),
+
+  // ← Billing inuti samma objekt
+  billing: {
+    [BILLING_PLAN]: {
+      amount: 10.0,                      // månadspris
+      currencyCode: "USD",
+      interval: BillingInterval.Every30Days,
+      trialDays: 7,                      // gratis provperiod
+    },
+  },
 });
 
 export default shopify;
@@ -34,24 +53,3 @@ export const unauthenticated = shopify.unauthenticated;
 export const login = shopify.login;
 export const registerWebhooks = shopify.registerWebhooks;
 export const sessionStorage = shopify.sessionStorage;
-
-
-// app/shopify.server.ts (visa bara relevanta rader/ändringar)
-import { shopifyApp, BillingInterval } from "@shopify/shopify-app-remix/server";
-// ...dina befintliga imports (Prisma session storage etc.)
-
-export const BILLING_PLAN = "Prisjakt produktfeed – Månadsvis";
-
-export const shopify = shopifyApp({
-  // ...dina befintliga options: apiKey, apiSecretKey, appUrl, scopes, sessionStorage, etc.
-  billing: {
-    [BILLING_PLAN]: {
-      amount: 10.0,               // månadspris
-      currencyCode: "USD",       // håll dig till USD för enkelhet
-      interval: BillingInterval.Every30Days,
-      trialDays: 7,              // gratis provperiod
-    },
-  },
-});
-
-
