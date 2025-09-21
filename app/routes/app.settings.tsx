@@ -1,10 +1,8 @@
 // app/routes/app.settings.tsx
 import { json, redirect, type LoaderFunctionArgs, type ActionFunctionArgs } from "@remix-run/node";
 import { useLoaderData, Form, useNavigation } from "@remix-run/react";
-import { PrismaClient } from "@prisma/client";
 import shopify, { authenticate, BILLING_PLAN } from "../shopify.server";
-
-const prisma = new PrismaClient();
+import prisma from "../db.server";
 
 function randomSecret(len = 40) {
   const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
@@ -17,7 +15,7 @@ export async function loader({ request }: LoaderFunctionArgs) {
   const { session } = await authenticate.admin(request);
   const shop = session.shop;
 
-  // Gate endast om billing-API finns
+  // Gate endast om billing-API finns (fail-open om billing saknas)
   const billingApi: any = (shopify as any).billing;
   if (billingApi?.check) {
     const check = await billingApi.check({ session, plans: [BILLING_PLAN] });
@@ -26,7 +24,9 @@ export async function loader({ request }: LoaderFunctionArgs) {
 
   // Se till att butiken har en feed-hemlighet
   let settings = await prisma.shopSettings.findUnique({ where: { shop } });
-  if (!settings) settings = await prisma.shopSettings.create({ data: { shop, feedSecret: randomSecret() } });
+  if (!settings) {
+    settings = await prisma.shopSettings.create({ data: { shop, feedSecret: randomSecret() } });
+  }
 
   const base = (process.env.SHOPIFY_APP_URL || new URL(request.url).origin).replace(/\/$/, "");
   const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${settings.feedSecret}`;
@@ -56,25 +56,31 @@ export default function SettingsPage() {
   const nav = useNavigation();
   const busy = nav.state !== "idle";
 
+  const card: React.CSSProperties = { padding: 12, border: "1px solid #ddd", borderRadius: 8 };
+  const note: React.CSSProperties = { marginTop: 8, padding: 10, border: "1px solid #eee", borderRadius: 8 };
+  const box: React.CSSProperties = { margin: "16px 0", padding: 12, border: "1px solid #eee", borderRadius: 8 };
+
   return (
     <div style={{ padding: 16, fontFamily: "Inter, system-ui, sans-serif", maxWidth: 900 }}>
       <h1 style={{ fontSize: 22, marginBottom: 6 }}>Feed settings</h1>
+
       <p style={{ marginTop: 0, color: "#555" }}>
-        På den här sidan får du <b>färdiga länkar</b> som du ger till <b>Prisjakt</b>. <br />
-        <b>Viktigt:</b> Länkarna används av Prisjakt för att läsa in dina produkter. <b>Ingenting</b> uppdateras i din butik.
+        Här får du <b>färdiga länkar</b> att ge till <b>Prisjakt</b> för inläsning av dina produkter.
+        <br />
+        <b>Viktigt:</b> Länkarna används bara av Prisjakt för att läsa in data. <b>Ingenting</b> uppdateras i din butik.
       </p>
 
-      <div style={{ marginTop: 8, padding: 10, border: "1px solid #eee", borderRadius: 8 }}>
-        <b>Ändringar speglas i feeden inom 5 minuter från ändring. Hur snart ändringen läses in av Prisjakt styrs av prisjakt själva, men det brukar gå inom ett par timmar.</b>. <br />
+      <div style={note}>
+        <b>Hur snabbt uppdateras priser/lagersaldon?</b> <br />
+        Dina ändringar i Shopify speglas i feeden inom ca <b>5 minuter</b> (vi har en kort cache för fart).
+        När Prisjakt läser in länken igen uppdateras deras sidan. Vi rekommenderar att Prisjakt hämtar <b>var 30–60 minut</b>.
       </div>
 
-    
-
-      <div style={{ display: "grid", gap: 16, gridTemplateColumns: "1fr 1fr" }}>
-        <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
+      <div style={{ display: "grid", gap: 16, gridTemplateColumns: "1fr 1fr", marginTop: 16 }}>
+        <div style={card}>
           <h3 style={{ marginTop: 0 }}>Alternativ A – Endast taggade produkter</h3>
           <p style={{ marginTop: 4 }}>
-            Skicka bara produkter taggade <code>prisjakt</code>. Ger full kontroll över vad som syns på Prisjakt. 
+            Skicka bara produkter taggade <code>prisjakt</code>. Ger full kontroll över vad som visas på Prisjakt.
           </p>
           <input readOnly value={onlyTagged} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
@@ -85,10 +91,10 @@ export default function SettingsPage() {
           </div>
         </div>
 
-        <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
+        <div style={card}>
           <h3 style={{ marginTop: 0 }}>Alternativ B – ALLA produkter</h3>
           <p style={{ marginTop: 4 }}>
-            Skicka <b>ALLA aktiva &amp; publicerade</b> produkter som har lager &gt; 0 (inkl. alla varianter).
+            Skicka <b>alla aktiva &amp; publicerade</b> produkter med lager &gt; 0 (inkl. alla varianter).
           </p>
           <input readOnly value={allProducts} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
@@ -100,48 +106,49 @@ export default function SettingsPage() {
         </div>
       </div>
 
-      <div style={{ marginTop: 16, padding: 12, border: "1px dashed #ccc", borderRadius: 8 }}>
-        <b>Instruktion Alternativ A – Endast taggade produkter:</b>
+      <div style={{ ...box, borderStyle: "dashed" }}>
+        <b>Instruktion – Alternativ A (endast taggade):</b>
         <ol style={{ marginTop: 8, marginBottom: 0 }}>
-		  <li>Tagga vilka produkter som ska skickas till prisjakt genom att sätta taggen: prisjakt på valda artiklar.</li>
-          <li>Kopiera länken märkt Alternativ A ovan.</li>
-          <li>Gå till app-business.prisjakt.nu och logga in.</li>
-          <li>Klicka på Data management i menyn till vänster.</li>
-		  <li>Klicka på knappen "Lägg till feed".</li>
-		  <li>Klistra in länken märkt som du kopierade innan i fältet märkt URL*</li>
-		  <li>Bocka för "Prisjakt XML (rekommenderad)" </li>
-		  <li>Tryck på "Lägg till"</li>
-		  FÄRDIGT! Nu kommer dina valda produkter att komma på Prisjakt med uppdaterade priser.
+          <li>Tagga önskade produkter i Shopify med <code>prisjakt</code>.</li>
+          <li>Kopiera länken under “Alternativ A” ovan.</li>
+          <li>Gå till <code>app-business.prisjakt.nu</code> och logga in.</li>
+          <li>Välj <b>Data management</b> i vänstermenyn.</li>
+          <li>Klicka <b>Lägg till feed</b>.</li>
+          <li>Klistra in länken i fältet <b>URL*</b>.</li>
+          <li>Välj <b>Prisjakt XML (rekommenderad)</b>.</li>
+          <li>Klicka <b>Lägg till</b>.</li>
+          <li><b>Klart!</b> Dina valda produkter visas på Prisjakt och hålls uppdaterade.</li>
         </ol>
       </div>
-	  
-        <b>Instruktion Alternativ B – ALLA produkter:</b>
+
+      <div style={{ ...box, borderStyle: "dashed" }}>
+        <b>Instruktion – Alternativ B (alla produkter):</b>
         <ol style={{ marginTop: 8, marginBottom: 0 }}>
-          <li>Kopiera länken märkt Alternativ B ovan.</li>
-          <li>Gå till app-business.prisjakt.nu och logga in.</li>
-          <li>Klicka på Data management i menyn till vänster.</li>
-		  <li>Klicka på knappen "Lägg till feed".</li>
-		  <li>Klistra in länken märkt som du kopierade innan i fältet märkt URL*</li>
-		  <li>Bocka för "Prisjakt XML (rekommenderad)" </li>
-		  <li>Tryck på "Lägg till"</li>
-		  FÄRDIGT! Nu kommer ALLA dina aktiva produkter komma på Prisjakt med uppdaterade priser.
+          <li>Kopiera länken under “Alternativ B” ovan.</li>
+          <li>Gå till <code>app-business.prisjakt.nu</code> och logga in.</li>
+          <li>Välj <b>Data management</b> i vänstermenyn.</li>
+          <li>Klicka <b>Lägg till feed</b>.</li>
+          <li>Klistra in länken i fältet <b>URL*</b>.</li>
+          <li>Välj <b>Prisjakt XML (rekommenderad)</b>.</li>
+          <li>Klicka <b>Lägg till</b>.</li>
+          <li><b>Klart!</b> Alla dina aktiva produkter med lager visas och uppdateras på Prisjakt.</li>
         </ol>
       </div>
-	  
-  <div style={{ margin: "16px 0", padding: 12, border: "1px solid #eee", borderRadius: 8 }}>
-        <div style={{ marginBottom: 8 }}>Nuvarande unik kod för den här butiken:</div>
+
+      <div style={box}>
+        <div style={{ marginBottom: 8 }}><b>Nuvarande unik kod</b> (används för att skydda feeden för den här butiken):</div>
         <code>{feedSecret}</code>
         <Form method="post" replace style={{ marginTop: 10 }}>
           <input type="hidden" name="rotate" value="1" />
           <button type="submit" disabled={busy} style={{ padding: "8px 12px" }}>
-            {busy ? "Roterar..." : "Byt kod (vid inläsningsproblem)"}
+            {busy ? "Roterar..." : "Byt kod (om Prisjakt inte kan läsa in)"}
           </button>
         </Form>
         <div style={{ marginTop: 8, color: "#777" }}>
-          Om du byter kod måste du ge Prisjakt den <b>nya</b> ovan nedan.
+          Om du byter kod måste du ge Prisjakt den <b>nya</b> länken (A eller B) ovan.
         </div>
       </div>
-	  
+
       <p style={{ marginTop: 12, color: "#666" }}>Butik: <code>{shop}</code></p>
     </div>
   );
