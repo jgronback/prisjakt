@@ -66,7 +66,6 @@ export default function SettingsPage() {
 
       <div style={{ marginTop: 8, padding: 10, border: "1px solid #eee", borderRadius: 8 }}>
         <b>Ändringar speglas i feeden inom 5 minuter från ändring. Hur snart ändringen läses in av Prisjakt styrs av prisjakt själva, men det brukar gå inom ett par timmar.</b>. <br />
-        Feeden speglar alltid din aktuella Shopify-data; vi lägger endast på en <b>5 minuters cache</b> för bättre hastighet.
       </div>
 
     
@@ -87,9 +86,9 @@ export default function SettingsPage() {
         </div>
 
         <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
-          <h3 style={{ marginTop: 0 }}>Alternativ B – Alla produkter</h3>
+          <h3 style={{ marginTop: 0 }}>Alternativ B – ALLA produkter</h3>
           <p style={{ marginTop: 4 }}>
-            Skicka <b>alla aktiva &amp; publicerade</b> produkter som har lager &gt; 0 (inkl. alla varianter).
+            Skicka <b>ALLA aktiva &amp; publicerade</b> produkter som har lager &gt; 0 (inkl. alla varianter).
           </p>
           <input readOnly value={allProducts} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
@@ -102,7 +101,7 @@ export default function SettingsPage() {
       </div>
 
       <div style={{ marginTop: 16, padding: 12, border: "1px dashed #ccc", borderRadius: 8 }}>
-        <b>Instruktion (skicka till Prisjakt):</b>
+        <b>Instruktion Alternativ A – Endast taggade produkter:</b>
         <ol style={{ marginTop: 8, marginBottom: 0 }}>
 		  <li>Tagga vilka produkter som ska skickas till prisjakt genom att sätta taggen: prisjakt på valda artiklar.</li>
           <li>Kopiera länken märkt Alternativ A ovan.</li>
@@ -112,7 +111,20 @@ export default function SettingsPage() {
 		  <li>Klistra in länken märkt som du kopierade innan i fältet märkt URL*</li>
 		  <li>Bocka för "Prisjakt XML (rekommenderad)" </li>
 		  <li>Tryck på "Lägg till"</li>
-		  FÄRDIGT! Nu kommer dina produkter att komma på Prisjakt med uppdaterade priser.
+		  FÄRDIGT! Nu kommer dina valda produkter att komma på Prisjakt med uppdaterade priser.
+        </ol>
+      </div>
+	  
+        <b>Instruktion Alternativ B – ALLA produkter:</b>
+        <ol style={{ marginTop: 8, marginBottom: 0 }}>
+          <li>Kopiera länken märkt Alternativ B ovan.</li>
+          <li>Gå till app-business.prisjakt.nu och logga in.</li>
+          <li>Klicka på Data management i menyn till vänster.</li>
+		  <li>Klicka på knappen "Lägg till feed".</li>
+		  <li>Klistra in länken märkt som du kopierade innan i fältet märkt URL*</li>
+		  <li>Bocka för "Prisjakt XML (rekommenderad)" </li>
+		  <li>Tryck på "Lägg till"</li>
+		  FÄRDIGT! Nu kommer ALLA dina aktiva produkter komma på Prisjakt med uppdaterade priser.
         </ol>
       </div>
 	  
@@ -122,11 +134,11 @@ export default function SettingsPage() {
         <Form method="post" replace style={{ marginTop: 10 }}>
           <input type="hidden" name="rotate" value="1" />
           <button type="submit" disabled={busy} style={{ padding: "8px 12px" }}>
-            {busy ? "Roterar..." : "Byt hemlighet"}
+            {busy ? "Roterar..." : "Byt kod (vid inläsningsproblem)"}
           </button>
         </Form>
         <div style={{ marginTop: 8, color: "#777" }}>
-          Om du byter hemlighet måste du ge Prisjakt den <b>nya</b> länken nedan.
+          Om du byter kod måste du ge Prisjakt den <b>nya</b> ovan nedan.
         </div>
       </div>
 	  
