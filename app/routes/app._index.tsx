@@ -4,15 +4,52 @@ import { useLoaderData, Link } from "@remix-run/react";
 import shopify, { authenticate, BILLING_PLAN } from "../shopify.server";
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  const { session } = await authenticate.admin(request);
+  let session;
+  try {
+    ({ session } = await authenticate.admin(request));
+  } catch (err: any) {
+    if (err instanceof Response && err.status >= 300 && err.status < 400) {
+      const loc = err.headers.get("Location") || "/auth/login";
+      const abs = new URL(
+        loc,
+        process.env.SHOPIFY_APP_URL || new URL(request.url).origin
+      ).toString();
+      return new Response(
+        `<!doctype html><html><body><script>
+           if (window.top) window.top.location.href = ${JSON.stringify(abs)};
+           else window.location.href = ${JSON.stringify(abs)};
+         </script></body></html>`,
+        { headers: { "Content-Type": "text/html" } }
+      );
+    }
+    throw err;
+  }
+
   const shop = session.shop;
 
-  // Safe check: om billing saknas i runtime, krascha inte
+  // “Fail-open” om billing saknas (så Home alltid laddar)
   let hasActivePayment = false;
   const billingApi: any = (shopify as any).billing;
   if (billingApi?.check) {
-    const check = await billingApi.check({ session, plans: [BILLING_PLAN] });
-    hasActivePayment = !!check?.hasActivePayment;
+    try {
+      const check = await billingApi.check({ session, plans: [BILLING_PLAN] });
+      hasActivePayment = !!check?.hasActivePayment;
+    } catch (err: any) {
+      if (err instanceof Response && err.status >= 300 && err.status < 400) {
+        const loc = err.headers.get("Location") || "/auth/login";
+        const abs = new URL(
+          loc,
+          process.env.SHOPIFY_APP_URL || new URL(request.url).origin
+        ).toString();
+        return new Response(
+          `<!doctype html><html><body><script>
+             if (window.top) window.top.location.href = ${JSON.stringify(abs)};
+             else window.location.href = ${JSON.stringify(abs)};
+           </script></body></html>`,
+          { headers: { "Content-Type": "text/html" } }
+        );
+      }
+    }
   }
 
   return json({ shop, hasActivePayment, billingAvailable: !!billingApi?.request });
@@ -20,48 +57,37 @@ export async function loader({ request }: LoaderFunctionArgs) {
 
 export default function Home() {
   const { shop, hasActivePayment, billingAvailable } = useLoaderData<typeof loader>();
-
   return (
     <div style={{ padding: 16, fontFamily: "Inter, system-ui, sans-serif" }}>
       <h1 style={{ fontSize: 22, marginBottom: 8 }}>Prisjakt Produktfeed</h1>
-      <p style={{ maxWidth: 720, marginBottom: 16 }}>
-        Den här appen skapar en <b>XML-produktfeed</b> som Prisjakt kan läsa in. Du kan skicka
-        <b> alla aktiva &amp; publicerade produkter med lager</b> – eller endast de du har
-        <b> taggat med “prisjakt”</b> i Shopify.
-      </p>
 
       {billingAvailable ? (
-        !hasActivePayment ? (
+        hasActivePayment ? (
+          <div style={{ padding: 12, border: "1px solid #cdeccd", background: "#f4fff4", borderRadius: 8, marginBottom: 16 }}>
+            <b>Abonnemang aktivt</b> – du kan använda appen fullt ut.
+          </div>
+        ) : (
           <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8, marginBottom: 16 }}>
             <h3 style={{ marginTop: 0 }}>Starta din gratis provperiod</h3>
             <p style={{ margin: "8px 0 12px" }}>
-              Klicka nedan för att aktivera abonnemanget (Shopifys kassasida öppnas).
+              Klicka nedan för att aktivera abonnemanget i Shopify.
             </p>
             <Link to="/app/billing" style={{ display: "inline-block", padding: "10px 14px", background: "#111", color: "#fff", borderRadius: 8, textDecoration: "none" }}>
               Starta provperiod / Köp
             </Link>
           </div>
-        ) : (
-          <div style={{ padding: 12, border: "1px solid #cdeccd", background: "#f4fff4", borderRadius: 8, marginBottom: 16 }}>
-            <b>Abonnemang aktivt</b> – du kan använda appen fullt ut.
-          </div>
         )
       ) : (
         <div style={{ padding: 12, border: "1px solid #ffe2a8", background: "#fff8e8", borderRadius: 8, marginBottom: 16 }}>
-          <b>Obs:</b> Billing-API saknas i runtime, så sidan kräver inget köp just nu.
-          (Appen fungerar ändå medan vi verifierar billing-konfigurationen.)
+          <b>Obs:</b> Billing-API saknas i runtime – appen fungerar ändå medan vi verifierar billing-konfigurationen.
         </div>
       )}
 
-      <ol style={{ lineHeight: 1.6 }}>
-        <li>Gå till <Link to="/app/settings">Feed settings</Link> och kopiera en av dina feed-länkar.</li>
-        <li>
-          <b>Ge länken till Prisjakt.</b> De hämtar (“crawlar”) den hos sig – <b>inget</b> uppdateras i din butik.
-          </li>
-        <li>
-          Klart! Dina ändringar i Shopify speglas i nästa hämtning (vi cachar i 5 min för fart).
-        </li>
-      </ol>
+      <p style={{ maxWidth: 720 }}>
+        Den här appen skapar en <b>XML-produktfeed</b> som Prisjakt läser in.
+        Du kan skicka <b>alla aktiva &amp; publicerade produkter med lager &gt; 0</b> eller endast
+        de du <b>taggat med “prisjakt”</b>. Gå till <Link to="/app/settings">Feed settings</Link> för att kopiera länk.
+      </p>
 
       <p style={{ marginTop: 16, color: "#666" }}>Butik: <code>{shop}</code></p>
     </div>
