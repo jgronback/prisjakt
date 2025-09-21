@@ -10,14 +10,11 @@ export async function loader({ request }: LoaderFunctionArgs) {
   } catch (err: any) {
     if (err instanceof Response && err.status >= 300 && err.status < 400) {
       const loc = err.headers.get("Location") || "/auth/login";
-      const abs = new URL(
-        loc,
-        process.env.SHOPIFY_APP_URL || new URL(request.url).origin
-      ).toString();
+      const abs = new URL(loc, process.env.SHOPIFY_APP_URL || new URL(request.url).origin).toString();
       return new Response(
         `<!doctype html><html><body><script>
-           if (window.top) window.top.location.href = ${JSON.stringify(abs)};
-           else window.location.href = ${JSON.stringify(abs)};
+           if (window.top) window.top.location.href=${JSON.stringify(abs)};
+           else window.location.href=${JSON.stringify(abs)};
          </script></body></html>`,
         { headers: { "Content-Type": "text/html" } }
       );
@@ -37,14 +34,11 @@ export async function loader({ request }: LoaderFunctionArgs) {
     } catch (err: any) {
       if (err instanceof Response && err.status >= 300 && err.status < 400) {
         const loc = err.headers.get("Location") || "/auth/login";
-        const abs = new URL(
-          loc,
-          process.env.SHOPIFY_APP_URL || new URL(request.url).origin
-        ).toString();
+        const abs = new URL(loc, process.env.SHOPIFY_APP_URL || new URL(request.url).origin).toString();
         return new Response(
           `<!doctype html><html><body><script>
-             if (window.top) window.top.location.href = ${JSON.stringify(abs)};
-             else window.location.href = ${JSON.stringify(abs)};
+             if (window.top) window.top.location.href=${JSON.stringify(abs)};
+             else window.location.href=${JSON.stringify(abs)};
            </script></body></html>`,
           { headers: { "Content-Type": "text/html" } }
         );

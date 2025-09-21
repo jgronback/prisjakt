@@ -17,24 +17,19 @@ function randomSecret(len = 40) {
 }
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  // 1) Autentisera med top-level-redirect-fix
+  // Top-level login fix
   let session;
   try {
     ({ session } = await authenticate.admin(request));
   } catch (err: any) {
     if (err instanceof Response && err.status >= 300 && err.status < 400) {
       const loc = err.headers.get("Location") || "/auth/login";
-      const abs = new URL(
-        loc,
-        process.env.SHOPIFY_APP_URL || new URL(request.url).origin
-      ).toString();
+      const abs = new URL(loc, process.env.SHOPIFY_APP_URL || new URL(request.url).origin).toString();
       return new Response(
-        `<!doctype html><html><body>
-          <script>
-            if (window.top) { window.top.location.href = ${JSON.stringify(abs)}; }
-            else { window.location.href = ${JSON.stringify(abs)}; }
-          </script>
-        </body></html>`,
+        `<!doctype html><html><body><script>
+           if (window.top) window.top.location.href=${JSON.stringify(abs)};
+           else window.location.href=${JSON.stringify(abs)};
+         </script></body></html>`,
         { headers: { "Content-Type": "text/html" } }
       );
     }
@@ -43,35 +38,28 @@ export async function loader({ request }: LoaderFunctionArgs) {
 
   const shop = session.shop;
 
-  // 2) Hård gate mot billing (med samma top-level-redirect-fix)
+  // Billing-gate: endast om billing finns – annars släpp in
   const billingApi: any = (shopify as any).billing;
-  if (!billingApi?.check) {
-    return redirect("/app");
-  }
-  try {
-    const { hasActivePayment } = await billingApi.check({ session, plans: [BILLING_PLAN] });
-    if (!hasActivePayment) return redirect("/app");
-  } catch (err: any) {
-    if (err instanceof Response && err.status >= 300 && err.status < 400) {
-      const loc = err.headers.get("Location") || "/auth/login";
-      const abs = new URL(
-        loc,
-        process.env.SHOPIFY_APP_URL || new URL(request.url).origin
-      ).toString();
-      return new Response(
-        `<!doctype html><html><body>
-          <script>
-            if (window.top) { window.top.location.href = ${JSON.stringify(abs)}; }
-            else { window.location.href = ${JSON.stringify(abs)}; }
-          </script>
-        </body></html>`,
-        { headers: { "Content-Type": "text/html" } }
-      );
+  if (billingApi?.check) {
+    try {
+      const { hasActivePayment } = await billingApi.check({ session, plans: [BILLING_PLAN] });
+      if (!hasActivePayment) return redirect("/app");
+    } catch (err: any) {
+      if (err instanceof Response && err.status >= 300 && err.status < 400) {
+        const loc = err.headers.get("Location") || "/auth/login";
+        const abs = new URL(loc, process.env.SHOPIFY_APP_URL || new URL(request.url).origin).toString();
+        return new Response(
+          `<!doctype html><html><body><script>
+             if (window.top) window.top.location.href=${JSON.stringify(abs)};
+             else window.location.href=${JSON.stringify(abs)};
+           </script></body></html>`,
+          { headers: { "Content-Type": "text/html" } }
+        );
+      }
     }
-    throw err;
   }
 
-  // 3) Säkerställ feed-hemlighet
+  // Säkerställ feed-hemlighet
   let settings = await prisma.shopSettings.findUnique({ where: { shop } });
   if (!settings) {
     settings = await prisma.shopSettings.create({ data: { shop, feedSecret: randomSecret() } });
@@ -81,7 +69,7 @@ export async function loader({ request }: LoaderFunctionArgs) {
   const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${settings.feedSecret}`;
   const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${settings.feedSecret}`;
 
-  // 4) Hälsokontroller (valfritt)
+  // Hälsa (valfritt)
   const offlineRow = await prisma.session.findUnique({ where: { id: `offline_${shop}` } });
   const hasOfflineToken =
     !!offlineRow?.accessToken || !!(offlineRow as any)?.content?.accessToken;
