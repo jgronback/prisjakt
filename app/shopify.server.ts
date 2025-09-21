@@ -54,5 +54,4 @@ export const shopify = shopifyApp({
   },
 });
 
-// exportera ev. shopify själv också om du inte redan gör det:
-export { shopify };
+
