@@ -19,10 +19,10 @@ export default function App() {
     <AppProvider isEmbeddedApp apiKey={apiKey}>
       {/* Viktigt: Admin letar efter <ui-nav-menu> + <a data-discover="true"> */}
       <ui-nav-menu>
-        <a rel="home" data-discover="true" href="/app">Hem</a>
-        <a data-discover="true" href="/app/settings">Inställningar Feed</a>
-        <a data-discover="true" href="/app/help">Hjälp/FAQ</a>
-      </ui-nav-menu>
+  <a rel="home" data-discover="true" href="/app">Hem</a>
+  <a data-discover="true" href="/app/settings">Inställningar Feed</a>
+  <a data-discover="true" href="/app/help">Hjälp/FAQ</a>
+</ui-nav-menu>
       <Outlet />
     </AppProvider>
   );
