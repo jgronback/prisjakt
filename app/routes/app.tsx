@@ -36,20 +36,12 @@ export default function App() {
   const { apiKey } = useLoaderData<typeof loader>();
   return (
     <AppProvider isEmbeddedApp apiKey={apiKey}>
-      {/* 1) App Bridge-nav som alltid navigerar rätt i Admin */}
+      {/* App Bridge-nav: Admin proxar alltid rätt slug */}
       <NavMenu>
         <Link to="/app" rel="home">Home</Link>
         <Link to="/app/settings">Feed settings</Link>
         <Link to="/app/help">Help / FAQ</Link>
       </NavMenu>
-
-      {/* 2) Low-level nav som Admin “upptäcker” för vänstermenyn */}
-      <ui-nav-menu>
-        <a rel="home" data-discover="true" href="/app">Home</a>
-        <a data-discover="true" href="/app/settings">Feed settings</a>
-        <a data-discover="true" href="/app/help">Help / FAQ</a>
-      </ui-nav-menu>
-
       <Outlet />
     </AppProvider>
   );
