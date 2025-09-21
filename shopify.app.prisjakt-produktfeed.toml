@@ -2,7 +2,7 @@
 
 client_id = "7f4bbd7b1e97add3df337b2ed4af91ca"
 name = "prisjakt-produktfeed"
-application_url = "https://drug-guy-mechanics-surely.trycloudflare.com"
+application_url = "https://mention-hunting-employment-helping.trycloudflare.com"
 embedded = true
 handle = "prisjakt-produktfeed"
 
@@ -18,7 +18,7 @@ api_version = "2025-07"
 scopes = "read_inventory,read_products"
 
 [auth]
-redirect_urls = ["https://drug-guy-mechanics-surely.trycloudflare.com/auth/callback", "https://drug-guy-mechanics-surely.trycloudflare.com/auth/shopify/callback", "https://drug-guy-mechanics-surely.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://mention-hunting-employment-helping.trycloudflare.com/auth/callback", "https://mention-hunting-employment-helping.trycloudflare.com/auth/shopify/callback", "https://mention-hunting-employment-helping.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
