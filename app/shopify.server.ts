@@ -7,6 +7,7 @@ import {
 import { PrismaSessionStorage } from "@shopify/shopify-app-session-storage-prisma";
 import prisma from "./db.server";
 
+
 const shopify = shopifyApp({
   apiKey: process.env.SHOPIFY_API_KEY,
   apiSecretKey: process.env.SHOPIFY_API_SECRET || "",
@@ -36,16 +37,16 @@ export const sessionStorage = shopify.sessionStorage;
 
 
 // app/shopify.server.ts (visa bara relevanta rader/ändringar)
-import { BillingInterval, shopifyApp } from "@shopify/shopify-app-remix/server";
+import { shopifyApp, BillingInterval } from "@shopify/shopify-app-remix/server";
 // ...dina befintliga imports (Prisma session storage etc.)
 
-export const BILLING_PLAN = "Prisjakt Feed – Monthly";
+export const BILLING_PLAN = "Prisjakt produktfeed – Månadsvis";
 
 export const shopify = shopifyApp({
   // ...dina befintliga options: apiKey, apiSecretKey, appUrl, scopes, sessionStorage, etc.
   billing: {
     [BILLING_PLAN]: {
-      amount: 9.0,               // månadspris
+      amount: 10.0,               // månadspris
       currencyCode: "USD",       // håll dig till USD för enkelhet
       interval: BillingInterval.Every30Days,
       trialDays: 7,              // gratis provperiod
@@ -53,6 +54,5 @@ export const shopify = shopifyApp({
   },
 });
 
-export const authenticate = shopify.authenticate;
 // exportera ev. shopify själv också om du inte redan gör det:
 export { shopify };
