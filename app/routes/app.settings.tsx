@@ -65,29 +65,17 @@ export default function SettingsPage() {
       </p>
 
       <div style={{ marginTop: 8, padding: 10, border: "1px solid #eee", borderRadius: 8 }}>
-        <b>Rekommenderad uppdatering hos Prisjakt:</b> låt dem hämta länken <b>var 30–60 minut</b>. <br />
-        Feeden speglar alltid din Shopify-data; vi lägger endast på en <b>5 minuters cache</b> för bättre hastighet.
+        <b>Ändringar speglas i feeden inom 5 minuter från ändring. Hur snart ändringen läses in av Prisjakt styrs av prisjakt själva, men det brukar gå inom ett par timmar.</b>. <br />
+        Feeden speglar alltid din aktuella Shopify-data; vi lägger endast på en <b>5 minuters cache</b> för bättre hastighet.
       </div>
 
-      <div style={{ margin: "16px 0", padding: 12, border: "1px solid #eee", borderRadius: 8 }}>
-        <div style={{ marginBottom: 8 }}>Nuvarande hemlighet (sig) för den här butiken:</div>
-        <code>{feedSecret}</code>
-        <Form method="post" replace style={{ marginTop: 10 }}>
-          <input type="hidden" name="rotate" value="1" />
-          <button type="submit" disabled={busy} style={{ padding: "8px 12px" }}>
-            {busy ? "Roterar..." : "Byt hemlighet"}
-          </button>
-        </Form>
-        <div style={{ marginTop: 8, color: "#777" }}>
-          Om du byter hemlighet måste du ge Prisjakt den <b>nya</b> länken nedan.
-        </div>
-      </div>
+    
 
       <div style={{ display: "grid", gap: 16, gridTemplateColumns: "1fr 1fr" }}>
         <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
           <h3 style={{ marginTop: 0 }}>Alternativ A – Endast taggade produkter</h3>
           <p style={{ marginTop: 4 }}>
-            Skicka bara produkter taggade <code>prisjakt</code>. Ger full kontroll över vad som syns på Prisjakt. För att tagga en produkt skriver du in prisjakt på produktens inställningssida i shopify admin och sparar. Du kan också välja att massuppdatera produkter och lägga till taggen: prisjakt
+            Skicka bara produkter taggade <code>prisjakt</code>. Ger full kontroll över vad som syns på Prisjakt. 
           </p>
           <input readOnly value={onlyTagged} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
@@ -116,12 +104,32 @@ export default function SettingsPage() {
       <div style={{ marginTop: 16, padding: 12, border: "1px dashed #ccc", borderRadius: 8 }}>
         <b>Instruktion (skicka till Prisjakt):</b>
         <ol style={{ marginTop: 8, marginBottom: 0 }}>
-          <li>Välj en av länkarna ovan.</li>
-          <li>Ge länken till Prisjakt för inläsning i deras system.</li>
-          <li>Be dem hämta länken var 30–60 minut.</li>
+		  <li>Tagga vilka produkter som ska skickas till prisjakt genom att sätta taggen: prisjakt på valda artiklar.</li>
+          <li>Kopiera länken märkt Alternativ A ovan.</li>
+          <li>Gå till app-business.prisjakt.nu och logga in.</li>
+          <li>Klicka på Data management i menyn till vänster.</li>
+		  <li>Klicka på knappen "Lägg till feed".</li>
+		  <li>Klistra in länken märkt som du kopierade innan i fältet märkt URL*</li>
+		  <li>Bocka för "Prisjakt XML (rekommenderad)" </li>
+		  <li>Tryck på "Lägg till"</li>
+		  FÄRDIGT! Nu kommer dina produkter att komma på Prisjakt med uppdaterade priser.
         </ol>
       </div>
-
+	  
+  <div style={{ margin: "16px 0", padding: 12, border: "1px solid #eee", borderRadius: 8 }}>
+        <div style={{ marginBottom: 8 }}>Nuvarande unik kod för den här butiken:</div>
+        <code>{feedSecret}</code>
+        <Form method="post" replace style={{ marginTop: 10 }}>
+          <input type="hidden" name="rotate" value="1" />
+          <button type="submit" disabled={busy} style={{ padding: "8px 12px" }}>
+            {busy ? "Roterar..." : "Byt hemlighet"}
+          </button>
+        </Form>
+        <div style={{ marginTop: 8, color: "#777" }}>
+          Om du byter hemlighet måste du ge Prisjakt den <b>nya</b> länken nedan.
+        </div>
+      </div>
+	  
       <p style={{ marginTop: 12, color: "#666" }}>Butik: <code>{shop}</code></p>
     </div>
   );
