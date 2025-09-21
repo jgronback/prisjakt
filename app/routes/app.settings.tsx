@@ -1,3 +1,4 @@
+// app/routes/app.settings.tsx
 import { json, redirect, type LoaderFunctionArgs, type ActionFunctionArgs } from "@remix-run/node";
 import { useLoaderData, Form, useNavigation } from "@remix-run/react";
 import { PrismaClient } from "@prisma/client";
@@ -16,11 +17,10 @@ export async function loader({ request }: LoaderFunctionArgs) {
   const { session } = await authenticate.admin(request);
   const shop = session.shop;
 
+  // Se till att butiken har en feed-hemlighet
   let settings = await prisma.shopSettings.findUnique({ where: { shop } });
   if (!settings) {
-    settings = await prisma.shopSettings.create({
-      data: { shop, feedSecret: randomSecret() },
-    });
+    settings = await prisma.shopSettings.create({ data: { shop, feedSecret: randomSecret() } });
   }
 
   const base = process.env.SHOPIFY_APP_URL?.replace(/\/$/, "") || new URL(request.url).origin;
@@ -33,6 +33,7 @@ export async function loader({ request }: LoaderFunctionArgs) {
 export async function action({ request }: ActionFunctionArgs) {
   const { session } = await authenticate.admin(request);
   const shop = session.shop;
+
   const form = await request.formData();
   if (form.get("rotate") === "1") {
     const newSecret = randomSecret();
@@ -71,18 +72,18 @@ export default function SettingsPage() {
 
       <div style={{ marginBottom: 8 }}>Feed-URL (taggade med <code>prisjakt</code>):</div>
       <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-        <input id="feed1" readOnly value={feedUrl} style={{ width: "100%" }} />
+        <input readOnly value={feedUrl} style={{ width: "100%" }} />
         <button onClick={() => navigator.clipboard.writeText(feedUrl)}>Kopiera</button>
       </div>
 
       <div style={{ marginTop: 12, marginBottom: 8 }}>Feed-URL (alla aktiva/publicerade med lager):</div>
       <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
-        <input id="feed2" readOnly value={feedUrlAll} style={{ width: "100%" }} />
+        <input readOnly value={feedUrlAll} style={{ width: "100%" }} />
         <button onClick={() => navigator.clipboard.writeText(feedUrlAll)}>Kopiera</button>
       </div>
 
       <p style={{ marginTop: 12, color: "#666" }}>
-        Ge den här länken till Prisjakt. Uppdatering var 30–60 min är lagom.
+        Ge länken till Prisjakt. Uppdatering var 30–60 min är lagom.
       </p>
     </div>
   );
