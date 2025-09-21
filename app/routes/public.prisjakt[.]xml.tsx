@@ -4,6 +4,11 @@ import { PrismaClient } from "@prisma/client";
 const prisma = new PrismaClient();
 const ADMIN_VERSION = "2025-04";
 
+// 5-min cache per (shop|tag)
+type CacheVal = { xml: string; exp: number };
+const cache = new Map<string, CacheVal>();
+const TTL_MS = 5 * 60 * 1000;
+
 function esc(s = "") {
   return String(s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
@@ -11,7 +16,6 @@ function esc(s = "") {
 }
 
 async function getOfflineToken(shopDomain: string) {
-  // Offline-sessionen ligger i Prisma-tabellen "Session" med id "offline_<shop>"
   const id = `offline_${shopDomain}`;
   const row: any = await prisma.session.findUnique({ where: { id } });
   const token = row?.accessToken ?? row?.content?.accessToken;
@@ -28,8 +32,7 @@ async function fetchAllProducts(shop: string, token: string) {
     const data = await res.json();
     all.push(...(data.products || []));
     const link = res.headers.get("link");
-    if (!link) break;
-    const next = link.split(",").find(p => p.includes('rel="next"'));
+    const next = link?.split(",").find((p) => p.includes('rel="next"'));
     url = next ? next.match(/<([^>]+)>/)?.[1] ?? null : null;
   }
   return all;
@@ -54,57 +57,80 @@ async function fetchInventoryLevels(shop: string, token: string, ids: number[]) 
 export async function loader({ request }: LoaderFunctionArgs) {
   try {
     const url = new URL(request.url);
-    const shop = url.searchParams.get("shop");  // t.ex. nordic-aim-sandbox.myshopify.com
-    const sig  = url.searchParams.get("sig");
+    const shop = url.searchParams.get("shop") || "";
     const tagParam = (url.searchParams.get("tag") || "prisjakt").toLowerCase();
-    if (!sig || sig !== process.env.FEED_SECRET) return new Response("Unauthorized", { status: 401 });
+    const sig = url.searchParams.get("sig") || "";
+    const base = (url.searchParams.get("base") || `https://${shop}`).replace(/\/$/, "");
+    const debug = url.searchParams.get("debug") === "1";
+
     if (!shop) return new Response("Missing shop", { status: 400 });
 
-    const token = await getOfflineToken(shop);
-    const base = (url.searchParams.get("base") || `https://${shop}`).replace(/\/$/, "");
+    // 1) Signatur per butik (fallback till FEED_SECRET om rad saknas)
+    const settings = await prisma.shopSettings.findUnique({ where: { shop } });
+    const expectedSig = settings?.feedSecret || process.env.FEED_SECRET;
+    if (!expectedSig || sig !== expectedSig) return new Response("Unauthorized", { status: 401 });
 
+    const cacheKey = `${shop}|${tagParam}`;
+    const now = Date.now();
+    if (!debug) {
+      const hit = cache.get(cacheKey);
+      if (hit && hit.exp > now) {
+        return new Response(hit.xml, { headers: { "Content-Type": "application/xml; charset=utf-8" } });
+      }
+    }
+
+    // 2) Token + produkter
+    const token = await getOfflineToken(shop);
     const products = await fetchAllProducts(shop, token);
+
+    // 3) Filtrera produkter
     const filtered = products.filter((p: any) => {
       const tags = (p.tags || "").toLowerCase().split(",").map((t: string) => t.trim()).filter(Boolean);
       const tagAll = tagParam === "all";
       const hasTag = tagAll || tags.includes(tagParam);
       const isActive = p.status === "active";
       const isPublished = !!p.published_at;
-      const hasVariant = Array.isArray(p.variants) && p.variants.length > 0;
-      return hasTag && isActive && isPublished && hasVariant;
+      const hasVariants = Array.isArray(p.variants) && p.variants.length > 0;
+      return hasTag && isActive && isPublished && hasVariants;
     });
 
-    const variants = filtered.map((p: any) => p.variants[0]);
-    const itemIds = variants.map((v: any) => v.inventory_item_id).filter(Boolean);
-    const levels = await fetchInventoryLevels(shop, token, itemIds);
+    // 4) Hämta lager för ALLA varianter
+    const allVariantIds = filtered.flatMap((p: any) => (p.variants || []).map((v: any) => v.inventory_item_id)).filter(Boolean);
+    const levels = await fetchInventoryLevels(shop, token, allVariantIds);
 
+    // 5) Bygg XML – ETT <item> PER VARIANT
     const itemsXml = filtered.map((p: any) => {
-      const v = p.variants[0] || {};
-      const price = v.price || "0";
       const image = p.images?.[0]?.src || p.images?.[0]?.url || "";
-      const link = `${base}/products/${p.handle}`;
       const brand = p.vendor || "Brand";
-      const gtin = v.barcode || "";
-      const sku = v.sku || String(p.id);
       const productType = p.product_type || "";
-      const available = Number(levels.get(Number(v.inventory_item_id)) || 0);
-      const availability = available > 0 ? "in_stock" : "out_of_stock";
-      return `
-        <item>
-          <g:id><![CDATA[${esc(sku)}]]></g:id>
-          <g:title><![CDATA[${p.title || ""}]]></g:title>
-          <g:description><![CDATA[${p.body_html || ""}]]></g:description>
-          <g:link>${esc(link)}</g:link>
-          ${image ? `<g:image_link>${esc(image)}</g:image_link>` : ""}
-          <g:price>${esc(price)} SEK</g:price>
-          <g:condition>new</g:condition>
-          <g:availability>${availability}</g:availability>
-          ${brand ? `<g:brand><![CDATA[${brand}]]></g:brand>` : ""}
-          ${gtin ? `<g:gtin>${esc(gtin)}</g:gtin>` : ""}
-          <g:mpn><![CDATA[${esc(sku)}]]></g:mpn>
-          ${productType ? `<g:product_type><![CDATA[${productType}]]></g:product_type>` : ""}
-          <g:shipping><g:country>SE</g:country><g:price>0 SEK</g:price></g:shipping>
-        </item>`;
+      const productTitle = p.title || "";
+      const productDesc = p.body_html || "";
+
+      return (p.variants || []).map((v: any) => {
+        const price = v.price || "0";
+        const sku = v.sku || `${p.id}-${v.id}`;
+        const gtin = v.barcode || "";
+        const available = Number(levels.get(Number(v.inventory_item_id)) || 0);
+        const availability = available > 0 ? "in_stock" : "out_of_stock";
+        const link = `${base}/products/${p.handle}?variant=${v.id}`;
+
+        return `
+      <item>
+        <g:id><![CDATA[${esc(sku)}]]></g:id>
+        <g:title><![CDATA[${productTitle}]]></g:title>
+        <g:description><![CDATA[${productDesc}]]></g:description>
+        <g:link>${esc(link)}</g:link>
+        ${image ? `<g:image_link>${esc(image)}</g:image_link>` : ""}
+        <g:price>${esc(price)} SEK</g:price>
+        <g:condition>new</g:condition>
+        <g:availability>${availability}</g:availability>
+        ${brand ? `<g:brand><![CDATA[${brand}]]></g:brand>` : ""}
+        ${gtin ? `<g:gtin>${esc(gtin)}</g:gtin>` : ""}
+        <g:mpn><![CDATA[${esc(sku)}]]></g:mpn>
+        ${productType ? `<g:product_type><![CDATA[${productType}]]></g:product_type>` : ""}
+        <g:shipping><g:country>SE</g:country><g:price>0 SEK</g:price></g:shipping>
+      </item>`;
+      }).join("");
     }).join("");
 
     const rss = `<?xml version="1.0" encoding="UTF-8"?>
@@ -116,6 +142,9 @@ export async function loader({ request }: LoaderFunctionArgs) {
 ${itemsXml}
   </channel>
 </rss>`;
+
+    // 6) Cache i 5 min
+    cache.set(cacheKey, { xml: rss, exp: now + TTL_MS });
 
     return new Response(rss, { headers: { "Content-Type": "application/xml; charset=utf-8" } });
   } catch (e: any) {
