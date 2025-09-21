@@ -57,8 +57,7 @@ export default function Home() {
         <li>Gå till <Link to="/app/settings">Feed settings</Link> och kopiera en av dina feed-länkar.</li>
         <li>
           <b>Ge länken till Prisjakt.</b> De hämtar (“crawlar”) den hos sig – <b>inget</b> uppdateras i din butik.
-          Rekommendation: låt dem hämta <b>var 30–60 minut</b>.
-        </li>
+          </li>
         <li>
           Klart! Dina ändringar i Shopify speglas i nästa hämtning (vi cachar i 5 min för fart).
         </li>
