@@ -1,58 +1,38 @@
+// app/routes/_index/route.tsx
 import type { LoaderFunctionArgs } from "@remix-run/node";
-import { redirect } from "@remix-run/node";
-import { Form, useLoaderData } from "@remix-run/react";
 
-import { login } from "../../shopify.server";
-
-import styles from "./styles.module.css";
-
-export const loader = async ({ request }: LoaderFunctionArgs) => {
+export async function loader({ request }: LoaderFunctionArgs) {
   const url = new URL(request.url);
-
-  if (url.searchParams.get("shop")) {
-    throw redirect(`/app?${url.searchParams.toString()}`);
+  const shop = url.searchParams.get("shop");
+  if (shop) {
+    const handle = process.env.APP_HANDLE || "prisjakt-produktfeed";
+    const adminUrl = `https://admin.shopify.com/store/${shop}/apps/${encodeURIComponent(handle)}`;
+    return new Response(
+      `<!doctype html><html><body><script>
+         if (window.top) window.top.location.href=${JSON.stringify(adminUrl)};
+         else window.location.href=${JSON.stringify(adminUrl)};
+       </script></body></html>`,
+      { headers: { "Content-Type": "text/html" } }
+    );
   }
 
-  return { showForm: Boolean(login) };
-};
-
-export default function App() {
-  const { showForm } = useLoaderData<typeof loader>();
-
-  return (
-    <div className={styles.index}>
-      <div className={styles.content}>
-        <h1 className={styles.heading}>A short heading about [your app]</h1>
-        <p className={styles.text}>
-          A tagline about [your app] that describes your value proposition.
-        </p>
-        {showForm && (
-          <Form className={styles.form} method="post" action="/auth/login">
-            <label className={styles.label}>
-              <span>Shop domain</span>
-              <input className={styles.input} type="text" name="shop" />
-              <span>e.g: my-shop-domain.myshopify.com</span>
-            </label>
-            <button className={styles.button} type="submit">
-              Log in
-            </button>
-          </Form>
-        )}
-        <ul className={styles.list}>
-          <li>
-            <strong>Product feature</strong>. Some detail about your feature and
-            its benefit to your customer.
-          </li>
-          <li>
-            <strong>Product feature</strong>. Some detail about your feature and
-            its benefit to your customer.
-          </li>
-          <li>
-            <strong>Product feature</strong>. Some detail about your feature and
-            its benefit to your customer.
-          </li>
-        </ul>
-      </div>
-    </div>
+  // Fallback: enkel landningssida där man kan skriva in shop manuellt
+  return new Response(
+    `<!doctype html>
+     <html><body style="font-family:system-ui; padding:24px; max-width:640px">
+       <h1>Prisjakt Produktfeed</h1>
+       <p>Skriv din butiksadress (ex: <code>nordic-aim-sandbox.myshopify.com</code>)</p>
+       <form onsubmit="event.preventDefault(); var s=document.getElementById('shop').value.trim(); if(!s) return; var h=${JSON.stringify(process.env.APP_HANDLE || "prisjakt-produktfeed")};
+         var u='https://admin.shopify.com/store/'+s+'/apps/'+encodeURIComponent(h);
+         if (window.top) window.top.location.href=u; else window.location.href=u;">
+         <input id="shop" placeholder="din-butik.myshopify.com" style="width:100%;padding:8px"/>
+         <div style="margin-top:8px"><button type="submit" style="padding:8px 12px">Öppna appen</button></div>
+       </form>
+     </body></html>`,
+    { headers: { "Content-Type": "text/html" } }
   );
+}
+
+export default function Index() {
+  return null;
 }
