@@ -87,7 +87,7 @@ export default function SettingsPage() {
         <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
           <h3 style={{ marginTop: 0 }}>Alternativ A – Endast taggade produkter</h3>
           <p style={{ marginTop: 4 }}>
-            Skicka bara produkter taggade <code>prisjakt</code>. Ger full kontroll över vad som syns på Prisjakt.
+            Skicka bara produkter taggade <code>prisjakt</code>. Ger full kontroll över vad som syns på Prisjakt. För att tagga en produkt skriver du in prisjakt på produktens inställningssida i shopify admin och sparar. Du kan också välja att massuppdatera produkter och lägga till taggen: prisjakt
           </p>
           <input readOnly value={onlyTagged} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
