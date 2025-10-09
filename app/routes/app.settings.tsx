@@ -3,9 +3,14 @@ import * as React from "react";
 import type { LoaderFunctionArgs, HeadersFunction } from "@remix-run/node";
 import { json, redirect } from "@remix-run/node";
 import { useLoaderData, Link } from "@remix-run/react";
-import { authenticate } from "~/shopify.server";
 
-// Minimal CSP (root.tsx sätter också detta)
+// ✅ Byt alias mot relativ import (löser Rollup-resolve-felet)
+import { authenticate } from "../shopify.server";
+
+// ✅ Använd din befintliga server-only prisma helper
+import { prisma } from "~/db.server";
+
+// Minimal CSP (root.tsx sätter också detta, men bra att ha här med)
 export const headers: HeadersFunction = () => ({
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com;",
@@ -17,20 +22,27 @@ export async function loader({ request }: LoaderFunctionArgs) {
   const host = url.searchParams.get("host") || "";
 
   try {
+    // Kräver aktiv embedded-session – annars kastar authenticate
     const { session } = await authenticate.admin(request);
     const shop = session.shop;
 
-    // 👇 Server-only import här (dras aldrig in i klienten)
-    const { prisma } = await import("~/utils/db.server");
-    const settings = await prisma.shopSettings.findUnique({ where: { shop } }).catch(() => null);
+    // Server-only kod – körs bara i loadern
+    const settings = await prisma.shopSettings
+      .findUnique({ where: { shop } })
+      .catch(() => null);
 
-    return json({ shop, hasSettings: !!settings, feedSecretSet: !!settings?.feedSecret });
+    return json({
+      shop,
+      hasSettings: !!settings,
+      feedSecretSet: !!settings?.feedSecret,
+    });
   } catch {
-    // Ingen session -> via login
+    // Ingen session ⇒ gå via login, och hoppa tillbaka till /app/settings
     if (shopParam) {
-      const ret = `/auth/login?shop=${encodeURIComponent(shopParam)}${
-        host ? `&host=${encodeURIComponent(host)}` : ""
-      }&return_to=${encodeURIComponent("/app/settings")}`;
+      const ret =
+        `/auth/login?shop=${encodeURIComponent(shopParam)}` +
+        (host ? `&host=${encodeURIComponent(host)}` : "") +
+        `&return_to=${encodeURIComponent("/app/settings")}`;
       throw redirect(ret);
     }
     throw redirect("/auth/login");
@@ -48,10 +60,12 @@ export default function SettingsPage() {
 
       <div style={{ padding: 16, border: "1px solid #eee", borderRadius: 12, marginTop: 16 }}>
         <p style={{ margin: 0 }}>
-          {data.feedSecretSet ? "feedSecret finns sparat." : "Ingen feedSecret hittad ännu."}
-          {" "}Gå till din befintliga inställningsvy i appen om du har en, annars kan vi lägga till UI här i nästa steg.
+          {data.feedSecretSet ? "feedSecret finns sparat." : "Ingen feedSecret hittad ännu."}{" "}
+          Gå till din befintliga inställningsvy i appen om du har en, annars kan vi lägga till UI här i nästa steg.
         </p>
-        <p style={{ margin: "12px 0 0" }}>Förhandsvisa feeden via publika routen (om feedSecret är satt):</p>
+        <p style={{ margin: "12px 0 0" }}>
+          Förhandsvisa feeden via publika routen (om feedSecret är satt):
+        </p>
         <ul style={{ marginTop: 8 }}>
           <li>
             <Link to="/public.prisjakt.xml">/public.prisjakt.xml</Link>{" "}
