@@ -3,41 +3,36 @@ import * as React from "react";
 import type { LoaderFunctionArgs, HeadersFunction } from "@remix-run/node";
 import { json, redirect } from "@remix-run/node";
 import { useLoaderData, Link } from "@remix-run/react";
-import { PrismaClient } from "@prisma/client";
-import { authenticate } from "~/shopify.server"; // finns i ditt repo
+import { authenticate } from "~/shopify.server";
 
-// Minimal CSP här också (root.tsx sätter redan detta, men vi dubblar för säkerhets skull)
+// Minimal CSP (root.tsx sätter också detta)
 export const headers: HeadersFunction = () => ({
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com;",
 });
-
-const prisma =
-  (globalThis as any).prisma ?? new PrismaClient();
-if (process.env.NODE_ENV !== "production") (globalThis as any).prisma = prisma;
 
 export async function loader({ request }: LoaderFunctionArgs) {
   const url = new URL(request.url);
   const shopParam = url.searchParams.get("shop") || "";
   const host = url.searchParams.get("host") || "";
 
-  // 1) Försök autentisera (embedded/vanlig)
   try {
     const { session } = await authenticate.admin(request);
     const shop = session.shop;
 
-    // Hämta ev. befintliga settings (valfritt – bara för att visa något)
+    // 👇 Server-only import här (dras aldrig in i klienten)
+    const { prisma } = await import("~/utils/db.server");
     const settings = await prisma.shopSettings.findUnique({ where: { shop } }).catch(() => null);
 
     return json({ shop, hasSettings: !!settings, feedSecretSet: !!settings?.feedSecret });
   } catch {
-    // 2) Ingen session => skickas via login
+    // Ingen session -> via login
     if (shopParam) {
-      // retur efter login till /app/settings
-      const ret = `/auth/login?shop=${encodeURIComponent(shopParam)}${host ? `&host=${encodeURIComponent(host)}` : ""}&return_to=${encodeURIComponent("/app/settings")}`;
+      const ret = `/auth/login?shop=${encodeURIComponent(shopParam)}${
+        host ? `&host=${encodeURIComponent(host)}` : ""
+      }&return_to=${encodeURIComponent("/app/settings")}`;
       throw redirect(ret);
     }
-    // helt “kall” öppning – be om shop-domän
     throw redirect("/auth/login");
   }
 }
@@ -54,12 +49,9 @@ export default function SettingsPage() {
       <div style={{ padding: 16, border: "1px solid #eee", borderRadius: 12, marginTop: 16 }}>
         <p style={{ margin: 0 }}>
           {data.feedSecretSet ? "feedSecret finns sparat." : "Ingen feedSecret hittad ännu."}
-          {" "}
-          Gå till din befintliga inställningsvy i appen om du har en, annars kan vi lägga till UI här i nästa steg.
+          {" "}Gå till din befintliga inställningsvy i appen om du har en, annars kan vi lägga till UI här i nästa steg.
         </p>
-        <p style={{ margin: "12px 0 0" }}>
-          Förhandsvisa feeden via din publika route (om du har satt feedSecret):
-        </p>
+        <p style={{ margin: "12px 0 0" }}>Förhandsvisa feeden via publika routen (om feedSecret är satt):</p>
         <ul style={{ marginTop: 8 }}>
           <li>
             <Link to="/public.prisjakt.xml">/public.prisjakt.xml</Link>{" "}
@@ -71,14 +63,13 @@ export default function SettingsPage() {
   );
 }
 
-// Hjälper till att visa fel i UI istället för “Unexpected Server Error”
 export function ErrorBoundary({ error }: { error: unknown }) {
   const msg = error instanceof Error ? error.message : String(error);
   return (
     <div style={{ maxWidth: 760, margin: "40px auto", fontFamily: "system-ui, sans-serif", color: "#b00020" }}>
       <h2>Inställningar kunde inte laddas</h2>
       <pre style={{ whiteSpace: "pre-wrap" }}>{msg}</pre>
-      <p>Testa att öppna via: <code>/auth/login?shop=&lt;din-shop.myshopify.com&gt;</code> och försök igen.</p>
+      <p>Öppna via: <code>/auth/login?shop=&lt;din-shop.myshopify.com&gt;</code> och försök igen.</p>
     </div>
   );
 }
