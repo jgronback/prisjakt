@@ -7,11 +7,14 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 
-// ✅ Tvinga rätt CSP globalt (inga merges)
+// ✅ Tvinga rätt CSP globalt + neutralisera X-Frame-Options
 export const headers: HeadersFunction = () => ({
+  // Tillåt inbäddning i Shopify-admin
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com https://*.shopify.com;",
-  // (Vi sätter inget X-Frame-Options – moderna browsers använder CSP)
+  // Neutralisera ev. strikt header från annan middleware/proxy
+  // (Chrome ignorerar ogiltigt värde; om flera headers finns brukar den sista vinna)
+  "X-Frame-Options": "ALLOWALL",
 });
 
 export default function App() {
