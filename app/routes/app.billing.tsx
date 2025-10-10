@@ -17,7 +17,6 @@ async function runBilling(request: Request) {
 
   const billingApi: any = (shopify as any).billing;
   if (!billingApi?.request) {
-    // Billing-API saknas i runtime → tillbaka till /app med notice
     const back = new URL("/app?billing_unavailable=1", process.env.SHOPIFY_APP_URL || new URL(request.url).origin).toString();
     return new Response(`<!doctype html><script>window.top?window.top.location.href=${JSON.stringify(back)}:window.location.href=${JSON.stringify(back)}</script>`,
       { headers: { "Content-Type": "text/html" } });
@@ -25,12 +24,11 @@ async function runBilling(request: Request) {
 
   const base = (process.env.SHOPIFY_APP_URL || new URL(request.url).origin).replace(/\/$/, "");
   const returnUrl = `${base}/app`;
-  const isTest = true; // dev-store testköp
 
   const { confirmationUrl } = await billingApi.request({
     session,
     plan: BILLING_PLAN,
-    isTest,
+    isTest: true,
     returnUrl,
   });
 
