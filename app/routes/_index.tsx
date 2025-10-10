@@ -8,8 +8,15 @@ function toStoreSlug(input: string) {
 
 export async function loader({ request }: LoaderFunctionArgs) {
   const url = new URL(request.url);
-  const shopParam = url.searchParams.get("shop");
+  const shopParam = url.searchParams.get("shop") || "";
+  const hostParam = url.searchParams.get("host") || ""; // finns när Admin bäddar in din app
 
+  // 1) Inifrån Admin (embedded): gå till /app (inte till admin igen!)
+  if (hostParam) {
+    return redirect("/app");
+  }
+
+  // 2) Utifrån (direktbesök): om shop finns -> öppna Admin->App
   if (shopParam) {
     const slug = toStoreSlug(shopParam);
     const handle = process.env.APP_HANDLE ?? "prisjakt-produktfeed";
@@ -19,6 +26,7 @@ export async function loader({ request }: LoaderFunctionArgs) {
     return redirect(adminUrl);
   }
 
+  // 3) Enkel landningssida med fält för shop-adress
   return new Response(
     `<!doctype html>
      <html>
