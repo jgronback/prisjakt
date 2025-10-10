@@ -1,31 +1,52 @@
 // app/shopify.server.ts
-import { shopifyApp, LATEST_API_VERSION } from "@shopify/shopify-app-remix/server";
+import "@shopify/shopify-app-remix/adapters/node";
+import {
+  shopifyApp,
+  ApiVersion,
+  AppDistribution,
+  BillingInterval,
+} from "@shopify/shopify-app-remix/server";
 import { PrismaSessionStorage } from "@shopify/shopify-app-session-storage-prisma";
 import prisma from "./db.server";
 
-export const BILLING_PLAN = "DEFAULT_PLAN"; // används av din settings-route vid check
+export const BILLING_PLAN = "Prisjakt produktfeed – Månadsvis";
 
-const SCOPES =
-  (process.env.SHOPIFY_SCOPES || process.env.SCOPES || "read_products,read_product_listings,read_inventory")
-    .split(",")
-    .map(s => s.trim())
-    .filter(Boolean);
-
-const shopify = shopifyApp({
-  api: { apiVersion: LATEST_API_VERSION },
+export const shopify = shopifyApp({
   apiKey: process.env.SHOPIFY_API_KEY!,
   apiSecretKey: process.env.SHOPIFY_API_SECRET!,
-  appUrl: process.env.SHOPIFY_APP_URL!, // ex: https://prisjakt.vercel.app
-  scopes: SCOPES,
-
-  // sessions i Postgres via Prisma (Neon)
+  apiVersion: ApiVersion.January25,
+  appUrl: process.env.SHOPIFY_APP_URL!,
+  authPathPrefix: "/auth",
+  distribution: AppDistribution.AppStore,
+  scopes: (process.env.SHOPIFY_SCOPES || "read_products,read_inventory")
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean),
   sessionStorage: new PrismaSessionStorage(prisma),
 
-  // Billing kan vara avstängt – din kod kollar redan billing?.check defensivt
-  billing: undefined,
+  billing: {
+    [BILLING_PLAN]: {
+      amount: 10,
+      currencyCode: "USD",
+      interval: BillingInterval.Every30Days,
+      trialDays: 7,
+    },
+  },
+
+  future: {
+    unstable_newEmbeddedAuthStrategy: true,
+    removeRest: true,
+  },
+
+  ...(process.env.SHOP_CUSTOM_DOMAIN
+    ? { customShopDomains: [process.env.SHOP_CUSTOM_DOMAIN] }
+    : {}),
 });
 
-export default shopify;
+export const authenticate = shopify.authenticate;
+export const addDocumentResponseHeaders = shopify.addDocumentResponseHeaders;
+export const unauthenticated = shopify.unauthenticated;
+export const login = shopify.login;
+export const registerWebhooks = shopify.registerWebhooks;
 
-// Exponera exakt det som routes importerar
-export const { authenticate, login, addDocumentResponseHeaders } = shopify;
+export default shopify;
