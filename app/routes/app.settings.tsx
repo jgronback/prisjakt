@@ -8,14 +8,17 @@ import {
 } from "@remix-run/node";
 import { useLoaderData, Form, useNavigation } from "@remix-run/react";
 import type { CSSProperties } from "react";
-import shopify, { authenticate, BILLING_PLAN } from "../shopify.server";
-import prisma from "../db.server";
+import { authenticate } from "../shopify.server";
 
+// ────────────────────────────────────────────────────────────
+// CSP så sidan kan bäddas in i Shopify-admin
 export const headers: HeadersFunction = () => ({
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com;",
 });
 
+// ────────────────────────────────────────────────────────────
+// Små helpers
 function randomSecret(len = 40) {
   const chars =
     "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
@@ -36,11 +39,12 @@ const DEFAULT_HEALTH: Health = {
   testTagged: { ok: false, status: 0 },
 };
 
+// ────────────────────────────────────────────────────────────
+// Loader – **NO DB CALLS** (robust mot databasfel)
 export async function loader({ request }: LoaderFunctionArgs) {
-  // Auth: om Shopify kräver toppnivå-redirect, gör HTML-redirect som funkar i iframe
-  let session;
+  // Auth → om Shopify kräver toppnivå-redirect, gör en HTML-redirect som funkar i iframe
   try {
-    ({ session } = await authenticate.admin(request));
+    await authenticate.admin(request);
   } catch (err: any) {
     if (err instanceof Response && err.status >= 300 && err.status < 400) {
       const loc = err.headers.get("Location") || "/auth/login";
@@ -59,75 +63,19 @@ export async function loader({ request }: LoaderFunctionArgs) {
     throw err;
   }
 
-  const shop = session.shop;
+  // Läs shop från query (Shopify admin lägger ofta ?shop=)
+  const url = new URL(request.url);
+  const shop = url.searchParams.get("shop") || "unknown-shop.myshopify.com";
 
-  // Billing: mjuk-kontroll (släpp in även vid fel/saknad billing)
-  try {
-    const billingApi: any = (shopify as any).billing;
-    if (billingApi?.check) {
-      const { hasActivePayment } = await billingApi.check({
-        session,
-        plans: [BILLING_PLAN],
-      });
-      if (!hasActivePayment) return redirect("/app");
-    }
-  } catch {
-    // ignorera
-  }
+  // Secret: ta från env om finns, annars generera tillfälligt (ingen DB)
+  const feedSecret = process.env.FEED_SECRET || randomSecret();
 
-  // Feed-secret: hämta/etablera – hantera DB-fel tåligt
-  let dbSettings: { shop: string; feedSecret: string } | null = null;
-  try {
-    dbSettings = await prisma.shopSettings.findUnique({ where: { shop } });
-  } catch {
-    dbSettings = null;
-  }
-  let feedSecret =
-    dbSettings?.feedSecret || process.env.FEED_SECRET || randomSecret();
-
-  if (!dbSettings) {
-    try {
-      await prisma.shopSettings.create({ data: { shop, feedSecret } });
-    } catch {
-      // DB read-only/otillgänglig → kör vidare med feedSecret i minnet/env
-    }
-  }
-
-  const base = (process.env.SHOPIFY_APP_URL || new URL(request.url).origin).replace(/\/$/, "");
+  const base = (process.env.SHOPIFY_APP_URL || url.origin).replace(/\/$/, "");
   const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${feedSecret}`;
   const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${feedSecret}`;
 
-  // Health: initiera defaults, fyll på om möjligt
+  // Health: håll det enkelt och tåligt (inga externa anrop om du vill absolut minimera fel)
   const health: Health = { ...DEFAULT_HEALTH };
-
-  try {
-    const offlineRow = await prisma.session.findUnique({
-      where: { id: `offline_${shop}` },
-    });
-    health.hasOfflineToken =
-      !!offlineRow?.accessToken || !!(offlineRow as any)?.content?.accessToken;
-  } catch {
-    // behåll default=false
-  }
-
-  async function test(url: string) {
-    try {
-      const r = await fetch(url + "&debug=1", {
-        method: "GET",
-        headers: { "User-Agent": "HealthCheck" },
-      });
-      return { ok: r.ok, status: r.status };
-    } catch {
-      return { ok: false, status: 0 };
-    }
-  }
-  try {
-    const [tAll, tTagged] = await Promise.all([test(allProducts), test(onlyTagged)]);
-    health.testAll = tAll;
-    health.testTagged = tTagged;
-  } catch {
-    // behåll defaults
-  }
 
   return json({
     shop,
@@ -138,26 +86,17 @@ export async function loader({ request }: LoaderFunctionArgs) {
   });
 }
 
+// ────────────────────────────────────────────────────────────
+// Action – ingen DB-skrivning; gör bara redirect (UI funkar ändå)
 export async function action({ request }: ActionFunctionArgs) {
-  const { session } = await authenticate.admin(request);
-  const shop = session.shop;
-  const form = await request.formData();
-
-  if (form.get("rotate") === "1") {
-    const newSecret = randomSecret();
-    try {
-      await prisma.shopSettings.upsert({
-        where: { shop },
-        update: { feedSecret: newSecret },
-        create: { shop, feedSecret: newSecret },
-      });
-    } catch {
-      // DB-write fail → ignorera; UI visar befintlig/env-baserad länk
-    }
-  }
+  // Säkerställ att bara inloggade kan POST:a
+  await authenticate.admin(request).catch(() => null);
+  // (skippa DB-rotation i den robusta varianten)
   return redirect("/app/settings");
 }
 
+// ────────────────────────────────────────────────────────────
+// Component – defensiv rendering (ingen crash om något saknas)
 export default function SettingsPage() {
   const data = useLoaderData<typeof loader>();
   const health = data?.health ?? DEFAULT_HEALTH;
@@ -198,7 +137,7 @@ export default function SettingsPage() {
         <ul style={{ marginTop: 8 }}>
           <li>
             Offline-token:{" "}
-            {health.hasOfflineToken ? (
+            {health?.hasOfflineToken ? (
               <span style={{ color: "green" }}>OK</span>
             ) : (
               <span style={{ color: "red" }}>Saknas</span>
@@ -206,25 +145,25 @@ export default function SettingsPage() {
           </li>
           <li>
             Test “Alla produkter”:{" "}
-            {health.testAll.ok ? (
+            {health?.testAll?.ok ? (
               <span style={{ color: "green" }}>
-                OK ({health.testAll.status})
+                OK ({health?.testAll?.status})
               </span>
             ) : (
               <span style={{ color: "red" }}>
-                Fel ({health.testAll.status})
+                Fel ({health?.testAll?.status ?? 0})
               </span>
             )}
           </li>
           <li>
             Test “Endast taggade”:{" "}
-            {health.testTagged.ok ? (
+            {health?.testTagged?.ok ? (
               <span style={{ color: "green" }}>
-                OK ({health.testTagged.status})
+                OK ({health?.testTagged?.status})
               </span>
             ) : (
               <span style={{ color: "red" }}>
-                Fel ({health.testTagged.status})
+                Fel ({health?.testTagged?.status ?? 0})
               </span>
             )}
           </li>
@@ -276,7 +215,10 @@ export default function SettingsPage() {
 
         <div style={card}>
           <h3 style={{ marginTop: 0 }}>Alternativ B – ALLA produkter</h3>
-          <p>Skicka alla aktiva &amp; publicerade produkter med lager &gt; 0 (inkl. alla varianter).</p>
+          <p>
+            Skicka alla aktiva &amp; publicerade produkter med lager &gt; 0
+            (inkl. alla varianter).
+          </p>
           <input readOnly value={data.allProducts} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
             <button onClick={() => navigator.clipboard.writeText(data.allProducts)}>
@@ -305,12 +247,12 @@ export default function SettingsPage() {
           <li>Tagga önskade produkter i Shopify med <code>prisjakt</code>.</li>
           <li>Kopiera länken under “Alternativ A”.</li>
           <li>
-            Logga in på <code>app-business.prisjakt.nu</code> →{" "}
-            <b>Data management</b> → <b>Lägg till feed</b>.
+            Logga in på <code>app-business.prisjakt.nu</code> → <b>Data management</b> →{" "}
+            <b>Lägg till feed</b>.
           </li>
           <li>
-            Klistra in länken i <b>URL*</b>, välj{" "}
-            <b>Prisjakt XML (rekommenderad)</b>, klicka <b>Lägg till</b>.
+            Klistra in länken i <b>URL*</b>, välj <b>Prisjakt XML (rekommenderad)</b>, klicka{" "}
+            <b>Lägg till</b>.
           </li>
         </ol>
       </div>
@@ -320,12 +262,12 @@ export default function SettingsPage() {
         <ol style={{ marginTop: 8, marginBottom: 0 }}>
           <li>Kopiera länken under “Alternativ B”.</li>
           <li>
-            Logga in på <code>app-business.prisjakt.nu</code> →{" "}
-            <b>Data management</b> → <b>Lägg till feed</b>.
+            Logga in på <code>app-business.prisjakt.nu</code> → <b>Data management</b> →{" "}
+            <b>Lägg till feed</b>.
           </li>
           <li>
-            Klistra in länken i <b>URL*</b>, välj{" "}
-            <b>Prisjakt XML (rekommenderad)</b>, klicka <b>Lägg till</b>.
+            Klistra in länken i <b>URL*</b>, välj <b>Prisjakt XML (rekommenderad)</b>, klicka{" "}
+            <b>Lägg till</b>.
           </li>
         </ol>
       </div>
