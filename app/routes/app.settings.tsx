@@ -25,101 +25,125 @@ function randomSecret(len = 40) {
 }
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  // 1) Auth – om det krävs toppnivå-redirect, gör en HTML-redirect som funkar i iframe
-  let session;
+  const url = new URL(request.url);
+  const debug = url.searchParams.get("debug") === "1";
+
   try {
-    ({ session } = await authenticate.admin(request));
-  } catch (err: any) {
-    if (err instanceof Response && err.status >= 300 && err.status < 400) {
-      const loc = err.headers.get("Location") || "/auth/login";
-      const abs = new URL(
-        loc,
-        process.env.SHOPIFY_APP_URL || new URL(request.url).origin
-      ).toString();
-      return new Response(
-        `<!doctype html><html><body><script>
-           if (window.top) window.top.location.href=${JSON.stringify(abs)};
-           else window.location.href=${JSON.stringify(abs)};
-         </script></body></html>`,
-        { headers: { "Content-Type": "text/html" } }
-      );
-    }
-    // Något annat än redirect → låt det bubbla (men vi fångar DB-fel senare)
-    throw err;
-  }
-
-  const shop = session.shop;
-
-  // 2) Billing – “soft check” (släpp in även om API saknas/felar)
-  const billingApi: any = (shopify as any).billing;
-  if (billingApi?.check) {
+    // 1) Auth – om det krävs toppnivå-redirect, gör en HTML-redirect som funkar i iframe
+    let session;
     try {
-      const { hasActivePayment } = await billingApi.check({
-        session,
-        plans: [BILLING_PLAN],
+      ({ session } = await authenticate.admin(request));
+    } catch (err: any) {
+      if (err instanceof Response && err.status >= 300 && err.status < 400) {
+        const loc = err.headers.get("Location") || "/auth/login";
+        const abs = new URL(
+          loc,
+          process.env.SHOPIFY_APP_URL || new URL(request.url).origin
+        ).toString();
+        return new Response(
+          `<!doctype html><html><body><script>
+             if (window.top) window.top.location.href=${JSON.stringify(abs)};
+             else window.location.href=${JSON.stringify(abs)};
+           </script></body></html>`,
+          { headers: { "Content-Type": "text/html" } }
+        );
+      }
+      throw err;
+    }
+
+    const shop = session.shop;
+
+    // 2) Billing – “soft check” (släpp in även om API saknas/felar)
+    const billingApi: any = (shopify as any).billing;
+    if (billingApi?.check) {
+      try {
+        const { hasActivePayment } = await billingApi.check({
+          session,
+          plans: [BILLING_PLAN],
+        });
+        if (!hasActivePayment) return redirect("/app");
+      } catch {
+        // ignorera → släpp in
+      }
+    }
+
+    // 3) Läs/etablera feed-secret – write-safe på Vercel
+    let dbSettings: { shop: string; feedSecret: string } | null = null;
+    try {
+      dbSettings = await prisma.shopSettings.findUnique({ where: { shop } });
+    } catch {
+      dbSettings = null;
+    }
+
+    // Om inget i DB: använd env eller generera tillfälligt
+    let feedSecret =
+      dbSettings?.feedSecret || process.env.FEED_SECRET || randomSecret();
+
+    // Försök skapa i DB om den saknas – men svälj skrivfel
+    if (!dbSettings) {
+      try {
+        await prisma.shopSettings.create({ data: { shop, feedSecret } });
+      } catch {
+        // read-only / ingen DB? → kör vidare med env/genererad secret
+      }
+    }
+
+    const base = (
+      process.env.SHOPIFY_APP_URL || new URL(request.url).origin
+    ).replace(/\/$/, "");
+    const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${feedSecret}`;
+    const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${feedSecret}`;
+
+    // 4) Hälsa (tålig)
+    let hasOfflineToken = false;
+    try {
+      const offlineRow = await prisma.session.findUnique({
+        where: { id: `offline_${shop}` },
       });
-      if (!hasActivePayment) return redirect("/app");
+      hasOfflineToken =
+        !!offlineRow?.accessToken ||
+        !!(offlineRow as any)?.content?.accessToken;
     } catch {
-      // ignorera → släpp in
+      hasOfflineToken = false;
     }
-  }
 
-  // 3) Läs/etablera feed-secret – write-safe på Vercel (SQLite kan vara read-only)
-  let dbSettings: { shop: string; feedSecret: string } | null = null;
-  try {
-    dbSettings = await prisma.shopSettings.findUnique({ where: { shop } });
-  } catch {
-    dbSettings = null;
-  }
-
-  // Om inget i DB: använd env eller generera tillfälligt
-  let feedSecret = dbSettings?.feedSecret || process.env.FEED_SECRET || randomSecret();
-
-  // Försök skapa i DB om den saknas – men svälj skrivfel (Vercel/SQLite)
-  if (!dbSettings) {
-    try {
-      await prisma.shopSettings.create({ data: { shop, feedSecret } });
-    } catch {
-      // read-only? fine – vi kör vidare med feedSecret från env/genererad
+    async function test(url: string) {
+      try {
+        const r = await fetch(url + "&debug=1", {
+          method: "GET",
+          headers: { "User-Agent": "HealthCheck" },
+        });
+        return { ok: r.ok, status: r.status };
+      } catch {
+        return { ok: false, status: 0 };
+      }
     }
-  }
+    const [testAll, testTagged] = await Promise.all([
+      test(allProducts),
+      test(onlyTagged),
+    ]);
 
-  const base = (process.env.SHOPIFY_APP_URL || new URL(request.url).origin).replace(/\/$/, "");
-  const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${feedSecret}`;
-  const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${feedSecret}`;
-
-  // 4) Hälsa (tålig)
-  let hasOfflineToken = false;
-  try {
-    const offlineRow = await prisma.session.findUnique({
-      where: { id: `offline_${shop}` },
+    return json({
+      shop,
+      feedSecret,
+      onlyTagged,
+      allProducts,
+      health: { hasOfflineToken, testAll, testTagged },
     });
-    hasOfflineToken = !!offlineRow?.accessToken || !!(offlineRow as any)?.content?.accessToken;
-  } catch {
-    // DB kanske read-only/otillgänglig – visa “Saknas”
-    hasOfflineToken = false;
-  }
-
-  async function test(url: string) {
-    try {
-      const r = await fetch(url + "&debug=1", {
-        method: "GET",
-        headers: { "User-Agent": "HealthCheck" },
+  } catch (e: any) {
+    if (debug) {
+      const text =
+        (e?.stack || e?.message || String(e)) +
+        (e?.cause
+          ? `\nCAUSE: ${e.cause?.stack || e.cause?.message || e.cause}`
+          : "");
+      return new Response(`DEBUG /app/settings loader error:\n\n${text}`, {
+        status: 500,
+        headers: { "Content-Type": "text/plain; charset=utf-8" },
       });
-      return { ok: r.ok, status: r.status };
-    } catch {
-      return { ok: false, status: 0 };
     }
+    throw e;
   }
-  const [testAll, testTagged] = await Promise.all([test(allProducts), test(onlyTagged)]);
-
-  return json({
-    shop,
-    feedSecret,
-    onlyTagged,
-    allProducts,
-    health: { hasOfflineToken, testAll, testTagged },
-  });
 }
 
 export async function action({ request }: ActionFunctionArgs) {
@@ -137,8 +161,7 @@ export async function action({ request }: ActionFunctionArgs) {
         create: { shop, feedSecret: newSecret },
       });
     } catch {
-      // Om DB inte går att skriva till: låtsas lyckas, sidan kommer visa env-baserad länk
-      // Vill du signalera i UI kan du lägga till querystring &error=db_readonly
+      // Om DB inte går att skriva till: låtsas lyckas (UI funkar ändå)
     }
   }
   return redirect("/app/settings");
@@ -274,7 +297,7 @@ export default function SettingsPage() {
               style={{
                 textDecoration: "none",
                 padding: "6px 10px",
-                border: "1px solid #ccc",
+                border: "1px solid "#ccc",
                 borderRadius: 6,
               }}
             >
