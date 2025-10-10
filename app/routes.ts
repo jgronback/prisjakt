@@ -1,11 +1,11 @@
 // app/routes.ts
-import { defineRoutes } from "@remix-run/dev/config/routes";
+// OBS: Ingen import här. Remix kallar default-exporten med "route"-funktionen.
 
-export default defineRoutes((route) => {
+export default function (route: any) {
   // Root
-  route("", "routes/_index.tsx"); // "/" (root)
+  route("", "routes/_index.tsx"); // "/"
 
-  // App-shell + undersidor (utan inledande slash)
+  // App-shell + undersidor
   route("app", "routes/app.tsx", () => {
     route("", "routes/app._index.tsx");           // /app
     route("settings", "routes/app.settings.tsx"); // /app/settings
@@ -21,7 +21,7 @@ export default defineRoutes((route) => {
   route("public/prisjakt.xml", "routes/public.prisjakt[.]xml.tsx");
   route("api/prisjakt.xml", "routes/api.prisjakt[.]xml.tsx");
   route("prisjakt.health", "routes/prisjakt.health.ts");
-  route("admin.prisjakt", "routes/admin.prisjakt.tsx"); // (redirectar du till /app/settings)
+  route("admin.prisjakt", "routes/admin.prisjakt.tsx"); // (kan redirecta till /app/settings)
 
   // Webhooks
   route("webhooks/customers/data_request", "routes/webhooks.customers.data_request.tsx");
@@ -29,4 +29,4 @@ export default defineRoutes((route) => {
   route("webhooks/app/scopes_update", "routes/webhooks.app.scopes_update.tsx");
   route("webhooks/app/uninstalled", "routes/webhooks.app.uninstalled.tsx");
   route("webhooks/shop/redact", "routes/webhooks.shop.redact.tsx");
-});
+}
