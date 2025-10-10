@@ -6,8 +6,8 @@ export default [
     path: "app",
     file: "routes/app.tsx",
     children: [
-      { index: true, file: "routes/app._index.tsx" },
-      // { path: "settings", file: "routes/app.settings.tsx" },
+      //{ index: true, file: "routes/app._index.tsx" },
+      { path: "settings", file: "routes/app.settings.tsx" },
 
 { path: "settings", file: "routes/app.settings.safe.tsx" },
       { path: "billing",  file: "routes/app.billing.tsx" },
