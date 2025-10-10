@@ -1,18 +1,20 @@
 // prisma/schema.prisma
 // Läs mer: https://pris.ly/d/prisma-schema
 
-// === DATASOURCE: Postgres via Vercel Postgres (DATABASE_URL i env) ===
+// ===== DATASOURCE: Postgres (Neon) via DATABASE_URL =====
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
-// === GENERATOR: exakt EN klientgenerator ===
+// ===== GENERATOR: Prisma Client =====
 generator client {
   provider = "prisma-client-js"
 }
 
-// === MODELS ===
+// ===== MODELS =====
+
+// Shopify-sessioner (krävs av @shopify/shopify-app-session-storage-prisma)
 model Session {
   id            String   @id
   shop          String
@@ -29,12 +31,17 @@ model Session {
   locale        String?
   collaborator  Boolean? @default(false)
   emailVerified Boolean? @default(false)
-  
+
+  @@index([shop])
+  @@index([isOnline])
 }
 
+// Appens egna inställningar per butik
 model ShopSettings {
-  shop       String   @id
-  feedSecret String
-  createdAt  DateTime @default(now())
-  updatedAt  DateTime @updatedAt
+  shop        String   @id
+  feedSecret  String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([createdAt])
 }
