@@ -7,10 +7,10 @@ import {
   type HeadersFunction,
 } from "@remix-run/node";
 import { useLoaderData, Form, useNavigation } from "@remix-run/react";
+import type { CSSProperties } from "react";
 import shopify, { authenticate, BILLING_PLAN } from "../shopify.server";
 import prisma from "../db.server";
 
-// Tillåt inbäddning i Shopify-admin (fixar “refused to connect”/CSP)
 export const headers: HeadersFunction = () => ({
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com;",
@@ -37,7 +37,7 @@ const DEFAULT_HEALTH: Health = {
 };
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  // 1) Auth – gör en HTML-redirect som funkar i iframe om det krävs toppnivå
+  // Auth: om Shopify kräver toppnivå-redirect, gör HTML-redirect som funkar i iframe
   let session;
   try {
     ({ session } = await authenticate.admin(request));
@@ -61,7 +61,7 @@ export async function loader({ request }: LoaderFunctionArgs) {
 
   const shop = session.shop;
 
-  // 2) Billing – “soft check” (släpp in även om API saknas/felar)
+  // Billing: mjuk-kontroll (släpp in även vid fel/saknad billing)
   try {
     const billingApi: any = (shopify as any).billing;
     if (billingApi?.check) {
@@ -72,10 +72,10 @@ export async function loader({ request }: LoaderFunctionArgs) {
       if (!hasActivePayment) return redirect("/app");
     }
   } catch {
-    // ignorera → släpp in
+    // ignorera
   }
 
-  // 3) Läs/etablera feed-secret – DB kan vara nere → använd fallback
+  // Feed-secret: hämta/etablera – hantera DB-fel tåligt
   let dbSettings: { shop: string; feedSecret: string } | null = null;
   try {
     dbSettings = await prisma.shopSettings.findUnique({ where: { shop } });
@@ -85,12 +85,11 @@ export async function loader({ request }: LoaderFunctionArgs) {
   let feedSecret =
     dbSettings?.feedSecret || process.env.FEED_SECRET || randomSecret();
 
-  // Skriv om saknas – men svälj skrivfel
   if (!dbSettings) {
     try {
       await prisma.shopSettings.create({ data: { shop, feedSecret } });
     } catch {
-      // read-only/DB nere? kör vidare med feedSecret i minnet/env
+      // DB read-only/otillgänglig → kör vidare med feedSecret i minnet/env
     }
   }
 
@@ -98,10 +97,9 @@ export async function loader({ request }: LoaderFunctionArgs) {
   const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${feedSecret}`;
   const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${feedSecret}`;
 
-  // 4) Hälsa – börja med säkra default
+  // Health: initiera defaults, fyll på om möjligt
   const health: Health = { ...DEFAULT_HEALTH };
 
-  // Försök hämta offline-token, men låt sidan leva även vid DB-fel
   try {
     const offlineRow = await prisma.session.findUnique({
       where: { id: `offline_${shop}` },
@@ -112,7 +110,6 @@ export async function loader({ request }: LoaderFunctionArgs) {
     // behåll default=false
   }
 
-  // Testa båda feed-URL:erna parallellt (tål nätfel)
   async function test(url: string) {
     try {
       const r = await fetch(url + "&debug=1", {
@@ -137,7 +134,7 @@ export async function loader({ request }: LoaderFunctionArgs) {
     feedSecret,
     onlyTagged,
     allProducts,
-    health, // <-- alltid definierad
+    health, // alltid definierad
   });
 }
 
@@ -155,7 +152,7 @@ export async function action({ request }: ActionFunctionArgs) {
         create: { shop, feedSecret: newSecret },
       });
     } catch {
-      // Om DB inte går att skriva: ignorera – UI kommer ändå visa gamla/env-baserade länkar
+      // DB-write fail → ignorera; UI visar befintlig/env-baserad länk
     }
   }
   return redirect("/app/settings");
@@ -163,24 +160,23 @@ export async function action({ request }: ActionFunctionArgs) {
 
 export default function SettingsPage() {
   const data = useLoaderData<typeof loader>();
-  // Hård fallback om något oväntat händer
   const health = data?.health ?? DEFAULT_HEALTH;
 
   const nav = useNavigation();
   const busy = nav.state !== "idle";
 
-  const card: React.CSSProperties = {
+  const card: CSSProperties = {
     padding: 12,
     border: "1px solid #ddd",
     borderRadius: 8,
   };
-  const note: React.CSSProperties = {
+  const note: CSSProperties = {
     marginTop: 8,
     padding: 10,
     border: "1px solid #eee",
     borderRadius: 8,
   };
-  const box: React.CSSProperties = {
+  const box: CSSProperties = {
     margin: "16px 0",
     padding: 12,
     border: "1px solid #eee",
