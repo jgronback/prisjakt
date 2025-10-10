@@ -36,7 +36,6 @@ export default function App() {
   const { apiKey } = useLoaderData<typeof loader>();
   return (
     <AppProvider isEmbeddedApp apiKey={apiKey}>
-      {/* App Bridge-nav: Admin proxar alltid rätt slug */}
       <NavMenu>
         <Link to="/app" rel="home">Home</Link>
         <Link to="/app/settings">Feed settings</Link>
