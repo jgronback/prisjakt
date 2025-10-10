@@ -1,4 +1,3 @@
-import { vercelPreset } from "@vercel/remix/vite";
 import { vitePlugin as remix } from "@remix-run/dev";
 import { installGlobals } from "@remix-run/node";
 import { defineConfig, type UserConfig } from "vite";
@@ -6,10 +5,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 installGlobals({ nativeFetch: true });
 
-// + Lägg till uppe bland importerna:
-import { vercelPreset } from "@vercel/remix/vite";
-
-
+// HOST → SHOPIFY_APP_URL workaround
 if (
   process.env.HOST &&
   (!process.env.SHOPIFY_APP_URL || process.env.SHOPIFY_APP_URL === process.env.HOST)
@@ -35,22 +31,16 @@ export default defineConfig({
     hmr: hmrConfig,
     fs: { allow: ["app", "node_modules"] },
   },
-plugins: [
-  remix({
-    presets: [vercelPreset()],           // ⬅️ den här raden är grejen
-    ignoredRouteFiles: ["**/.*"],
-    future: {
-      v3_fetcherPersist: true,
-      v3_relativeSplatPath: true,
-      v3_throwAbortReason: true,
-      v3_lazyRouteDiscovery: true,
-      v3_singleFetch: false,
-      v3_routeConfig: true,              // du kan låta denna vara kvar
-    },
-  }),
-  tsconfigPaths(),
-],
-
+  plugins: [
+    remix({
+      ignoredRouteFiles: ["**/.*"],
+      future: {
+        v3_fetcherPersist: true,
+        v3_relativeSplatPath: true,
+        v3_throwAbortReason: true,
+        v3_lazyRouteDiscovery: true,
+        v3_singleFetch: false,
+        v3_routeConfig: true, // du har app/routes.ts
       },
     }),
     tsconfigPaths(),
