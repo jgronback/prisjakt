@@ -19,7 +19,7 @@ export default [
   { path: "api/prisjakt.xml",    file: "routes/api.prisjakt[.]xml.tsx" },
   { path: "prisjakt.health",     file: "routes/prisjakt.health.ts" },
   { path: "admin.prisjakt",      file: "routes/admin.prisjakt.tsx" },
-  { path: "healthz", file: "routes/prisjakt.health.ts" },
+  
   { path: "webhooks/customers/data_request", file: "routes/webhooks.customers.data_request.tsx" },
   { path: "webhooks/customers/redact",       file: "routes/webhooks.customers.redact.tsx" },
   { path: "webhooks/app/scopes_update",      file: "routes/webhooks.app.scopes_update.tsx" },
