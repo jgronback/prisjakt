@@ -7,7 +7,9 @@ export default [
     file: "routes/app.tsx",
     children: [
       { index: true, file: "routes/app._index.tsx" },
-      { path: "settings", file: "routes/app.settings.safe.tsx" }, // <-- NY
+      // { path: "settings", file: "routes/app.settings.tsx" },
+
+{ path: "settings", file: "routes/app.settings.safe.tsx" },
       { path: "billing",  file: "routes/app.billing.tsx" },
     ],
   },
