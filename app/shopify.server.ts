@@ -6,7 +6,8 @@ import {
   AppDistribution,
   BillingInterval,
 } from "@shopify/shopify-app-remix/server";
-import { PrismaSessionStorage } from "@shopify/shopify-app-session-storage-prisma";
+//import { PrismaSessionStorage } from "@shopify/shopify-app-session-storage-prisma";
+import { MemorySessionStorage } from "@shopify/shopify-app-session-storage-memory";
 import prisma from "./db.server";
 
 // Plan-namnet måste vara exakt samma som i dina routes (Home/Settings/Billing)
@@ -23,7 +24,8 @@ export const shopify = shopifyApp({
     .split(",")
     .map((s) => s.trim())
     .filter(Boolean),
-  sessionStorage: new PrismaSessionStorage(prisma),
+ // sessionStorage: new PrismaSessionStorage(prisma),
+const sessionStorage = new MemorySessionStorage(),
 
   // 🔑 Aktivera Billing-API i runtime
   billing: {
