@@ -2,7 +2,7 @@ import { vitePlugin as remix } from "@remix-run/dev";
 import { installGlobals } from "@remix-run/node";
 import { defineConfig, type UserConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
-import { vercelPreset } from "@vercel/remix/vite"; // ⬅️ viktigt för Vercel
+import { vercelPreset } from "@vercel/remix/vite"; // viktiga raden
 
 installGlobals({ nativeFetch: true });
 
@@ -39,8 +39,7 @@ export default defineConfig({
   },
   plugins: [
     remix({
-      // ⬇️ gör att Vercel bygger server-funktionen för Remix/Vite
-      presets: [vercelPreset()],
+      presets: [vercelPreset()], // gör att Vercel bygger Remix-servern
       ignoredRouteFiles: ["**/.*"],
       future: {
         v3_fetcherPersist: true,
