@@ -297,7 +297,7 @@ export default function SettingsPage() {
               style={{
                 textDecoration: "none",
                 padding: "6px 10px",
-                border: "1px solid "#ccc",
+                border: "1px solid #ccc",
                 borderRadius: 6,
               }}
             >
