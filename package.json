@@ -1,5 +1,5 @@
 {
-  "name": "prisjakt-produktfeed",
+  "name": "Prisjakt Produktfeed",
   "private": true,
   "scripts": {
     "build": "remix vite:build",
