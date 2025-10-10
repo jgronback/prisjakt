@@ -10,7 +10,6 @@ import { useLoaderData, Form, useNavigation } from "@remix-run/react";
 import shopify, { authenticate, BILLING_PLAN } from "../shopify.server";
 import prisma from "../db.server";
 
-// Tillåt inbäddning i Shopify-admin (fixar “refused to connect”/CSP)
 export const headers: HeadersFunction = () => ({
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com;",
@@ -24,12 +23,15 @@ function randomSecret(len = 40) {
   return s;
 }
 
-export async function loader({ request }: LoaderFunctionArgs) {
-  const url = new URL(request.url);
-  const debug = url.searchParams.get("debug") === "1";
+const HEALTH_FALLBACK = {
+  hasOfflineToken: false,
+  testAll: { ok: false, status: 0 },
+  testTagged: { ok: false, status: 0 },
+};
 
+export async function loader({ request }: LoaderFunctionArgs) {
   try {
-    // 1) Auth – om det krävs toppnivå-redirect, gör en HTML-redirect som funkar i iframe
+    // Auth med “top redirect” som funkar i iframe
     let session;
     try {
       ({ session } = await authenticate.admin(request));
@@ -53,7 +55,7 @@ export async function loader({ request }: LoaderFunctionArgs) {
 
     const shop = session.shop;
 
-    // 2) Billing – “soft check” (släpp in även om API saknas/felar)
+    // “Soft” billing – släpp in även om API saknas/felar
     const billingApi: any = (shopify as any).billing;
     if (billingApi?.check) {
       try {
@@ -63,11 +65,11 @@ export async function loader({ request }: LoaderFunctionArgs) {
         });
         if (!hasActivePayment) return redirect("/app");
       } catch {
-        // ignorera → släpp in
+        /* ignore */
       }
     }
 
-    // 3) Läs/etablera feed-secret – write-safe på Vercel
+    // Läs/etablera feedSecret (tålig mot read-only/DB-fel)
     let dbSettings: { shop: string; feedSecret: string } | null = null;
     try {
       dbSettings = await prisma.shopSettings.findUnique({ where: { shop } });
@@ -75,34 +77,29 @@ export async function loader({ request }: LoaderFunctionArgs) {
       dbSettings = null;
     }
 
-    // Om inget i DB: använd env eller generera tillfälligt
     let feedSecret =
       dbSettings?.feedSecret || process.env.FEED_SECRET || randomSecret();
 
-    // Försök skapa i DB om den saknas – men svälj skrivfel
     if (!dbSettings) {
       try {
         await prisma.shopSettings.create({ data: { shop, feedSecret } });
       } catch {
-        // read-only / ingen DB? → kör vidare med env/genererad secret
+        /* read-only? ignore */
       }
     }
 
-    const base = (
-      process.env.SHOPIFY_APP_URL || new URL(request.url).origin
-    ).replace(/\/$/, "");
+    const base = (process.env.SHOPIFY_APP_URL || new URL(request.url).origin).replace(/\/$/, "");
     const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${feedSecret}`;
     const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${feedSecret}`;
 
-    // 4) Hälsa (tålig)
+    // Hälsa – gör tåligt
     let hasOfflineToken = false;
     try {
       const offlineRow = await prisma.session.findUnique({
         where: { id: `offline_${shop}` },
       });
       hasOfflineToken =
-        !!offlineRow?.accessToken ||
-        !!(offlineRow as any)?.content?.accessToken;
+        !!offlineRow?.accessToken || !!(offlineRow as any)?.content?.accessToken;
     } catch {
       hasOfflineToken = false;
     }
@@ -118,10 +115,14 @@ export async function loader({ request }: LoaderFunctionArgs) {
         return { ok: false, status: 0 };
       }
     }
-    const [testAll, testTagged] = await Promise.all([
-      test(allProducts),
-      test(onlyTagged),
-    ]);
+
+    let testAll = HEALTH_FALLBACK.testAll;
+    let testTagged = HEALTH_FALLBACK.testTagged;
+    try {
+      [testAll, testTagged] = await Promise.all([test(allProducts), test(onlyTagged)]);
+    } catch {
+      /* ignore – behåll fallback */
+    }
 
     return json({
       shop,
@@ -131,18 +132,15 @@ export async function loader({ request }: LoaderFunctionArgs) {
       health: { hasOfflineToken, testAll, testTagged },
     });
   } catch (e: any) {
-    if (debug) {
-      const text =
-        (e?.stack || e?.message || String(e)) +
-        (e?.cause
-          ? `\nCAUSE: ${e.cause?.stack || e.cause?.message || e.cause}`
-          : "");
-      return new Response(`DEBUG /app/settings loader error:\n\n${text}`, {
-        status: 500,
-        headers: { "Content-Type": "text/plain; charset=utf-8" },
-      });
-    }
-    throw e;
+    // Sista skyddet – returnera alltid giltig shape
+    if (e instanceof Response) return e;
+    return json({
+      shop: "",
+      feedSecret: process.env.FEED_SECRET || "",
+      onlyTagged: "",
+      allProducts: "",
+      health: HEALTH_FALLBACK,
+    });
   }
 }
 
@@ -153,7 +151,6 @@ export async function action({ request }: ActionFunctionArgs) {
 
   if (form.get("rotate") === "1") {
     const newSecret = randomSecret();
-    // Försök skriv – men svälj skrivfel (kör vidare på env tills DB finns)
     try {
       await prisma.shopSettings.upsert({
         where: { shop },
@@ -161,17 +158,23 @@ export async function action({ request }: ActionFunctionArgs) {
         create: { shop, feedSecret: newSecret },
       });
     } catch {
-      // Om DB inte går att skriva till: låtsas lyckas (UI funkar ändå)
+      /* DB write fail → ignorera, UI visar env/genererad secret */
     }
   }
   return redirect("/app/settings");
 }
 
 export default function SettingsPage() {
-  const { shop, feedSecret, onlyTagged, allProducts, health } =
-    useLoaderData<typeof loader>();
+  const data = useLoaderData<typeof loader>();
   const nav = useNavigation();
   const busy = nav.state !== "idle";
+
+  // SÄKRA DEFAULTS – ingen krasch om något saknas
+  const shop = data?.shop ?? "";
+  const feedSecret = data?.feedSecret ?? "";
+  const onlyTagged = data?.onlyTagged ?? "";
+  const allProducts = data?.allProducts ?? "";
+  const health = data?.health ?? HEALTH_FALLBACK;
 
   const card: React.CSSProperties = {
     padding: 12,
