@@ -1,11 +1,11 @@
-import { remix } from "@remix-run/dev/vite"; // <— uppdaterad import (ok att behålla din också)
+import { vitePlugin as remix } from "@remix-run/dev"; // ⬅️ tillbaka hit
 import { installGlobals } from "@remix-run/node";
 import { defineConfig, type UserConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
 installGlobals({ nativeFetch: true });
 
-// HOST → SHOPIFY_APP_URL workaround
+// HOST → SHOPIFY_APP_URL workaround (oförändrat)
 if (
   process.env.HOST &&
   (!process.env.SHOPIFY_APP_URL || process.env.SHOPIFY_APP_URL === process.env.HOST)
@@ -40,7 +40,7 @@ export default defineConfig({
         v3_throwAbortReason: true,
         v3_lazyRouteDiscovery: true,
         v3_singleFetch: false,
-        // 🔻 Viktigt: stäng av manuell route-config
+        // ⬇️ Viktigt: stäng av manuell route-config (annars krävs app/routes.ts)
         v3_routeConfig: false,
       },
     }),
