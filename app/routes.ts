@@ -13,7 +13,7 @@ export default [
       { index: true, file: "routes/app._index.tsx" },       // /app
       { path: "settings", file: "routes/app.settings.tsx" },// /app/settings
       { path: "billing", file: "routes/app.billing.tsx" },  // /app/billing
-      { path: "help", file: "routes/app.help/route.tsx" },  // /app/help
+      { path: "help", file: "routes/app.help.tsx" },  // /app/help
     ],
   },
 
