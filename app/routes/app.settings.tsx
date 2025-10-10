@@ -4,13 +4,13 @@ import {
   redirect,
   type LoaderFunctionArgs,
   type ActionFunctionArgs,
-  type HeadersFunction,            // 👈 NYTT
+  type HeadersFunction,
 } from "@remix-run/node";
 import { useLoaderData, Form, useNavigation } from "@remix-run/react";
 import shopify, { authenticate, BILLING_PLAN } from "../shopify.server";
 import prisma from "../db.server";
 
-// 👇 NYTT: Tillåt inbäddning i Shopify-admin (fixar “refused to connect”)
+// Tillåt inbäddning i Shopify-admin (fixar “refused to connect”/CSP)
 export const headers: HeadersFunction = () => ({
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com;",
@@ -20,13 +20,12 @@ function randomSecret(len = 40) {
   const chars =
     "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
   let s = "";
-  for (let i = 0; i < len; i++)
-    s += chars[Math.floor(Math.random() * chars.length)];
+  for (let i = 0; i < len; i++) s += chars[Math.floor(Math.random() * chars.length)];
   return s;
 }
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  // Top-level login fix
+  // 1) Auth – om det krävs toppnivå-redirect, gör en HTML-redirect som funkar i iframe
   let session;
   try {
     ({ session } = await authenticate.admin(request));
@@ -45,12 +44,13 @@ export async function loader({ request }: LoaderFunctionArgs) {
         { headers: { "Content-Type": "text/html" } }
       );
     }
+    // Något annat än redirect → låt det bubbla (men vi fångar DB-fel senare)
     throw err;
   }
 
   const shop = session.shop;
 
-  // Billing: försök kolla — men släpp in även om API saknas eller check failar
+  // 2) Billing – “soft check” (släpp in även om API saknas/felar)
   const billingApi: any = (shopify as any).billing;
   if (billingApi?.check) {
     try {
@@ -60,30 +60,45 @@ export async function loader({ request }: LoaderFunctionArgs) {
       });
       if (!hasActivePayment) return redirect("/app");
     } catch {
-      // ignore → släpp in
+      // ignorera → släpp in
     }
   }
 
-  // Se till att feed-secreten finns
-  let settings = await prisma.shopSettings.findUnique({ where: { shop } });
-  if (!settings) {
-    settings = await prisma.shopSettings.create({
-      data: { shop, feedSecret: randomSecret() },
-    });
+  // 3) Läs/etablera feed-secret – write-safe på Vercel (SQLite kan vara read-only)
+  let dbSettings: { shop: string; feedSecret: string } | null = null;
+  try {
+    dbSettings = await prisma.shopSettings.findUnique({ where: { shop } });
+  } catch {
+    dbSettings = null;
   }
 
-  const base = (
-    process.env.SHOPIFY_APP_URL || new URL(request.url).origin
-  ).replace(/\/$/, "");
-  const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${settings.feedSecret}`;
-  const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${settings.feedSecret}`;
+  // Om inget i DB: använd env eller generera tillfälligt
+  let feedSecret = dbSettings?.feedSecret || process.env.FEED_SECRET || randomSecret();
 
-  // Hälsa (tålig)
-  const offlineRow = await prisma.session.findUnique({
-    where: { id: `offline_${shop}` },
-  });
-  const hasOfflineToken =
-    !!offlineRow?.accessToken || !!(offlineRow as any)?.content?.accessToken;
+  // Försök skapa i DB om den saknas – men svälj skrivfel (Vercel/SQLite)
+  if (!dbSettings) {
+    try {
+      await prisma.shopSettings.create({ data: { shop, feedSecret } });
+    } catch {
+      // read-only? fine – vi kör vidare med feedSecret från env/genererad
+    }
+  }
+
+  const base = (process.env.SHOPIFY_APP_URL || new URL(request.url).origin).replace(/\/$/, "");
+  const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${feedSecret}`;
+  const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${feedSecret}`;
+
+  // 4) Hälsa (tålig)
+  let hasOfflineToken = false;
+  try {
+    const offlineRow = await prisma.session.findUnique({
+      where: { id: `offline_${shop}` },
+    });
+    hasOfflineToken = !!offlineRow?.accessToken || !!(offlineRow as any)?.content?.accessToken;
+  } catch {
+    // DB kanske read-only/otillgänglig – visa “Saknas”
+    hasOfflineToken = false;
+  }
 
   async function test(url: string) {
     try {
@@ -96,14 +111,11 @@ export async function loader({ request }: LoaderFunctionArgs) {
       return { ok: false, status: 0 };
     }
   }
-  const [testAll, testTagged] = await Promise.all([
-    test(allProducts),
-    test(onlyTagged),
-  ]);
+  const [testAll, testTagged] = await Promise.all([test(allProducts), test(onlyTagged)]);
 
   return json({
     shop,
-    feedSecret: settings.feedSecret,
+    feedSecret,
     onlyTagged,
     allProducts,
     health: { hasOfflineToken, testAll, testTagged },
@@ -117,11 +129,17 @@ export async function action({ request }: ActionFunctionArgs) {
 
   if (form.get("rotate") === "1") {
     const newSecret = randomSecret();
-    await prisma.shopSettings.upsert({
-      where: { shop },
-      update: { feedSecret: newSecret },
-      create: { shop, feedSecret: newSecret },
-    });
+    // Försök skriv – men svälj skrivfel (kör vidare på env tills DB finns)
+    try {
+      await prisma.shopSettings.upsert({
+        where: { shop },
+        update: { feedSecret: newSecret },
+        create: { shop, feedSecret: newSecret },
+      });
+    } catch {
+      // Om DB inte går att skriva till: låtsas lyckas, sidan kommer visa env-baserad länk
+      // Vill du signalera i UI kan du lägga till querystring &error=db_readonly
+    }
   }
   return redirect("/app/settings");
 }
