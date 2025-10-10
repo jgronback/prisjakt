@@ -2,13 +2,8 @@
 import { redirect, type LoaderFunctionArgs } from "@remix-run/node";
 
 function toStoreSlug(input: string) {
-  try {
-    // Normalisera, plocka bara "nordic-aim-sandbox" ur "nordic-aim-sandbox.myshopify.com"
-    const s = input.trim().toLowerCase();
-    return s.replace(/\.myshopify\.com$/, "");
-  } catch {
-    return input;
-  }
+  const s = input.trim().toLowerCase();
+  return s.replace(/\.myshopify\.com$/, "");
 }
 
 export async function loader({ request }: LoaderFunctionArgs) {
@@ -18,14 +13,12 @@ export async function loader({ request }: LoaderFunctionArgs) {
   if (shopParam) {
     const slug = toStoreSlug(shopParam);
     const handle = process.env.APP_HANDLE ?? "prisjakt-produktfeed";
-    // Viktigt: /app på slutet så vi landar i din inbäddade route
     const adminUrl = `https://admin.shopify.com/store/${encodeURIComponent(
       slug
     )}/apps/${encodeURIComponent(handle)}/app`;
     return redirect(adminUrl);
   }
 
-  // Enkel landningssida om man går till / utan ?shop=
   return new Response(
     `<!doctype html>
      <html>
