@@ -2,6 +2,7 @@ import { vitePlugin as remix } from "@remix-run/dev";
 import { installGlobals } from "@remix-run/node";
 import { defineConfig, type UserConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
+import { vercelPreset } from "@vercel/remix/vite"; // ⬅️ viktigt för Vercel
 
 installGlobals({ nativeFetch: true });
 
@@ -20,7 +21,12 @@ let hmrConfig: any;
 if (host === "localhost") {
   hmrConfig = { protocol: "ws", host: "localhost", port: 64999, clientPort: 64999 };
 } else {
-  hmrConfig = { protocol: "wss", host, port: parseInt(process.env.FRONTEND_PORT!) || 8002, clientPort: 443 };
+  hmrConfig = {
+    protocol: "wss",
+    host,
+    port: parseInt(process.env.FRONTEND_PORT!) || 8002,
+    clientPort: 443,
+  };
 }
 
 export default defineConfig({
@@ -33,6 +39,8 @@ export default defineConfig({
   },
   plugins: [
     remix({
+      // ⬇️ gör att Vercel bygger server-funktionen för Remix/Vite
+      presets: [vercelPreset()],
       ignoredRouteFiles: ["**/.*"],
       future: {
         v3_fetcherPersist: true,
@@ -40,7 +48,7 @@ export default defineConfig({
         v3_throwAbortReason: true,
         v3_lazyRouteDiscovery: true,
         v3_singleFetch: false,
-        v3_routeConfig: true, // du har app/routes.ts
+        v3_routeConfig: true, // du använder app/routes.ts
       },
     }),
     tsconfigPaths(),
