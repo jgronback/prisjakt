@@ -31,6 +31,4 @@ export default [
   { path: "webhooks/app/uninstalled",        file: "routes/webhooks.app.uninstalled.tsx" },
   { path: "webhooks/shop/redact",            file: "routes/webhooks.shop.redact.tsx" },
 
-  // 🔧 Enkel hälsopunkt för felsökning
-  { path: "healthz", file: "routes/healthz.ts" },
 ];
