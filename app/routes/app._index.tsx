@@ -18,7 +18,6 @@ export async function loader({ request }: LoaderFunctionArgs) {
 
   const shop = session.shop;
 
-  // Försök läsa billing-status (blockera inte sidan om det misslyckas)
   let hasActivePayment = false;
   const billingApi: any = (shopify as any).billing;
   if (billingApi?.check) {
