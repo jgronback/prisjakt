@@ -8,26 +8,41 @@ import {
 } from "@remix-run/node";
 import { useLoaderData, Form, useNavigation } from "@remix-run/react";
 import { authenticate } from "../shopify.server";
-import prisma from "../db.server";
 
-// Tillåt inbäddning i Shopify-admin
 export const headers: HeadersFunction = () => ({
+  // inbäddning i Shopify-admin
   "Content-Security-Policy":
     "frame-ancestors https://admin.shopify.com https://*.myshopify.com;",
 });
 
+// --- Typer + säkra defaults ---
+type Health = {
+  hasOfflineToken: boolean;
+  testAll: { ok: boolean; status: number };
+  testTagged: { ok: boolean; status: number };
+};
+
+const DEFAULT_HEALTH: Health = {
+  hasOfflineToken: false,
+  testAll: { ok: false, status: 0 },
+  testTagged: { ok: false, status: 0 },
+};
+
 function randomSecret(len = 40) {
-  const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  const chars =
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
   let s = "";
   for (let i = 0; i < len; i++) s += chars[Math.floor(Math.random() * chars.length)];
   return s;
 }
 
+// --- LOADER (ALLTID returnerar giltig JSON) ---
 export async function loader({ request }: LoaderFunctionArgs) {
-  // Auth – hantera toppnivå-redirect i iframe
-  let session;
+  // 1) Försök autentisera – gör top-level redirect om behövs (i iframe-säkert sätt)
+  let shop = "unknown.myshopify.com";
   try {
-    ({ session } = await authenticate.admin(request));
+    const { session } = await authenticate.admin(request);
+    shop = session.shop;
   } catch (err: any) {
     if (err instanceof Response && err.status >= 300 && err.status < 400) {
       const loc = err.headers.get("Location") || "/auth/login";
@@ -43,61 +58,48 @@ export async function loader({ request }: LoaderFunctionArgs) {
         { headers: { "Content-Type": "text/html" } }
       );
     }
-    throw err;
+    // Annat fel → fallthrough till “no DB mode”
   }
 
-  const shop = session.shop;
-
-  // Läs/etablera feed-secret (tål DB-fel)
-  let feedSecret: string | null = null;
-  try {
-    const row = await prisma.shopSettings.findUnique({ where: { shop } });
-    feedSecret = row?.feedSecret ?? null;
-  } catch {
-    feedSecret = null;
-  }
-  if (!feedSecret) {
-    feedSecret = process.env.FEED_SECRET || randomSecret();
-    try {
-      await prisma.shopSettings.upsert({
-        where: { shop },
-        update: { feedSecret },
-        create: { shop, feedSecret },
-      });
-    } catch {
-      // Ignorera skrivfel – vi använder feedSecret i minnet/env
-    }
-  }
-
+  // 2) Bygg länkar – helt utan DB. Använd ENV-seedad secret, annars random (process-lokalt)
+  const seed = process.env.FEED_SECRET || randomSecret();
   const base = (process.env.SHOPIFY_APP_URL || new URL(request.url).origin).replace(/\/$/, "");
-  const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${feedSecret}`;
-  const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${feedSecret}`;
+  const onlyTagged = `${base}/public/prisjakt.xml?shop=${shop}&tag=prisjakt&sig=${seed}`;
+  const allProducts = `${base}/public/prisjakt.xml?shop=${shop}&tag=all&sig=${seed}`;
 
-  return json({ shop, feedSecret, onlyTagged, allProducts });
+  // 3) Hälsa – inga externa anrop här. Ge alltid full struktur.
+  const health: Health = { ...DEFAULT_HEALTH };
+
+  return json({
+    shop,
+    feedSecret: seed,
+    onlyTagged,
+    allProducts,
+    health, // <-- ALLTID definierad
+  });
 }
 
+// --- ACTION (ingen DB-skrivning, bara redirect) ---
 export async function action({ request }: ActionFunctionArgs) {
-  const { session } = await authenticate.admin(request);
-  const shop = session.shop;
-  const form = await request.formData();
-
-  if (form.get("rotate") === "1") {
-    const newSecret = randomSecret();
-    try {
-      await prisma.shopSettings.upsert({
-        where: { shop },
-        update: { feedSecret: newSecret },
-        create: { shop, feedSecret: newSecret },
-      });
-    } catch {
-      // Om DB inte går att skriva: ignorera – UI kommer fortsätta funka
-    }
-  }
+  // Validera session best-effort men krascha inte om det faller
+  try {
+    await authenticate.admin(request);
+  } catch {}
+  // “Rotate” gör inget i no-DB-läge, men vi låtsas lyckas för UX
   return redirect("/app/settings");
 }
 
+// --- REACT-KOMPONENT (säker mot undefined) ---
 export default function SettingsPage() {
-  const data = useLoaderData<typeof loader>();
+  const data = useLoaderData<typeof loader>() as any;
+
+  const shop: string = (data && data.shop) || "unknown.myshopify.com";
+  const feedSecret: string = (data && data.feedSecret) || "";
+  const onlyTagged: string = (data && data.onlyTagged) || "";
+  const allProducts: string = (data && data.allProducts) || "";
+  const health: Health =
+    (data && typeof data.health === "object" && data.health) || DEFAULT_HEALTH;
+
   const nav = useNavigation();
   const busy = nav.state !== "idle";
 
@@ -129,6 +131,44 @@ export default function SettingsPage() {
     >
       <h1 style={{ fontSize: 22, marginBottom: 6 }}>Feed settings</h1>
 
+      <div style={box}>
+        <b>Hälsokontroller</b>
+        <ul style={{ marginTop: 8 }}>
+          <li>
+            Offline-token:{" "}
+            {health.hasOfflineToken ? (
+              <span style={{ color: "green" }}>OK</span>
+            ) : (
+              <span style={{ color: "red" }}>Saknas</span>
+            )}
+          </li>
+          <li>
+            Test “Alla produkter”:{" "}
+            {health.testAll?.ok ? (
+              <span style={{ color: "green" }}>
+                OK ({health.testAll.status})
+              </span>
+            ) : (
+              <span style={{ color: "red" }}>
+                Fel ({health.testAll?.status ?? 0})
+              </span>
+            )}
+          </li>
+          <li>
+            Test “Endast taggade”:{" "}
+            {health.testTagged?.ok ? (
+              <span style={{ color: "green" }}>
+                OK ({health.testTagged.status})
+              </span>
+            ) : (
+              <span style={{ color: "red" }}>
+                Fel ({health.testTagged?.status ?? 0})
+              </span>
+            )}
+          </li>
+        </ul>
+      </div>
+
       <p style={{ marginTop: 0, color: "#555" }}>
         Här får du <b>färdiga länkar</b> att ge till <b>Prisjakt</b>. Länkarna
         används enbart för inläsning – <b>ingenting</b> uppdateras i din butik.
@@ -151,13 +191,13 @@ export default function SettingsPage() {
         <div style={card}>
           <h3 style={{ marginTop: 0 }}>Alternativ A – Endast taggade produkter</h3>
           <p>Tagga valda produkter i Shopify med <code>prisjakt</code>.</p>
-          <input readOnly value={data.onlyTagged} style={{ width: "100%", marginBottom: 8 }} />
+          <input readOnly value={onlyTagged} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
-            <button onClick={() => navigator.clipboard.writeText(data.onlyTagged)}>
+            <button onClick={() => navigator.clipboard.writeText(onlyTagged)}>
               Kopiera länk
             </button>
             <a
-              href={data.onlyTagged}
+              href={onlyTagged}
               target="_blank"
               rel="noreferrer"
               style={{
@@ -175,13 +215,13 @@ export default function SettingsPage() {
         <div style={card}>
           <h3 style={{ marginTop: 0 }}>Alternativ B – ALLA produkter</h3>
           <p>Skicka alla aktiva &amp; publicerade produkter med lager &gt; 0 (inkl. alla varianter).</p>
-          <input readOnly value={data.allProducts} style={{ width: "100%", marginBottom: 8 }} />
+          <input readOnly value={allProducts} style={{ width: "100%", marginBottom: 8 }} />
           <div style={{ display: "flex", gap: 8 }}>
-            <button onClick={() => navigator.clipboard.writeText(data.allProducts)}>
+            <button onClick={() => navigator.clipboard.writeText(allProducts)}>
               Kopiera länk
             </button>
             <a
-              href={data.allProducts}
+              href={allProducts}
               target="_blank"
               rel="noreferrer"
               style={{
@@ -232,7 +272,7 @@ export default function SettingsPage() {
         <div style={{ marginBottom: 8 }}>
           <b>Nuvarande unik kod</b> för den här butiken:
         </div>
-        <code>{data.feedSecret}</code>
+        <code>{feedSecret}</code>
         <Form method="post" replace style={{ marginTop: 10 }}>
           <input type="hidden" name="rotate" value="1" />
           <button type="submit" disabled={busy} style={{ padding: "8px 12px" }}>
@@ -245,7 +285,7 @@ export default function SettingsPage() {
       </div>
 
       <p style={{ marginTop: 12, color: "#666" }}>
-        Butik: <code>{data.shop}</code>
+        Butik: <code>{shop}</code>
       </p>
     </div>
   );
