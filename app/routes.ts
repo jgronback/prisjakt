@@ -26,5 +26,4 @@ export default [
   { path: "webhooks/app/uninstalled",        file: "routes/webhooks.app.uninstalled.tsx" },
   { path: "webhooks/shop/redact",            file: "routes/webhooks.shop.redact.tsx" },
 
-  { path: "healthz", file: "routes/healthz.ts" },
 ];
