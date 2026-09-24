@@ -121,6 +121,19 @@ td.note{color:var(--muted);font-size:13.5px}
 .note-card b{font-family:var(--display);font-size:18px;font-weight:600}
 .conf{font:500 12px var(--mono);color:var(--accent)}
 ul{margin:0;padding-left:20px;display:grid;gap:4px}
+
+.totals{display:flex;flex-wrap:wrap;gap:12px 28px;align-items:end}
+.totals b{display:block;font:600 34px var(--display);font-variant-numeric:tabular-nums}
+.totals span{font-size:13px;color:var(--muted)}
+.prices input{width:6.5em;font:14px var(--mono);padding:4px 6px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);text-align:right}
+.prices input:focus-visible,#reset:focus-visible,.bm:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.prices tr.edited input{border-color:var(--accent);background:var(--sheet)}
+.prices tr.edited .conf{color:var(--accent)}
+.prices .sum{text-align:right}
+.prices tr.subtot td{font-weight:600;background:var(--paper)}
+.bm{display:inline-block;font-size:12.5px;color:var(--accent);margin-left:6px;white-space:nowrap}
+#reset{font:500 14px var(--body);padding:8px 14px;border:1px solid var(--ink);background:var(--sheet);color:var(--ink);cursor:pointer}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 @media (max-width:640px){header{grid-template-columns:1fr}}
 </style>
 
@@ -238,6 +251,23 @@ ul{margin:0;padding-left:20px;display:grid;gap:4px}
   </table></div>
 </section>
 
+
+<section id="kalkyl">
+  <div class="eyebrow">Kostnad</div>
+  <h2>Priskalkyl</h2>
+  <p>Jag kunde inte hämta aktuella priser från Byggmax. Á-priserna nedan är mina uppskattningar och säkerheten för varje pris står i en egen kolumn. Skriv in priset från Byggmax i fältet så räknas summan om. Dina ändringar sparas i den här webbläsaren. Mängderna kommer från kaplistan och inköpslistan ovan.</p>
+  <div class="totals">
+    <div><b id="tot">–</b><span>summa material inkl. moms</span></div>
+    <div><b id="tot-changed">0 av 0</b><span>á-priser inskrivna av dig</span></div>
+    <div><button id="reset" type="button">Återställ uppskattningarna</button></div>
+  </div>
+  <div class="tbl"><table class="prices">
+    <thead><tr><th>Artikel</th><th>Mängd</th><th>Á-pris</th><th>Säkerhet</th><th>Summa kr</th></tr></thead>
+    <tbody>{{prices}}</tbody>
+  </table></div>
+  <p class="cap">Priserna gäller inklusive moms. Frakt, hyra av verktyg, grundarbete, el och eventuell kommunal avgift för anmälan ingår inte. Priserna för fönster, dörrar och kamin varierar mycket beroende på vilken modell du väljer.</p>
+</section>
+
 <section>
   <div class="eyebrow">Bastun</div>
   <h2>Att tänka på i bastun</h2>
@@ -253,3 +283,25 @@ ul{margin:0;padding-left:20px;display:grid;gap:4px}
 
 <p class="cap">Genererad från bastustuga/generate.py. Ändra måtten där och kör om skriptet för att räkna om kaplistan.</p>
 </div>
+
+<script>
+(function(){
+  const KEY='bastustuga-priser-v1';
+  let saved={}; try{saved=JSON.parse(localStorage.getItem(KEY)||'{}')||{}}catch(e){}
+  const rows=[...document.querySelectorAll('.prices tr[data-key]')];
+  const nf=new Intl.NumberFormat('sv-SE',{maximumFractionDigits:0});
+  rows.forEach(r=>{const i=r.querySelector('input'); if(saved[r.dataset.key]!=null) i.value=saved[r.dataset.key];
+    i.addEventListener('input',()=>{const v=i.value; if(v===''||+v===+i.dataset.def) delete saved[r.dataset.key]; else saved[r.dataset.key]=v;
+      try{localStorage.setItem(KEY,JSON.stringify(saved))}catch(e){} calc();});});
+  document.getElementById('reset').addEventListener('click',()=>{saved={}; try{localStorage.removeItem(KEY)}catch(e){}
+    rows.forEach(r=>{const i=r.querySelector('input'); i.value=i.dataset.def}); calc();});
+  function calc(){let t=0,ch=0;
+    rows.forEach(r=>{const i=r.querySelector('input'); const p=parseFloat(i.value)||0; const s=p*parseFloat(r.dataset.q);
+      t+=s; r.querySelector('.sum').textContent=nf.format(s);
+      const ed=(r.dataset.key in saved); r.classList.toggle('edited',ed); if(ed) ch++;
+      r.querySelector('.conf').textContent=ed?'ditt pris':r.querySelector('.conf').dataset.conf+'/10';});
+    document.getElementById('tot').textContent=nf.format(t)+' kr';
+    document.getElementById('tot-changed').textContent=ch+' av '+rows.length;}
+  calc();
+})();
+</script>

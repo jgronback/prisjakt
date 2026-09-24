@@ -437,7 +437,24 @@ def render(G):
     op_html = "".join(f"<tr><td class='num'><b>{a}</b></td><td>{escape(b)}</td><td>{c}</td><td class='num'>{d}</td>"
                       f"<td class='num'>{e}</td><td class='num'>{f_}</td></tr>" for a, b, c, d, e, f_ in op_rows)
 
+    from urllib.parse import quote
+    pr_rows, cur = [], None
+    for key, grp, name, q, unit, price, conf in G["PRICES"]:
+        if grp != cur:
+            pr_rows.append(f'<tr class="grp"><th colspan="5">{escape(grp)}</th></tr>')
+            cur = grp
+        search = quote(name.split(" (")[0].replace("F1 ", "").replace("F2 ", "").replace("D1 ", "").replace("D2 ", "").replace("D3 ", ""))
+        qs = fmt(q, 1) if isinstance(q, float) and q % 1 else fmt(q)
+        pr_rows.append(
+            f'<tr data-key="{key}" data-q="{q}" data-grp="{escape(grp)}"><td>{escape(name)} '
+            f'<a class="bm" href="https://www.byggmax.se/sok?q={search}" target="_blank" rel="noopener">Sök på Byggmax ↗</a></td>'
+            f"<td class='num'>{qs} {unit}</td>"
+            f'<td class="num"><label class="vh" for="p-{key}">Á-pris {escape(name)}</label>'
+            f'<input id="p-{key}" type="number" min="0" step="any" inputmode="decimal" value="{price}" data-def="{price}"> kr</td>'
+            f"<td class='num conf' data-conf='{conf}'>{conf}/10</td><td class='num sum'></td></tr>")
+    ctx_prices = "".join(pr_rows)
     ctx = dict(
+        prices=ctx_prices,
         plan=plan_svg, front=front_svg, back=back_svg, gable=gable_svg, sect=sect_svg, grund=grund_svg,
         fr_front=fr_front, fr_back=fr_back, fr_gable=fr_gable, fr_part=fr_part,
         cut="".join(cut_html), buy="".join(buy_html), mat="".join(mat_html), ops=op_html,

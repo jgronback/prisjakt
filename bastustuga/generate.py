@@ -255,6 +255,57 @@ def buy(dim):
 
 purchase = {d: buy(d) for d in STOCK}
 
+# ---------- Priskalkyl (uppskattade á-priser, redigeras på sidan) ----------
+# (nyckel, grupp, benämning, mängd, enhet, á-pris kr, säkerhet 1-10)
+def qty(prefix):
+    for g, m, q, u, _ in sheets:
+        if m.startswith(prefix):
+            return q
+    raise KeyError(prefix)
+
+def lpm(dim):
+    return round(purchase[dim][1] / 1000, 1)
+
+PRICES = [
+    ("v95", "Virke", "Regel 45x95 C24", lpm("45x95"), "m", 33, 6),
+    ("v145", "Virke", "Regel 45x145 C24", lpm("45x145"), "m", 52, 5),
+    ("v170", "Virke", "Regel 45x170 C24", lpm("45x170"), "m", 62, 4),
+    ("v70", "Virke", "Regel 45x70 (lavstomme)", lpm("45x70"), "m", 24, 4),
+    ("l2245", "Virke", "Läkt 22x45 (nätläkt, luftläkt, spikläkt)",
+     round(lpm("22x45") + qty("Luftläkt") + qty("Spikläkt"), 1), "m", 9, 5),
+    ("gp", "Virke", "Glespanel 28x70", lpm("28x70"), "m", 13, 4),
+    ("fb", "Virke", "Takfotsbräda/vindskiva 22x145", lpm("22x145"), "m", 26, 5),
+    ("lav", "Virke", "Lavbräda asp 28x90", lpm("28x90 asp/al"), "m", 60, 3),
+    ("plint", "Grund", "Betongplint", qty("Betongplint"), "st", 150, 4),
+    ("pbes", "Grund", "Justerbart plintbeslag", qty("Justerbart"), "st", 90, 4),
+    ("bsko", "Grund", "Balksko 45x170", qty("Balksko"), "st", 20, 5),
+    ("mu170", "Isolering", "Mineralull 170 mm", qty("Mineralull 170"), "m²", 80, 4),
+    ("mu145", "Isolering", "Mineralull 145 mm", qty("Mineralull 145"), "m²", 70, 4),
+    ("mu95", "Isolering", "Mineralull 95 mm", qty("Mineralull 95"), "m²", 45, 4),
+    ("vsg", "Skivor", "Vindskydd + gnagarnät under golv", qty("Vindskydd under"), "m²", 60, 3),
+    ("gsp", "Skivor", "Golvspånskiva 22 mm", round(floor_area * 1.1, 1), "m²", 130, 4),
+    ("vss", "Skivor", "Vindskyddsskiva 12 mm", round((gross_back + gross_front + 2 * gross_gable) * 1.1, 1), "m²", 60, 4),
+    ("sband", "Skivor", "Spikband 20x1 (vindstag)", qty("Diagonalstag"), "m", 6, 4),
+    ("yp", "Fasad", "Ytterpanel 22x145 obehandlad", qty("Ytterpanel"), "m", 25, 5),
+    ("hb", "Fasad", "Hörnbrädor och foder 22x95", qty("Hörnbrädor"), "m", 16, 4),
+    ("folie", "Insida", "Bastufolie aluminium", qty("Bastufolie"), "m²", 45, 4),
+    ("bp", "Insida", "Bastupanel asp 15x90", qty("Bastupanel"), "m", 40, 3),
+    ("pe", "Insida", "PE-folie 0,2 mm", qty("PE-folie"), "m²", 8, 5),
+    ("ip", "Insida", "Innerpanel gran ca 12x95", qty("Innerpanel"), "m", 13, 4),
+    ("bgolv", "Insida", "Bastugolv: våtrumsmatta + trätrall", qty("Bastugolv"), "m²", 450, 3),
+    ("rs", "Tak", "Råspont 20x95", qty("Råspont"), "m", 16, 5),
+    ("papp", "Tak", "Underlagspapp + ytpapp (båda lagren)", qty("Underlagspapp"), "m²", 110, 4),
+    ("plat", "Tak", "Takfotsplåt och vindskiveplåt", qty("Takfotsplåt"), "m", 80, 3),
+    ("f1", "Fönster och dörrar", "F1 Bastufönster 12x10, härdat, fast", 1, "st", 5000, 3),
+    ("f2", "Fönster och dörrar", "F2 Fönster 18x15", 1, "st", 6500, 3),
+    ("d1", "Fönster och dörrar", "D1 Ytterdörr 10x21", 1, "st", 6000, 3),
+    ("d2", "Fönster och dörrar", "D2 Balkongdörr 9x21", 1, "st", 8000, 3),
+    ("d3", "Fönster och dörrar", "D3 Bastudörr glas 8x19", 1, "st", 3500, 4),
+    ("kamin", "Bastu", "Vedkamin inkl. stenar", 1, "st", 10000, 3),
+    ("skorsten", "Bastu", "Skorsten, isolerad, med genomföring", 1, "st", 9000, 3),
+    ("fast", "Övrigt", "Skruv, spik, beslag, tejp, fogskum", 1, "st", 6000, 3),
+]
+
 # ---------- Kontrollutskrift ----------
 def report():
     print(f"Lutning {ANGLE:.2f}°  sekant {SEC:.5f}")
@@ -268,6 +319,9 @@ def report():
     print(f"Fasad netto {facade_net:.2f} m², tak {roof_area:.2f} m²")
     for p in pieces:
         print(p)
+    tot = sum(r[3] * r[5] for r in PRICES)
+    print(f"Summa {tot:.0f} kr")
+    for r in PRICES: print(r)
     for d, (c, t, w, n) in purchase.items():
         print(d, c, f"{t/1000:.1f} m köpt, spill {w/1000:.1f} m, {n} bitar")
 
