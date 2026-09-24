@@ -1,0 +1,255 @@
+<title>Bastustuga 2,5 × 6,0 m</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#F2F4F1; --sheet:#FBFCFA; --ink:#1B2220; --muted:#5C6763; --rule:#C8CFCA;
+  --wall:#2A3330; --wood:#D9B287; --wood2:#E9CFAE; --wood3:#C0925E; --woodline:#8A6238;
+  --glass:#BFD8E2; --glassline:#3E7C94; --insul:#F1E08A; --accent:#A8402F; --soft:#E6EAE6;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"Barlow","Helvetica Neue",Arial,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --paper:#131816; --sheet:#1A201E; --ink:#E3E8E5; --muted:#9BA7A1; --rule:#34403B;
+    --wall:#C9D2CD; --wood:#7A5A38; --wood2:#5C4630; --wood3:#94703F; --woodline:#D2A770;
+    --glass:#27495A; --glassline:#8CC3D8; --insul:#6B6128; --accent:#E07C62; --soft:#232B28;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --paper:#131816; --sheet:#1A201E; --ink:#E3E8E5; --muted:#9BA7A1; --rule:#34403B;
+  --wall:#C9D2CD; --wood:#7A5A38; --wood2:#5C4630; --wood3:#94703F; --woodline:#D2A770;
+  --glass:#27495A; --glassline:#8CC3D8; --insul:#6B6128; --accent:#E07C62; --soft:#232B28;
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:16px/1.55 var(--body);padding-inline:16px;padding-block:24px 64px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;gap:40px}
+h1,h2,h3{font-family:var(--display);font-weight:600;text-wrap:balance;margin:0;letter-spacing:.01em}
+h1{font-size:clamp(34px,6vw,56px);line-height:1}
+h2{font-size:30px;line-height:1.1}
+h3{font-size:21px;color:var(--muted);font-weight:500}
+p{margin:0;max-width:68ch}
+.eyebrow{font:600 13px var(--display);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+header{display:grid;grid-template-columns:1fr auto;gap:24px;align-items:end;border-bottom:2px solid var(--ink);padding-bottom:20px}
+.titleblock{display:grid;grid-template-columns:repeat(2,auto);border:1.5px solid var(--ink);font:13px var(--mono);background:var(--sheet)}
+.titleblock div{padding:6px 12px;border-right:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.titleblock div:nth-child(2n){border-right:0}
+.titleblock span{display:block;font:600 11px var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:0;border-top:1px solid var(--rule);border-left:1px solid var(--rule)}
+.facts div{padding:12px 14px;border-right:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.facts b{display:block;font:500 24px var(--display);font-variant-numeric:tabular-nums}
+.facts span{font-size:13px;color:var(--muted)}
+section{display:grid;gap:14px}
+.sheet{background:var(--sheet);border:1px solid var(--rule);padding:12px}
+.dwg-scroll{overflow-x:auto}
+svg.dwg{width:100%;height:auto;display:block}
+svg.dwg *{vector-effect:non-scaling-stroke}
+.narrow svg.dwg{max-width:760px;margin:0 auto}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr));gap:16px}
+.cap{font:13px var(--mono);color:var(--muted)}
+/* svg */
+.wall{fill:var(--wall)}
+.paper{fill:var(--sheet)}
+.ln{stroke:var(--ink);stroke-width:1.3;fill:none}
+.ln.thin{stroke-width:.7}
+.ln.slat{stroke:var(--woodline);stroke-width:.5}
+.glassl{stroke:var(--glassline);stroke-width:2.2}
+.leaf{stroke:var(--ink);stroke-width:1.6}
+.glassleaf{stroke:var(--glassline)}
+.swing{fill:none;stroke:var(--muted);stroke-width:.7;stroke-dasharray:4 3}
+.bench{fill:var(--wood2);stroke:var(--woodline);stroke-width:.8}
+.benchleg{fill:var(--wood);stroke:var(--woodline);stroke-width:.6}
+.stove{fill:var(--soft);stroke:var(--ink);stroke-width:1.2}
+.flue{fill:none;stroke:var(--ink);stroke-width:1}
+.dim{stroke:var(--ink);stroke-width:.6}
+.dim.tk{stroke-width:1.1}
+.dim.ext{stroke:var(--muted);stroke-width:.4}
+.dashed{stroke:var(--accent);stroke-width:.8;stroke-dasharray:6 4}
+.cut{stroke:var(--accent);stroke-width:2.2}
+text.t{fill:var(--ink);font-family:var(--display);font-weight:500}
+.dimt{font-family:var(--mono)!important;font-weight:400!important;font-variant-numeric:tabular-nums}
+.room{font-weight:700!important;letter-spacing:.06em}
+.lab2{fill:var(--muted)!important}
+.lab3{fill:var(--ink)!important;font-family:var(--body)!important;font-weight:400!important}
+.side{font-weight:600!important;letter-spacing:.1em;fill:var(--accent)!important}
+.cutt{fill:var(--accent)!important;font-weight:700!important}
+.tagbox{fill:var(--sheet);stroke:var(--accent);stroke-width:1.1}
+.tagt{fill:var(--accent)!important;font-weight:700!important}
+.tagt2{fill:var(--accent)!important;font-weight:700!important}
+.coord{font-family:var(--mono)!important;font-weight:400!important;fill:var(--muted)!important}
+.lvl{fill:var(--ink)}
+.lvlt{font-family:var(--mono)!important;font-weight:400!important}
+.ground{stroke:var(--ink);stroke-width:1.6}
+.groundfill{fill:var(--soft)}
+.plint{fill:var(--soft);stroke:var(--ink);stroke-width:.8}
+.plintc{fill:var(--soft);stroke:var(--ink);stroke-width:1.2}
+.clad{fill:var(--sheet);stroke:var(--ink);stroke-width:1.2}
+.board{stroke:var(--rule);stroke-width:.5}
+.fascia{fill:var(--wall);stroke:var(--ink);stroke-width:1}
+.roofplane{fill:var(--soft);stroke:var(--ink);stroke-width:1}
+.soffit{fill:var(--soft);stroke:var(--ink);stroke-width:.6}
+.trim{fill:var(--sheet);stroke:var(--ink);stroke-width:.8}
+.frame{fill:var(--sheet);stroke:var(--ink);stroke-width:1.2}
+.glass{fill:var(--glass);stroke:var(--glassline);stroke-width:.8}
+.doorleaf{fill:var(--soft);stroke:var(--ink);stroke-width:.8}
+.knob{fill:var(--ink)}
+.chim{fill:var(--soft);stroke:var(--ink);stroke-width:1}
+.chimcap{fill:var(--wall)}
+.cutwood{fill:var(--wood);stroke:var(--woodline);stroke-width:1}
+.cutwall{fill:var(--wood);stroke:var(--ink);stroke-width:1.2}
+.cladcut{fill:var(--wood2);stroke:var(--woodline);stroke-width:.6}
+.board2{fill:var(--wood2);stroke:var(--woodline);stroke-width:.6}
+.insul{fill:var(--insul);stroke:none;opacity:.85}
+.joist{fill:var(--wood2);stroke:var(--woodline);stroke-width:.8}
+.wood{fill:var(--wood);stroke:var(--woodline);stroke-width:.8}
+.wood2{fill:var(--wood2);stroke:var(--woodline);stroke-width:.8}
+.wood3{fill:var(--wood3);stroke:var(--woodline);stroke-width:.8}
+/* tabeller */
+.tbl{overflow-x:auto;border:1px solid var(--rule);background:var(--sheet)}
+table{border-collapse:collapse;width:100%;font-size:14.5px}
+th,td{padding:7px 12px;text-align:left;border-bottom:1px solid var(--rule);vertical-align:top}
+thead th{font:600 12px var(--display);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);background:var(--soft);position:sticky;top:0}
+tr.grp th{font:600 17px var(--display);background:var(--paper);padding-top:14px;letter-spacing:.02em}
+td.num{font-family:var(--mono);font-size:13.5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+td.note{color:var(--muted);font-size:13.5px}
+.notes{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr))}
+.note-card{border-left:3px solid var(--accent);background:var(--sheet);padding:12px 16px;display:grid;gap:4px}
+.note-card b{font-family:var(--display);font-size:18px;font-weight:600}
+.conf{font:500 12px var(--mono);color:var(--accent)}
+ul{margin:0;padding-left:20px;display:grid;gap:4px}
+@media (max-width:640px){header{grid-template-columns:1fr}}
+</style>
+
+<div class="wrap">
+<header>
+  <div style="display:grid;gap:10px">
+    <div class="eyebrow">Bygghandling · förslag</div>
+    <h1>Bastustuga 2,5 × 6,0 m</h1>
+    <p>Bastu 2,0 m med stort fönster, relax 4,0 m med stort fönster och balkongdörr mot framsidan. Entré från baksidan, bastun till vänster när man kommer in. Lätt regelstomme på plintar, pulpettak.</p>
+  </div>
+  <div class="titleblock">
+    <div><span>Skala</span>ca 1:50 (skärm)</div><div><span>Måttenhet</span>mm</div>
+    <div><span>Stomme</span>45x95 c/c 600</div><div><span>Taklutning</span>{{angle}}°</div>
+  </div>
+</header>
+
+<div class="facts">
+  <div><b>15,0 m²</b><span>byggnadsarea (stomme)</span></div>
+  <div><b>{{sauna}} m²</b><span>bastu, invändigt</span></div>
+  <div><b>{{relax}} m²</b><span>relax, invändigt</span></div>
+  <div><b>+{{ridge}}</b><span>högsta punkt över mark</span></div>
+  <div><b>{{ch_b}}–{{ch_f}}</b><span>takhöjd inne (bak–fram)</span></div>
+</div>
+
+<section>
+  <div class="eyebrow">Förutsättningar</div>
+  <h2>Antaganden och osäkerheter</h2>
+  <div class="notes">
+    <div class="note-card"><b>Tolkning av mått</b><p>2 500 × 6 000 är stommens yttermått (utan ytterpanel, ca +55 mm per sida). Bastun är 2 000 mm mätt från gavelns utsida till mellanväggens centrum.</p></div>
+    <div class="note-card"><b>Friggebod eller Attefall</b><p>Högsta punkt blir ca {{ridge}} mm. Friggebod får vara högst 3,0 m, så huset blir ett Attefallshus (max 30 m², 4,0 m) med anmälan och startbesked. Vedkamin kräver anmälan i båda fallen. Stäm av med kommunen.</p><span class="conf">Säkerhet 8/10</span></div>
+    <div class="note-card"><b>Inte en konstruktionsberäkning</b><p>Dimensionerna (takbalk 45x170 c/c 600 över 2,4 m, bjälkar 45x170 över 2,3 m) är normalt tilltagna för en liten stuga. Snözon och grundläggning på din tomt är inte kontrollerade.</p><span class="conf">Säkerhet 7/10</span></div>
+    <div class="note-card"><b>Mått att kontrollera mot leverantör</b><p>Karmöppningar är modul + 10 mm. Stäm av mot valda fönster och dörrar. Kontrollera även täckbredd på panel och råspont, lagerlängder på virke och takpappens minsta tillåtna lutning ({{angle}}°).</p><span class="conf">Säkerhet 6/10</span></div>
+  </div>
+</section>
+
+<section>
+  <div class="eyebrow">Ritning 1</div>
+  <h2>Planritning</h2>
+  <div class="sheet">{{plan}}</div>
+  <p class="cap">Framsidan är uppåt. Alla ytterdörrar är utåtgående (normalt i Sverige), bastudörren öppnas ut mot relaxen. Kaminen bör stå där kamintillverkarens säkerhetsavstånd går att hålla.</p>
+</section>
+
+<section>
+  <div class="eyebrow">Ritning 2</div>
+  <h2>Öppningar</h2>
+  <div class="tbl"><table>
+    <thead><tr><th>Id</th><th>Typ</th><th>Vägg</th><th>Karmöppning b × h</th><th>Bröstning</th><th>Läge</th></tr></thead>
+    <tbody>{{ops}}</tbody>
+  </table></div>
+  <p class="cap">Samma överkant (+2 110 över golv) på alla ytterdörrar och fönster. Fönster med underkant under 600 mm och glas i dörrar ska vara av säkerhetsglas. Bastufönstret ska vara härdat och tåla bastuvärme.</p>
+</section>
+
+<section>
+  <div class="eyebrow">Ritning 3</div>
+  <h2>Fasader</h2>
+  <h3>Framsida, fönstersidan</h3>
+  <div class="sheet">{{front}}</div>
+  <h3>Baksida, entré</h3>
+  <div class="sheet">{{back}}</div>
+  <h3>Gavel, bastusidan (andra gaveln spegelvänd)</h3>
+  <div class="sheet narrow">{{gable}}</div>
+  <h3>Sektion A–A genom bastun, sett mot vänster gavel</h3>
+  <div class="sheet">{{sect}}</div>
+  <p class="cap">Skorstenens höjd och genomföring i taket görs enligt kamintillverkaren och sotarens krav. Höjden i ritningen är ungefärlig.</p>
+</section>
+
+<section>
+  <div class="eyebrow">Ritning 4</div>
+  <h2>Grund och bjälklag</h2>
+  <div class="sheet">{{grund}}</div>
+  <p class="cap">Dubbla kantbalkar 2×45x170 längs långsidorna vilar på 10 plintar. Golvbjälkarna hängs i balkskor. Golvet ligger ca 400 mm över mark, vilket ger ca 200 mm luft under bjälkarna. Plintarna ska gå till tjälfritt djup eller stå på packad makadam.</p>
+</section>
+
+<section>
+  <div class="eyebrow">Ritning 5</div>
+  <h2>Väggstommar</h2>
+  <p>Vyerna visar väggarna sett utifrån. Siffrorna under varje regel anger regelns centrum: på långväggarna från vänster hörn i vyn, på gavlar och mellanvägg från baksidans utsida (samma mått som i kaplistan).</p>
+  <h3>A – Framsida (stomhöjd 2 700)</h3>
+  <div class="sheet">{{fr_front}}</div>
+  <h3>B – Baksida (stomhöjd 2 400)</h3>
+  <div class="sheet">{{fr_back}}</div>
+  <div class="two">
+    <div style="display:grid;gap:10px"><h3>C/D – Gavel, sett från bastusidan (2 st)</h3><div class="sheet">{{fr_gable}}</div></div>
+    <div style="display:grid;gap:10px"><h3>E – Mellanvägg sett från relaxen</h3><div class="sheet">{{fr_part}}</div></div>
+  </div>
+</section>
+
+<section>
+  <div class="eyebrow">Kapning</div>
+  <h2>Kaplista virke</h2>
+  <p>Längderna är färdigkapade mått. Snedkapade reglar anges med långsidans mått. Kapa gavel- och mellanväggsreglar mot ett snöre när hammarbanden på långväggarna sitter, eftersom små avvikelser i höjd annars följer med.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Del</th><th>Dimension</th><th>Längd mm</th><th>Antal</th><th>Anmärkning</th></tr></thead>
+    <tbody>{{cut}}</tbody>
+  </table></div>
+</section>
+
+<section>
+  <div class="eyebrow">Inköp</div>
+  <h2>Förslag på virkesinköp</h2>
+  <p>Kapbitarna är fördelade på vanliga lagerlängder med 5 mm sågspår. Lagerlängderna skiljer sig mellan bygghandlare. Lägg till 5–10 % i reserv.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Dimension</th><th>Köp</th><th>Totalt m</th><th>Spill m</th><th>Kapbitar</th></tr></thead>
+    <tbody>{{buy}}</tbody>
+  </table></div>
+</section>
+
+<section>
+  <div class="eyebrow">Inköp</div>
+  <h2>Skivor, isolering och övrigt</h2>
+  <p>Fasad netto {{facade}} m², takyta {{roof}} m² (takbalk {{rafter}} mm längs lutningen). Mängderna inkluderar spill.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Byggdel</th><th>Material</th><th>Mängd</th><th>Enhet</th><th>Anmärkning</th></tr></thead>
+    <tbody>{{mat}}</tbody>
+  </table></div>
+</section>
+
+<section>
+  <div class="eyebrow">Bastun</div>
+  <h2>Att tänka på i bastun</h2>
+  <ul>
+    <li>Ångspärren i bastun ska vara aluminiumfolie med folien mot rummet. Tejpa skarvarna med aluminiumtejp. Vanlig plastfolie klarar inte bastuvärme.</li>
+    <li>Ha en luftspalt (läkt 22 mm) mellan folien och bastupanelen.</li>
+    <li>Ventilation: tilluft lågt nära kaminen och frånluft högt på motsatt sida eller under överlaven. Följ kamintillverkarens anvisning.</li>
+    <li>Golvet under och framför kaminen ska vara obrännbart, till exempel plåt, sten eller klinker. Kaminen och stenarna kan väga 100–200 kg, därför finns en extra bjälke under kaminen.</li>
+    <li>Använd lavbräder av asp eller al utan kvist. Lavarna ska skruvas underifrån så att inga skruvar syns i sittytan.</li>
+    <li>Bygg ett skyddsräcke runt kaminen mot lavarna.</li>
+  </ul>
+</section>
+
+<p class="cap">Genererad från bastustuga/generate.py. Ändra måtten där och kör om skriptet för att räkna om kaplistan.</p>
+</div>
