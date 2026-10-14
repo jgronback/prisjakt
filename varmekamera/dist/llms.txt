@@ -1,0 +1,25 @@
+# Värmekamera
+
+> Svensk teknisk guide till värmekameror (termiska kameror): hur en värmekamera fungerar, vad sensor, NETD, optik och synfält betyder, skillnad mot mörkerkikare, regler i Sverige och köpråd för jakt. Sajten drivs av Nordic Aim AB (org.nr 559529-3126), svensk återförsäljare av termisk optik. Produktlänkar går till nordicaim.se.
+
+## Sidor
+
+- [Värmekamera: så fungerar den och så väljer du rätt | Värmekamera](https://www.varmekameror.se/): Så fungerar en värmekamera, förklarat från strålning till bild. Sensor, NETD, optik, räckvidd, regler i Sverige och köpguide för jakt. En sajt från Nordic Aim AB.
+- [Så fungerar en värmekamera: från strålning till bild, steg för steg](https://www.varmekameror.se/sa-fungerar-en-varmekamera.html): Exakt hur en värmekamera fungerar: infraröd strålning, germaniumlins, mikrobolometer, utläsning, NUC-kalibrering, bildbehandling och display. Med diagram och formler.
+- [Värmekamera: sensor, upplösning, pixelstorlek och NETD förklarat](https://www.varmekameror.se/sensor-och-upplosning.html): Vad 256, 384, 640 och 1024 pixlar betyder i en värmekamera, skillnaden mellan 12 och 17 µm, vad NETD mäter och varför 50 Hz spelar roll. Med uträknade tabeller.
+- [Värmekamera: brännvidd, synfält och räckvidd (detektion, igenkänning, identifiering)](https://www.varmekameror.se/optik-och-rackvidd.html): Så påverkar brännvidd och f-tal en värmekamera. Formler för synfält, tabeller för 10–60 mm och Johnsons kriterier för detektion, igenkänning och identifiering i meter.
+- [Värmekamera för jakt: spaning, åtel, eftersök och vad kameran måste klara](https://www.varmekameror.se/varmekamera-for-jakt.html): Så används värmekamera på jakt: spaning, åtel och vak, eftersök och inventering. Vilka krav varje situation ställer på synfält, brännvidd, sensor och avståndsmätare, och vad reglerna säger.
+- [Köpguide värmekamera för jakt 2026: prisklasser, checklista och modeller](https://www.varmekameror.se/kopguide.html): Vilken värmekamera ska du köpa? Prisklasser från 5 000 till 40 000 kr, checklista med tio punkter och modeller sorterade efter användning: skog, allround, öppna fält och multispektral.
+- [Värmekamera eller mörkerkikare? Termisk, digital IR och bildförstärkare jämförda](https://www.varmekameror.se/varmekamera-vs-morkerkikare.html): Skillnaden mellan värmekamera, digital mörkerkikare och bildförstärkare: fysiken, vad varje teknik ser och inte ser, en jämförelsetabell och när du ska välja vilken. Plus multispektrala kikare.
+- [Vad används en värmekamera till? Jakt, räddning, byggnad, industri och drönare](https://www.varmekameror.se/anvandningsomraden.html): Användningsområden för värmekamera: jakt och eftersök, räddningstjänst, byggnadstermografi, industri och el, drönare och mobiltillsatser. Varför kamerorna skiljer sig och vad som krävs i varje fall.
+- [Värmekamera: vanliga problem och lösningar (dimma, glas, klick, batteri, suddig bild)](https://www.varmekameror.se/problem.html): 13 vanliga problem med värmekamera förklarade: platt bild i regn, ser inte genom glas, klick och frusen bild (NUC), suddig bild, batteri i kyla, stråk, zoom och avstånd. Orsak och lösning för varje.
+- [Regler för värmekamera på jakt i Sverige: vad jaktförordningen säger](https://www.varmekameror.se/regler.html): Får man använda värmekamera på jakt? Handhållen spaning är oreglerad; på vapnet gäller 14 a § jaktförordningen: vildsvin, och termiska sikten bara i öppen terräng eller vid åtel. Lagtext, praktik och källor.
+- [Ordlista värmekamera: 60 begrepp förklarade (NETD, NUC, mikrobolometer, LWIR …)](https://www.varmekameror.se/ordlista.html): 60 begrepp om värmekameror förklarade: AGC, DDE, emissivitet, germanium, Johnsons kriterier, LWIR, mikrobolometer, NETD, NUC, palett, pixelstorlek, VOx med flera.
+- [Vanliga frågor om värmekamera: 16 korta svar](https://www.varmekameror.se/faq.html): Hur fungerar en värmekamera, hur långt ser den, får man jaga med den, 384 eller 640, vad är NETD, varför ser den inte genom glas, vad kostar en bra kamera. Korta svar med länkar till fördjupning.
+- [Om Värmekamera och Nordic Aim AB](https://www.varmekameror.se/om.html): Vem som står bakom Värmekamera: Nordic Aim AB, svensk återförsäljare av termisk optik. Hur vi arbetar med källor, vad länkarna betyder och hur du kontaktar oss.
+
+## Relaterat
+
+- [Värmesikte.se](https://www.varmesikte.se/): systersajt om termiska sikten för jakt
+- [Nordic Aim – värmekikare](https://nordicaim.se/collections/varmekikare): sortiment, priser och lagerstatus
+- [Nordic Aim – guider](https://nordicaim.se/blogs/nyheter): fördjupande artiklar om termisk optik

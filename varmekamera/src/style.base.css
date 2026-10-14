@@ -1,0 +1,374 @@
+/* Nordic Aim — self-hosted webfonts (latin subset). Source: Google Fonts.
+   Montserrat   → display / wordmark (matches the brand logotype)
+   Hanken Grotesk → body & UI text
+   JetBrains Mono → spec figures, SKUs, measurements */
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/montserrat-500.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/montserrat-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/montserrat-700.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('../fonts/montserrat-800.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/hanken-grotesk-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/hanken-grotesk-500.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/hanken-grotesk-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/hanken-grotesk-700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/jetbrains-mono-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/jetbrains-mono-500.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/jetbrains-mono-700.woff2') format('woff2');
+}
+
+/* Nordic Aim — Color tokens
+   Sampled directly from the brand signature logo:
+     gunmetal emblem  rgb(39,50,56)   #273238
+     wordmark ink     rgb(22,26,29)   #16191D
+     reticle green    rgb(1,174,85)   #01AE55   ← the signature accent
+   Mood reference: cool, misty dusk forest (the homepage hero). */
+
+:root {
+  /* ---- Gunmetal (brand dark / ink) — cool charcoal slate ---- */
+  --gunmetal-950: #0E1316;
+  --gunmetal-900: #16191D;  /* wordmark ink */
+  --gunmetal-800: #1C262B;
+  --gunmetal-700: #273238;  /* logo emblem field */
+  --gunmetal-600: #36444C;
+  --gunmetal-500: #4C5A62;
+
+  /* ---- Mist (cool neutral greys — drawn from the dusk sky / fog) ---- */
+  --mist-50:  #F6F8F9;
+  --mist-100: #EDF1F3;
+  --mist-200: #DFE5E8;
+  --mist-300: #CAD3D8;
+  --mist-400: #A7B3B9;
+  --mist-500: #7E8A91;
+  --mist-600: #5E6970;
+  --white:    #FFFFFF;
+
+  /* ---- Reticle green (signature accent) ---- */
+  --reticle-50:  #E7F7EF;
+  --reticle-100: #C6ECD8;
+  --reticle-300: #5FD194;
+  --reticle-400: #26C079;
+  --reticle-500: #01AE55;   /* exact brand green */
+  --reticle-600: #009149;   /* hover / pressed */
+  --reticle-700: #00713A;   /* deep, text on tint */
+
+  /* ---- Blaze (hunter orange — sparse highlight, never a primary action) ---- */
+  --blaze-50:  #FCEDE6;
+  --blaze-400: #F0743E;
+  --blaze-500: #EA5B23;
+  --blaze-600: #C9491A;
+
+  /* ---- Thermal ironbow (data-viz / hero overlay motif — nods to thermal optics) ---- */
+  --thermal-cold:  #1B1146;
+  --thermal-mid:   #C1276B;
+  --thermal-warm:  #F2701F;
+  --thermal-hot:   #F7D154;
+  --thermal-ironbow: linear-gradient(90deg, #0B0420 0%, #3A0E5C 22%, #C1276B 48%, #F2701F 72%, #F7D154 88%, #FFFBEA 100%); /* @kind color */
+
+  /* ---- Raw semantic hues ---- */
+  --green-600:  #009149;
+  --red-500:    #D23B3B;   /* sale price strike / errors */
+  --amber-500:  #E8A317;   /* warnings, in-stock-soon */
+  --steel-500:  #2E7FB8;   /* informational */
+
+  /* =========================================================
+     Semantic aliases — reference these in components
+     ========================================================= */
+  --brand:            var(--reticle-500);
+  --brand-hover:      var(--reticle-600);
+  --brand-ink:        var(--gunmetal-900);
+  --brand-tint:       var(--reticle-50);
+
+  --color-bg:         var(--white);
+  --color-bg-subtle:  var(--mist-50);
+  --color-bg-muted:   var(--mist-100);
+  --color-surface:    var(--white);
+  --color-surface-raised: var(--white);
+  --color-surface-inverse: var(--gunmetal-800);
+
+  --text-strong:  var(--gunmetal-900);
+  --text-body:    #2E3A41;
+  --text-muted:   var(--mist-600);
+  --text-faint:   var(--mist-500);
+  --text-on-dark: var(--mist-100);
+  --text-on-dark-muted: var(--mist-400);
+  --text-brand:   var(--reticle-700);
+
+  --border:        var(--mist-200);
+  --border-strong: var(--mist-300);
+  --border-inverse: rgba(255,255,255,.14);
+
+  --price:        var(--gunmetal-900);
+  --price-sale:   var(--red-500);
+
+  --success: var(--reticle-600);
+  --warning: var(--amber-500);
+  --danger:  var(--red-500);
+  --info:    var(--steel-500);
+
+  --focus-ring: 0 0 0 3px rgba(1,174,85,.34);
+  --overlay-scrim: rgba(14,19,22,.58);
+}
+
+/* Nordic Aim — Typography tokens
+   Display: Montserrat (geometric, matches the wordmark) — headings, hero, labels
+   Body/UI: Hanken Grotesk — running text, controls, prices
+   Mono:    JetBrains Mono — spec figures, SKUs, measurements (640×480, NETD, mm) */
+
+:root {
+  --font-display: 'Montserrat', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-sans:    'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono:    'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+
+  /* Weights */
+  --fw-regular: 400;  /* @kind font */
+  --fw-medium:  500;  /* @kind font */
+  --fw-semibold:600;  /* @kind font */
+  --fw-bold:    700;  /* @kind font */
+  --fw-display: 800; /* @kind font */ /* Montserrat ExtraBold — wordmark weight */
+
+  /* Type scale (1.250 major-third-ish, tuned) */
+  --text-3xs: 11px;
+  --text-2xs: 12px;
+  --text-xs:  13px;
+  --text-sm:  14px;
+  --text-md:  16px;   /* base body */
+  --text-lg:  18px;
+  --text-xl:  21px;
+  --text-2xl: 26px;
+  --text-3xl: 32px;
+  --text-4xl: 42px;
+  --text-5xl: 54px;
+  --text-6xl: 68px;
+
+  /* Line heights */
+  --leading-none:    1; /* @kind other */
+  --leading-tight:   1.12; /* @kind other */
+  --leading-snug:    1.28; /* @kind other */
+  --leading-normal:  1.5; /* @kind other */
+  --leading-relaxed: 1.65; /* @kind other */
+
+  /* Letter spacing — Montserrat sets tight at display sizes; labels track open */
+  --tracking-tight:  -0.02em; /* @kind other */
+  --tracking-snug:   -0.01em; /* @kind other */
+  --tracking-normal: 0; /* @kind other */
+  --tracking-wide:   0.04em; /* @kind other */
+  --tracking-label:  0.12em; /* @kind other */
+}
+
+/* Nordic Aim — Spacing, radius, shadow, border, motion, layout tokens */
+
+:root {
+  /* ---- Spacing (4px base grid) ---- */
+  --space-0:   0;
+  --space-1:   4px;
+  --space-2:   8px;
+  --space-3:   12px;
+  --space-4:   16px;
+  --space-5:   20px;
+  --space-6:   24px;
+  --space-8:   32px;
+  --space-10:  40px;
+  --space-12:  48px;
+  --space-16:  64px;
+  --space-20:  80px;
+  --space-24:  96px;
+  --space-32:  128px;
+
+  /* ---- Radii — restrained / technical; optics gear isn't bubbly ---- */
+  --radius-xs:   3px;
+  --radius-sm:   5px;
+  --radius-md:   8px;
+  --radius-lg:   12px;
+  --radius-xl:   16px;
+  --radius-2xl:  22px;
+  --radius-pill: 999px;
+  --radius-circle: 50%;
+
+  /* ---- Borders ---- */
+  --border-width: 1px; /* @kind spacing */
+  --border-width-strong: 1.5px; /* @kind spacing */
+  --border: var(--border-width) solid var(--border, #DFE5E8); /* @kind other */
+
+  /* ---- Shadows — cool gunmetal-tinted, soft and low; never inky-black ---- */
+  --shadow-xs:  0 1px 2px rgba(20,30,36,.06);
+  --shadow-sm:  0 1px 2px rgba(20,30,36,.06), 0 2px 6px rgba(20,30,36,.06);
+  --shadow-md:  0 2px 4px rgba(20,30,36,.05), 0 6px 16px rgba(20,30,36,.09);
+  --shadow-lg:  0 8px 28px rgba(20,30,36,.12), 0 2px 6px rgba(20,30,36,.06);
+  --shadow-xl:  0 18px 48px rgba(14,19,22,.20);
+  --shadow-focus: var(--focus-ring);
+  /* subtle inset for inputs / wells */
+  --shadow-inset: inset 0 1px 2px rgba(20,30,36,.07);
+
+  /* ---- Motion — quick, grounded, no bounce ---- */
+  --ease-out:   cubic-bezier(.2,.7,.2,1); /* @kind other */
+  --ease-in-out:cubic-bezier(.45,.05,.2,1); /* @kind other */
+  --dur-fast:   120ms; /* @kind other */
+  --dur-base:   180ms; /* @kind other */
+  --dur-slow:   280ms; /* @kind other */
+
+  /* ---- Layout ---- */
+  --container:    1240px; /* @kind spacing */
+  --container-narrow: 760px; /* @kind spacing */
+  --header-height: 72px; /* @kind spacing */
+
+  /* ---- Z-index ---- */
+  --z-base: 1; /* @kind other */
+  --z-sticky: 100; /* @kind other */
+  --z-header: 200; /* @kind other */
+  --z-dropdown: 300; /* @kind other */
+  --z-overlay: 400; /* @kind other */
+  --z-modal: 500; /* @kind other */
+  --z-toast: 600; /* @kind other */
+}
+
+/* Nordic Aim — Base element styles (consumer reset + brand defaults).
+   Foundational, token-driven. Keep this light — components own their own look. */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: var(--text-md);
+  line-height: var(--leading-normal);
+  font-weight: var(--fw-regular);
+  color: var(--text-body);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-display);
+  color: var(--text-strong);
+  font-weight: var(--fw-bold);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-tight);
+  margin: 0 0 var(--space-4);
+  text-wrap: balance;
+}
+h1 { font-size: var(--text-5xl); font-weight: var(--fw-display); }
+h2 { font-size: var(--text-3xl); }
+h3 { font-size: var(--text-2xl); }
+h4 { font-size: var(--text-xl); letter-spacing: var(--tracking-snug); }
+
+p { margin: 0 0 var(--space-4); text-wrap: pretty; }
+
+a { color: var(--text-brand); text-decoration: none; }
+a:hover { color: var(--reticle-600); text-decoration: underline; text-underline-offset: 2px; }
+
+small { font-size: var(--text-sm); }
+code, kbd, samp { font-family: var(--font-mono); font-size: 0.9em; }
+
+:focus-visible { outline: none; box-shadow: var(--focus-ring); border-radius: var(--radius-sm); }
+
+::selection { background: var(--reticle-100); color: var(--gunmetal-900); }
+
+hr { border: none; border-top: var(--border-width) solid var(--border); margin: var(--space-8) 0; }
+
+/* Brand utility: uppercase tracked eyebrow/kicker label */
+.na-eyebrow {
+  font-family: var(--font-display);
+  font-weight: var(--fw-bold);
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--text-brand);
+}
+
+/* Brand utility: spec figure */
+.na-spec {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+
+    html,body{margin:0;padding:0;background:var(--mist-50);color:var(--text-body);font-family:var(--font-sans);-webkit-font-smoothing:antialiased}
+    a{color:var(--reticle-700);text-decoration:none}
+    a:hover{color:var(--reticle-600);text-decoration:underline}
+    h1,h2,h3,h4{margin:0;font-family:var(--font-display);color:var(--text-strong);letter-spacing:-0.02em;text-wrap:balance}
+    p{margin:0;text-wrap:pretty}
+    @media (prefers-reduced-motion: reduce){*{transition:none!important}}
+  
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font-family:var(--font-sans);font-weight:600;border-radius:8px;border:1px solid transparent;text-decoration:none;cursor:pointer;transition:background 120ms cubic-bezier(.2,.7,.2,1),transform 120ms;white-space:nowrap;box-sizing:border-box}
+.btn:hover{text-decoration:none}.btn:active{transform:translateY(1px)}.btn:focus-visible{outline:none;box-shadow:var(--focus-ring)}
+.btn-sm{height:36px;padding:0 14px;font-size:14px}.btn-md{height:40px;padding:0 18px;font-size:15px}.btn-lg{height:48px;padding:0 24px;font-size:16px}
+.btn-primary{background:var(--reticle-500);color:var(--gunmetal-900)}.btn-primary:hover{background:var(--reticle-400);color:var(--gunmetal-900)}
+.btn-secondary{background:var(--gunmetal-800);color:#fff}.btn-secondary:hover{background:var(--gunmetal-900);color:#fff}
+.btn-full{width:100%}
+details>summary::-webkit-details-marker{display:none}
+@media (max-width:820px){.hero-grid{grid-template-columns:1fr!important}.quick-grid{grid-template-columns:1fr!important}.cmp-grid{grid-template-columns:1fr!important;font-size:14px}.hero-grid>div:last-child{min-height:300px!important}}
+.h1:hover{background:var(--mist-100);text-decoration:none}
+.h2:hover{background:rgba(255,255,255,.08);text-decoration:none}
+.h3:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(22,25,29,.12)}
+.h4:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(22,25,29,.12);text-decoration:none}
