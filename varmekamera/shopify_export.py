@@ -55,8 +55,12 @@ ARTICLES = {
         "Vanliga frågor om värmekameror: 15 korta svar", ["FAQ", "Värmekamera", "Värmekikare"],
         None, None),
 }
-LINKMAP = {s: f"/blogs/nyheter/{h}" for s, (h, *_r) in ARTICLES.items()}
+MERGED = ["sa-fungerar-en-varmekamera.html", "sensor-och-upplosning.html", "optik-och-rackvidd.html"]
+MERGED_HANDLE = "sa-fungerar-en-varmekamera"
+LINKMAP = {s: f"/blogs/nyheter/{h}" for s, (h, *_r) in ARTICLES.items() if s not in MERGED[1:]}
 LINKMAP.update({
+    "sensor-och-upplosning.html": f"/blogs/nyheter/{MERGED_HANDLE}#del-2",
+    "optik-och-rackvidd.html": f"/blogs/nyheter/{MERGED_HANDLE}#del-3",
     "index.html": "/blogs/nyheter/sa-fungerar-en-varmekamera",
     "om.html": "/pages/om-oss",
     "integritet.html": "/policies/privacy-policy",
@@ -118,10 +122,12 @@ def convert(slug: str) -> dict:
     main = re.sub(r'<p style="font-size:15px;color:var\(--text-muted\)">Länkarna går till nordicaim\.se\..*?</p>', '', main, flags=re.S)
     # enkla citattecken i href -> dubbla, så att länkmappningen nedan fungerar
     main = re.sub(r"href='([^']*)'", r'href="\1"', main)
+    # rader som bara leder vidare mellan sajtens sidor
+    main = re.sub(r'<p>(?:Fortsättning|Nästa sida): .*?</p>', '', main, flags=re.S)
     # interna länkar
     for s, target in LINKMAP.items():
-        for q in ('"', "'"):
-            main = main.replace(f'href={q}{s}{q}', f'href="{target}"').replace(f'href={q}{s}#', f'href="{target}#')
+        base = target.split("#")[0]
+        main = main.replace(f'href="{s}"', f'href="{target}"').replace(f'href="{s}#', f'href="{base}#')
     # länkar till nordicaim.se: relativa, utan ref, utan target/rel
     main = re.sub(r'href="https://nordicaim\.se(/[^"?]*)\?ref=varmekamera" target="_blank" rel="noopener(?: sponsored)?"', r'href="\1"', main)
     main = re.sub(r'href="https://nordicaim\.se/\?ref=varmekamera" target="_blank" rel="noopener(?: sponsored)?"', 'href="/"', main)
@@ -147,10 +153,69 @@ def convert(slug: str) -> dict:
     }
 
 
+PART_H2 = '<h2 id="{id}" style="font-size:32px;font-weight:800;margin-top:24px;padding-top:32px;border-top:2px solid var(--mist-200)">{t}</h2>'
+PARTS = [  # (ankare, rubrik, ingress)
+    ("del-1", "Del 1. Från strålning till bild, steg för steg", ""),
+    ("del-2", "Del 2. Sensor, upplösning och NETD: vad siffrorna betyder",
+     "384 eller 640? 12 eller 17 µm? 18 eller 25 mK? Här är vad varje tal gör med bilden, med uträknade exempel."),
+    ("del-3", "Del 3. Objektiv, synfält och räckvidd: räkna om siffrorna till meter",
+     "Brännvidden är den enskilt viktigaste siffran på en värmekamera. Här går vi igenom vad den gör, hur synfältet beräknas och vad \u2019detektion upp till 1 800 m\u2019 faktiskt betyder."),
+]
+
+
+def _part_body(slug: str, demote: bool = True) -> tuple[str, str, list]:
+    """Returnerar (ingress, kropp utan hero, [(id, rubrik)]) för en av de tre sidorna."""
+    a = convert(slug)
+    body = a["body"]
+    hero = re.search(r'^<section style="margin:0 0 24px"><div style="display:flex;flex-direction:column;gap:16px">(.*?)</div></section>', body, re.S)
+    lead = re.search(r'<p style="font-size:18px;[^"]*">(.*?)</p>', hero.group(1), re.S).group(1)
+    body = body[hero.end():]
+    # länkar till de två inbakade sidorna blir ankare i samma artikel
+    body = re.sub(r'href="/blogs/nyheter/' + MERGED_HANDLE + r'(#[^"]*)?"', lambda m: f'href="{m.group(1) or "#del-1"}"', body)
+    body = body.replace("i <a href=\"#del-2\">", "i avsnittet <a href=\"#del-2\">").replace("i <a href=\"#del-3\">", "i avsnittet <a href=\"#del-3\">")
+    body = body.replace('se <a href="#upplosning">sensorsidan</a>', 'se <a href="#upplosning">avsnittet om upplösning</a>')
+    toc = [(m.group(1), re.sub(r'<[^>]+>', '', m.group(2))) for m in re.finditer(r'<section id="([^"]+)"[^>]*><h2[^>]*>(.*?)</h2>', body, re.S)]
+    if demote:
+        body = re.sub(r'<h2 style="font-size:28px;font-weight:800">', '<h3 style="font-size:24px;font-weight:800">', body)
+        body = re.sub(r'<h2 style="font-size:28px;font-weight:800">(.*?)</h2>', r'<h3 style="font-size:24px;font-weight:800">\1</h3>', body, flags=re.S)
+        body = re.sub(r'</h2>', '</h3>', body)
+    return lead, body, toc
+
+
+def merged() -> dict:
+    handle, title, tags, image, alt = ARTICLES[MERGED[0]]
+    tags = list(dict.fromkeys(tags + [t for s in MERGED[1:] for t in ARTICLES[s][2]]))
+    desc = re.search(r'<meta name="description" content="([^"]*)"', open(os.path.join(DIST, MERGED[0]), encoding="utf-8").read()).group(1)
+    parts = [_part_body(s) for s in MERGED]
+    lead0 = parts[0][0]
+    # innehållsförteckning
+    toc = '<nav aria-label="Innehåll" style="border:1px solid var(--mist-200);border-radius:12px;padding:20px 24px;background:#fff"><p style="font-weight:700;margin:0 0 8px">Innehåll</p><ol style="margin:0;padding-left:20px;display:flex;flex-direction:column;gap:4px">'
+    for (pid, ptitle, _), (_, _, sub) in zip(PARTS, parts):
+        toc += f'<li><a href="#{pid}"><strong>{ptitle}</strong></a><ul style="padding-left:18px;margin:4px 0 8px;display:flex;flex-direction:column;gap:2px;font-size:15px">'
+        toc += "".join(f'<li><a href="#{sid}">{st}</a></li>' for sid, st in sub) + "</ul></li>"
+    toc += "</ol></nav>"
+    body = f'<section style="margin:0 0 24px"><div style="display:flex;flex-direction:column;gap:16px"><p style="font-size:18px;line-height:1.55;color:var(--text-muted)">{lead0}</p>{toc}</div></section>'
+    for (pid, ptitle, intro), (lead, pbody, _) in zip(PARTS, parts):
+        body += PART_H2.format(id=pid, t=ptitle)
+        if intro:
+            body += f'<p style="font-size:18px;line-height:1.55;color:var(--text-muted)">{intro}</p>'
+        body += pbody
+    body = re.sub(r'>\s+<', '><', body)
+    return {"slug": MERGED[0], "handle": handle, "title": title, "tags": tags,
+            "summary": f"<p>{html.escape(desc, quote=False)}</p>",
+            "image": ({"url": image, "altText": alt} if image else None), "body": body, "leftovers": []}
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
+    for old in MERGED[1:]:
+        f = os.path.join(OUT, ARTICLES[old][0] + ".json")
+        if os.path.exists(f):
+            os.remove(f)
     for slug in ARTICLES:
-        a = convert(slug)
+        if slug in MERGED[1:]:
+            continue
+        a = merged() if slug == MERGED[0] else convert(slug)
         with open(os.path.join(OUT, a["handle"] + ".json"), "w", encoding="utf-8") as f:
             json.dump({"blogId": BLOG_ID, "handle": a["handle"], "title": a["title"], "tags": a["tags"],
                        "summary": a["summary"], "image": a["image"], "body": a["body"],
