@@ -15,26 +15,26 @@ def _p(brand, kind, name, text, img, alt, specs, handle):
 def jakt() -> dict:
     chips = [("#spaning", "Spaning"), ("#atel", "Åtel och vak"), ("#eftersok", "Eftersök"), ("#inventering", "Inventering"), ("#kikare-sikte", "Kikare eller sikte"), ("#teknik", "Teknik i fält")]
     body = page_hero("Värmekamera för jakt", "Värmekamera på jakt: spaning, åtel, eftersök och inventering",
-                     "En handhållen värmekamera (värmekikare) är det hjälpmedel som förändrat svensk vildsvinsjakt mest på tjugo år. Här går vi igenom vad kameran ska klara i varje situation, och vad som är marknadsföring.", chips)
+                     "Här går vi igenom vad en handhållen värmekamera (värmekikare) ska klara i varje jaktsituation, och vilka siffror som bara är marknadsföring.", chips)
     body += '<div style="max-width:820px;margin:0 auto;padding:40px 24px 0">' + short_answer(
         "För jakt används värmekameran framför allt handhållen, för att hitta och bedöma vilt i mörker innan skottet, för att söka av marker och för att lokalisera skadat vilt vid eftersök. Att spana med värmekamera är inte reglerat i jaktförordningen; monterad på vapnet (värmesikte) får den enligt 14 a § bara användas vid jakt på vildsvin, och termiska sikten bara i öppen terräng eller vid åtel. För skog och korta håll räcker 256–384 pixlar och 10–25 mm; för öppna fält behövs 640 pixlar, 35–50 mm och gärna avståndsmätare."
     ) + "</div>"
     body += article_open()
-    body += sec("spaning", "Spaning: hitta djuret innan det hittar dig", f'''
+    body += sec("spaning", "Spaning: hitta djuret i mörker", f'''
         <p>Det klassiska användningsområdet. Du sitter på pass eller går sakta i skogskanten, lyfter kameran med jämna mellanrum och söker av terrängen. Ett däggdjur med 37–39 °C kroppstemperatur lyser mot en bakgrund som på hösten ligger 20–30 grader lägre. Du ser rådjuret i dikesrenen hundra meter innan det hade varit möjligt med ögat, och du ser det utan att lysa, prassla eller röra dig.</p>
         <p>Kraven på kameran vid spaning:</p>
         {ul([
             "<strong>Brett synfält</strong> så att du täcker marken med få drag. 384/25 mm (ca 18 m på 100 m) eller 640/35 mm (ca 22 m) är bra kompromisser.",
             "<strong>Låg grundförstoring</strong> (1–2,5×) så att bilden är lätt att orientera sig i och du hittar tillbaka till djuret.",
-            "<strong>Snabb start.</strong> Från avstängd eller standby till bild på under två sekunder. Rådjuret väntar inte på en bootsekvens.",
+            "<strong>Snabb start.</strong> Från avstängd eller standby till bild på under två sekunder. Rådjuret väntar inte på att kameran ska starta.",
             "<strong>Enhandsgrepp med handske.</strong> Du håller vapnet i andra handen.",
             "<strong>Lugn bild.</strong> 50 Hz och bra brusreducering gör att du kan hålla kameran uppe länge utan att tröttna.",
         ])}
-        <p>Spaningskameran är också den som förändrat etiken mest. Många avstår skott de hade tagit för tio år sedan, för att de nu ser att det står ett andra djur bakom, eller att "grisen" är ett rådjur.</p>
+        <p>Spaningskameran ger också underlag för att avstå: du ser om det står ett andra djur bakom, eller om "grisen" är ett rådjur.</p>
     ''')
-    body += sec("atel", "Åtel och vak: bedöma, inte bara upptäcka", f'''
+    body += sec("atel", "Åtel och vak: bedöma djuret, inte bara hitta det", f'''
         <p>På åteln är avstånden kända och korta (30–80 m). Kameran används för att se vad som kommer, i vilken ordning, och för att avgöra om det är en kulting, en gylta eller en sugga med kultingar bakom sig. Här räcker nästan vilken 384-kamera som helst för själva upptäckten; det som skiljer är bedömningen. Fler pixlar på djuret (640-sensor eller längre brännvidd) ger säkrare bedömning av storlek och kön, och bra bildbehandling gör att du ser spenar och kroppsform i stället för en vit siluett.</p>
-        <p>På vak över öppna fält med 100–300 m kastar om kraven: nu är det brännvidden (50 mm) och avståndsmätaren som gör jobbet, och synfältet blir mindre viktigt eftersom du vet var fältet är.</p>
+        <p>På vak över öppna fält med 100–300 m är kraven de omvända: nu är det brännvidden (50 mm) och avståndsmätaren som gör jobbet, och synfältet blir mindre viktigt eftersom du vet var fältet är.</p>
         {callout("Kameran och vapnet", f"Många jagar med värmekamera i handen och ett vanligt kikarsikte eller digitalt mörkersikte på vapnet. Andra har termiskt sikte på vapnet och spanar med kameran. Spaningskameran är i båda fallen den som används mest, eftersom den har bredare synfält och inte kräver att vapnet lyfts. Reglerna för siktet på vapnet står på sidan <a href='regler.html'>Regler</a>. Jämförelsen mellan de två vägarna finns hos Nordic Aim: {nalink('/blogs/nyheter/varmekikare-eller-varmesikte-forst', 'Värmekikare eller värmesikte först?')}", "grey")}
     ''')
     body += sec("eftersok", "Eftersök: hitta ett skadat djur, och veta när kameran inte räcker", f'''
@@ -61,7 +61,7 @@ def jakt() -> dict:
             ["Byta vapen", "Oberoende av vapen", "Ett sikte per vapen eller ny inskjutning", "Flyttas med adapter"],
             ["Pris", "Från ca 5 000 kr", "Från ca 15 000 kr", "Från ca 20 000 kr"],
         ], mono_first=False)}
-        <p>Nästan alla börjar med den handhållna kameran, eftersom den gör mest nytta per krona och är fri att använda. Om termiska sikten och clip-on skriver vår systersajt {ext(SISTER + "/", "Värmesikte.se")} i detalj.</p>
+        <p>Den handhållna kameran är det naturliga första köpet: mest nytta per krona och fri att använda. Om termiska sikten och clip-on skriver vår systersajt {ext(SISTER + "/", "Värmesikte.se")} i detalj.</p>
     ''')
     body += sec("teknik", "Teknik i fält: tio vanor som ger bättre bild", f'''
         {ol([
@@ -74,7 +74,7 @@ def jakt() -> dict:
             "Bär reservbatteriet innanför jackan. Kyla halverar kapaciteten.",
             "Stäng av Wi-Fi när du inte streamar. Det drar mer än displayen.",
             "Bestäm din identifieringsgräns i dagsljus mot kända djur, med din kamera.",
-            "Ladda ner inspelningarna. En kamera med fullt minne på vaken är en kamera utan video när du behövde den.",
+            "Ladda ner inspelningarna. Fullt minne på vaken betyder ingen video när det händer.",
         ])}
         <p>Problem som ändå uppstår, med orsak och lösning, finns på sidan <a href="problem.html">Problem</a>. Vilken kamera som passar, på <a href="kopguide.html">Köpguide</a>.</p>
     ''')
@@ -101,17 +101,17 @@ def kopguide() -> dict:
     body += article_open()
     body += sec("prisklasser", "Vad pengarna köper", f'''
         {table(["Prisklass", "Typisk spec", "Får du", "Får du inte"], [
-            ["5 000–10 000 kr", "256×192 eller 384×288, 10–19 mm, inbyggt batteri", "Kompakt, snabb, fokusfri, bra i skog och på gården. Detektion 400–800 m.", "Detalj på håll, bytbart batteri, LRF. Ofta enklare display."],
+            ["5 000–10 000 kr", "256×192 eller 384×288, 10–19 mm, inbyggt batteri", "Kompakt, startar snabbt, fokusfri. Bra i skog och på gården. Detektion 400–800 m.", "Detalj på håll, bytbart batteri, LRF. Ofta enklare display."],
             ["10 000–20 000 kr", "384/25–35 mm eller 640/25 mm, OLED, ofta bytbart batteri", "Allround för åtel, skogspass, eftersök och mindre fält. NETD 15–25 mK.", "Riktigt lång räckvidd; LRF bara på vissa modeller."],
             ["20 000–35 000 kr", "640×512 35–50 mm, LRF, NETD ≤20 mK, 1024×768 AMOLED", "Öppna fält, bedömning på 200–300 m, inspelning, modulära batterier.", "Lägre vikt. Dessa väger 400–600 g."],
-            ["35 000 kr+", "1024–1280 pixlar, 50 mm+, LRF, multispektral", "Bredast synfält och längst detalj samtidigt. Inventering, stora slätter.", "Ett skäl om du jagar i skog."],
+            ["35 000 kr+", "1024–1280 pixlar, 50 mm+, LRF, multispektral", "Bredast synfält och längst detalj samtidigt. Inventering, stora slätter.", "Nytta i skog. Där räcker en kortare brännvidd."],
         ], mono_first=False)}
         <p>Priserna är ungefärliga intervall för handhållna värmekameror i Sverige hösten 2026. Enskilda modeller kan ligga utanför.</p>
     ''')
     body += sec("checklista", "Checklista innan du bestämmer dig", f'''
         {ol([
             "<strong>Var jagar du mest?</strong> Tät skog → kort brännvidd och brett synfält. Fält → lång brännvidd och LRF. Blandat → 35 mm.",
-            "<strong>Söker du av stora ytor?</strong> Då betalar 640-sensorn för sig i färre drag och mer zoomutrymme. Annars räcker 384.",
+            "<strong>Hur stora ytor söker du av?</strong> Då betalar 640-sensorn för sig i färre drag och mer zoomutrymme. Annars räcker 384.",
             "<strong>Hur är vädret där du jagar?</strong> Fuktigt kustklimat och dimmiga dalar → prioritera NETD under 20 mK.",
             "<strong>Hur länge sitter du?</strong> Över fyra timmar i kyla → bytbart batteri eller powerbank-stöd är viktigare än timsiffran.",
             "<strong>Enhands?</strong> Prova med handske. Knappar, fokusring och vikt (under 400 g för långa pass).",
@@ -119,19 +119,19 @@ def kopguide() -> dict:
             "<strong>Bildbehandling.</strong> Titta på en blöt väg i kvällsljus med två kameror sida vid sida. Det säger mer än databladet.",
             "<strong>Kalibrering.</strong> Manuell NUC eller slutarfri om du irriterar dig på klick.",
             "<strong>Inspelning och app.</strong> Internminne, Wi-Fi och stabil app om du vill dela eller dokumentera.",
-            "<strong>Support och garanti.</strong> Svensk återförsäljare med lager, öppet köp och svenska manualer. Termisk optik går sönder sällan, men när det händer vill du inte skicka den till ett annat land.",
+            "<strong>Support och garanti.</strong> Svensk återförsäljare som skickar från Sverige, öppet köp och svenska manualer. Termisk optik går sönder sällan, men när det händer vill du inte skicka den till ett annat land.",
         ])}
     ''')
-    body += sec("under-10", "Under 10 000 kr: fickkameror och insteg", f'''
-        <p>Här är kamerorna små, fokusfria eller nästan, och byggda för att vara med. 256×192 med 9–10 mm objektiv ger ett synfält på runt 30 m på 100 m och artbestämning på vildsvin kring 100 m. 384-modeller med 15–19 mm sträcker det till 150–250 m. Det räcker för skog, åtel på nära håll, hunden i mörkret och eftersök. Det räcker inte för att bedöma djur över en stor åker.</p>
+    body += sec("under-10", "Under 10 000 kr: fickformat och instegsmodeller", f'''
+        <p>Här är kamerorna små, fokusfria eller nästan, och byggda för att alltid ligga i fickan. 256×192 med 9–10 mm objektiv ger ett synfält på runt 30 m på 100 m och artbestämning på vildsvin kring 100 m. 384-modeller med 15–19 mm sträcker det till 150–250 m. Det räcker för skog, åtel på nära håll, hunden i mörkret och eftersök. Det räcker inte för att bedöma djur över en stor åker.</p>
         {card_grid([
-            _p("HIKMICRO", "Fickformat", "Lynx LE10 3.0", "256×192 på 12 µm, 9,7 mm f/1.0 fokusfri, 18° synfält, slutarfri drift (HSIS). Insteget som inte känns som ett insteg.",
+            _p("HIKMICRO", "Fickformat", "Lynx LE10 3.0", "256×192 på 12 µm, 9,7 mm f/1.0 fokusfri, 18° synfält, slutarfri drift (HSIS). 64 GB internminne och video med ljud.",
                "800q-01_135695.png?v=1769171478", "HIKMICRO Lynx LE10 3.0 värmekamera", ["256×192", "9,7 mm", "<20 mK"], "hikmicro-lynx-le10-3-0-termisk-monokikare"),
             _p("Guide", "Fickformat", "TE210S", "256×192, NETD 15 mK, 10 mm f/1.0, 31 m synfält på 100 m, 228 g, IP67. En knapp och en ring, går att sköta med handske.",
                "TE210S_1.jpg?v=1791396845", "Guide TE210S värmekikare", ["256×192", "15 mK", "228 g"], "guide-te210s-256x192-10-mm-varmekikare"),
-            _p("RIX", "Kompakt 384", "Pocket K3", "384×288 på 12 µm, 15 mm f/1.0, 17,5° synfält och elektronisk bildstabilisering. Fickformat med riktig sensor.",
+            _p("RIX", "Kompakt 384", "Pocket K3", "384×288 på 12 µm, 15 mm f/1.0, 17,5° synfält och elektronisk bildstabilisering. 384-sensor i fickformat.",
                "K3.jpg?v=1778936911", "RIX Pocket K3 termisk monokikare", ["384×288", "15 mm", "EIS"], "rix-pocket-k3-384x288-termisk-monokikare-med-bildstabilisering"),
-            _p("PixFra", "Allround-insteg", "Mile M2 384×288 25 mm", "384-sensor, 25 mm f/1.0, OLED 800×600, 320 g och IP67. Det mesta av mellanklassen till instegspris.",
+            _p("PixFra", "Allround", "Mile M2 384×288 25 mm", "384-sensor, 25 mm f/1.0, OLED 800×600, 320 g och IP67. Det mesta av mellanklassen till instegspris.",
                "PIX-PFI-M425___Pixfra-Mile-2-M425-Thermal-Imaging-Monocular.png?v=1766943659", "PixFra Mile M2 384×288 25 mm värmekikare", ["384×288", "25 mm", "≤25 mK"], "pixfra-mile-m2-384x288-25-mm-varmekamera"),
         ])}
     ''')
@@ -142,7 +142,7 @@ def kopguide() -> dict:
                "Axion_XQ19_Compact_0001_d7b2d958-7163-4f11-b809-73eb9cd9cd40.webp?v=1766941790", "Pulsar Axion XQ19 Compact värmekamera", ["384×288", "19 mm", "<18 mK"], "pulsar-axion-xq19-compact-384x288-varmekamera"),
             _p("HIKMICRO", "Allround 384", "Lynx LH25 3.0", "384×288 på 12 µm, 25 mm f/1.0, NETD <15 mK, 1920×1080 AMOLED och slutarfri drift. Bytbart 18650.",
                "800q-01_134887.png?v=1766941202", "HIKMICRO Lynx LH25 3.0 termisk monokikare", ["384×288", "25 mm", "<15 mK"], "hikmicro-lynx-lh25-3-0-thermal-monocular"),
-            _p("PixFra", "640 till 384-pris", "Mile M3 640×512 25 mm", "640 på 12 µm bakom 25 mm f/0.9: 17,4° synfält, NETD ≤15 mK, OLED 1920×1080, 290 g. Bredast bild i klassen.",
+            _p("PixFra", "640 till 384-pris", "Mile M3 640×512 25 mm", "640 på 12 µm bakom 25 mm f/0.9: 17,4° synfält, NETD ≤15 mK, OLED 1920×1080, 290 g. Drygt halva bilden till i sidled jämfört med 384-modellen.",
                "M625-V35.png?v=1789068759", "PixFra Mile M3 640×512 25 mm värmekikare", ["640×512", "25 mm", "≤15 mK"], "pixfra-mile-m3-640x512-25-mm-varmekikare"),
             _p("Nocpix", "384 med LRF", "LUMI L35R", "384×288 VOx, 35 mm f/0.9, 4× grundförstoring, laseravståndsmätare till 800 m och 1024×768 AMOLED. För den som vill veta avståndet.",
                "bvJqouxK0PQGJbXyrPj0nYWqTRLc2JjQ3UkE4vZG.webp?v=1766941595", "Nocpix LUMI L35R värmekikare", ["384×288", "35 mm", "LRF"], "nocpix-lumi-l35r"),
@@ -154,7 +154,7 @@ def kopguide() -> dict:
         {card_grid([
             _p("PixFra", "640 med LRF", "Arc Pro A650P LRF", "640×512 på 12 µm, NETD ≤20 mK, 50 mm f/1.0 och laser till 1 000 m. Detektion 2 600 m, artbestämning kring 570 m på vildsvin.",
                "954682-0.jpg?v=1789068911", "PixFra Arc Pro A650P LRF värmekikare", ["640×512", "50 mm", "LRF"], "pixfra-arc-pro-a650p-lrf-640x512-50-mm-varmekikare-med-laseravstandsmatare"),
-            _p("Pulsar", "Referensen", "Telos XP50 LRF", "640×480 (17 µm), NETD <18 mK, F50/1.0, laser 1 000 m, AMOLED 1024×768, IPX7 och modulär design med LPS-batteri.",
+            _p("Pulsar", "Öppna fält", "Telos XP50 LRF", "640×480 (17 µm), NETD <18 mK, F50/1.0, laser 1 000 m, AMOLED 1024×768, IPX7 och modulär design med LPS-batteri.",
                "938492-0_7133a141-fdf9-43a0-97a4-6d483ae19eb5.jpg?v=1766941791", "Pulsar Telos XP50 LRF värmekamera", ["640×480", "50 mm", "LRF"], "pulsar-telos-xp50-lrf-640x480-varmekamera-med-laseravstandsmatare"),
             _p("Pulsar", "HD-sensor", "Telos XL50 LRF", "1024×768 på 12 µm bakom F50/1.0. Både bredare synfält och längre detalj än XP50, tack vare den mindre pixeln.",
                "947332-0_a2f71263-24ec-4286-a74a-4630c91fdf9f.jpg?v=1766941792", "Pulsar Telos XL50 LRF värmekamera", ["1024×768", "12 µm", "LRF"], "pulsar-telos-xl50-lrf-1074x768-varmekamera-med-laseravstandsmatare"),
@@ -169,7 +169,7 @@ def kopguide() -> dict:
         ], 320)}
         {muted(f"Fler modeller under {nalink('/collections/multispektrala-kikare', 'multispektrala kikare', True)}. Hur termiskt och digitalt skiljer sig förklaras på <a href='varmekamera-vs-morkerkikare.html'>Värmekamera eller mörkerkikare</a>.")}
     ''')
-    body += sec("tillbehor", "Tillbehör som faktiskt gör skillnad", f'''
+    body += sec("tillbehor", "Tillbehör som behövs", f'''
         {ul([
             f"<strong>Extra batteri</strong> av rätt typ (18650, APS, LPS). {nalink('/collections/batterier', 'Batterier hos Nordic Aim', True)}.",
             "<strong>Powerbank med USB-C PD</strong> och kort kabel för kameror som kan drivas externt.",
@@ -224,7 +224,7 @@ def vs() -> dict:
     ''')
     body += sec("nar-vilken", "När vilken teknik?", f'''
         {ul([
-            "<strong>Du vill hitta vilt och se vad som rör sig på marken:</strong> värmekamera. Inget annat kommer nära på att upptäcka.",
+            "<strong>Du vill hitta vilt och se vad som rör sig på marken:</strong> värmekamera. Inget annat upptäcker lika bra.",
             "<strong>Du vill se om bocken bär horn eller om det är rätt gris:</strong> digital mörkerkikare eller multispektral på under 100–150 m, eller en värmekamera med många pixlar på målet (640/50 mm) på längre håll.",
             "<strong>Du spanar från ett torn med glas:</strong> digital. Eller öppna rutan.",
             "<strong>Fuktigt kustklimat:</strong> värmekamera med låg NETD. IR-lampan i en digital kikare bländar i dimma.",
@@ -260,14 +260,14 @@ def anvandning() -> dict:
     ) + "</div>"
     body += article_open()
     body += sec("jakt", "Jakt, viltvård och eftersök", f'''
-        <p>Den största civila marknaden i Norden. Handhållna värmekameror (värmekikare) för spaning och eftersök, termiska sikten för skottet på vildsvin, och allt oftare kameror för inventering och skadeförebyggande arbete i lantbruket. Kraven: 50 Hz, brett synfält, snabb start, låg vikt, tålighet mot kyla och regn. Temperaturmätning behövs inte och saknas därför oftast.</p>
+        <p>Handhållna värmekameror (värmekikare) för spaning och eftersök, termiska sikten för skottet på vildsvin, och allt oftare kameror för inventering och skadeförebyggande arbete i lantbruket. Kraven: 50 Hz, brett synfält, snabb start, låg vikt, tålighet mot kyla och regn. Temperaturmätning behövs inte och saknas därför oftast.</p>
         <p>Fördjupning: <a href="varmekamera-for-jakt.html">Värmekamera för jakt</a>, <a href="kopguide.html">Köpguide</a> och <a href="regler.html">Regler</a>.</p>
     ''')
     body += sec("raddning", "Räddningstjänst, sjöräddning och säkerhet", f'''
-        <p>Brandmän använder värmekamera för att hitta personer i rökfyllda rum, se glödbränder i väggar och tak, och bedöma brandgasernas temperatur. Sjöräddning och polis använder den för att hitta människor i vatten, skog och mörker; en kropp i 10-gradigt vatten syns i minuter, en i skogen i timmar. Här prioriteras robusthet, enkelhet och ofta en temperaturskala i bilden. Kamerorna liknar jaktkamerorna tekniskt, men är certifierade för värme och fall, och visar ofta absolut temperatur.</p>
+        <p>Brandmän använder värmekamera för att hitta personer i rökfyllda rum, se glödbränder i väggar och tak, och bedöma brandgasernas temperatur. Sjöräddning och polis använder den för att hitta människor i vatten, skog och mörker; en kropp i 10-gradigt vatten syns i minuter, en i skogen i timmar. Här prioriteras tålighet, enkel hantering och ofta en temperaturskala i bilden. Kamerorna liknar jaktkamerorna tekniskt, men är certifierade för värme och fall, och visar ofta absolut temperatur.</p>
     ''')
     body += sec("bygg", "Byggnadstermografi och energi", f'''
-        <p>En stor del av alla sökningar på "värmekamera" gäller hus. Med en termografikamera ser du köldbryggor, dålig isolering, otätheter kring fönster, fukt i väggar (fukt kyler genom avdunstning), var golvvärmeslingorna går och om elementet är luftat. Här är kraven nästan de omvända mot jakt: temperaturmätning med ±2 °C noggrannhet, emissivitetsinställning, ofta 9 Hz räcker, brett synfält för att få med en vägg på nära håll, och programvara för rapporter. Upplösningen är ofta låg (160×120 till 320×240) men pixlarna är stora och kalibrerade.</p>
+        <p>Många som söker på "värmekamera" letar efter en kamera till huset. Med en termografikamera ser du köldbryggor, dålig isolering, otätheter kring fönster, fukt i väggar (fukt kyler genom avdunstning), var golvvärmeslingorna går och om elementet är luftat. Här är kraven nästan de omvända mot jakt: temperaturmätning med ±2 °C noggrannhet, emissivitetsinställning, ofta 9 Hz räcker, brett synfält för att få med en vägg på nära håll, och programvara för rapporter. Upplösningen är ofta låg (160×120 till 320×240) men pixlarna är stora och kalibrerade.</p>
         {callout("Kan jag använda min jaktkamera på huset?", "Du ser köldbryggor och läckage lika bra, ofta bättre tack vare högre upplösning och NETD. Men du får ingen temperaturskala, ingen emissivitetskorrigering och ingen rapportfunktion. För att hitta var det drar räcker den. För en besiktning som ska dokumenteras behövs en termografikamera.", "grey")}
     ''')
     body += sec("industri", "Industri, el och process", f'''
@@ -286,7 +286,7 @@ def anvandning() -> dict:
             ["Temperaturmätning", "Nej", "Ja, ±2 °C", "Ja, kalibrerad, stort område", "Ja, grov"],
             ["Synfält", "7–20°", "25–50°", "Utbytbara objektiv", "40–60°"],
             ["Okular/display", "Okular, OLED", "Skärm på baksidan", "Skärm, nätverk", "Skärm, stor"],
-            ["Viktigast", "Räckvidd, NETD, start", "Noggrannhet, rapport", "Kalibrering, integration", "Robusthet, enkelhet"],
+            ["Viktigast", "Räckvidd, NETD, snabb start", "Noggrannhet, rapport", "Kalibrering, integration", "Tålighet, enkel hantering"],
         ], mono_first=False)}
         <p>{SITE_NAME} skriver i första hand om handhållna värmekameror för jakt och spaning, eftersom det är vad {NA_NAME} säljer och kan. Tekniksidorna, <a href="sa-fungerar-en-varmekamera.html">Så fungerar en värmekamera</a> och <a href="sensor-och-upplosning.html">Sensor och NETD</a>, gäller alla värmekameror oavsett användning.</p>
     ''')

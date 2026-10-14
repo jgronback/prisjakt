@@ -301,7 +301,7 @@ def header(active: str) -> str:
   <a href="#main" class="skip">Till innehållet</a>
   <header style="position:sticky;top:0;z-index:20;background:rgba(246,248,249,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--mist-200)">
     <div style="max-width:1180px;margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:24px;min-height:64px;flex-wrap:wrap">
-      <a href="index.html" style="display:flex;align-items:center;gap:10px;color:var(--text-strong);text-decoration:none" aria-label="{SITE_NAME} – startsida">
+      <a href="index.html" style="display:flex;align-items:center;gap:10px;color:var(--text-strong);text-decoration:none" aria-label="{SITE_NAME}, startsida">
         {logo_mark()}
         <span style="font-family:var(--font-display);font-weight:800;font-size:18px;letter-spacing:-0.02em">{SITE_NAME}</span>
       </a>
@@ -514,8 +514,8 @@ def main() -> None:
         lines.append(f"- [{p['title']}]({loc}): {p['description']}")
     lines += ["", "## Relaterat", "",
               f"- [Värmesikte.se]({SISTER}/): systersajt om termiska sikten för jakt",
-              f"- [Nordic Aim – värmekikare]({NA}/collections/varmekikare): sortiment, priser och lagerstatus",
-              f"- [Nordic Aim – guider]({NA}/blogs/nyheter): fördjupande artiklar om termisk optik", ""]
+              f"- [Nordic Aim, värmekikare]({NA}/collections/varmekikare): sortiment, priser och lagerstatus",
+              f"- [Nordic Aim, guider]({NA}/blogs/nyheter): fördjupande artiklar om termisk optik", ""]
     write(os.path.join(DIST, "llms.txt"), "\n".join(lines))
 
     # .htaccess för Apache-hotell (Strato): www-kanonisering, https, 404, cache

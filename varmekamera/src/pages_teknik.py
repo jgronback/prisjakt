@@ -16,7 +16,7 @@ def index() -> dict:
       <div class="hero-grid" style="max-width:1180px;margin:0 auto;padding:72px 24px 56px">
         <div style="display:flex;flex-direction:column;gap:20px">
           {eyebrow("Teknisk guide till värmekameror")}
-          <h1 style="font-size:clamp(36px,5vw,58px);font-weight:800;line-height:1.02">Värmekamera.<br>Så fungerar den, på riktigt.</h1>
+          <h1 style="font-size:clamp(36px,5vw,58px);font-weight:800;line-height:1.02">Värmekamera.<br>Så fungerar den, från strålning till bild.</h1>
           <p style="font-size:19px;line-height:1.55;color:var(--text-muted)">En värmekamera ser temperatur i stället för ljus. Här förklarar vi exakt hur det går till, från strålningen som lämnar djuret till bilden i okularet, och vad varje siffra i databladet betyder i skogen.</p>
           <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center">
             <a class="btn btn-primary btn-lg" href="sa-fungerar-en-varmekamera.html">Läs stora guiden</a>
@@ -50,13 +50,13 @@ def index() -> dict:
         <div style="background:#fff;border:1px solid var(--mist-200);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:6px"><strong>Brännvidd</strong><span style="font-size:14px;line-height:1.5">Avgör hur långt bort du kan avgöra vad du ser. 25 mm för skog, 35 mm allround, 50 mm för öppna fält.</span></div>
         <div style="background:#fff;border:1px solid var(--mist-200);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:6px"><strong>Sensor</strong><span style="font-size:14px;line-height:1.5">384 eller 640 pixlar avgör hur brett du ser vid samma objektiv, och hur mycket zoom bilden tål.</span></div>
         <div style="background:#fff;border:1px solid var(--mist-200);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:6px"><strong>NETD</strong><span style="font-size:14px;line-height:1.5">Känslighet i millikelvin. Under 20 mK märks i dimma, regn och rimfrost. Jämför inom samma fabrikat.</span></div>
-        <div style="background:#fff;border:1px solid var(--mist-200);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:6px"><strong>Pixelstorlek</strong><span style="font-size:14px;line-height:1.5">12 µm ger mer detalj per millimeter brännvidd än 17 µm. Det är därför nya 35 mm slår gamla 50 mm.</span></div>
+        <div style="background:#fff;border:1px solid var(--mist-200);border-radius:12px;padding:18px;display:flex;flex-direction:column;gap:6px"><strong>Pixelstorlek</strong><span style="font-size:14px;line-height:1.5">12 µm ger mer detalj per millimeter brännvidd än 17 µm. Det är därför en ny 35 mm ger samma detalj som en äldre 50 mm.</span></div>
       </div>
     </section>
 
     <section style="background:var(--gunmetal-900);color:var(--text-on-dark)">
       <div style="max-width:1180px;margin:0 auto;padding:14px 24px;display:flex;gap:24px;flex-wrap:wrap;justify-content:center;font-size:13px;font-family:var(--font-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--mist-400)">
-        <span>Teknik förklarad från grunden</span><span>Siffror med formler, inte tyckande</span><span>Regler med källa</span><span>Produkter via Nordic Aim</span>
+        <span>Teknik förklarad från grunden</span><span>Uträknade tabeller, inte tyckande</span><span>Regler med källa</span><span>Produkter via Nordic Aim</span>
       </div>
     </section>
 
@@ -111,7 +111,7 @@ def index() -> dict:
                        "https://cdn.shopify.com/s/files/1/0949/6553/0964/files/800q-01_135695.png?v=1769171478&width=600", "HIKMICRO Lynx LE10 3.0 värmekamera",
                        ["256×192", "9,7 mm", "<20 mK"], na("/products/hikmicro-lynx-le10-3-0-termisk-monokikare")),
           product_card("PixFra", "Allround", "Mile M2 384×288 25 mm",
-                       "Mellanklassens arbetshäst: 384-sensor, 25 mm f/1.0, 320 g och IP67. Räcker till åtel, skog och eftersök utan att kosta som en 640.",
+                       "384-sensor, 25 mm f/1.0, 320 g och IP67. Räcker till åtel, skog och eftersök, till ett pris klart under 640-modellerna.",
                        "https://cdn.shopify.com/s/files/1/0949/6553/0964/files/PIX-PFI-M425___Pixfra-Mile-2-M425-Thermal-Imaging-Monocular.png?v=1766943659&width=600", "PixFra Mile M2 384×288 25 mm värmekikare",
                        ["384×288", "25 mm", "≤25 mK"], na("/products/pixfra-mile-m2-384x288-25-mm-varmekamera")),
           product_card("Pulsar", "Öppna fält", "Telos XP50 LRF",
@@ -119,7 +119,7 @@ def index() -> dict:
                        "https://cdn.shopify.com/s/files/1/0949/6553/0964/files/938492-0_7133a141-fdf9-43a0-97a4-6d483ae19eb5.jpg?v=1766941791&width=600", "Pulsar Telos XP50 LRF värmekamera",
                        ["640×480", "50 mm", "LRF"], na("/products/pulsar-telos-xp50-lrf-640x480-varmekamera-med-laseravstandsmatare")),
           product_card("Pulsar", "Längst räckvidd", "Telos XL50 LRF",
-                       "1024×768 på 12 µm bakom 50 mm optik. Ser både bredare och längre än XP50, och visar varför pixelstorleken spelar roll.",
+                       "1024×768 på 12 µm bakom 50 mm optik. Ser både bredare och längre än XP50 tack vare den mindre pixeln.",
                        "https://cdn.shopify.com/s/files/1/0949/6553/0964/files/947332-0_a2f71263-24ec-4286-a74a-4630c91fdf9f.jpg?v=1766941792&width=600", "Pulsar Telos XL50 LRF värmekamera",
                        ["1024×768", "12 µm", "LRF"], na("/products/pulsar-telos-xl50-lrf-1074x768-varmekamera-med-laseravstandsmatare")),
       ])}
@@ -179,7 +179,7 @@ def guide() -> dict:
 
     body += sec("stralning", "1. Strålningen: allt som har temperatur lyser i infrarött", f'''
         <p>Ett föremåls atomer rör sig, och rörelsen sänder ut elektromagnetisk strålning. Hur mycket, och vid vilka våglängder, bestäms av temperaturen. Det är samma fysik som gör att en glödande spik lyser rött: vid 700 °C hamnar en liten del av strålningen i det synliga. Vid de temperaturer som finns i skogen, från −30 till +40 °C, ligger praktiskt taget all strålning i det infraröda, osynlig för ögat.</p>
-        <p>Två samband styr allt en värmekamera gör:</p>
+        <p>Två samband styr det mesta av vad en värmekamera ser:</p>
         {ul([
             "<strong>Wiens förskjutningslag</strong> säger var strålningen är som starkast: våglängden för toppen är 2898 µm·K delat med temperaturen i kelvin. Ett vildsvin på 38 °C (311 K) strålar som mest vid ungefär 9,3 µm. En frostig åker på −2 °C vid 10,7 µm. Båda ligger i bandet 8–14 µm, det långvågiga infraröda (LWIR).",
             "<strong>Stefan–Boltzmanns lag</strong> säger hur mycket: den totala utstrålningen växer med temperaturen upphöjt till fyra. Kring 0–40 °C betyder det att utstrålningen ökar med drygt en procent per grad. Det är de procenten sensorn mäter. En skillnad på 30 grader mellan djur och mark är enkel. En skillnad på 0,5 grad mellan blöt päls och blöt mark är svår, och där avgörs allt av sensorns känslighet (NETD).",
@@ -194,7 +194,7 @@ def guide() -> dict:
         <p>Vanligt glas släpper igenom synligt ljus men absorberar nästan allt vid 8–14 µm. Linsen i en värmekamera görs därför av <strong>germanium</strong>, ett halvmetalliskt grundämne som är ogenomskinligt för ögat men släpper igenom långvågigt infrarött. Germanium är dyrt och mjukt, så frontlinsen får en hård diamantliknande kolbeläggning (DLC) och antireflexskikt. Billigare kameror använder ibland kalkogenidglas, som är lättare att gjuta i serie men har sämre genomsläpp.</p>
         <p>Objektivet beskrivs med två tal, precis som på en vanlig kamera:</p>
         {ul([
-            "<strong>Brännvidd</strong> i millimeter (9,7, 19, 25, 35, 50, 60 mm). Längre brännvidd ger större bild av objektet på sensorn, alltså mer detalj på håll, men ett smalare synfält. Det är den siffra som avgör på vilket avstånd du kan avgöra vad du tittar på.",
+            "<strong>Brännvidd</strong> i millimeter (9,7, 19, 25, 35, 50, 60 mm). Längre brännvidd ger större bild av objektet på sensorn, alltså mer detalj på håll, men ett smalare synfält. Det är den siffra som bestämmer på vilket avstånd du kan avgöra vad du tittar på.",
             "<strong>F-tal</strong>, brännvidd delat med linsens diameter. f/1.0 är standard i jaktkameror, f/0.9 förekommer. Ett lägre f-tal släpper in mer strålning per pixel, vilket ger lägre brus. En sensors NETD anges nästan alltid vid f/1.0; samma sensor bakom f/1.2 presterar sämre än databladet.",
         ])}
         <p>De flesta objektiv från 19 mm och uppåt har <strong>manuellt fokus</strong>, eftersom skärpedjupet vid f/1.0 är litet. Ett föremål på 30 m och ett på 300 m kan inte vara skarpa samtidigt. Kameror med mycket korta brännvidder (9–10 mm) säljs som fokusfria: allt från några meter till oändligt är tillräckligt skarpt. Det är praktiskt i skog men begränsar detaljen på håll.</p>
@@ -202,7 +202,7 @@ def guide() -> dict:
     ''')
 
     body += sec("sensor", "3. Sensorn: en mikrobolometer mäter uppvärmning, inte ljus", f'''
-        <p>Hjärtat i kameran är en <strong>mikrobolometer</strong>, en matris av små element (256×192, 384×288, 640×512, 1024×768 eller 1280×1024 stycken) tillverkad på en kiselbricka. Varje element är ett membran, ungefär 12 eller 17 µm i sida och en bråkdels mikrometer tjockt, som hänger på två smala ben över ett vakuumgap. Membranet är belagt med ett material vars resistans ändras kraftigt med temperaturen, oftast <strong>vanadinoxid (VOx)</strong> eller <strong>amorft kisel (a-Si)</strong>.</p>
+        <p>Sensorn i kameran är en <strong>mikrobolometer</strong>, en matris av små element (256×192, 384×288, 640×512, 1024×768 eller 1280×1024 stycken) tillverkad på en kiselbricka. Varje element är ett membran, ungefär 12 eller 17 µm i sida och en bråkdels mikrometer tjockt, som hänger på två smala ben över ett vakuumgap. Membranet är belagt med ett material vars resistans ändras kraftigt med temperaturen, oftast <strong>vanadinoxid (VOx)</strong> eller <strong>amorft kisel (a-Si)</strong>.</p>
         <figure>{D.bolometer()}<figcaption>Benen är medvetet dåliga värmeledare och elementet sitter i vakuum, så den värme som strålningen tillför stannar kvar i membranet länge nog att mätas. Reflektorn under membranet gör att strålning som passerat rakt igenom får en chans till.</figcaption></figure>
         <p>När infraröd strålning träffar membranet absorberas den och membranet blir några tusendels grad varmare. Resistansen ändras, och den ändringen är signalen. Det är därför sensorn kallas <em>okyld</em>: den behöver inte kylas till kryogena temperaturer som fotondetektorer, utan arbetar vid rumstemperatur och mäter rena temperaturförändringar i sig själv.</p>
         <p>Tre egenskaper hos elementen avgör vad kameran kan:</p>
@@ -216,14 +216,14 @@ def guide() -> dict:
 
     body += sec("utlasning", "4. Utläsningen: från resistans till siffror", f'''
         <p>Under membranen, i kiselbrickan, sitter en <strong>utläsningskrets (ROIC, Read-Out Integrated Circuit)</strong>. Den skickar en liten mätström genom varje element i tur och ordning, förstärker spänningen, och omvandlar den till ett tal, typiskt 14 eller 16 bitar per pixel. En 640×512-sensor ger drygt 327 000 sådana mätvärden per bildruta, 50 gånger i sekunden.</p>
-        <p>Mätströmmen värmer också elementet (självuppvärmning), och elementen är aldrig exakt lika stora, tjocka eller lika väl isolerade. Därför ger två element som tittar på samma temperatur olika råvärden. Det är det nästa steg rättar till.</p>
+        <p>Mätströmmen värmer också elementet (självuppvärmning), och elementen är aldrig exakt lika stora, tjocka eller lika väl isolerade. Därför ger två element som tittar på samma temperatur olika råvärden. Det rättar nästa steg till.</p>
         {callout("Varför 50 Hz och inte mer",
                  "Bildfrekvensen begränsas av membranets tidskonstant och av hur fort kretsen hinner läsa alla element med tillräckligt låg brusnivå. 50 Hz (ibland 60) är standard i jaktkameror och ger följsam bild på rörliga djur. Enklare kameror för byggnadstermografi, och de flesta mobiltillsatser, är begränsade till 9 Hz, vilket räcker för stillbilder av en vägg men känns hackigt när ett djur rör sig.", "grey")}
     ''')
 
     body += sec("kalibrering", "5. Kalibreringen: klicket som gör alla pixlar lika", f'''
         <p>Råbilden från en mikrobolometer är ful: ett mönster av ljusare och mörkare pixlar och stråk, ovanpå den riktiga scenen. Orsaken är spridningen mellan elementen, och den driver dessutom när kamerahuset byter temperatur. Lösningen heter <strong>NUC, Non-Uniformity Correction</strong>. Kameran fäller in en liten slutare (en plåtbit med jämn temperatur) framför sensorn, läser av vad varje element visar när alla ser samma sak, och sparar skillnaden som en korrektionstabell. Tabellen dras sedan ifrån varje bildruta tills nästa kalibrering.</p>
-        <p>Det är slutaren du hör som ett klick, och det är därför bilden fryser en bråkdels sekund. Fabriksinställningen är ofta automatisk NUC efter tid eller temperaturdrift, men nästan alla kameror kan ställas på manuell eller halvautomatisk så att du själv utlöser den i ett lugnt ögonblick. Vissa tillverkare, till exempel HIKMICRO med HSIS, räknar fram korrektionen ur bildinnehållet och klarar sig utan slutare. Fördelen är tyst, oavbruten bild; priset är en mer avancerad algoritm som kan behöva lite bildrörelse för att konvergera.</p>
+        <p>Det är slutaren du hör som ett klick, och det är därför bilden fryser en bråkdels sekund. Fabriksinställningen är ofta automatisk NUC efter tid eller temperaturdrift, men nästan alla kameror kan ställas på manuell eller halvautomatisk så att du själv utlöser den i ett lugnt ögonblick. Vissa tillverkare, till exempel HIKMICRO med HSIS, räknar fram korrektionen ur bildinnehållet och klarar sig utan slutare. Fördelen är tyst, oavbruten bild; priset är en mer räknekrävande algoritm som kan behöva lite bildrörelse för att hitta rätt.</p>
         <p>Utöver NUC finns en fabrikskalibrering som kompenserar för sensorns och optikens temperatur (så att kameran visar rätt när den tas från en varm bil ut i −15 °C), och en tabell över döda pixlar som ersätts med medelvärdet av grannarna.</p>
     ''')
 
@@ -231,10 +231,10 @@ def guide() -> dict:
         <p>Sensorn levererar tal med stort omfång (tusentals nivåer), men displayen visar 256 gråtoner, och ditt öga skiljer ännu färre. Bildprocessorn måste alltså välja vilka temperaturskillnader som ska få kontrast. Det görs i flera steg, och det är här fabrikaten skiljer sig mest även med samma sensor:</p>
         {ol([
             "<strong>AGC, automatisk förstärkningsreglering.</strong> Bestämmer vilket temperaturintervall som ska spännas ut över gråskalan. Enklaste varianten mappar bildens kallaste punkt till svart och varmaste till vitt. Bättre varianter använder histogramutjämning: de ger mest kontrast där flest pixlar ligger, så att en sval skog får struktur utan att ett varmt djur bränns ut.",
-            "<strong>DDE, digital detaljförstärkning.</strong> Ett lokalt kontrastfilter som lyfter kanter och små temperaturskillnader utan att förstärka bruset i jämna ytor. För mycket DDE ger en tecknad bild med glorior runt djuret; för lite ger en mjuk, platt bild.",
+            "<strong>DDE, digital detaljförstärkning.</strong> Ett lokalt kontrastfilter som lyfter kanter och små temperaturskillnader utan att förstärka bruset i jämna ytor. För mycket DDE ger en tecknad bild med ljusa kanter runt djuret; för lite ger en mjuk, platt bild.",
             "<strong>Brusreducering</strong> i tid (medelvärde över flera bildrutor) och rum (filter som jämnar ut pixelbrus). Tidsfiltret ger lugnare bild i stillhet men kan ge släpande spår på snabba djur.",
             "<strong>Palett.</strong> Gråskalan översätts till färger. White hot (varmt = vitt) är standard, black hot ger ofta bäst konturer i fukt, red hot/sepia markerar bara de varmaste delarna och ironbow visar hela intervallet i färg. Paletten tillför ingen information; den väljer vad ögat lätt ser.",
-            "<strong>Digital zoom och uppskalning.</strong> Bilden beskärs och skalas upp till displayens upplösning. Vid 2× på en 384-sensor återstår 192×144 riktiga pixlar. Interpolering och så kallade superupplösningsalgoritmer gör bilden mjukare, inte mer informativ.",
+            "<strong>Digital zoom och uppskalning.</strong> Bilden beskärs och skalas upp till displayens upplösning. Vid 2× på en 384-sensor återstår 192×144 riktiga pixlar. Interpolering och AI-uppskalning gör bilden mjukare, inte mer informativ.",
         ])}
         <p>När du jämför två kameror i butik är det ofta det här steget du bedömer, inte sensorn. Två kameror med identisk mikrobolometer kan se mycket olika ut beroende på hur AGC och DDE är avvägda.</p>
     ''')
@@ -289,7 +289,7 @@ def sensor() -> dict:
     sensors = [(256, 192), (384, 288), (640, 512), (1024, 768), (1280, 1024)]
     rows = []
     for w, h in sensors:
-        rows.append([f"{w}×{h}", f"{w * h / 1000:.0f} 000".replace(".", ","),
+        rows.append([f"{w}×{h}", f"{w * h:,}".replace(",", " "),
                      f"{sv(fov_deg(w, 12, 35))}°", f"{sv(width_at(w, 12, 35))} m",
                      f"{sv(fov_deg(w, 12, 50))}°", f"{sv(width_at(w, 12, 50))} m"])
     zoom_rows = []
@@ -297,7 +297,7 @@ def sensor() -> dict:
         zoom_rows.append([f"{w}×{h}", f"{w // 2}×{h // 2}", f"{w // 4}×{h // 4}", f"{w // 8}×{h // 8}"])
     chips = [("#upplosning", "Upplösning"), ("#pitch", "Pixelstorlek"), ("#netd", "NETD"), ("#hz", "Bildfrekvens"), ("#material", "VOx mot a-Si"), ("#datablad", "Läsa databladet")]
     body = page_hero("Sensor", "Sensor, upplösning och NETD: vad siffrorna betyder",
-                     "384 eller 640? 12 eller 17 µm? 18 eller 25 mK? Här är vad varje tal gör med bilden, med uträknade exempel i stället för tyckande.", chips)
+                     "384 eller 640? 12 eller 17 µm? 18 eller 25 mK? Här är vad varje tal gör med bilden, med uträknade exempel.", chips)
     body += '<div style="max-width:820px;margin:0 auto;padding:40px 24px 0">' + short_answer(
         "Sensorns upplösning (384×288, 640×512) avgör hur brett du ser vid ett givet objektiv och hur mycket digital zoom bilden tål. Pixelstorleken (12 eller 17 µm) tillsammans med brännvidden avgör hur mycket detalj du får per meter avstånd. NETD (i millikelvin, lägre är bättre) avgör hur små temperaturskillnader som syns, vilket märks mest i fukt och dåligt väder. Bildfrekvens 50 Hz är standard för jakt."
     ) + "</div>"
@@ -367,7 +367,7 @@ def sensor() -> dict:
         "slug": "sensor-och-upplosning.html",
         "title": "Värmekamera: sensor, upplösning, pixelstorlek och NETD förklarat",
         "short": "Sensor, upplösning och NETD",
-        "description": "Vad 256, 384, 640 och 1024 pixlar betyder i en värmekamera, skillnaden mellan 12 och 17 µm, vad NETD mäter och varför 50 Hz spelar roll. Med uträknade tabeller.",
+        "description": "Vad 256, 384, 640 och 1024 pixlar betyder i en värmekamera, skillnaden mellan 12 och 17 µm, vad NETD mäter och varför 50 Hz behövs. Med uträknade tabeller.",
         "body": body,
     }
 
@@ -398,7 +398,7 @@ def optik() -> dict:
     body += sec("brannvidd", "Brännvidd: den viktigaste siffran", f'''
         <p>Brännvidden är avståndet från linsens optiska centrum till sensorn när ett avlägset objekt är i fokus. Längre brännvidd ritar upp objektet större på sensorn. Eftersom sensorns pixlar har fast storlek betyder större bild fler pixlar över djuret, alltså mer detalj. Samtidigt får en mindre del av scenen plats på sensorn: synfältet smalnar.</p>
         {table(["Brännvidd", "Typisk användning", "Synfält 384×288/12 µm", "Synfält 640×512/12 µm"], [
-            ["9–10 mm", "Fickkamera, skog, hund, gården. Fokusfri.", f"{sv(width_at(384, 12, 10))} m på 100 m", f"{sv(width_at(640, 12, 10))} m"],
+            ["9–10 mm", "Fickformat. Skog, hund, gården. Fokusfri.", f"{sv(width_at(384, 12, 10))} m på 100 m", f"{sv(width_at(640, 12, 10))} m"],
             ["15–19 mm", "Kompakt allround i skog och på korta pass", f"{sv(width_at(384, 12, 19))} m", f"{sv(width_at(640, 12, 19))} m"],
             ["25 mm", "Allround: skog, åtel, eftersök", f"{sv(width_at(384, 12, 25))} m", f"{sv(width_at(640, 12, 25))} m"],
             ["35 mm", "Allround med mer räckvidd; vanligaste valet", f"{sv(width_at(384, 12, 35))} m", f"{sv(width_at(640, 12, 35))} m"],
@@ -427,10 +427,10 @@ def optik() -> dict:
             ["Igenkänning", "4,0 (±0,8)", "8", "Vilken klass: hjortdjur, vildsvin, hund, människa"],
             ["Identifiering", "6,4 (±1,5)", "13", "Vilket djur: sugga, galt, kulting, kronhind mot dovhind"],
         ], caption="Johnsons kriterier. Sannolikheten är 50 % vid angivet värde; för säker bedömning behövs ungefär det dubbla.")}
-        <p>Med formeln för pixelfotavtryck får vi avstånden. För ett vuxet vildsvin sett från sidan, kritisk dimension 1,0 m (kroppslängd), och 12 µm-pixlar:</p>
+        <p>Med formeln för hur stor bit en pixel täcker får vi avstånden. För ett vuxet vildsvin sett från sidan, kritisk dimension 1,0 m (kroppslängd), och 12 µm-pixlar:</p>
         {table(["Objektiv (12 µm)", "Detektion (2 px)", "Igenkänning (8 px)", "Identifiering (13 px)"], dri_rows(12),
                caption="Teoretiska värden i klar luft, 50 % sannolikhet. Verkliga avstånd blir kortare i fukt, lägre kontrast och för en trött observatör.")}
-        <p>Lägg märke till relationen: igenkänning sker på ungefär en fjärdedel av detektionsavståndet och identifiering på en sjättedel. Det stämmer väl med vad tillverkarna själva anger när de är ärliga. {NA_NAME} skriver på varje produktsida ut tre tal, detektion, artbestämning och detaljbedömning, räknade på samma sätt, så att modellerna går att jämföra med varandra.</p>
+        <p>Lägg märke till relationen: igenkänning sker på ungefär en fjärdedel av detektionsavståndet och identifiering på en sjättedel. Det ligger nära de tal som står på Nordic Aims produktsidor. {NA_NAME} skriver på varje produktsida ut tre tal, detektion, artbestämning och detaljbedömning, räknade på samma sätt, så att modellerna går att jämföra med varandra.</p>
         {callout("Varför tillverkarnas tal spretar",
                  "Olika tillverkare räknar på olika mål (en människa 1,8×0,5 m, ett 'standardmål' 0,5 m, ibland en bil) och ibland med 1,5 pixel i stället för 2. Samma kamera kan därför ha 1 300 m i ett datablad och 1 800 m i ett annat. Räkna själv med pixelstorlek och brännvidd, så får du ett tal du kan använda på din egen mark.", "grey")}
         {muted(f"Nordic Aim förklarar sin räkning i {nalink('/blogs/nyheter/detektionsavstand-varmesikte', 'Detektionsavstånd: hur långt ser den egentligen?')}.")}
@@ -443,9 +443,9 @@ def optik() -> dict:
         {table(["Du jagar mest", "Brännvidd", "Sensor", "Kommentar"], [
             ["Tät skog, drev, hund, gården", "9–19 mm", "256–384", "Brett synfält och fokusfritt slår räckvidd. Lätt och billig."],
             ["Skogspass, åtel 40–100 m, eftersök", "25 mm", "384 eller 640", "Allround. 640 om du ofta söker av stora ytor."],
-            ["Blandat: skog och mindre fält", "35 mm", "384 eller 640", "Det vanligaste valet. 35/640 är sweet spot för många."],
+            ["Blandat: skog och mindre fält", "35 mm", "384 eller 640", "Det vanligaste valet. 640 med 35 mm täcker det mesta."],
             ["Öppna fält, vak 150–300 m, bedömning", "50 mm", "640 eller mer", "Lägg till LRF. Kräver stöd vid hög zoom."],
-            ["Inventering, stora slätter", "50–60 mm", "640–1280", "Specialist. Tung, dyr, överlägsen på håll."],
+            ["Inventering, stora slätter", "50–60 mm", "640–1280", "Specialist. Tung och dyr, men ser längst."],
         ], mono_first=False)}
         <p>Nästa steg: <a href="varmekamera-for-jakt.html">Värmekamera för jakt</a> och <a href="kopguide.html">Köpguiden</a>. Osäker? {nalink('/pages/kontakta-oss', 'Nordic Aim ger personlig rekommendation')} utifrån hur du jagar.</p>
     ''')

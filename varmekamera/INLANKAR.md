@@ -64,20 +64,24 @@ Dealer-länkar är ofta nofollow, men de är relevanta, svenska/branschnära och
   Låg sannolikhet, kostar bara fem minuter att prova.
 - Länkkataloger och "SEO-paket". Noll värde eller negativt.
 
-## Utkast till outreach-mail (kort, i din ton; justera)
+## Utkast till outreach-mail (justera namn och sida)
 
-> Hej,
+> Hej [namn]!
 >
-> Vi på Nordic Aim har byggt en fristående guide som förklarar exakt hur en värmekamera fungerar,
-> från strålningsfysiken till vad siffrorna i databladet betyder: [URL]
+> Hoppas allt är fint med dig!
 >
-> Inga "bäst i test"-listor, bara teknik, uträknade tabeller och regler med källa. Eftersom ni
-> [skriver om/utbildar i/säljer] termisk optik tänkte jag att den kan vara en bra resurs att länka
-> till från [sida]. Diagram och tabeller får användas fritt med källangivelse.
+> Vi har byggt en sajt som förklarar hur en värmekamera fungerar, från fysiken till vad siffrorna i databladet betyder: [URL]
 >
-> Säg till om ni vill ha något förtydligat eller tillagt.
+> Inga bäst i test-listor, bara teknik, uträknade tabeller och regler med källa. Eftersom ni [skriver om/utbildar i/säljer] termisk optik tänkte jag att den kan passa som länk från [sida]. Diagram och tabeller får ni använda fritt med källangivelse.
 >
-> Jonas Grönbäck, Nordic Aim AB
+> Hör gärna av dig om du tycker det låter vettigt!
+>
+> Ha en fin dag!
+>
+> Med vänlig hälsning
+>
+> Jonas Grönbäck
+> Nordic Aim AB
 
 ## Mätning
 

@@ -26,7 +26,7 @@ PROBLEMS = [
     ("P04", "Bild", "Immig eller frusen lins ger platt bild",
      "Efter en stund i kyla eller när kameran tas ut ur varm bil blir bilden grå och mjuk, trots att vädret är klart.",
      "Kondens eller rimfrost på germaniumlinsen. Kameran ser då sin egen iskristall, som har samma temperatur som luften, i stället för scenen bakom. Handvärme på huset kan också värma linsens kant och ge en gradient i bilden.",
-     "Linsskydd och temperaturvana.",
+     "Linsskydd, och att låta kameran acklimatisera.",
      "Håll linsskyddet på tills du behöver bilden. Låt kameran acklimatisera i ytterfickan, inte innanför jackan. Torka med mikrofiberduk, aldrig med papper eller handske mot DLC-beläggningen. Blås bort snö med andedräkten på avstånd, inte direkt på linsen."),
     ("P05", "Fysik", "Den ser inte genom tornfönstret",
      "Från jakttornet är bilden en jämn grå yta med en svag spegelbild av dig själv. Utanför, med rutan öppen, ser du allt.",
@@ -51,7 +51,7 @@ PROBLEMS = [
     ("P09", "Bild", "Stråk, ränder eller en fast fläck i bilden",
      "Ett vertikalt stråk, ett rutmönster eller en ljus fläck som ligger kvar oavsett vart du riktar kameran.",
      "Drift mellan sensorns element efter temperaturändring (behöver ny NUC), smuts eller vatten på linsen, eller i sällsynta fall en skadad pixel eller ett inbränt mönster efter att kameran riktats mot solen.",
-     "Ny kalibrering, ren lins, och respekt för solen.",
+     "Ny kalibrering, ren lins, och att aldrig rikta kameran mot solen.",
      "Kalibrera manuellt. Kontrollera och rengör linsen. Rikta aldrig kameran mot solen, inte heller med linsskydd av tunn plast; solen kan ge en permanent 'bränd' fläck i mikrobolometern. Kvarstår felet efter kalibrering och rengöring: kontakta återförsäljaren."),
     ("P10", "Handhavande", "Digital zoom lurar avståndsbedömningen",
      "På 4× ser grisen ut att stå på 60 m. Den stod på 130.",
@@ -72,7 +72,7 @@ PROBLEMS = [
      "Telefonen hittar inte kameran, eller bilden i appen laggar så att den är oanvändbar för att visa passkompisen.",
      "Kamerans Wi-Fi är en egen accesspunkt med begränsad räckvidd och bandbredd. Telefonen hoppar gärna tillbaka till mobilnät eller hemmanätet. 2,4 GHz störs av annan utrustning, 5 GHz har kortare räckvidd.",
      "Stabil app, 5 GHz-stöd och rätt telefoninställningar.",
-     "Stäng av mobildata och 'auto-join' för andra nät medan du är ansluten. Välj 5 GHz om kameran har det och du är inom några meter. Uppdatera kamerans firmware; app- och Wi-Fi-stabilitet är det som förbättras mest mellan versioner. Spela in i kameran och överför efteråt i stället för att streama när bilden spelar roll."),
+     "Stäng av mobildata och automatisk anslutning till andra nät medan du är ansluten. Välj 5 GHz om kameran har det och du är inom några meter. Uppdatera kamerans firmware; app- och Wi-Fi-stabilitet är det som förbättras mest mellan versioner. Spela in i kameran och överför efteråt i stället för att streama när bilden spelar roll."),
 ]
 
 
@@ -110,7 +110,7 @@ def regler() -> dict:
     ''')
     body += sec("praktik", "Vad det betyder i praktiken", f'''
         {ul([
-            "<strong>Handhållen värmekamera för att spana, bedöma och söka av marken:</strong> omfattas inte av 14 a §, som gäller hjälpmedel vid vapnet. Enligt Naturvårdsverkets svar till Jakt &amp; Jägare (2023) finns inget förbud mot att spana termiskt, oavsett tid på dygnet och oavsett art. Det är därför den handhållna kameran är det självklara första köpet.",
+            "<strong>Handhållen värmekamera för att spana, bedöma och söka av marken:</strong> omfattas inte av 14 a §, som gäller hjälpmedel vid vapnet. Enligt Naturvårdsverkets svar till Jakt &amp; Jägare (2023) finns inget förbud mot att spana termiskt, oavsett tid på dygnet och oavsett art. Det är därför den handhållna kameran är det enklaste första köpet.",
             "<strong>Värmekamera som sikte på vapnet (värmesikte, clip-on) vid vildsvinsjakt på åtel eller öppen mark:</strong> tillåtet utan särskilt tillstånd.",
             "<strong>Värmesikte vid vildsvinsjakt i skog utanför åtel:</strong> inte tillåtet. Digitalt mörkersikte (bildförstärkare/bildomvandlare) omfattas inte av platskravet.",
             "<strong>Värmesikte vid jakt på andra arter (räv, mårdhund, hjort, älg):</strong> inte tillåtet med stöd av 14 a §. Undantag kan beslutas av Naturvårdsverket eller länsstyrelsen i enskilda fall, till exempel vid skyddsjakt.",
@@ -128,7 +128,7 @@ def regler() -> dict:
         {ul([
             "<strong>Privat bruk</strong> av värmekamera (huset, tomten, friluftsliv) är inte reglerat.",
             "<strong>Drönare</strong> med värmekamera lyder under Transportstyrelsens drönarregler (registrering, drönarkort, kategorier) och kameraövervakningslagstiftning om du filmar platser där människor vistas. Att störa vilt med drönare är inte tillåtet; inventering görs av yrkesfolk med erfarenhet.",
-            "<strong>Export</strong>: termiska kameror med bildfrekvens över 9 Hz kan omfattas av exportkontroll (dual use). Det påverkar dig som privatperson bara om du tar kameran utanför EU; kontrollera reglerna i destinationslandet.",
+            "<strong>Export</strong>: termiska kameror med bildfrekvens över 9 Hz kan omfattas av exportkontroll som produkter med dubbla användningsområden. Det påverkar dig som privatperson bara om du tar kameran utanför EU; kontrollera reglerna i destinationslandet.",
         ])}
     ''')
     body += sec("kallor", "Källor", f'''
@@ -203,7 +203,6 @@ TERMS = [
     ("Palett", "Färgschema som gråskalan översätts till: white hot, black hot, red hot, ironbow, rainbow. Tillför ingen information, väljer vad ögat lätt ser."),
     ("PiP", "Picture in Picture. Ett förstorat utsnitt visas i en liten ruta överst i bilden samtidigt som hela synfältet behålls."),
     ("Pixelstorlek (pitch)", "Avståndet mellan två elements mittpunkter på sensorn: 17 µm (äldre), 12 µm (standard), 10 µm (nyast). Mindre ger mer detalj per mm brännvidd."),
-    ("Pixelfotavtryck", "Hur stor bit av verkligheten en pixel täcker: pixelstorlek ÷ brännvidd × avstånd. 12 µm/35 mm ger 3,4 cm på 100 m."),
     ("Radiometrisk", "Kamera som är kalibrerad för att mäta absolut temperatur i varje pixel. Byggnads- och industrikameror; jaktkameror är det normalt inte."),
     ("Red hot", "Palett som visar bilden i gråskala men färgar de varmaste zonerna röda. Bra när marken är varm på sommaren."),
     ("ROIC", "Read-Out Integrated Circuit. Kretsen under mikrobolometern som mäter varje elements resistans och omvandlar till digitala värden."),
@@ -213,7 +212,7 @@ TERMS = [
     ("Termisk tidskonstant", "Hur snabbt ett mikrobolometerelement värms och svalnar, några millisekunder. Begränsar bildfrekvensen."),
     ("Termografi", "Mätning och avbildning av yttemperaturer med värmekamera, oftast i byggnad och industri."),
     ("Vanadinoxid (VOx)", "Det vanligaste membranmaterialet i bra mikrobolometrar. Hög temperaturkoefficient och lågt brus."),
-    ("Värmekikare", "Svensk handelsterm för handhållen värmekamera (termisk monokikare eller binokulär) för jakt och spaning."),
+    ("Värmekikare", "Svensk handelsterm för handhållen värmekamera (termisk monokikare eller dubbelkikare) för jakt och spaning."),
     ("Värmesikte", "Värmekamera byggd som kikarsikte med riktmedel, monterad på vapnet. Regleras av 14 a § jaktförordningen. Se Värmesikte.se."),
     ("White hot", "Standardpalett: varmt visas vitt, kallt svart."),
     ("Wiens förskjutningslag", "Våglängden för strålningstoppen = 2898 µm·K ÷ temperaturen i kelvin. 37 °C ger ≈9,3 µm, mitt i LWIR."),
@@ -234,7 +233,7 @@ def ordlista() -> dict:
     }]
     return {
         "slug": "ordlista.html",
-        "title": f"Ordlista värmekamera: {len(TERMS)} begrepp förklarade (NETD, NUC, mikrobolometer, LWIR …)",
+        "title": f"Ordlista värmekamera: {len(TERMS)} begrepp förklarade (NETD, NUC, mikrobolometer, LWIR med flera)",
         "short": "Ordlista",
         "description": f"{len(TERMS)} begrepp om värmekameror förklarade: AGC, DDE, emissivitet, germanium, Johnsons kriterier, LWIR, mikrobolometer, NETD, NUC, palett, pixelstorlek, VOx med flera.",
         "body": body,
@@ -335,11 +334,11 @@ def om() -> dict:
       <section style="display:flex;flex-direction:column;gap:14px">
         <h2 style="font-size:26px;font-weight:800">Vad sajten är</h2>
         <p>{SITE_NAME} är en teknisk guide till värmekameror, med tyngdpunkt på handhållna kameror för jakt och spaning i Sverige. Vi förklarar fysiken bakom tekniken, vad siffrorna i databladen betyder och hur de översätts till vad du ser i skogen. Vi läser tillverkarnas dokumentation, manualer, forskningsöversikter och svenska jaktforum, och väver in erfarenheter från Nordic Aims kunder och personal.</p>
-        <p>Vi skriver inte "bäst i test"-listor med poäng. Vi beskriver vad en modell är byggd för och var den har sina begränsningar, och vi räknar hellre än tycker.</p>
+        <p>Vi skriver inte "bäst i test"-listor med poäng. Vi beskriver vad en modell är byggd för och var den har sina begränsningar, och vi visar formlerna så att du kan räkna själv.</p>
       </section>
       <section style="display:flex;flex-direction:column;gap:14px;background:#fff;border:1px solid var(--mist-200);border-radius:12px;padding:28px">
         <h2 style="font-size:22px">En sajt från Nordic Aim</h2>
-        <p style="font-size:16px">{SITE_NAME} ägs och drivs av {ext(na("/"), NA_NAME)} (org.nr {NA_ORGNR}), en svensk webbutik för jakt- och skytteoptik med lager i Sverige. När vi länkar till produkter går länkarna till nordicaim.se. Det påverkar vilka produkter vi visar med bild och länk: vi visar det vi säljer. Det påverkar inte hur vi beskriver tekniken, fysiken, reglerna eller problemen, och vi skriver ut begränsningar också hos produkter vi säljer.</p>
+        <p style="font-size:16px">{SITE_NAME} ägs och drivs av {ext(na("/"), NA_NAME)} (org.nr {NA_ORGNR}), en svensk webbutik för jakt- och skytteoptik som skickar från Sverige. När vi länkar till produkter går länkarna till nordicaim.se. Det påverkar vilka produkter vi visar med bild och länk: vi visar det vi säljer. Det påverkar inte hur vi beskriver tekniken, fysiken, reglerna eller problemen, och vi skriver ut begränsningar också hos produkter vi säljer.</p>
         <p style="font-size:16px">Köper du något via en länk härifrån hanteras köp, leverans, öppet köp och support av Nordic Aim enligt deras villkor. Vi driver också {ext(SISTER + "/", "Värmesikte.se")}, en motsvarande guide om termiska sikten.</p>
         <p style="font-size:16px">Frågor om en produkt, montage eller leverans: <a href="mailto:{NA_MAIL}">{NA_MAIL}</a>, {NA_TEL}. Synpunkter på innehållet här: samma adress, märk mejlet "{SITE_NAME}". Hittar du ett sakfel rättar vi det och noterar ändringen.</p>
       </section>
