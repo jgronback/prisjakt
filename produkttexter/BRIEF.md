@@ -29,6 +29,23 @@ Mappen är `/home/user/prisjakt/produkttexter/`. Läs hela denna fil innan du b�
 - Är en text redan bra och har en bra avslutning och pitch: sätt `descriptionHtml` och/eller `short_pitch` till null. Att lämna orört är ett giltigt utfall.
 - HTML-strukturen: behåll `<p>`, `<strong>`, `<br>`, `•`-listor som de är.
 
+
+## Facit från piloten (läs innan du skriver)
+
+`proposals/b00.json` är godkänd av huvudsessionen och är facit för ton och nivå: titta på 3 av avslutningarna och pitcharna där innan du börjar. Kännetecken:
+- Pitchen öppnar med kundens situation ("Slipp gissa håll i skymningen:", "Sveper av åkerkanten på färre drag:") och följer med 2–4 riktiga specar.
+- Avslutningen har en verklig siffra (ofta artbestämning) och 1–2 syskonlänkar med skillnaden i siffror, plus högst en kort trygghetsmening som inte står likadant på alla produkter.
+- Gamla standardmeningen "Fraktfritt inom Sverige, och vi hjälper dig gärna välja rätt modell" ska inte stå kvar ordagrant på varje produkt. Variera eller stryk.
+- Priser anges aldrig som belopp i text, bara "till lägre pris" o.d.
+
+## Tillbehör och små produkter
+
+Fästen, ringar, adaptrar, batterier, väskor och andra tillbehör: lätt hand. Rätta förbjudna mönster, gör pitchen tydligare om vad den passar till (modell, footprint, mått som redan står i texten), och länka gärna till den produkt eller kollektion tillbehöret hör till. Lägg inte tid på syskonresonemang som för sikten.
+
+## Kända datakonflikter
+
+Hittar du konflikter mellan text, specifikation, metafält och FAQ (som på A650P i piloten): rör dem inte, lista dem i rapporten.
+
 ## Arbetsgång
 
 1. Skriv förslagen till `proposals/bXX.json`: en lista av

@@ -15,7 +15,7 @@ ART = json.load(open(os.path.join(HERE, "art_table.json"), encoding="utf-8"))
 def text(h): return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", h or "")).strip()
 def norm_num(s):
     s = s.replace(" ", " ").replace(" ", " ")
-    s = re.sub(r"(?<=\d) (?=\d{3}\b)", "", s)      # 1 300 -> 1300
+    s = re.sub(r"(?<![\w.,])(\d{1,3}) (?=\d{3}\b)", r"\1", s)  # 1 300 -> 1300, men inte "M2 384" eller "512 640"
     return s.replace(",", ".")
 def numbers(s):
     s = norm_num(text(s))
