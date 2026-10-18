@@ -227,3 +227,15 @@ Siffror och specifikationer är aldrig ändrade av genomgången. Punkterna nedan
 - Sig Sauer JULIET4 och ROMEO2: saknar Detta ingår. ROMEO2 och ROMEO-X Compact: saknar Garanti i spec. TANGO-MSR 1-8x24: saknar synfält.
 - JULIET-distanser: Micro 1,54 tum, JULIET4/6 1,53 tum.
 - Hänvisningar till produkter som inte finns: JULIET3 (JULIET4-text och flera FAQ), TANGO-MSR 1-6x24 HELLFIRE FL-6, Sightmark Medium/High-ringar.
+
+## b23 Vector Optics Continental
+- 1-6x24 Fiber finns två gånger (…-fiber-hd-sfp-kikarsikte och …-hunting-scope-1) med olika klick, vikt och packlista. Möjlig dubblett.
+- "30 års garanti & ringar ingår" i nyckelfunktioner men ringar saknas i Detta ingår: 1-6x24 Fiber (-1), 1-6x24i VEC-FDR, 1,5-9x42 G4.
+- x8 6-48x56 MOA (34 mm, ca 1100 g, ringar) mot MIL (30 mm, 807 g, inga ringar).
+- x10 1-10x28 CTR (IP68, 39,27 m, 93 mm) mot RAR2 (IP67, 35 m, 100 mm); FAQ säger bara riktmedlet skiljer.
+- x8 1-8x24 ED SFP: rubrik "ED Fiber SFP", fiberupplyst; utgångspupill 6,5 mot 7,5 mm. 1,5-9x42 G4 och 2,5-15x56 G4: "Fiberupplyst" mot "belyst".
+- 1,5-9x42 G4: "Sidoparallax fast på 100 m". 4-24x56 Coyote parallax 10 m mot VEC-MBR 15 m.
+- Synfält 4-24x56 Coyote 7–1,2 m mot VEC-MBR 9–1,5 m; 5-30x56 9–1,7 m.
+- Rekyltest "1000 g"/"750 g" (ska vara G) på flera sikten.
+- Continental 8x42: silverbeläggning mot dielektrisk. Pro 20-60x80: 2215 g i FAQ mot 2227 g.
+- Power Ring: titel "Throw Level" (Lever). RokStad 6-9": montering anges inte.
