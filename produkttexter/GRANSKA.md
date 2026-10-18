@@ -218,3 +218,12 @@ Siffror och specifikationer är aldrig ändrade av genomgången. Punkterna nedan
 - Thermion 2 XP60 Pro LRF: artbestämning saknas (17 µm/60 mm: formel 480/290).
 - Talion XQ35 Pro, Thermion 2 XQ50 Pro och XQ50 Pro LRF: spec bara mått och vikt. XQ50 Pro 3,5–14x mot LRF 3–12x.
 - Thermion 2 XQ50 Pro (28 695 kr) dyrare än XQ50 Pro LRF (27 595 kr). Pris ej rört.
+
+## b21 RIX Leap/Storm/Glint, Sig Sauer, Sightmark
+- RIX Leap L6 V2 och L6R: synfält 8,8° × 4,9°, vertikalt borde bli ca 6,6° för 640x480/50 mm.
+- RIX L3R, L6 V2, L6R: både Picatinny- och QR-sadelmontage i "Vad följer med"; L3R spec "Montage: 30 mm ringar".
+- RIX Leap L6R: FAQ/SEO kan fortfarande säga "toppmodell" (L12R är toppmodellen).
+- RIX Glint G3: FAQ "kostar 7 000 kronor mer" (prisbelopp).
+- Sig Sauer JULIET4 och ROMEO2: saknar Detta ingår. ROMEO2 och ROMEO-X Compact: saknar Garanti i spec. TANGO-MSR 1-8x24: saknar synfält.
+- JULIET-distanser: Micro 1,54 tum, JULIET4/6 1,53 tum.
+- Hänvisningar till produkter som inte finns: JULIET3 (JULIET4-text och flera FAQ), TANGO-MSR 1-6x24 HELLFIRE FL-6, Sightmark Medium/High-ringar.
