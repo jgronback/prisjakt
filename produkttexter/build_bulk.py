@@ -47,7 +47,11 @@ for f in sorted(glob.glob(os.path.join(HERE, "corrections", "c*.json"))):
         w = want.setdefault(c["id"], {})
         if c.get("descriptionHtml") is not None: w["desc"] = c["descriptionHtml"]
         if c.get("faq") is not None: w["faq"] = c["faq"]
-        if c.get("metafields"): w.setdefault("mf", {}).update({k: str(v).lower() if isinstance(v, bool) else str(v) for k, v in c["metafields"].items()})
+        for k, v in (c.get("metafields") or {}).items():
+            v = str(v).lower() if isinstance(v, bool) else str(v)
+            if k == "short_pitch": w["pitch"] = v
+            elif v.strip() == "": w.setdefault("delete", set()).add(k)
+            else: w.setdefault("mf", {})[k] = v
         if c.get("title"): w["title"] = c["title"]
         if c.get("new_handle"): w["handle"] = c["new_handle"]
 
@@ -69,7 +73,7 @@ if renames:
         for old, new in renames.items(): d2 = d2.replace(f'href="/products/{old}"', f'href="/products/{new}"').replace(f'href="/products/{old}#', f'href="/products/{new}#')
         if d2 != d: want.setdefault(pid, {})["desc"] = d2
 
-lines, plan = [], []
+lines, plan, deletes = [], [], []
 for pid, w in want.items():
     b, c = backup[pid], current.get(pid)
     if c is None: skipped.append({"handle": b["handle"], "why": "inte längre aktiv"}); continue
@@ -91,6 +95,8 @@ for pid, w in want.items():
     if mfs: inp["metafields"] = mfs
     if w.get("title") and w["title"] != c.get("title"): inp["title"] = w["title"]
     if w.get("handle") and w["handle"] != c.get("handle"): inp["handle"] = w["handle"]; inp["redirectNewHandle"] = True
+    for k in sorted(w.get("delete", ())):
+        if (c.get(k) if False else True): deletes.append({"ownerId": pid, "namespace": "custom", "key": k})
     if len(inp) == 1: continue
     lines.append(json.dumps({"p": inp}, ensure_ascii=False))
     plan.append({"id": pid, "handle": b["handle"], "fields": sorted(k for k in inp if k != "id"),
@@ -100,6 +106,8 @@ os.makedirs(os.path.join(HERE, "bulk"), exist_ok=True)
 open(os.path.join(HERE, "bulk", "bulk_vars.jsonl"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
 json.dump(plan, open(os.path.join(HERE, "bulk", "bulk_plan.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 json.dump(skipped, open(os.path.join(HERE, "bulk", "skipped.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+json.dump(deletes, open(os.path.join(HERE, "bulk", "deletes.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print(f"metafält att radera: {len(deletes)}")
 from collections import Counter
 cnt = Counter(f for p in plan for f in p["fields"]); mcnt = Counter(m for p in plan for m in p["metafields"])
 print(f"rader: {len(lines)} | fält: {dict(cnt)} | metafält: {dict(mcnt)} | hoppade över: {len(skipped)}")

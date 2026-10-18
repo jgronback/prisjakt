@@ -24,3 +24,11 @@
 - Compact Dot HD 28: Delta anger 11 belysningssteg, vi 7. Equinox Z2: manual 183 m, vi 229 m. Sailor: Delta 24 mån garanti, vi 10 år. Ej ändrat.
 - Handles: delta-optical-forest-ii-8x42/10x42-kikare är Gen3 ED-produkter i dag. Byta med redirect?
 - StarLight 15x70 och Titanium 8x56 saknar Detta ingår.
+
+### c2 Alpen/Arken/DNT/Athlon-fästen
+- Zulus HD 5-20x: text och pitch säger "säljs nu till nedsatt pris". Stryka om kampanjen är slut?
+- Athlon Armor 30 mm Picatinnyringar Låga: Athlon anger 22,61 mm, titel/handle/text säger 22,86 mm.
+- Alpen Apex XP 8x42 (pxa): kategori "Okategoriserat", så metafältet objektiv kan inte sättas. Sätta kategori Kikare (co-3-1)?
+- Alpen 5-30x56 BDC: garantiruta "Deluxe" utan löptid hos tillverkaren, 5 år eller utan slutdatum oklart.
+- Apex Thermal 54 mm: vikt 511 g eller 456 g, går inte att verifiera (utgången modell).
+- Alpen Apex XP 8x42 LRF: synfält borttaget, tillverkarens två sajter säger 110 m och 140 m.
