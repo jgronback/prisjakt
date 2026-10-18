@@ -47,3 +47,12 @@
 - TH50Z: objektiv-metafält "50 mm" (har 25/50 mm). Ändra till "25/50 mm"? Kan påverka filter.
 - Packlistor utan officiell källa: TE25, TQ50CR, TE19CR, A50TN, Kit A50E.
 - Dubblett: hikmicro-lenscover-label-falcon-fq35-fh25-fq50-fh35 och "-1".
+
+### c8 Holosun/Nocpix/Draco
+- Holosun SCRS Green/Red: Holosuns packlista har bara sikte, linsduk, multiverktyg, manual, garantikort. Våra texter lovar lower 1/3-fäste, T10-verktyg och linsskydd. Stryka?
+- PixFra Draco D225N: PixFra anger LRF 1000 m på alla N-4K-modeller; vår text säger utan laser och lrf-metafält saknas. Kontrollera exemplaret. Garanti 2 år i spec mot 3 år i källförbehållen.
+- Holosun EPS RD-6 fullstorlek har samma pris som EPS Carry RD-6. Kontrollera priset.
+- Möjlig dubblett: holosun-hs503cu-rd-red-circle-dot-solar-panel och holosun-503cu-circle-dot-solar-panel.
+- Död manuallänk: custom.manual på EPS-produkterna (holosun.eu-PDF) ger 404.
+- Nocpix ACE H50R: Detta ingår "eller" mot "och"; spec bara mått/vikt. Nocpix publicerar inga packlistor.
+- QUEST S50R: "två 18650 ingår" i FAQ ej verifierat.
