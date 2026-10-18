@@ -208,3 +208,13 @@ Siffror och specifikationer är aldrig ändrade av genomgången. Punkterna nedan
 - Grizzly 1-6x24i HD: FAQ "cirka 900 kr billigare". Forester 8-16x56: FAQ "perfekt för".
 - Paragon 1x18: rekyltest "1000 g" (ska vara G); saknar fetstilad rubrik. Paragon 3x18: grötig text, behöver skrivas om.
 - Grizzly 3-12x56: nämner "Grizzly 2.5-15x50i HD" som inte finns i katalogen.
+
+## b19 Pulsar Thermion/Trail/Axion/Talion
+- Thermion 2 XG60 LRF och XL60 LRF: detektion 2000 m i metafält, 2800 m i spec och FAQ.
+- Thermion 2 XP50 Pro LRF: laser 800 m i text, 1000 m i FAQ; saknar Teknisk specifikation och Detta ingår.
+- Trail 3 LRF XQ50: NETD <15 mK och 1800 m i text, 18 mK och 2000 m i metafält; Detta ingår vagt.
+- Trail 3 LRF XR50: NETD <18 mK i text, 15 mK i metafält; Detta ingår vagt.
+- Axion XG30: "1400 yd" i löptext, 1300 m i spec; mått/vikt i tum och oz. Artbestämning saknas (12 µm/30 mm: formel 340/210).
+- Thermion 2 XP60 Pro LRF: artbestämning saknas (17 µm/60 mm: formel 480/290).
+- Talion XQ35 Pro, Thermion 2 XQ50 Pro och XQ50 Pro LRF: spec bara mått och vikt. XQ50 Pro 3,5–14x mot LRF 3–12x.
+- Thermion 2 XQ50 Pro (28 695 kr) dyrare än XQ50 Pro LRF (27 595 kr). Pris ej rört.
