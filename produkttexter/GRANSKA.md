@@ -64,3 +64,13 @@ Siffror och specifikationer är aldrig ändrade av genomgången. Punkterna nedan
 - Argos 20-60x85 vinklad 5 990 kr, rak 8 995 kr. Ser omvänt ut. Pris ej rört.
 - Stativen: "Fluid Pan Control/Vätskepannkontroll" dålig översättning. Flera texter slutar med tomt "Egenskaper:".
 - 19 produkter under 400 tecken (solskydd, stativ, tubkikare, okular) behöver nya texter.
+
+## b10 GPO/Guide
+- Rangeguide 3400 10x50: FAQ kallar den ljusstarkast i serien (5 mm), men 2800 8x50 har 6,3 mm.
+- Guide TU650LS: FAQ "smalare synfält, 15 mot 14 meter" motsäger sig själv.
+- Spectra 4.5-27x50i MOAi/PLRi: FAQ "i höjdtornet i höjdtornet"; synfält 7,5 i FAQ mot 7,6/7,4 i spec; utgångspupill 11,1–1,7 mot 9,5–1,9 mm.
+- O435CS och TU435LS: båda 7,9° men 13 m respektive 14 m på 100 m.
+- 640/12 µm: vertikal vinkel 9,4° (O635CS, TD635LS) mot 10,0° (TK635L); 6,6° (TB650LS, TD650LS) mot 7,0° (TU650LS, TK650L).
+- TU425S: synfält 10,3° x 6,2° stämmer inte med 400x300/12 µm/25 mm (ca 11° x 8,2°).
+- TB650LS: display 0,39 tum med 1920x1080 (Orion: 0,39 tum = 1024x768).
+- TE210MS: 13,1° x 13,1° från 256x192, troligen beskuret till rund skärm.
