@@ -1,0 +1,9690 @@
+[
+ {
+  "id": "gid://shopify/Product/12445758226772",
+  "handle": "pixfra-arc-pro-a635p-640x512-35-mm-varmekamera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758292308",
+  "handle": "pixfra-arc-pro-a625p-640x512-25-mm-varmekamera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758357844",
+  "handle": "pixfra-arc-pro-a435p-384x288-35-mm-varmekamera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758423380",
+  "handle": "pixfra-mile-m2-384x288-25-mm-varmekamera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758456148",
+  "handle": "pixfra-mile-m2-256x162-15-mm-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "handle",
+   "redirectNewHandle"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758521684",
+  "handle": "pixfra-arc-pro-a425p-384x288-25-mm-varmekamera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758652756",
+  "handle": "pixfra-arc-pro-a419p-384x288-19-mm-varmekamera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758718292",
+  "handle": "pixfra-arc-pro-a419p-lrf-384x288-19-mm-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758816596",
+  "handle": "pixfra-arc-pro-a635p-lrf-640x512-35-mm-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445758914900",
+  "handle": "pixfra-arc-pro-a425p-lrf-384x288-25-mm-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445759603028",
+  "handle": "pixfra-mile-m2-640x512-25-mm-varmekamera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445759701332",
+  "handle": "pixfra-arc-pro-a435p-lrf-384x288-35-mm-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445759799636",
+  "handle": "pixfra-arc-pro-a625p-lrf-640x512-25-mm-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12445759897940",
+  "handle": "pixfra-arc-pro-a650p-640x512-50-mm-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq",
+   "forstoring",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15755178148180",
+  "handle": "pixfra-mile-m3-384x288-25-mm-varmekikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15755179131220",
+  "handle": "pixfra-mile-m3-384x288-35-mm-varmekikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15755179688276",
+  "handle": "pixfra-mile-m3-640x512-25-mm-varmekikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15755181392212",
+  "handle": "pixfra-mile-m3-640x512-lrf-25-mm-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15755182768468",
+  "handle": "pixfra-arc-pro-a650p-lrf-640x512-50-mm-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12485570560340",
+  "handle": "alpen-crestone-xp-7x24-oled-rangefinder",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12481147371860",
+  "handle": "alpen-apex-steady-hd-20x42-bildstabiliserad-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12481147634004",
+  "handle": "alpen-apex-xp-8x32-lrf-fernglas-kikare-med-avstandsmatare",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12482476507476",
+  "handle": "alpen-apex-xp-with-pxa-coating-ed-glass-8x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt",
+   "nargrans",
+   "prismatyp"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209845731668",
+  "handle": "alpen-apex-xp-rifle-scope-1-5-9x45-a4",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209845502292",
+  "handle": "alpen-apex-xp-rifle-scope-1-6x24-duplex",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209845797204",
+  "handle": "alpen-apex-xp-rifle-scope-2-5-15x50-a4-a4",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209845666132",
+  "handle": "alpen-apex-xp-rifle-scope-2-5-15x56-a4",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209845764436",
+  "handle": "alpen-apex-xp-rifle-scope-2-5-16x42-a4-a4",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209845895508",
+  "handle": "alpen-apex-xp-rifle-scope-5-30x56-bdc",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209845961044",
+  "handle": "alpen-apex-xp-rifle-scope-5-30x56-mil-dot",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570167124",
+  "handle": "alpen-apex-steady-hd-14x42-bildstabiliserad-kikare",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570199892",
+  "handle": "alpen-apex-steady-hd-16x30-bildstabiliserad-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570036052",
+  "handle": "alpen-apex-xp-10x42-lrf-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570134356",
+  "handle": "alpen-apex-xp-10x42-handkikare-ed-glas",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485569904980",
+  "handle": "alpen-apex-xp-8x42-lrf-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12481148125524",
+  "handle": "alpen-optics-apex-xp-7x24-lrf-fernglas",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485569872212",
+  "handle": "alpen-apex-20-60x80-tubkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570625876",
+  "handle": "alpen-black-tusk-ed-10x42-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570494804",
+  "handle": "alpen-black-tusk-ed-8x42-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570593108",
+  "handle": "alpen-chisos-10x42-lrf-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570462036",
+  "handle": "alpen-chisos-6-5x32-ed-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570330964",
+  "handle": "alpen-chisos-8x32-ed-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570429268",
+  "handle": "alpen-shasta-ridge-10x42-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570265428",
+  "handle": "alpen-shasta-ridge-8x42-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570396500",
+  "handle": "alpen-teton-10x42-handkikare-abbe-prismor",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570232660",
+  "handle": "alpen-teton-8x42-handkikare-abbe-prismor",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705268453716",
+  "handle": "alpen-apex-thermal-35mm-varmekikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705270944084",
+  "handle": "alpen-apex-thermal-54mm-varmekikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570003284",
+  "handle": "alpen-wings-20-60x80-tubkikare-45-grader",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485570101588",
+  "handle": "alpen-wings-20-60x80-tubkikare-rakt-okular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717702173012",
+  "handle": "arken-optics-ep5-genii-5-25x56-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717697061204",
+  "handle": "arken-optics-ep5-genii-7-35x56-ffp-vpr-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717716722004",
+  "handle": "arken-optics-ep8-1-8x28-ffp-kl-box-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717721473364",
+  "handle": "arken-optics-epl4-4-16x44-ffp-vhr-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717725700436",
+  "handle": "arken-optics-epl4-6-24x50-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717709676884",
+  "handle": "arken-optics-lh-6-1-6x24-sfp-kl-box-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717735760212",
+  "handle": "arken-optics-outrider-2-12x42-fdr-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717737333076",
+  "handle": "arken-optics-outrider-3-18x50-fdr-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717730156884",
+  "handle": "arken-optics-sh-4j-6-24x50-ffp-vhr-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717732221268",
+  "handle": "arken-optics-sh-4j-6-24x50-ffp-vpr-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717734023508",
+  "handle": "arken-optics-sh-4j-6-24x50-ffp-vpr-moa-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717727961428",
+  "handle": "arken-optics-sh4-gen2-4-16x50-ffp-vpr-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717741756756",
+  "handle": "dnt-zulus-hd-5-20x-digitalt-morkersikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717755912532",
+  "handle": "dnt-thermnight-compact-tnc225r-256x192-25-mm-multispektralt-sikte-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717754765652",
+  "handle": "dnt-thermnight-compact-tnc335r-384x288-35-mm-multispektralt-sikte-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717753815380",
+  "handle": "dnt-thermnight-compact-tnc635r-640x512-35-mm-multispektralt-sikte-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717751488852",
+  "handle": "dnt-hound-h315r-384x288-15-mm-varmekikare-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717750407508",
+  "handle": "dnt-hound-h325r-384x288-25-mm-varmekikare-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717748474196",
+  "handle": "dnt-hound-h635r-640x512-35-mm-varmekikare-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772405588",
+  "handle": "athlon-talos-800y-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773028180",
+  "handle": "athlon-talos-golf-800y-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773093716",
+  "handle": "athlon-midas-m3-3x-magnifier",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770668884",
+  "handle": "athlon-midas-m5-5x-magnifier",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340773454164",
+  "handle": "athlon-argos-g2-8x42-hd-handkikare",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770505044",
+  "handle": "athlon-cronus-g2-20-60x86-ed-tubkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340773519700",
+  "handle": "athlon-midas-g2-8x42-uhd-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770799956",
+  "handle": "athlon-ares-btr-gen3-2-5-15x50-ffp-mil-aprs13-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770898260",
+  "handle": "athlon-ares-btr-gen3-4-5-27x50-ffp-mil-aprs13-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771389780",
+  "handle": "athlon-ares-etr-gen2-uhd-4-5-30x56-ffp-mil-aprs12-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771684692",
+  "handle": "athlon-argos-btr-1-8x24-gen-3-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772110676",
+  "handle": "athlon-argos-btr-6-24x50-gen-3-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772176212",
+  "handle": "athlon-argos-btr-8-34x56-gen-3-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770013524",
+  "handle": "athlon-argos-hmr-2-12x42-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770242900",
+  "handle": "athlon-argos-hmr-2-12x42-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771488084",
+  "handle": "athlon-argos-hmr-4-20x50-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771717460",
+  "handle": "athlon-argos-hmr-4-20x50-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771914068",
+  "handle": "athlon-cronus-btr-gen2-1-6x24-sfp-belyst",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772012372",
+  "handle": "athlon-helos-btr-gen-2-1-10x28-sfp-moa-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772307284",
+  "handle": "athlon-helos-btr-gen-2-2-12x42-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772372820",
+  "handle": "athlon-helos-btr-gen-2-4-20x50-ffp-mil-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771848532",
+  "handle": "athlon-helos-btr-gen-2-6-24x56-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770996564",
+  "handle": "athlon-heras-spr-15-60x56-sfp-blr2-nir-moa-belyst",
+  "fields": [
+   "handle",
+   "metafields",
+   "redirectNewHandle",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340769915220",
+  "handle": "athlon-heras-spr-2-12x42-sfp-mil",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770210132",
+  "handle": "athlon-heras-spr-4-20x50-sfp-mil",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771881300",
+  "handle": "athlon-heras-spr-6-24x50-sfp-mil-belyst",
+  "fields": [
+   "handle",
+   "metafields",
+   "redirectNewHandle",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770308436",
+  "handle": "athlon-midas-btr-hd-tactical-1-6x24-gen2-sfp-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340769718612",
+  "handle": "athlon-midas-btr-hd-tactical-4-5-27x50-gen-2-sf-sfp-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772897108",
+  "handle": "athlon-midas-btr-os11-1x-holografiskt-sikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770275668",
+  "handle": "athlon-midas-hmr-hd-2-5-15x50-sf-sfp-moa-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771357012",
+  "handle": "athlon-midas-tac-hd-5-25x56-ffp-mil-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340769947988",
+  "handle": "athlon-neos-3-9x40-sfp-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771553620",
+  "handle": "athlon-neos-4-12x40-sf-sfp-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340769751380",
+  "handle": "athlon-neos-6-18x44-sf-sfp-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772471124",
+  "handle": "athlon-riflescope-44-mm-solskydd-passande-midas-tac",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772274516",
+  "handle": "athlon-talos-3-12x40-sfp-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340769685844",
+  "handle": "athlon-talos-4-16x40-sf-sfp-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772503892",
+  "handle": "athlon-talos-6-24x50-sfp-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771094868",
+  "handle": "athlon-talos-btr-1-4x24-gen2-ahsr14-mil-belyst",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771127636",
+  "handle": "athlon-talos-btr-10x42-gen2-aprs2a-sfp-mil",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771422548",
+  "handle": "athlon-talos-btr-4-14x44-gen2-ffp-aplr2-mil-belyst",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770111828",
+  "handle": "athlon-talos-btr-4-14x44-gen2-ffp-aprs10-mil-belyst",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340769653076",
+  "handle": "athlon-rangecraft-velocitypro-radar-kronograf",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770734420",
+  "handle": "athlon-44-mm-solskydd-for-talos-btr",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771029332",
+  "handle": "athlon-50-mm-solskydd-for-argos-btr-och-helos-btr",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773486932",
+  "handle": "athlon-50-mm-solskydd-for-midas-btr-midas-tac-och-ares-btr",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772798804",
+  "handle": "athlon-riflescope-56-mm-solskydd-passande-ares-etr-brun",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340770603348",
+  "handle": "athlon-riflescope-56-mm-solskydd-passande-ares-etr-midas-tac",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771750228",
+  "handle": "athlon-riflescope-56-mm-solskydd-passande-cronus-btr-brun",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771782996",
+  "handle": "athlon-midas-edc-holografiskt-rodpunktssikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771258708",
+  "handle": "athlon-midas-flash-dot-holografiskt-rodpunktssikte-3-moa",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770079060",
+  "handle": "athlon-midas-le-g2-rodpunktssikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770701652",
+  "handle": "athlon-midas-tsp1-prismatiskt-sikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772241748",
+  "handle": "athlon-midas-tsp3-prismasikte-rod-gront-riktmedel-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772766036",
+  "handle": "athlon-midas-tsp4-prismasikte-rod-gront-riktmedel-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340773257556",
+  "handle": "athlon-midas-tsr1-holografiskt-reflexsikte-50000-h-batteritid",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770931028",
+  "handle": "athlon-midas-tsr1-m-rmr-platta-3-moa-rodpunkts-sikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772569428",
+  "handle": "athlon-midas-tsr1-m-rmr-platta-6-moa-rodpunkts-sikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340773224788",
+  "handle": "athlon-midas-tsr2-micro-rodpunktssikte-50000-h-batteritid",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772536660",
+  "handle": "athlon-midas-tsr3-rodpunktssikte-50000h-batteritid",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771193172",
+  "handle": "athlon-talos-edc-holografiskt-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "objektiv"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771062100",
+  "handle": "athlon-midas-al28-aluminium-stativ-med-kulledshuvud",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772045140",
+  "handle": "athlon-midas-cf29-kolfiberstativ-med-kulledshuvud",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772700500",
+  "handle": "athlon-midas-cf32-kolfiberstativ-med-kulledshuvud",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772733268",
+  "handle": "athlon-midas-cf36-kolfiberstativ-med-kulledshuvud",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772438356",
+  "handle": "athlon-midas-cf40-kolfiberstativ-med-kulledshuvud",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771324244",
+  "handle": "athlon-stativ-sadelmontage-for-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773060948",
+  "handle": "athlon-ares-15-45x65-uhd-rak-tubkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773388628",
+  "handle": "athlon-ares-15-45x65-uhd-vinklad-tubkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772667732",
+  "handle": "athlon-ares-22x-vidvinkelokular-for-ares-85-mm",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773323092",
+  "handle": "athlon-ares-gen-2-20-60x85-uhd-tubkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772340052",
+  "handle": "athlon-argos-20-60x85-hd-rak-tubkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340770144596",
+  "handle": "athlon-argos-20-60x85-hd-vinklad-tubkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771651924",
+  "handle": "athlon-cronus-tactical-g2-7-42x60-uhd-tubkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340770046292",
+  "handle": "athlon-talos-20-60x80-gron",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340771225940",
+  "handle": "athlon-talos-20-60x80-sandbrun",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613321937236",
+  "handle": "delta-optical-chase-10x42-ed-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613321544020",
+  "handle": "delta-optical-chase-12x50-ed-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613322756436",
+  "handle": "delta-optical-t-9x45-fl-hd-rf-kikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613319676244",
+  "handle": "delta-optical-forest-ii-10x42-kikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613320986964",
+  "handle": "delta-optical-forest-gen3-ed-10x50-kikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613320495444",
+  "handle": "delta-optical-forest-gen3-ed-12x50-kikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613309878612",
+  "handle": "delta-optical-forest-ii-8x42-kikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613326688596",
+  "handle": "delta-optical-sailor-7x50-c1-porrokikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613324689748",
+  "handle": "delta-optical-titanium-8x56-roh-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613298901332",
+  "handle": "delta-optical-titanium-hd-1-5-9x45-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613296116052",
+  "handle": "delta-optical-titanium-hd-1-6x24-4a-s-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613297394004",
+  "handle": "delta-optical-titanium-hd-2-5-10x50-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613296771412",
+  "handle": "delta-optical-titanium-hd-2-5-10x56-di-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613267083604",
+  "handle": "delta-optical-titanium-hd-2-5-10x56-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613206954324",
+  "handle": "delta-optical-titanium-hd-2-5-15x50-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613295624532",
+  "handle": "delta-optical-titanium-hd-2-5-15x56-sf-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613302571348",
+  "handle": "delta-optical-titanium-hd-4-24x50-sf-di-md-belyst-sikte-med-utbytbara-rattar",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613301817684",
+  "handle": "delta-optical-titanium-hd-4-24x50-sf-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613300965716",
+  "handle": "delta-optical-titanium-hd-4-24x50-sfp-4a-sb-mil-med-utbytbara-rattar-belyst",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613327671636",
+  "handle": "delta-optical-titanium-ed-50-tubkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613319971156",
+  "handle": "delta-optical-rf-1200-hd-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613317939540",
+  "handle": "delta-optical-rf-2000-hd-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613310599508",
+  "handle": "delta-optical-rf-4000-hd-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15613320790356",
+  "handle": "delta-optical-compact-dot-hd-28",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613324919124",
+  "handle": "delta-optical-grd-rodpunktssikte-3-moa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613326164308",
+  "handle": "delta-optical-javelin-3-5-21x50-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613326983508",
+  "handle": "delta-optical-javelin-4-5-30x56-ed-ffp-mil-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613318988116",
+  "handle": "delta-optical-mini-dot-26-hd-6-moa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613309714772",
+  "handle": "delta-optical-mini-dot-26-hd",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613320855892",
+  "handle": "delta-optical-mini-dot-hd-montage-for",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613321216340",
+  "handle": "delta-optical-minidot-3-holografiskt-rodpunktssikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613318463828",
+  "handle": "delta-optical-minidot-bas-for-22-mm-skenor",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613317185876",
+  "handle": "delta-optical-minidot-bas-passande-6-14-mm-skenor",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613326885204",
+  "handle": "delta-optical-multi-dot-hd-36",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613316759892",
+  "handle": "delta-optical-stryker-hd-1-10x28-sdog-1-ffp-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613325377876",
+  "handle": "delta-optical-stryker-hd-1-6x24-sfp-dgmr-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613320724820",
+  "handle": "delta-optical-stryker-hd-1-6x24-sfp-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613323247956",
+  "handle": "delta-optical-stryker-hd-1-8x24-sfp-damr-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613320200532",
+  "handle": "delta-optical-stryker-hd-3-5-21x44-ffp-dlr-3-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613324099924",
+  "handle": "delta-optical-stryker-hd-3-5-21x44-ffp-dprc-1-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613323346260",
+  "handle": "delta-optical-stryker-hd-4-moa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613321445716",
+  "handle": "delta-optical-stryker-hd-4-5-30x56-tactical-ffp-mil-mil-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613322035540",
+  "handle": "delta-optical-stryker-hd-5-50x56-target-sfp-lt-mil-mil-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613322494292",
+  "handle": "delta-optical-stryker-hd-6-moa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613324034388",
+  "handle": "delta-optical-stryker-hd-8-moa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613319151956",
+  "handle": "delta-optical-stryker-hd-co-witness-spacer",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613321052500",
+  "handle": "delta-optical-stryker-hd-weaverbas",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613315547476",
+  "handle": "delta-optical-56-mm-solskydd-till-titanium-3-24x56",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613316006228",
+  "handle": "delta-optical-batterilock-for-javelin",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613309485396",
+  "handle": "delta-optical-batterilock-for-titanium-hd",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613320528212",
+  "handle": "delta-optical-hojdjudteringsratt-for-javelin-inklusive-toppskruven",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613319086420",
+  "handle": "delta-optical-montage-for-6-14-mm-skena-minidot-hd-vortex-razor",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613320364372",
+  "handle": "delta-optical-parallaxhjul-till-stryker-hd-4-5-30x56",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613314302292",
+  "handle": "delta-optical-rattlock-for-titanium-hd-kikarsikten",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613314990420",
+  "handle": "delta-optical-sidojusteringsratt-for-delta-javelin",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613316268372",
+  "handle": "delta-optical-throw-lever-for-javelin",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613316563284",
+  "handle": "delta-optical-varvindikator-for-stryker-hd-hojdratt-mil",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613315449172",
+  "handle": "delta-optical-varvindikator-for-stryker-hd-vindratt-mil",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717561762132",
+  "handle": "element-optics-helix-hd-10x42-handkikare",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717554356564",
+  "handle": "element-optics-helix-hd-8x42-handkikare",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717542625620",
+  "handle": "element-optics-helix-1500-ballistisk-laseravstandsmatare",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717513101652",
+  "handle": "element-optics-helix-8x56-raptr-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717402771796",
+  "handle": "element-optics-helix-gen2-4-16x44-ffp-mpr-1c-mrad-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717497012564",
+  "handle": "element-optics-helix-gen2-6-24x50-ffp-mrad-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717492818260",
+  "handle": "element-optics-helix-gen2-6-24x50-sfp-apr-1c-mrad-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717407097172",
+  "handle": "element-optics-helix-hd-1-8x24-l4a-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717482365268",
+  "handle": "element-optics-helix-hd-2-16x50-sfp-raptr-1-mrad-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717485216084",
+  "handle": "element-optics-helix-hd-compact-2-12x42-raptr-1f-belyst-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717489082708",
+  "handle": "element-optics-helix-hdlr-2-16x50-sfp-apr-1c-mrad-kikarsikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717550326100",
+  "handle": "element-optics-rf-module-vapenmonterad-avstandsmatare",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717547868500",
+  "handle": "element-optics-seeker-vapenmonterad-ballistisk-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717545083220",
+  "handle": "element-optics-titan-3k-ballistisk-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717501043028",
+  "handle": "element-optics-titan-3-18x50-ffp-apr-2d-mrad-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717411782996",
+  "handle": "element-optics-titan-5-25x56-ffp-apr-1c-mrad-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717475123540",
+  "handle": "element-optics-titan-5-25x56-ffp-apr-2d-mrad-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717516738900",
+  "handle": "element-optics-etx-reflexsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717509988692",
+  "handle": "element-optics-hypr-7-7x50-hybridsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717530141012",
+  "handle": "element-optics-immersive-series-10x40-apr-1c-moa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717525979476",
+  "handle": "element-optics-immersive-series-10x40-apr-1c-mrad",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717536072020",
+  "handle": "element-optics-immersive-series-14x50-apr-1c-moa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717533909332",
+  "handle": "element-optics-immersive-series-14x50-apr-1c-mrad",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717522047316",
+  "handle": "element-optics-immersive-series-5x30-lpr-1d-bdc",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717520015700",
+  "handle": "element-optics-immersive-series-5x30-lpr-1d-mrad",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717415747924",
+  "handle": "element-optics-nexus-5-20x50-ffp-apr-1c-mrad-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717471486292",
+  "handle": "element-optics-nexus-5-20x50-ffp-apr-2d-mrad-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717505171796",
+  "handle": "element-optics-nexus-gen-ii-4-25x50-ffp-mrad-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717507662164",
+  "handle": "element-optics-theos-2-10x42-ffp-mpr-1d-mrad-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717419680084",
+  "handle": "element-optics-theos-6-36x56-ffp-apr-2d-mrad-belyst-langhallssikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717478793556",
+  "handle": "element-optics-theos-6-36x56-ffp-apr-2d-mrad-belyst-langhallssikte-svart",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717564776788",
+  "handle": "element-optics-accu-lite-30-mm-picatinnyringar",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717565923668",
+  "handle": "element-optics-accu-lite-34-mm-picatinnyringar",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717569691988",
+  "handle": "element-optics-accu-lite-diving-board",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717567332692",
+  "handle": "element-optics-xt-30-mm-picatinnyringar",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717580112212",
+  "handle": "element-optics-blandarring-theos-56-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717577294164",
+  "handle": "element-optics-rattlock-helix-hd-2-16x50",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717578998100",
+  "handle": "element-optics-solskydd-titan-3-18x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717575459156",
+  "handle": "tenebraex-linsskydd-element-optics-nexus",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717574476116",
+  "handle": "tenebraex-linsskydd-element-optics-theos-2-10x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15717572542804",
+  "handle": "tenebraex-linsskydd-element-optics-theos-6-36x56",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15799001743700",
+  "handle": "focus-optimum-10x42-vhg-ed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395900244",
+  "handle": "focus-optimum-10x42-ed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15799001645396",
+  "handle": "focus-optimum-8x32-vhg-ed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15799001678164",
+  "handle": "focus-optimum-8x42-vhg-ed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396686676",
+  "handle": "focus-optimum-8x42-ed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110393999700",
+  "handle": "focus-track-10x42-rf-1500m",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396490068",
+  "handle": "focus-track-8x42-rf-1500m",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15704894275924",
+  "handle": "focus-track-ii-8x42-ed-rf-1500-m",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15704894210388",
+  "handle": "focus-track-ii-8x42-hd-rf-1500-m",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390395220",
+  "handle": "focus-track-rf-1000m",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390985044",
+  "handle": "focus-track-rf-500m",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390690132",
+  "handle": "focus-track-rf-pro",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384759124",
+  "handle": "focus-digiscope-adapter-for-compact",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396817748",
+  "handle": "focus-connect-digiscoping-adapter",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384922964",
+  "handle": "focus-action-iii-8x25",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396916052",
+  "handle": "focus-activa-10x25",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396522836",
+  "handle": "focus-activa-8x21",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395736404",
+  "handle": "focus-bright-10x25",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396588372",
+  "handle": "focus-bright-8x21",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385152340",
+  "handle": "focus-junior-6x21-blue-grey",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386692436",
+  "handle": "focus-junior-6x21-green",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384857428",
+  "handle": "focus-junior-6x21-green-orange",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386364756",
+  "handle": "focus-junior-6x21-pink",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385217876",
+  "handle": "focus-mono-ii-8x25",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386561364",
+  "handle": "focus-outdoor-ii-10x25",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386594132",
+  "handle": "focus-outdoor-ii-8x25",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110389412180",
+  "handle": "focus-outdoor-ii-10x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396195156",
+  "handle": "focus-outdoor-ii-10x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397079892",
+  "handle": "focus-outdoor-ii-12x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390362452",
+  "handle": "focus-outdoor-ii-8x32",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390264148",
+  "handle": "focus-outdoor-ii-8x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384955732",
+  "handle": "focus-aquafloat-7x50-wp",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384824660",
+  "handle": "focus-aquafloat-7x50-waterproof-compass",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384791892",
+  "handle": "focus-bright-7x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386463060",
+  "handle": "focus-marine-7x50-compass",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385676628",
+  "handle": "focus-sailor-iii-7x50-wp",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385873236",
+  "handle": "focus-scenery-7x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385906004",
+  "handle": "focus-scenery-7x50-ff",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386725204",
+  "handle": "focus-activa-10x32",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386626900",
+  "handle": "focus-activa-8x32",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397210964",
+  "handle": "focus-bright-10x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385381716",
+  "handle": "focus-bright-10x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385447252",
+  "handle": "focus-bright-12x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386102612",
+  "handle": "focus-bright-8x40",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396326228",
+  "handle": "focus-bright-8x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385185108",
+  "handle": "focus-observer-10x34-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385054036",
+  "handle": "focus-observer-10x42-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394425684",
+  "handle": "focus-observer-10x50-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385119572",
+  "handle": "focus-observer-8x34-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385021268",
+  "handle": "focus-observer-8x42-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396981588",
+  "handle": "focus-observer-8x50-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384988500",
+  "handle": "focus-observer-8x56-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385971540",
+  "handle": "focus-scenery-10x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385840468",
+  "handle": "focus-scenery-12x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385938772",
+  "handle": "focus-scenery-8x40",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385348948",
+  "handle": "zenith-experience-xc-10x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385250644",
+  "handle": "zenith-experience-xc-8x32",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385283412",
+  "handle": "zenith-experience-xc-8x42",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395998548",
+  "handle": "focus-insight-1-6x24",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396424532",
+  "handle": "focus-insight-1-7-10x45",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397342036",
+  "handle": "focus-insight-2-12x50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386037076",
+  "handle": "focus-binocular-strap-with-buckle",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386004308",
+  "handle": "focus-eyepiece-cover-dual-35-5mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386069844",
+  "handle": "focus-eyepiece-cover-dual-42mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386135380",
+  "handle": "focus-harness-with-buckle",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386266452",
+  "handle": "focus-objective-cover-2pcs-36mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386233684",
+  "handle": "focus-objective-cover-2pcs-51mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386200916",
+  "handle": "focus-objective-cover-2pcs-57mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386495828",
+  "handle": "focus-objective-cover-2pcs-65mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110384890196",
+  "handle": "focus-tripod-adapter-model-l",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386856276",
+  "handle": "kit-focus-accessories-4pcs-item",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385512788",
+  "handle": "focus-t2-barlow-2x-1-25-adapter",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385316180",
+  "handle": "focus-viewmaster-ed-20-60x80-wp",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385545556",
+  "handle": "focus-viewmaster-ed-16-48x65",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394523988",
+  "handle": "focus-optimum-20-60x85-apo-ed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385709396",
+  "handle": "focus-outdoor-15-45x60-incl-tripod-wf3950",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385807700",
+  "handle": "focus-outdoor-20-60x60-incl-tripod-wf3950",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396850516",
+  "handle": "focus-viewmaster-20-60x80-wp",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395572564",
+  "handle": "kit-focus-optimum-ed-20-60x85-with-sirui-r2004-vh10",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394720596",
+  "handle": "kit-focus-viewmaster-20-60x80-with-velbon-vm638",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394851668",
+  "handle": "kit-focus-viewmaster-ed-16-48x65-sirui-traveler7vc",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385774932",
+  "handle": "kit-focus-viewmaster-ed-16-48x65-sirui-traveler-7va",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385578324",
+  "handle": "kit-focus-viewmaster-ed-20-60x80-with-velbon-vm638",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385611092",
+  "handle": "kit-focus-viewmaster-ed-20-60x80-with-sirui-r2004-vh10",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385742164",
+  "handle": "kit-focus-viewmaster-ed16-48x65-videomate-638",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110385414484",
+  "handle": "focus-quick-release-plate-wf3950",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848202502484",
+  "handle": "gpo-passion-ed-10x32-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848202830164",
+  "handle": "gpo-passion-ed-10x42-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848203223380",
+  "handle": "gpo-passion-ed-8x32-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848203518292",
+  "handle": "gpo-passion-ed-8x42-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848224457044",
+  "handle": "gpo-passion-ed-8x56-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848224751956",
+  "handle": "gpo-passion-hd-10x42-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848224948564",
+  "handle": "gpo-passion-hd-12-5x50-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848225145172",
+  "handle": "gpo-passion-hd-8x42-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848225276244",
+  "handle": "gpo-passion-hd-mono-10x36-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848203780436",
+  "handle": "gpo-passion-sd-10x26-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848204173652",
+  "handle": "gpo-passion-sd-10x34-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848204501332",
+  "handle": "gpo-passion-sd-10x42-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848204829012",
+  "handle": "gpo-passion-sd-8x26-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848205156692",
+  "handle": "gpo-passion-sd-8x34-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848205582676",
+  "handle": "gpo-passion-sd-8x42-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848225472852",
+  "handle": "gpo-rangeguide-2800-8x32-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848243921236",
+  "handle": "gpo-rangeguide-2800-8x50-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848244085076",
+  "handle": "gpo-rangeguide-3000-10x32-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848244281684",
+  "handle": "gpo-rangeguide-3000-8x32-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848244511060",
+  "handle": "gpo-rangeguide-3200-10x40-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848244707668",
+  "handle": "gpo-rangeguide-3200-8x40-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848244937044",
+  "handle": "gpo-rangeguide-3400-10x50-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848243560788",
+  "handle": "gpo-passion-3x-4-12x50i-g4i-fiber-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848245068116",
+  "handle": "gpo-spectra-4x-2-5-10x44i-g4i-drop-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848179695956",
+  "handle": "gpo-spectra-4x-4-16x50i-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848245199188",
+  "handle": "gpo-spectra-5x-3-15x56i-g4i-fiber-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848225669460",
+  "handle": "gpo-spectra-6x-1-6x24i-g4i-fiber-belyst-kikarsikte-med-skena",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848206303572",
+  "handle": "gpo-spectra-6x-1-6x24i-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848206041428",
+  "handle": "gpo-spectra-6x-1-5-9x44i-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848245395796",
+  "handle": "gpo-spectra-6x-2-12x44i-brwi-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848225767764",
+  "handle": "gpo-spectra-6x-2-12x50i-g4i-fiber-belyst-kikarsikte-med-skena",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848206598484",
+  "handle": "gpo-spectra-6x-2-12x50i-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848206958932",
+  "handle": "gpo-spectra-6x-3-18x56i-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848245526868",
+  "handle": "gpo-spectra-6x-4-5-27x50i-lr-pro-ffp-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848265941332",
+  "handle": "gpo-spectra-6x-4-5-27x50i-moai-sfp-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848266334548",
+  "handle": "gpo-spectra-6x-4-5-27x50i-plri-ffp-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848245985620",
+  "handle": "gpo-spectra-8x-1-8x24i-g4i-fiber-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848245756244",
+  "handle": "gpo-spectra-8x-1-8x24i-g4i-fiber-belyst-kikarsikte-med-skena",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848226160980",
+  "handle": "gpo-spectra-8x-1-6-13x44i-g4i-fiber-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848225997140",
+  "handle": "gpo-spectra-8x-1-6-13x44i-g4i-fiber-belyst-kikarsikte-med-skena",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848226357588",
+  "handle": "gpo-spectra-8x-2-16x50i-g4i-fiber-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848226259284",
+  "handle": "gpo-spectra-8x-2-16x50i-g4i-fiber-belyst-kikarsikte-med-skena",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848266826068",
+  "handle": "gpo-tac-6x-1-6x24i-hsi-ffp-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848266989908",
+  "handle": "gpo-tac-8x-1-8x24i-hsi-ffp-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848246509908",
+  "handle": "gpo-spectra-dot-1x22-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848246247764",
+  "handle": "gpo-spectra-reflex-dot-1x22-rodpunktsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848246640980",
+  "handle": "guide-orion-o435cs-400x300-35-mm-clip-on-varmesikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848246837588",
+  "handle": "guide-orion-o635cs-640x512-35-mm-clip-on-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848226488660",
+  "handle": "guide-tb650ls-640x512-50-mm-clip-on-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848226652500",
+  "handle": "guide-tu425s-400x300-25-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848226750804",
+  "handle": "guide-tu435ls-400x300-35-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848226881876",
+  "handle": "guide-tu650ls-640x512-50-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848286519636",
+  "handle": "guide-18650-batteri",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848286749012",
+  "handle": "guide-kodiak-3-0-tk635l-640x512-35-mm-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848286912852",
+  "handle": "guide-kodiak-3-0-tk650l-640x512-50-mm-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848267284820",
+  "handle": "guide-td435ls-400x300-35-mm-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848247001428",
+  "handle": "guide-td635ls-640x512-35-mm-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848267776340",
+  "handle": "guide-td650ls-640x512-50-mm-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848267415892",
+  "handle": "guide-te210ms-256x192-10-mm-varmekikare-med-pekskarm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848267579732",
+  "handle": "guide-te210s-256x192-10-mm-varmekikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848287306068",
+  "handle": "guide-te419s-400x300-19-mm-varmekikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848287535444",
+  "handle": "guide-te425s-400x300-25-mm-varmekikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12485571805524",
+  "handle": "hikmicro-thunder-2-0-tq50cr-thermal-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387839316",
+  "handle": "hikmicro-thunder-2-0-te19-thermal-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388068692",
+  "handle": "hikmicro-thunder-2-0-te19cr-thermal-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "sensorupplosning",
+   "netd",
+   "pixelstorlek",
+   "objektiv",
+   "forstoring",
+   "detektionsrackvidd",
+   "laseravstandsmatare",
+   "skarmtyp"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12172251595092",
+  "handle": "hikmicro-thunder-2-0-te25-thermal-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning",
+   "netd",
+   "pixelstorlek",
+   "detektionsrackvidd",
+   "forstoring",
+   "laseravstandsmatare",
+   "skarmtyp"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387970388",
+  "handle": "hikmicro-thunder-2-0-th25p-thermal-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "forstoring"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390788436",
+  "handle": "hikmicro-thunder-2-0-zoom-th50z-thermal-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390198612",
+  "handle": "hikmicro-thunder-2-0-zoom-tq60z-thermal-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395867476",
+  "handle": "hikmicro-solar-panel-for-trail-camera",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15528668954964",
+  "handle": "hikmicro-t16-viltkamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387544404",
+  "handle": "hikmicro-trailcamera-m15",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388363604",
+  "handle": "hikmicro-explorer-e20-plus-thermal-camera-for-smartphones-android",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390067540",
+  "handle": "kit-hikmicro-trailcamera-m15-32g-sd-12st-max-aa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386790740",
+  "handle": "hikmicro-alpex-cmos-tube-scope-ir-torch-850nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386889044",
+  "handle": "hikmicro-alpex-cmos-tube-scope-ir-torch-940nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397243732",
+  "handle": "hikmicro-thunder-3-0-th35c-thermal-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396391764",
+  "handle": "hikmicro-thunder-3-0-tq35c-thermal-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12250415792468",
+  "handle": "hikmicro-thunder-3-0-tq35cl-thermal-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396784980",
+  "handle": "hikmicro-thunder-3-0-tq50c-thermal-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397669716",
+  "handle": "hikmicro-thunder-3-0-tq50cl-thermal-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397374804",
+  "handle": "hikmicro-binocular-harness-habrok-case",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396883284",
+  "handle": "hikmicro-alpex-a40el-4k-tube-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397735252",
+  "handle": "hikmicro-alpex-a40e-4k-tube-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396064084",
+  "handle": "hikmicro-alpex-a50e-4k-tube-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395113812",
+  "handle": "hikmicro-alpex-a50el-4k-tube-scope-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387085652",
+  "handle": "hikmicro-alpex-a50tn-cmos-tubescope-incl-bracket-and-940nm-ir-lamp",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15020587876692",
+  "handle": "hikmicro-alpex-pro-a50p-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15020587909460",
+  "handle": "hikmicro-alpex-pro-a50pl-morkersikte-lrf",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12332265374036",
+  "handle": "hikmicro-cheetah-c32f-rl-night-vision-clipon-850nm-lrf-w-retical",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12332265308500",
+  "handle": "hikmicro-cheetah-c32f-rn-night-vision-clipon-940nm-w-reticle",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386954580",
+  "handle": "hikmicro-thunder-pro-tq50c-thermal-clipon-with-reticle",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186389332",
+  "handle": "hikmicro-neos-ne25",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186258260",
+  "handle": "hikmicro-neos-nh25l",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186356564",
+  "handle": "hikmicro-neos-nh35l",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390460756",
+  "handle": "hikmicro-panther-2-0-lrf-ph50l-thermal-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd",
+   "forstoring"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110389576020",
+  "handle": "hikmicro-panther-2-0-lrf-pq35l-thermal-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning",
+   "forstoring"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396948820",
+  "handle": "hikmicro-stellar-sh35-3-0-thermal-tubescope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387315028",
+  "handle": "hikmicro-stellar-sh35-thermal-tubescope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396162388",
+  "handle": "hikmicro-stellar-sh35l-3-0-thermal-tubescope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396555604",
+  "handle": "hikmicro-stellar-sh50l-3-0-thermal-tubescope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397440340",
+  "handle": "hikmicro-stellar-sq35l-3-0-thermal-tubescope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394982740",
+  "handle": "hikmicro-stellar-sq50l-3-0-thermal-tubescope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397112660",
+  "handle": "hikmicro-stellar-sx60l-3-0-thermal-tubescope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12465695031636",
+  "handle": "hikmicro-stellar-sx60ls-3-0-termiskt-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387020116",
+  "handle": "hikmicro-thunder-th35-thermal-scope-hm-tr13-35xf-w-th35",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394229076",
+  "handle": "kit-hikmicro-alpex-a50e-4k-tube-scope-w-bracket-and-ir-torch-940nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396457300",
+  "handle": "kit-hikmicro-alpex-a50el-4k-tube-scope-w-bracket-and-ir-torch-940nm-1",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12278836035924",
+  "handle": "hikmicro-condor-ch25l",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395933012",
+  "handle": "hikmicro-condor-cq35l",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397899092",
+  "handle": "hikmicro-condor-cq35l-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394884436",
+  "handle": "hikmicro-condor-cq50l",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395670868",
+  "handle": "hikmicro-condor-cq50l-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388724052",
+  "handle": "hikmicro-falcon-fq25-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397636948",
+  "handle": "hikmicro-falcon-fq35-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396752212",
+  "handle": "hikmicro-falcon-fq50-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387052884",
+  "handle": "hikmicro-falcon-fq50-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397178196",
+  "handle": "hikmicro-falcon-fq50l-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12473857835348",
+  "handle": "hikmicro-habrok-4k-he25l-2-0-multispektral-kikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395605332",
+  "handle": "hikmicro-habrok-4k-he25l-850nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396031316",
+  "handle": "hikmicro-habrok-4k-he25ln-940nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15810750939476",
+  "handle": "hikmicro-habrok-4k-hh35l-2-0-multispektral-kikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110397309268",
+  "handle": "hikmicro-habrok-4k-hq35l",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395474260",
+  "handle": "hikmicro-habrok-hh35ln-940nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396260692",
+  "handle": "hikmicro-habrok-hq35l-850nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110393868628",
+  "handle": "hikmicro-habrok-hq35ln-940nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396293460",
+  "handle": "hikmicro-habrok-pro-hq50l-multi-spectrum-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396653908",
+  "handle": "hikmicro-habrok-pro-hq50ln-multi-spectrum-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397538644",
+  "handle": "hikmicro-habrok-pro-hx60l-multi-spectrum-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12465694998868",
+  "handle": "hikmicro-habrok-pro-hx60ls-multi-spectrum-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395146580",
+  "handle": "hikmicro-habrok-pro-hx60ln-multi-spectrum-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387937620",
+  "handle": "hikmicro-lynx-lc06s-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12473857737044",
+  "handle": "hikmicro-lynx-le10-3-0-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387577172",
+  "handle": "hikmicro-lynx-le10s-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12473857769812",
+  "handle": "hikmicro-lynx-le15-3-0-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388232532",
+  "handle": "hikmicro-lynx-le15s-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt",
+   "forstoring",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394163540",
+  "handle": "hikmicro-lynx-lh15-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12473857802580",
+  "handle": "hikmicro-lynx-lh15-3-0-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396358996",
+  "handle": "hikmicro-lynx-lh19-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12352643662164",
+  "handle": "hikmicro-lynx-lh19-3-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395408724",
+  "handle": "hikmicro-lynx-lh25-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd",
+   "detektionsrackvidd",
+   "forstoring",
+   "skarmtyp",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12352643727700",
+  "handle": "hikmicro-lynx-lh25-3-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397866324",
+  "handle": "hikmicro-lynx-lh35-2-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12352643694932",
+  "handle": "hikmicro-lynx-lh35-3-0-thermal-monocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15369350709588",
+  "handle": "hikmicro-lynx-lq35-3-0-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15369350742356",
+  "handle": "hikmicro-lynx-lq35l-3-0-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387249492",
+  "handle": "hikmicro-raptor-rq50l-thermal-binocular-850-nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528669184340",
+  "handle": "hikmicro-hm-ac-18-21-5",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528669086036",
+  "handle": "hikmicro-hm-ac-14-5-18",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528669282644",
+  "handle": "hikmicro-hm-ac-21-5-26",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528666923348",
+  "handle": "hikmicro-hikcam-a7e-actionkamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528669413716",
+  "handle": "hikmicro-hm-acs-14-18",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758437716",
+  "handle": "holosun-407-507k-adapter-for-cz-p10",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758273876",
+  "handle": "holosun-407-507k-adapter-for-mos",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758372180",
+  "handle": "holosun-407-507k-adapter-for-rmr",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209755914580",
+  "handle": "holosun-509-adapter-for-cz-p10",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209755881812",
+  "handle": "holosun-509-adapter-for-fn509",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209755947348",
+  "handle": "holosun-509-adapter-for-fnx-45",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756143956",
+  "handle": "holosun-509-adapter-for-picatinny-1-3-cw",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209755849044",
+  "handle": "holosun-509-adapter-for-picatinny-low",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209755980116",
+  "handle": "holosun-507c-508t-picatinny",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757520212",
+  "handle": "holosun-hm-3x-mangifier-flip-qd-mount",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757651284",
+  "handle": "holosun-hm-6x-micro-magnifier-aluminum",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209759846740",
+  "handle": "holosun-hm3xt-3x-micro-mangifier-titanium",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756078420",
+  "handle": "holosun-hs510c-spacer-for-lower-1-3",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756209492",
+  "handle": "holosun-rds-aems-low-mount",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756111188",
+  "handle": "holosun-rds-abosulte-cowitness-mount",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756963156",
+  "handle": "holosun-403-gold-circle-dot-rotary-switch",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757749588",
+  "handle": "holosun-403c-dot-solar-panel-shake-awake",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756733780",
+  "handle": "holosun-403c-green-dot-solar-panel",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757880660",
+  "handle": "holosun-403r-dot-rotary-switch",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757847892",
+  "handle": "holosun-503cu-circle-dot-solar-panel",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756864852",
+  "handle": "holosun-503cu-green-circle-dot-solar-panel",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757946196",
+  "handle": "holosun-507-comp-multi-reticle-shake-awake",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757094228",
+  "handle": "holosun-507comp-gr-multi-reticle-shake-awake",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758208340",
+  "handle": "holosun-507k-x2-circle-dot-shake-awake",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757061460",
+  "handle": "holosun-508-circle-dot-solar-titanium",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757815124",
+  "handle": "holosun-510-circle-dot-solar-panel-qd-mount",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "objektiv"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757389140",
+  "handle": "holosun-510-green-circle-dot-solar-panel",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758503252",
+  "handle": "holosun-510c-hm3x",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758142804",
+  "handle": "holosun-515-circle-dot-shake-awake-qd-mount",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757421908",
+  "handle": "holosun-515-circle-dot-solar-titanium",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757585748",
+  "handle": "holosun-515-green-circle-dot-qd-mount",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756307796",
+  "handle": "holosun-aems-7075-aluminum-solar-circle-dot-green",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756275028",
+  "handle": "holosun-aems-7075-aluminum-solar-circle-dot-red",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758798164",
+  "handle": "holosun-dps-th-thermal-red-dot-for-pistol",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209759060308",
+  "handle": "holosun-drs-nv-nv-ir-illuminator-red-dot",
+  "fields": [
+   "descriptionHtml",
+   "handle",
+   "metafields",
+   "redirectNewHandle",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209760469332",
+  "handle": "holosun-he512t-rd-circle-dot-solar-titanium",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209760665940",
+  "handle": "holosun-hs503cu-rd-red-circle-dot-solar-panel",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758110036",
+  "handle": "holosun-scrs-green-circle-dot-solar",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758306644",
+  "handle": "holosun-scrs-red-dot-solar",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758470484",
+  "handle": "holosun-scs-aluminum-solar-circle-dot-green-mp2",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758536020",
+  "handle": "holosun-scs-aluminum-solar-circle-dot-green-p10",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758765396",
+  "handle": "holosun-scs-aluminum-solar-circle-dot-green-pdp",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758339412",
+  "handle": "holosun-scs-titanium-solar-circle-dot-green-mos",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "objektiv"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678687445332",
+  "handle": "holosun-407k-x2-6-moa-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15703006871892",
+  "handle": "holosun-507-promax-gron-prs-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15703004578132",
+  "handle": "holosun-507-promax-guld-prs-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15703002054996",
+  "handle": "holosun-507-promax-rod-prs-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15634829279572",
+  "handle": "holosun-aro-evo-gron-2-moa-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15634829640020",
+  "handle": "holosun-aro-evo-guld-2-moa-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15634824036692",
+  "handle": "holosun-aro-evo-rod-2-moa-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15634830295380",
+  "handle": "holosun-aro-evo-spr-gron-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15634830786900",
+  "handle": "holosun-aro-evo-spr-guld-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15634831442260",
+  "handle": "holosun-aro-evo-spr-rod-med-hm3x-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15634830066004",
+  "handle": "holosun-aro-evo-spr-rod-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756438868",
+  "handle": "holosun-eps-green-2-moa-dot-7075-aluminum-enclosed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756471636",
+  "handle": "holosun-eps-green-6-moa-dot-7075-aluminum-enclosed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756373332",
+  "handle": "holosun-eps-green-multi-reticle-7075-aluminum-enclosed-solar",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756406100",
+  "handle": "holosun-eps-red-2-moa-dot-7075-aluminum-enclosed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756668244",
+  "handle": "holosun-eps-red-6-moa-dot-7075-aluminum-enclosed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756602708",
+  "handle": "holosun-eps-red-multi-reticle-7075-aluminum-enclosed-solar",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209756799316",
+  "handle": "holosun-eps-red-6-moa-dot-7075-aluminum-enclosed-1",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "objektiv"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758241108",
+  "handle": "holosun-rds-lower-1-3-qd-mount",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209758830932",
+  "handle": "holosun-drs-th-termiskt-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15813458002260",
+  "handle": "innomount-picatinnyskena-stal-steyr-l-sbs-sm12-classic",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15816588886356",
+  "handle": "innomount-picatinnyskena-i-stal-for-tikka-t3-t3x",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709179347284",
+  "handle": "innomount-qd-blaser-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709405217108",
+  "handle": "innomount-qd-blaser-faste-for-pulsar-apex-digisight-trail-bygghojd-10-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709186457940",
+  "handle": "innomount-qd-merkel-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709182918996",
+  "handle": "innomount-qd-picatinny-weaver-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709185933652",
+  "handle": "innomount-qd-sauer-303-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709184491860",
+  "handle": "innomount-qd-sauer-404-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709181182292",
+  "handle": "innomount-qd-tikka-t3-t3x-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15756043288916",
+  "handle": "innomount-qd-tikka-t3-t3x-faste-for-hikmicro-bygghojd-18-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709188194644",
+  "handle": "innomount-zero-blaser-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709189865812",
+  "handle": "innomount-zero-picatinny-weaver-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15709190717780",
+  "handle": "innomount-zero-sauer-404-faste-30-mm-for-varmesikte-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848268497236",
+  "handle": "leupold-bx-4-pro-guide-hd-gen-2-10x42-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848268792148",
+  "handle": "leupold-bx-4-pro-guide-hd-gen-2-8x42-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848268890452",
+  "handle": "leupold-bx-5-santiam-hd-15x56-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848269054292",
+  "handle": "leupold-bx-5-santiam-hd-8x42-handkikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848208040276",
+  "handle": "leupold-mark-4hd-1-4-5x24-sfp-firedot-bdc-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848208597332",
+  "handle": "leupold-mark-4hd-2-5-10x42-m5c3-ffp-tmr-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848209088852",
+  "handle": "leupold-mark-4hd-4-5-18x52-m5c3-ffp-pr1-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848209285460",
+  "handle": "leupold-mark-4hd-6-24x52-m5c3-ffp-pr2-mil-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848209416532",
+  "handle": "leupold-mark-4hd-8-32x56-m5c3-ffp-pr2-mil-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848209645908",
+  "handle": "leupold-mark-5hd-2-10x30-m5c3-ffp-tmr-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848209809748",
+  "handle": "leupold-mark-5hd-3-6-18x44-m5c3-ffp-pr1-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848209973588",
+  "handle": "leupold-mark-5hd-3-6-18x44-m5c3-ffp-tmr-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848210137428",
+  "handle": "leupold-mark-5hd-3-6-18x44-m5c3-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848210268500",
+  "handle": "leupold-mark-5hd-5-25x56-m5c3-ffp-pr1-mil-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848210465108",
+  "handle": "leupold-mark-5hd-5-25x56-m5c3-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848210596180",
+  "handle": "leupold-vx-3hd-1-5-5x20-cds-zl-firedot-twilight-hunter-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848210923860",
+  "handle": "leupold-vx-3hd-2-5-8x36-cds-zl-duplex-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848211087700",
+  "handle": "leupold-vx-3hd-3-5-10x40-cds-zl-firedot-twilight-hunter-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848211251540",
+  "handle": "leupold-vx-3hd-3-5-10x50-cds-zl-firedot-twilight-hunter-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848211480916",
+  "handle": "leupold-vx-3hd-4-5-14x40-cds-zl-side-focus-wind-plex-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848211611988",
+  "handle": "leupold-vx-3hd-4-5-14x50-cds-zl-firedot-twilight-hunter-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848211743060",
+  "handle": "leupold-vx-4hd-3-12x40-cds-zl2-firedot-twilight-hunter-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848211906900",
+  "handle": "leupold-vx-4hd-3-12x50-cds-zl2-firedot-twilight-hunter-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848212136276",
+  "handle": "leupold-vx-4hd-4-16x50-cds-zl2-side-focus-firedot-twilight-hunter-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848212562260",
+  "handle": "leupold-vx-5hd-1-5x24-metric-firedot-4-fine-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848212726100",
+  "handle": "leupold-vx-5hd-2-10x42-cds-zl2-firedot-duplex-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848212955476",
+  "handle": "leupold-vx-5hd-gen-2-1-5x24-metric-firedot-4-fine-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848213217620",
+  "handle": "leupold-vx-5hd-gen-2-2-10x42-cds-szl2-firedot-duplex-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848213578068",
+  "handle": "leupold-vx-5hd-gen-2-3-15x44-cds-szl2-side-focus-firedot-duplex-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848213872980",
+  "handle": "leupold-vx-5hd-gen-2-3-15x50-cds-szl2-side-focus-firedot-duplex-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848214331732",
+  "handle": "leupold-vx-5hd-gen-2-4-20x52-cds-szl2-side-focus-firedot-duplex-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848214790484",
+  "handle": "leupold-vx-6hd-gen-2-1-6x24-cds-szl2-firedot-duplex-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848214528340",
+  "handle": "leupold-vx-6hd-gen-2-3-18x50-cds-szl2-side-focus-firedot-duplex-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848215085396",
+  "handle": "leupold-vx-freedom-3-9x40-hunt-plex-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846747476",
+  "handle": "nocpix-ace-h50r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15663546597716",
+  "handle": "nocpix-ace-h50r-zm-vm-rail",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12339838845268",
+  "handle": "nocpix-nite-nir-940-1",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12339938328916",
+  "handle": "nocpix-mate-lite-h38r-varmesikte-clipon",
+  "fields": [
+   "descriptionHtml",
+   "handle",
+   "metafields",
+   "redirectNewHandle"
+  ],
+  "metafields": [
+   "short_pitch",
+   "sensorupplosning",
+   "artbestamning",
+   "detaljbedomning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12339937083732",
+  "handle": "nocpix-mate-h50r-varmesikte-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12339932823892",
+  "handle": "nocpix-varmesikte-mate-ultra-s60r-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12339842384212",
+  "handle": "nocpix-nite-d70r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15760285401428",
+  "handle": "nocpix-ace-2-h35r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15760285270356",
+  "handle": "nocpix-ace-2-h50r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15760285073748",
+  "handle": "nocpix-ace-2-s60r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15839039029588",
+  "handle": "nocpix-ace-s60r-demoex",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846681940",
+  "handle": "nocpix-ace-s60r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15663542370644",
+  "handle": "nocpix-ace-s60r-zm-vm-rail",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846452564",
+  "handle": "nocpix-ace-h50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847042388",
+  "handle": "nocpix-ace-l35",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846813012",
+  "handle": "nocpix-slim-h35",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846878548",
+  "handle": "nocpix-slim-l35",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846714708",
+  "handle": "nocpix-lumi-h35",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847009620",
+  "handle": "nocpix-lumi-h35r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846616404",
+  "handle": "nocpix-lumi-l19",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846944084",
+  "handle": "nocpix-lumi-l35",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846976852",
+  "handle": "nocpix-lumi-l35r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847271764",
+  "handle": "nocpix-lumi-p13",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847107924",
+  "handle": "nocpix-quest-h50r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12470725509460",
+  "handle": "nocpix-varmekikare-quest-s50r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846780244",
+  "handle": "nocpix-vista-h35",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847173460",
+  "handle": "nocpix-vista-h35r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847370068",
+  "handle": "nocpix-vista-h50",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209846911316",
+  "handle": "nocpix-vista-h50r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847337300",
+  "handle": "nocpix-vista-s50r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847468372",
+  "handle": "nocpix-bolt-p25r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15482536657236",
+  "handle": "nocpix-bolt-h50r-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847402836",
+  "handle": "nocpix-bolt-l35r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209847435604",
+  "handle": "nocpix-quest-h35r",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15671795679572",
+  "handle": "pixfra-cetus-c225-256x192-25-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15671796466004",
+  "handle": "pixfra-cetus-c335-384x288-35-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15671796990292",
+  "handle": "pixfra-cetus-c635-640x512-35-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15671799578964",
+  "handle": "pixfra-cetus-c650-640x512-50-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15780623450452",
+  "handle": "pixfra-chiron-640x512-35-mm-varmesikte",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759537492",
+  "handle": "pixfra-draco-d225n-4k-multispektral-varmekikare-256x192",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "objektiv",
+   "artbestamning",
+   "detaljbedomning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759766868",
+  "handle": "pixfra-draco-d335n-4k-multispektral-varmekikare-384x288",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759668564",
+  "handle": "pixfra-draco-d635n-4k-multispektral-varmekikare-640x512",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12517545935188",
+  "handle": "pixfra-pegasus-2-lrf-384x288-35-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12517805326676",
+  "handle": "pegasus-2-lrf-640x512-35-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12517829312852",
+  "handle": "pegasus-2-lrf-640x512-50-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759930708",
+  "handle": "pixfra-pegasus-384x288-50-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758554452",
+  "handle": "pixfra-pegasus-pro-384x288-35-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759013204",
+  "handle": "pixfra-pegasus-pro-384x288-50-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759111508",
+  "handle": "pixfra-pegasus-pro-640x512-35-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758161236",
+  "handle": "pixfra-pegasus-pro-640x512-50-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759275348",
+  "handle": "pixfra-adapter-for-chiron-taurus-frontmonterade-varmeadaptern-40-1-45-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759570260",
+  "handle": "pixfra-adapter-for-chiron-taurus-frontmonterade-varmeadaptern-45-1-50-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758882132",
+  "handle": "pixfra-adapter-for-chiron-taurus-frontmonterade-varmeadaptern-50-1-55-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758619988",
+  "handle": "pixfra-adapter-for-chiron-taurus-frontmonterade-varmeadaptern-55-1-60-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759865172",
+  "handle": "pixfra-adapter-for-chiron-taurus-frontmonterade-varmeadaptern-60-1-65-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758849364",
+  "handle": "pixfra-sirius-s435-35-mm-384x288-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759635796",
+  "handle": "pixfra-taurus-25-mm-384x288-frontmonterat-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759832404",
+  "handle": "pixfra-taurus-25-mm-384x288-frontmonterat-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759439188",
+  "handle": "pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759144276",
+  "handle": "pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758587220",
+  "handle": "pixfra-taurus-35-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759177044",
+  "handle": "pixfra-taurus-35-mm-640x512-frontmonterat-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "sensorupplosning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759308116",
+  "handle": "pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758980436",
+  "handle": "pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15622217269588",
+  "handle": "pixfra-taurus-2x22-okular",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758783828",
+  "handle": "pixfra-qr-picatinnyfaste-for-chiron",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758947668",
+  "handle": "pixfra-volans-v850-4k-morkersikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "forstoring"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12444222783828",
+  "handle": "pixfra-volans-v850-lrf-4k-morkersikte-ir-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12361611706708",
+  "handle": "mile-m2-256x192-10-mm-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758751060",
+  "handle": "pixfra-volans-940-nm-ir-lampa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759045972",
+  "handle": "pixfra-volans-faste-till-ir-lampa",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12460989382996",
+  "handle": "pulsar-aps-2-batteripack",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12460991578452",
+  "handle": "pulsar-aps-3-batteripack",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12435258442068",
+  "handle": "pulsar-aps-5t-batteripack",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672601739604",
+  "handle": "pulsar-weaver-lqd-snabbfaste-for-talion-och-trail-3",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672601280852",
+  "handle": "pulsar-symbion-lrf-dxr50-multispektral-varmekikare-640x480",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672600658260",
+  "handle": "pulsar-symbion-lrf-dxt50-multispektral-varmekikare-1280x1024",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662420308",
+  "handle": "pulsar-oryx-xg35-lrf-varmekamera-med-laseravstandsmatare-640x480",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15626149364052",
+  "handle": "pulsar-alaris-xg30-compact-640x480-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662125396",
+  "handle": "pulsar-telos-xg50-640x480-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd",
+   "forstoring"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662158164",
+  "handle": "pulsar-telos-xg50-lrf-640x480-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd",
+   "forstoring"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662256468",
+  "handle": "pulsar-telos-xl50-1074x768-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "handle",
+   "metafields",
+   "redirectNewHandle"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662223700",
+  "handle": "pulsar-telos-xl50-lrf-1074x768-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "handle",
+   "metafields",
+   "redirectNewHandle"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd",
+   "laseravstandsmatare"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662092628",
+  "handle": "pulsar-telos-xp50-640x480-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662289236",
+  "handle": "pulsar-telos-xp50-lrf-640x480-varmekamera-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662027092",
+  "handle": "pulsar-telos-xq35-384x288-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15699263521108",
+  "handle": "pulsar-telos-xt50-lrf-1280x1024-varmekikare-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662354772",
+  "handle": "pulsar-axion-xg30-compact-640x480-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "netd",
+   "artbestamning",
+   "detaljbedomning"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662453076",
+  "handle": "pulsar-axion-xg35-compact-640x480-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12362297082196",
+  "handle": "pulsar-axion-xq19-compact-384x288-varmekamera",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12362286563668",
+  "handle": "pulsar-axion-xq30-pro-varmekamera-384x288",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12361604006228",
+  "handle": "krypton-2-xg50-frontmonterad-varmeadapter-clipon",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662485844",
+  "handle": "pulsar-talion-xq35-pro-384x288-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12446258725204",
+  "handle": "thermion-2-xg50-640x480-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12457557918036",
+  "handle": "pulsar-thermion-2-xg60-lrf-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "detektionsrackvidd",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12457529049428",
+  "handle": "pulsar-thermion-2-xl60-lrf-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "detektionsrackvidd",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662649684",
+  "handle": "pulsar-thermion-2-xp50-pro-640x480-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662682452",
+  "handle": "pulsar-thermion-2-xp60-pro-lrf-640x480-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "artbestamning",
+   "detaljbedomning",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662551380",
+  "handle": "pulsar-thermion-2-xq50-pro-384x288-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "forstoring",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662584148",
+  "handle": "pulsar-thermion-2-xq50-pro-lrf-384x288-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662616916",
+  "handle": "pulsar-thermion-2-xp50-pro-lrf-640x480-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12233702539604",
+  "handle": "pulsar-thermion-duo-dxp50-640x480-multispektralt-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12515587686740",
+  "handle": "pulsar-trail-3-lrf-xq50-384-288-50-mm-varmesikte-med-laseravstandsmatare-kopia",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd",
+   "detektionsrackvidd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12515527655764",
+  "handle": "pulsar-trail-3-lrf-xr50-640x480-50-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15729116676436",
+  "handle": "pulsar-varme-inskjutningstavlor-10-pack",
+  "fields": [
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528665973076",
+  "handle": "rusan-q-r-one-piece-adapter-for-hikmicro-thunder-and-similar-36-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528666169684",
+  "handle": "rusan-q-r-one-piece-adapter-for-hikmicro-thunder-and-similar-50-mm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15735602544980",
+  "handle": "rusan-mar-modularadapter-klamma-hk",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15735577248084",
+  "handle": "rusan-mar-modularadapter-klamma",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110392623444",
+  "handle": "rusan-modular-adapter-connector-thunder-2-0-3-0-m52x0-75",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15735578165588",
+  "handle": "rusan-mcr-connectorring-m52x0-75-nocpix-mate",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110393704788",
+  "handle": "rusan-magnification-ocular-2-5x-with-adapter-for-rusan-modular-connector",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15735579115860",
+  "handle": "rusan-forstoringsokular-med-adapter-modularsystem",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528665252180",
+  "handle": "rusan-picatinny-rail-browning-x-bolt-sa-b-74-7-l-140",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528665088340",
+  "handle": "rusan-picatinny-rail-remington-700-la-mauser-m18-cz-600-luxb-113-9-l-160",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528665153876",
+  "handle": "rusan-picatinny-rail-remington-700-cz-600-lux-sa-b-92-2-l-150",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528664760660",
+  "handle": "rusan-picatinny-rail-tikka-t3-left-right-b-82-2-l-165",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528668758356",
+  "handle": "rusan-quick-detach-mount-for-sauer-404-303-sum-30-mm-h15",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528667218260",
+  "handle": "rusan-weaver-rings-25-4-mm-quick-release-h10",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528667414868",
+  "handle": "rusan-weaver-rings-25-4-mm-quick-release-h12",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528668004692",
+  "handle": "rusan-weaver-rings-25-4-mm-thumb-screw-h12",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528667939156",
+  "handle": "rusan-weaver-rings-34-mm-quick-release-h18",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528668266836",
+  "handle": "rusan-weaver-rings-34-mm-thumb-screw-h24",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15775295537492",
+  "handle": "rix-picatinny-snabbfaste-for-storm-us-version",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604812087636",
+  "handle": "rix-nano-n6-640x512-lrf-50-mm-0-zero-frontmonterat-clip-on-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604807827796",
+  "handle": "rix-tourer-t20-50-mm-morkersikte-ir-850-nm",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705845858644",
+  "handle": "rix-tourer-t50-4k-50-mm-morkersikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15712504578388",
+  "handle": "rix-nano-ad-01-ringadapter-55-65-mm-for-nano-n6-clip-on",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15712504873300",
+  "handle": "rix-nano-okular-2-2x33-mm-for-nano-n6-clip-on",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419843739988",
+  "handle": "rix-pocket-k2-256-192-15-mm-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "handle",
+   "metafields",
+   "redirectNewHandle"
+  ],
+  "metafields": [
+   "short_pitch",
+   "detektionsrackvidd",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419745534292",
+  "handle": "rix-pocket-k3-384x288-termisk-monokikare-med-bildstabilisering",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "detektionsrackvidd",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604815528276",
+  "handle": "rix-stride-st3-lite-dual-use-384x288-15-mm-varmekikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604818084180",
+  "handle": "rix-stride-st6-lite-dual-use-640x512-25-mm-varmekikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419869430100",
+  "handle": "rix-titan-t3-384-288-25-mm-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "detektionsrackvidd",
+   "netd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419927593300",
+  "handle": "rix-titan-t6-640-480-35-mm-termisk-monokikare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq",
+   "detektionsrackvidd",
+   "netd",
+   "vikt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705843695956",
+  "handle": "rix-glint-g2-256x192-25-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705844744532",
+  "handle": "rix-glint-g3-384x288-35-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15613866475860",
+  "handle": "rix-leap-l12r-1280x1024-60-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604791673172",
+  "handle": "rix-leap-l3-v2-384x288-35-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604795834708",
+  "handle": "rix-leap-l3r-384x288-35-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604800684372",
+  "handle": "rix-leap-l6-v2-640x480-50-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604803862868",
+  "handle": "rix-leap-l6r-640x480-50-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604779516244",
+  "handle": "rix-storm-s2-256x192-25-mm-varmesikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604784529748",
+  "handle": "rix-storm-s3r-384x288-35-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604788068692",
+  "handle": "rix-storm-s6r-640x512-35-mm-varmesikte-med-laseravstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848250048852",
+  "handle": "sig-sauer-kilo10k-abs-hd-gen-ii-10x42-kikare-med-avstandsmatare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848251064660",
+  "handle": "sig-sauer-zulu6-hdx-pro-18x50-bildstabiliserad-kikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848250212692",
+  "handle": "sig-sauer-sierra6bdx-2-12x40-bdx-r2-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848251162964",
+  "handle": "sig-sauer-tango-msr-1-10x26-ffp-bdc10-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848228028756",
+  "handle": "sig-sauer-tango-msr-1-10x28-bdc10-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848228323668",
+  "handle": "sig-sauer-tango-msr-1-6x24-bdc6-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848228553044",
+  "handle": "sig-sauer-tango-msr-1-8x24-bdc8-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848250376532",
+  "handle": "sig-sauer-tango-spr-4-16x44-bdc-1-moa-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848250540372",
+  "handle": "sig-sauer-tango-spr-6-24x52-bdc-1-moa-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848250671444",
+  "handle": "sig-sauer-tango6t-1-6x24-ffp-5-56-7-62-horseshoe-dot-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848250835284",
+  "handle": "sig-sauer-tango6t-dvo-1-6x24-ffp-dwlr-556-belyst-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848249393492",
+  "handle": "sig-sauer-juliet3-micro-3x22-forstorare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848249590100",
+  "handle": "sig-sauer-juliet4-4x24-forstorare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848249721172",
+  "handle": "sig-sauer-juliet5-micro-5x24-forstorare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848249885012",
+  "handle": "sig-sauer-juliet6-6x24-forstorare",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848288682324",
+  "handle": "sig-sauer-romeo-mdc-1x23-3-moa-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848215282004",
+  "handle": "sig-sauer-romeo-msr-gen-ii-1x20-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848288846164",
+  "handle": "sig-sauer-romeo-rs-compact-1x24-circle-dot-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848269906260",
+  "handle": "sig-sauer-romeo-x-compact-1x24-circle-dot-fde-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848269807956",
+  "handle": "sig-sauer-romeo-x-compact-1x24-circle-dot-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848248312148",
+  "handle": "sig-sauer-romeo-x-enclosed-compact-1x24-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848249000276",
+  "handle": "sig-sauer-romeo-x-enclosed-pro-1x24-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848270037332",
+  "handle": "sig-sauer-romeo-x-pro-1x24-circle-dot-fde-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848269611348",
+  "handle": "sig-sauer-romeo-x-pro-1x24-circle-dot-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848289272148",
+  "handle": "sig-sauer-romeo2-1x30-6-moa-rodpunktsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848227602772",
+  "handle": "sig-sauer-romeo3max-pro-1x31-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15848270168404",
+  "handle": "sig-sauer-romeo4t-1x20-ballistic-circle-dot-solar-rodpunktsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848270365012",
+  "handle": "sig-sauer-romeo4xt-pro-1x20-ballistic-circle-dot-rodpunktsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848227733844",
+  "handle": "sig-sauer-romeo5-gen-ii-1x20-rodpunktsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15848289567060",
+  "handle": "sig-sauer-romeo8t-amr-1x40-combo-kit-rodpunktsikte-med-forstorare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15706016088404",
+  "handle": "sightmark-t-5-magnifier-5x-lqd-flip-to-side",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706016186708",
+  "handle": "sightmark-tactical-30mm-cantileverfaste-picatinny",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706016252244",
+  "handle": "sightmark-tactical-34mm-cantileverfaste-picatinny",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706016121172",
+  "handle": "sightmark-tactical-mounting-rings-low-30mm-1tum-picatinny",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705997410644",
+  "handle": "sightmark-core-2-0-hx-3-12x56-hdr2-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705997279572",
+  "handle": "sightmark-core-2-0-hx-3-9x50-dx-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705997476180",
+  "handle": "sightmark-latitude-6-25-25x56-prs-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706010157396",
+  "handle": "sightmark-mini-shot-m-spec-m2-solar-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706010222932",
+  "handle": "sightmark-mini-shot-m-spec-m3-solar-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705987449172",
+  "handle": "sightmark-presidio-1-6x24-cr1-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705987481940",
+  "handle": "sightmark-presidio-1-6x24-hdr-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705987514708",
+  "handle": "sightmark-presidio-1-5-9x45-hdr-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705988890964",
+  "handle": "sightmark-presidio-2-12x50-hdr-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705988956500",
+  "handle": "sightmark-presidio-2-5-15x50-hdr2-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705989054804",
+  "handle": "sightmark-presidio-3-18x50-lr2-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705989120340",
+  "handle": "sightmark-presidio-5-30x56-hdr2-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706004652372",
+  "handle": "sightmark-ultra-shot-a-spec-reflexsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706004717908",
+  "handle": "sightmark-ultra-shot-m-spec-fms-reflexsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706010091860",
+  "handle": "sightmark-ultra-shot-m-spec-pro-reflexsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706004619604",
+  "handle": "sightmark-ultra-shot-r-spec-dark-earth-reflexsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15706004554068",
+  "handle": "sightmark-ultra-shot-r-spec-reflexsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672872730964",
+  "handle": "telson-cantilever-faste-30-mm-2-tum-picatinny",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672874008916",
+  "handle": "telson-44mm-okularskydd-tenebraex",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672873681236",
+  "handle": "telson-46mm-okularskydd-uppfallbart",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672873582932",
+  "handle": "telson-arc-44mm-objektivskydd-uppfallbart",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672874107220",
+  "handle": "telson-tm-victory-56mm-objektivskydd-tenebraex",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672873910612",
+  "handle": "telson-target-master-56mm-objektivskydd-uppfallbart",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672871682388",
+  "handle": "telson-target-master-tactical-5-25x56-ed-mil-far2-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672872567124",
+  "handle": "telson-target-master-victory-5-32x56-mrad-far2-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672874369364",
+  "handle": "telson-toxin-50mm-objektivskydd-tenebraex",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672870666580",
+  "handle": "telson-arc-2-5-15x44-ed-mil-line-tac-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672871027028",
+  "handle": "telson-arc-2-5-15x44-ed-moa-line-tac-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672871321940",
+  "handle": "telson-toxin-gen2-3-18x50-mrad-ph2-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15672873222484",
+  "handle": "telson-competition-tripod-3632-bh55-stativkit",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076322132",
+  "handle": "vector-optics-continental-10x42-ed-od-green-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076387668",
+  "handle": "vector-optics-continental-15x56-ed-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076256596",
+  "handle": "vector-optics-continental-8x42-ed-od-green-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076354900",
+  "handle": "vector-optics-continental-8x56-ed-binocular",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12459518787924",
+  "handle": "vector-optics-continental-power-ring-throw-level",
+  "fields": [
+   "descriptionHtml",
+   "metafields",
+   "title"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12303131410772",
+  "handle": "vector-optics-continental-scope-parallaxhjul-big-side-wheel-genii",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12367443788116",
+  "handle": "vector-optics-continental-x10-1-10x24i-ed-fiber-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15668544962900",
+  "handle": "vector-optics-continental-x10-1-10x28-ed-ctr-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15668427391316",
+  "handle": "vector-optics-continental-x10-1-10x28-ed-rar2-ffp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12465694474580",
+  "handle": "vector-optics-continental-x6-1-6x24-coyote-fde-hd-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110395834708",
+  "handle": "vector-optics-continental-x6-1-6x24-fiber-hd-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397964628",
+  "handle": "vector-optics-continental-x6-1-6x24-fiber-hd-sfp-hunting-scope-1",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397931860",
+  "handle": "vector-optics-continental-x6-1-6x24i-fiber-hd-sfp-tactical-scope",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110397800788",
+  "handle": "vector-optics-continental-x6-1-5-9x42-g4-hd-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397145428",
+  "handle": "vector-optics-continental-x6-2-12x44-ctr-hd-ffp-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12185680937300",
+  "handle": "vector-optics-continental-x6-2-12x44-rar-hd-ffp-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397014356",
+  "handle": "vector-optics-continental-x6-2-12x50-g4-hd-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110398030164",
+  "handle": "vector-optics-continental-x6-2-5-15x56-fiber-hd-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397473108",
+  "handle": "vector-optics-continental-x6-2-5-15x56-g4-hd-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395965780",
+  "handle": "vector-optics-continental-x6-3-18x50-fiber-hd-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397571412",
+  "handle": "vector-optics-continental-x6-3-18x50-vct-34ffp-hd-ffp-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528672657748",
+  "handle": "vector-optics-continental-x6-4-24x50-ari-hd-fde-sfp-taktiskt-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12102881345876",
+  "handle": "vector-optics-continental-x6-4-24x56-coyote-fde-hd-ffp-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12102881575252",
+  "handle": "vector-optics-continental-x6-4-24x56-vec-mbr-hd-ffp-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12102881280340",
+  "handle": "vector-optics-continental-x6-5-30x56-vec-mbr-hd-ffp-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397276500",
+  "handle": "vector-optics-continental-x6-6-36x56-hd-ffp-scope",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110398062932",
+  "handle": "vector-optics-continental-x8-1-8x24-ed-fiber-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397702484",
+  "handle": "vector-optics-continental-x8-1-8x24-ed-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15668539162964",
+  "handle": "vector-optics-continental-x8-1-8x24i-ed-fiber-sfp-tactical-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110396129620",
+  "handle": "vector-optics-continental-x8-2-16x50-ed-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12102881214804",
+  "handle": "vector-optics-continental-x8-3-24x56-ed-fiber-sfp-hunting-scope",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15668542964052",
+  "handle": "vector-optics-continental-x8-6-48x56-ed-mil-competition-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12102881313108",
+  "handle": "vector-optics-continental-x8-6-48x56-ed-moa-competition-sfp-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076780884",
+  "handle": "vector-optics-continental-pro-12-40x60-ed-spotting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076813652",
+  "handle": "vector-optics-continental-pro-20-60x80-ed-spotting-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572002132",
+  "handle": "vector-optics-rokstad-carbon-fiber-6-9-swivel-spring-retractable",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572067668",
+  "handle": "vector-optics-rokstad-carbon-fiber-9-13-5-bipod-swivel-spring-retractable",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076846420",
+  "handle": "vector-optics-vod-red-dot-low-dovetail-mount",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15678076715348",
+  "handle": "vector-optics-x-accu-30mm-mount-assembly-kit",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15678076682580",
+  "handle": "vector-optics-x-accu-30mm-mount-assembly-kit-4-holes",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/15678076649812",
+  "handle": "vector-optics-x-accu-34mm-medium-profile-one-piece-picatinny",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186553172",
+  "handle": "vector-optics-f3-22x32-smr-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12465694933332",
+  "handle": "vector-optics-frenzy-1x17x20-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15878599508308",
+  "handle": "vector-optics-frenzy-f3-26x32-gmr-gronpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572460884",
+  "handle": "vector-optics-frenzy-f3-6moa-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528673870164",
+  "handle": "vector-optics-frenzy-fa-18x22-enclosed-mrt-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572493652",
+  "handle": "vector-optics-frenzy-fa-1x16x21-standard-mos-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15881061400916",
+  "handle": "vector-optics-frenzy-fa-1x17x20-gmr-gronpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572329812",
+  "handle": "vector-optics-frenzy-fa-1x17x20-red-dot-sight-mrt-aspheric-lens-edc",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572526420",
+  "handle": "vector-optics-frenzy-fa-1x20x24-cz®-p-10-shadow-2-or-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572428116",
+  "handle": "vector-optics-frenzy-flex-1x24x29-genii-6moa-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15855891546452",
+  "handle": "vector-optics-flex-24x29-cdt",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15668442792276",
+  "handle": "vector-optics-frenzy-plus-1x31x26-mrt-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15558240502100",
+  "handle": "vector-optics-frenzy-s-fa-1x17x21-genii-rodpunktsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572559188",
+  "handle": "vector-optics-frenzy-x-flex-1x19x26-smr-genii-solar-power-multi-reticle",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15885084393812",
+  "handle": "vector-optics-frenzy-flex-24x29-gmr-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15799001940308",
+  "handle": "vector-optics-frenzy-flex-24x29-mrt-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076551508",
+  "handle": "vector-optics-grizzly-1-4x24",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076584276",
+  "handle": "vector-optics-grizzly-1-6x24i-hd",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076485972",
+  "handle": "vector-optics-grizzly-3-12x56",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485572362580",
+  "handle": "vector-optics-maverick-ii-1x25-genii-rodpunktsikte-rorelsesensor",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186585940",
+  "handle": "vector-optics-maverick-iv-1x20-mini-sop-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12102881608020",
+  "handle": "vector-optics-paragon-1x18-x-mini-prism-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12102881378644",
+  "handle": "vector-optics-paragon-3x18-magnifier-mini-magnifier-scope",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12465694900564",
+  "handle": "vector-optics-scrapper-1x29-red-dot-sight",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15668446363988",
+  "handle": "vector-optics-tauron-5-50x60-ed-competition-sfp-kikarsikte",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076748116",
+  "handle": "vector-optics-owlset-heim-es-x-nano-std-wifi",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15678076977492",
+  "handle": "vector-optics-forester-8-16x56-ed",
+  "fields": [
+   "descriptionHtml",
+   "metafields"
+  ],
+  "metafields": [
+   "short_pitch",
+   "faq"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12340772077908",
+  "handle": "athlon-ar-tactical-cantilever-30-mm-0-moa-faste",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772602196",
+  "handle": "athlon-ar-tactical-cantilever-30-mm-20-moa-faste",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772929876",
+  "handle": "athlon-ar-tactical-cantilever-34-mm-20-moa-faste",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340769784148",
+  "handle": "athlon-armor-cantilever-faste-34-mm-0-moa",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771455316",
+  "handle": "athlon-precision-30-mm-medium-ringar",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771586388",
+  "handle": "athlon-precision-34-mm-laga-ringar",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773192020",
+  "handle": "athlon-argos-g2-10x42-hd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773355860",
+  "handle": "athlon-argos-g2-10x42-uhd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772634964",
+  "handle": "athlon-argos-g2-10x50-hd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772962644",
+  "handle": "athlon-argos-g2-12x50-hd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340770865492",
+  "handle": "athlon-argos-g2-8x42-uhd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340770636116",
+  "handle": "athlon-cronus-g2-15x56-uhd-kikare-med-hard-vaska",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773421396",
+  "handle": "athlon-midas-g2-10x25-uhd",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773290324",
+  "handle": "athlon-midas-g2-10x42-uhd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340772831572",
+  "handle": "athlon-midas-g2-10x50-uhd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773126484",
+  "handle": "athlon-midas-g2-12x50-uhd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340770963796",
+  "handle": "athlon-neos-g2-10x42-hd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340769849684",
+  "handle": "athlon-neos-g2-8x42-hd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340770832724",
+  "handle": "athlon-cronus-g2-10x42-uhd-handkikare",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771619156",
+  "handle": "athlon-kikarvaska-med-selefunktion",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340771160404",
+  "handle": "athlon-56-mm-solskydd-for-argos-btr-och-helos-btr",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12340773552468",
+  "handle": "athlon-56-mm-solskydd-for-cronus",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110386299220",
+  "handle": "focus-eyepiece-cover-dual-45mm",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110387511636",
+  "handle": "hikmicro-cheetah-thunder1-0-clipon-adaptor-40a-46-51mm",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12110386921812",
+  "handle": "hikmicro-gryphon-ir-bracket",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12209847238996",
+  "handle": "nocpix-18500-batteri-uppladdningsbart-3-7v-1600-mah",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ },
+ {
+  "id": "gid://shopify/Product/12235482136916",
+  "handle": "focus-insight-rings-qr",
+  "fields": [
+   "descriptionHtml"
+  ],
+  "metafields": []
+ }
+]

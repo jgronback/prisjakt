@@ -1,0 +1,1640 @@
+[
+ {
+  "id": "gid://shopify/Product/12445759897940",
+  "handle": "pixfra-arc-pro-a650p-640x512-50-mm-varmekamera",
+  "descriptionHtml": null,
+  "faq": [
+   {
+    "q": "Har Arc Pro A650P avståndsmätare?",
+    "a": "Nej, A650P saknar laser. LRF-versionerna (till exempel A635P LRF) har inbyggd avståndsmätare."
+   },
+   {
+    "q": "Vilken sensor har A650P?",
+    "a": "En 640x512 VOx-sensor med 12 µm pixel och NETD ≤20 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detekteringsavstånd upp till 2600 m med 50 mm F1.0-optiken. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "3,37x upp till 26,96x med digital zoom, på en OLED i 1440x1080."
+   },
+   {
+    "q": "Kan man dela bilden?",
+    "a": "Ja, Wi-Fi och app för skärmdelning till upp till fyra enheter inom cirka 20 m."
+   },
+   {
+    "q": "Hur tålig är den?",
+    "a": "Magnesiumhölje och IP67, drift -30 till +50 grader. Vikt 340 g, cirka 6 h per batteri."
+   }
+  ],
+  "metafields": {
+   "forstoring": "3,37x-26,96x",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/arc-lrf"
+  ],
+  "changes": [
+   "custom.forstoring: 3,45x-27,6x → 3,37x-26,96x (grundförstoring 3.37×, digital zoom 1–8×, PFI-A650P LRF på pixfra.com; samma 50 mm-optik)",
+   "FAQ förstoring: 3,45x–27,6x → 3,37x–26,96x (samma källa)",
+   "FAQ batteritid: upp till 7,5 h → cirka 6 h per batteri (640-modellerna ≥6 h enligt pixfra.com)",
+   "custom.netd: 20 mK → ≤20 mK (format, pixfra.com ≤20 mK@f/1.0)",
+   "FAQ NETD: under 20 mK → ≤20 mK"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758456148",
+  "handle": "pixfra-mile-m2-256x162-15-mm-varmekamera",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": "pixfra-mile-m2-256x192-15-mm-varmekamera",
+  "redirect": true,
+  "sources": [
+   "https://www.pixfra.com/outdoor/mile-2-series"
+  ],
+  "changes": [
+   "handle: ...-256x162-... → pixfra-mile-m2-256x192-15-mm-varmekamera med redirect (PFI-M215: 256×192, pixfra.com/outdoor/mile-2-series)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12361611706708",
+  "handle": "mile-m2-256x192-10-mm-varmekamera",
+  "descriptionHtml": "<p><strong>PixFra Mile M2 256x192, 10 mm Värmekikare</strong></p>\n<p>Kompakt, lätt och skarp värmebild till rätt pris. Mile M2 bygger på en 256×192-sensor (12 µm, NETD ≤35 mK) och levererar följsam 50 Hz-bild, upp till 500 m detektionsräckvidd och tydlig visning på en 0,32\" 800×600 OLED. IP67-tätning, ca 8,5 timmars batteritid och enkel delning till upp till fyra mobiler via appen gör den lätt att ha med vid jakt, eftersök och friluft.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 256×192 VOx-sensor, 12 µm, NETD ≤35 mK<br>• 10 mm fastfokusobjektiv, 50 Hz uppdatering<br>• Upp till ca 500 m detektionsräckvidd<br>• 0,32\" 800×600 OLED med hög kontrast<br>• 1,55–12,4× förstoring med bild-i-bild<br>• 6 färgpaletter, stillbild och video till intern lagring<br>• Stabil Wi-Fi-delning till upp till 4 enheter (Pixfra-app)<br>• Inbyggt batteri ca 8,5 h, USB-C (5 V/2 A)<br>• IP67, fungerar från −30 °C till +55 °C<br>• Låg vikt, ca 270 g, robust magnesiumhölje</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensor: 256×192 (VOx), 12 µm, NETD ≤35 mK<br>• Objektiv: 10 mm, fastfokus<br>• Bildfrekvens: 50 Hz<br>• Förstoring: 1,55–12,4×<br>• Synfält (100 m): 30,7 m (horisontellt), 23,0 m (vertikalt)<br>• Synfält (grader): H 17,3° / V 13,1°<br>• Närgräns: 1,5 m<br>• Dioptri: −3 till +1<br>• Ögonavstånd: 13 mm<br>• Display: 0,32\" OLED, 800×600<br>• Färgpaletter: 6 st, Bild-i-bild: ja<br>• Lagring: 16 GB internt<br>• Ström/port: USB-C, 5 VDC/2 A<br>• Batteri: 3 200 mAh, ca 8,5 h drift<br>• Gänga: stativgänga<br>• Skyddsklass: IP67<br>• Arbetstemp.: −30 °C till +55 °C<br>• Mått: 149,0 × 56,6 × 50,3 mm<br>• Vikt: 270 g<br>• Garanti: 3 år</p>\n<p><strong>Detta ingår</strong><br>• Mile M2 värmekamera<br>• Laddkabel (USB-C)<br>• Väska (bältesburen)<br>• Neoprenrem och handrem<br>• Ögonmussla<br>• Instruktionsbok</p>\n<p>10 mm-objektivet ger 30,7 m synfält på 100 m och artbestämning kring 110 m på vildsvin, så kikaren gör mest nytta på nära håll vid åtel och eftersök. Behöver du se längre ut ger <a href=\"/products/pixfra-mile-m2-256x162-15-mm-varmekamera\" title=\"PixFra Mile M2 256x192, 15 mm\">Mile M2 15 mm</a> artbestämning kring 170 m och detektion till 710 m.</p>\n<p>Uppföljaren <a href=\"/collections/pixfra-mile-3\" title=\"PixFra Mile 3\">PixFra Mile 3</a> har NETD ≤15 mK, OLED på 1920x1080 och två utbytbara 18650-batterier.</p>",
+  "faq": [
+   {
+    "q": "Har Mile M2 avståndsmätare?",
+    "a": "Nej, Mile M2 saknar laseravståndsmätare."
+   },
+   {
+    "q": "Vilken sensor har Mile M2?",
+    "a": "En 256x192 VOx-sensor med 12 µm pixel och NETD ≤35 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till cirka 500 m. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Varför 10 mm objektiv?",
+    "a": "Det fasta 10 mm-objektivet ger ett brett synfält (30,7 m på 100 m) för snabb överblick på nära håll."
+   },
+   {
+    "q": "Kan man dela bilden?",
+    "a": "Ja, stabil Wi-Fi-delning till upp till fyra enheter via Pixfra-appen."
+   },
+   {
+    "q": "Hur liten och tålig är den?",
+    "a": "Cirka 270 g i magnesiumhölje, IP67, med inbyggt batteri och upp till 8,5 h drift."
+   }
+  ],
+  "metafields": {
+   "netd": "≤35 mK"
+  },
+  "title": "PixFra Mile M2 256x192, 10 mm Värmekikare",
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/wp-content/uploads/2024/07/PFI-M210_datasheet.pdf",
+   "https://www.pixfra.com/outdoor/mile-2-series",
+   "https://www.pixfra.com/support/rma-policy"
+  ],
+  "changes": [
+   "title: Mile M2 256x192, 10 mm Värmekikare → PixFra Mile M2 256x192, 10 mm Värmekikare (saknat märke)",
+   "text rubrik: 'PixFra Mile M2 – 10 mm värmekamera' → produktnamnet",
+   "text/FAQ/custom.netd: < 35 mK / 35 mK → ≤35 mK (PFI-M210-datablad ≤35 mK@f/1.0)",
+   "text arbetstemperatur: −30 till +50 °C → −30 till +55 °C (PFI-M210-datablad)",
+   "text garanti: 2 år → 3 år (Pixfra RMA-policy, 3 år komponenter)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759111508",
+  "handle": "pixfra-pegasus-pro-640x512-35-mm-varmesikte",
+  "descriptionHtml": "<p><strong>PixFra Pegasus Pro 640x512, 35 mm Värmesikte (PFI-P635P)</strong></p>\n<p>PixFra Pegasus Pro P635P bygger på samma plattform som Pegasus P635 men med högre termisk känslighet. NETD ≤18 mK gör störst skillnad när temperaturkontrasten är låg, exempelvis vid fukt, dis eller varm bakgrund. Du får samma 35 mm F1,0, 50 Hz, OLED 1440x1080 och samma paket av funktioner som RAR, WiFi och 64 GB lagring.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 640x512 VOx-sensor (12 μm)<br>• NETD ≤18 mK för finare separation i små temperaturskillnader<br>• 35 mm F1,0 med manuell fokus och närgräns 3 m<br>• 50 Hz bildfrekvens<br>• OLED 1440x1080 för skarp målbild<br>• RAR: automatisk inspelning vid rekyl<br>• Foto, video och mikrofon, inbyggt minne 64 GB<br>• WiFi-hotspot, Hot Spot Track och PIP (bild i bild)<br>• IP67 och max rekyl 1 200 g/ms</p>\n<p><strong>Teknisk specifikation</strong><br>• Modell: PFI-P635P<br>• Sensor: VOx, okyld, 640 (H) x 512 (V), 12 μm, 8–14 μm<br>• NETD: ≤18 mK vid f/1,0<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 35 mm, F1,0<br>• Synfält: H 12,4°; V 10°<br>• Fokus: manuell<br>• Närgräns: 3 m<br>• Detektion: 1 800 m<br>• Grundförstoring: 1,95x<br>• Digital zoom: 1x, 2x, 4x, 8x<br>• Display: OLED, 1440 (H) x 1080 (V)<br>• Dioptri: -3 D till +5 D<br>• Ögonavstånd: 50 mm<br>• Färgpaletter: 6 (White Hot, Black Hot, Iron Red, Alarm, Emerald, Amber)<br>• Retikel: flera mönster och färgalternativ<br>• WiFi-hotspot: ja<br>• Hot Spot Track: ja<br>• PIP: ja<br>• Avståndsmätning: ja<br>• FFC-kalibrering: auto, manuell, omedelbar<br>• DPC-korrigering: ja<br>• Lagring: inbyggt 64 GB<br>• Ström: USB-C, 5 V DC / 2 A<br>• Batteri: uppladdningsbart litium (internt) + 1 st CR123A (externt)<br>• Batterikapacitet: 6 400 mAh (internt)<br>• Standbytid: ≥11 h<br>• Skyddsklass: IP67<br>• Max rekyl: 1 200 g/ms<br>• Arbetstemperatur: -30 °C till +50 °C<br>• Mått: 409,5 x 77,5 x 61,5 mm<br>• Vikt: ≤852 g</p>\n<p><strong>Detta ingår</strong><br>• Värmesikte x 1<br>• Förvaringsväska x 1<br>• USB-C-kabel x 1<br>• CR123A-batteri x 2<br>• Linsduk x 1<br>• Snabbstartsguide x 1<br>• Juridisk och regulatorisk information x 1<br>• Garantikort x 1</p>\n<p>NETD ≤18 mK och OLED 1440x1080 håller kontrasten i dis och fukt, och 35 mm-objektivet ger artbestämning kring 400 m på vildsvin med ett synfält på 12,4° som fungerar i skog. Vill du nå längre ut finns <a href=\"/products/pixfra-pegasus-pro-640x512-50-mm-varmesikte\" title=\"PixFra Pegasus Pro 640x512 50 mm\">Pegasus Pro 640x512 50 mm</a> med kring 570 m, och räcker en 384-sensor finns <a href=\"/products/pixfra-pegasus-pro-384x288-35-mm-varmesikte\" title=\"PixFra Pegasus Pro 384x288 35 mm\">Pegasus Pro 384x288 35 mm</a> till lägre pris.</p>",
+  "faq": null,
+  "metafields": {
+   "sensorupplosning": "640x512"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/pegasus-pro-series",
+   "https://www.pixfra.com/wp-content/uploads/2024/10/PFI-P635P_datasheet_20241025.pdf"
+  ],
+  "changes": [
+   "custom.sensorupplosning: 640x480 → 640x512 (PFI-P635 Pro, pixfra.com)",
+   "text: ChatGPT-attribut data-start/data-end borttagna (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12517805326676",
+  "handle": "pegasus-2-lrf-640x512-35-mm-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<h2><strong>Pegasus 2 LRF 640×512 35 mm Värmesikte Med Laseravståndsmätare</strong></h2>\n<p><strong>Snabbfakta:</strong> 640×512 sensor • 35 mm objektiv • Laseravståndsmätare upp till 1000 m • OLED-display 1600×1200 • 50 Hz • 64 GB intern lagring</p>\n<p>Pegasus 2 LRF 640×512 35 mm är ett värmesikte med högupplöst sensor och integrerad laseravståndsmätare för dig som vill kombinera detaljrik värmebild med exakt avståndsinformation. Kombinationen av 640×512-sensor, 35 mm frontlins och NETD under 15 mK ger tydlig målseparation, och artbestämningen ligger kring 400 m på vildsvin i både skog och öppnare marker.</p>\n<h2><strong>Nyckelfunktioner</strong></h2>\n<p>• Integrerad laseravståndsmätare upp till cirka 1000 m ger snabb och exakt distansinformation direkt i siktet<br>• 640×512 Vox-sensor med hög känslighet ger tydlig värmebild och bra detaljåtergivning<br>• 35 mm objektiv ger balans mellan räckvidd och synfält för både skog och öppnare marker<br>• OLED-display 1600×1200 ger skarp bild och bra kontrast vid observation och skytte<br>• Rekylaktiverad videoinspelning sparar automatiskt händelser före och efter skott<br>• 64 GB intern lagring för video och bilder utan extra minneskort<br>• Wi-Fi-funktion för överföring och appkoppling<br>• Hus helt i magnesiumlegering med IP67-klassning<br>• Hybrid batterisystem med intern och extern 18650-cell ger minst 9 timmars drift vid 25 °C</p>\n<h2><strong>Teknisk specifikation</strong></h2>\n<p>Sensor: 640×512 okyld Vox<br>Pixelpitch: 12 µm<br>NETD: ≤15 mK<br>Objektiv: 35 mm F1.0<br>Bildfrekvens: 50 Hz<br>Synfält: ca 12,5° × 10°<br>Förstoring: ca 2,5–20× digital zoom<br>Display: OLED 1600×1200<br>Laseravståndsmätare: upp till ca 1000 m<br>Intern lagring: 64 GB<br>Video/foto: Ja, rekylaktiverad inspelning<br>Wi-Fi: Ja<br>Batteri: Internt batteri + utbytbart 18650<br>Drifttid: minst 9 h vid 25 °C (Wi-Fi av)<br>Skyddsklass: IP67<br>Temperaturområde: ca –30 °C till +55 °C<br>Tubdiameter: 30 mm<br>Vikt: ca 820 g<br>Mått: ca 409 × 90 × 78,5 mm</p>\n<h2><strong>Detta ingår</strong></h2>\n<p>• Pegasus 2 LRF värmesikte<br>• 2 × 18650 batterier<br>• Laddare och laddkabel<br>• Skyddsväska<br>• Okularmussla<br>• Dokumentation</p>\n<p>35 mm-optiken ger detektion till 1800 m och artbestämning kring 400 m på vildsvin, och lasern mäter hållet upp till 1000 m utan att du tar ögat från siktbilden. Jagar du mest över stora fält når <a href=\"/products/pegasus-2-lrf-640x512-50-mm-varmesikte-med-laseravstandsmatare\" title=\"PixFra Pegasus 2 LRF 640x512 50 mm\">Pegasus 2 LRF 50 mm</a> kring 570 m, och räcker en 384-sensor finns <a href=\"/products/pixfra-pegasus-2-lrf-384x288-35-mm-varmesikte-med-laseravstandsmatare\" title=\"PixFra Pegasus 2 LRF 384x288 35 mm\">Pegasus 2 LRF 384x288</a> till lägre pris.</p>",
+  "faq": [
+   {
+    "q": "Har Pegasus 2 LRF avståndsmätare?",
+    "a": "Ja. Integrerad laseravståndsmätare upp till cirka 1000 meter, direkt i siktet."
+   },
+   {
+    "q": "Vilken sensor har Pegasus 2 LRF?",
+    "a": "En 640x512 okyld VOx-sensor med 12 µm pixelpitch och NETD under 15 mK för tydlig målseparation."
+   },
+   {
+    "q": "Vilket objektiv och vilken skärm har Pegasus 2 LRF?",
+    "a": "35 mm F1.0-objektiv och en skarp OLED-display i 1600x1200."
+   },
+   {
+    "q": "Kan man spela in med Pegasus 2 LRF?",
+    "a": "Ja. Rekylaktiverad videoinspelning som sparar händelser före och efter skott, med 64 GB intern lagring och Wi-Fi."
+   },
+   {
+    "q": "Hur lång batteritid har Pegasus 2 LRF?",
+    "a": "Minst 9 timmar vid 25 °C med Wi-Fi avstängt, med internt 18650-batteri plus ett utbytbart 18650."
+   },
+   {
+    "q": "Tål Pegasus 2 LRF tuffa förhållanden?",
+    "a": "Ja. Hus helt i magnesiumlegering, IP67 och drift från -30 °C till +55 °C."
+   }
+  ],
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/pegasus-2-lrf",
+   "https://www.pixfra.com/wp-content/uploads/2025/11/PFI-P635-LRF_datasheet_20251104.pdf"
+  ],
+  "changes": [
+   "text: ChatGPT-omslag (<article>/<div>, data-attribut) borttaget",
+   "text/custom.netd: <15 mK → ≤15 mK (pixfra.com ≤15 mK@f/1.0)",
+   "text/FAQ drifttid: 9–10 h → minst 9 h vid 25 °C, Wi-Fi av (pixfra.com ≥9 h@25 °C)",
+   "text/FAQ: 'Robust magnesiumkonstruktion' → hus helt i magnesiumlegering (datablad: full magnesium alloy construction)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12517829312852",
+  "handle": "pegasus-2-lrf-640x512-50-mm-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<h2><strong>PixFra Pegasus 2 LRF 640×512 50 mm Värmesikte Med Laseravståndsmätare</strong></h2>\n<p><strong>Snabbfakta:</strong> 640×512 sensor • 50 mm F1.0 objektiv • Laseravståndsmätare upp till 1000 m • NETD ≤15 mK • OLED 1600×1200 • 64 GB intern lagring</p>\n<p>PixFra Pegasus 2 LRF 640×512 50 mm är ett högupplöst värmesikte för dig som prioriterar detalj och räckvidd på öppen mark. Kombinationen av 640×512-sensor, 12 µm pixelpitch och 50 mm frontlins ger bättre identifiering på längre håll jämfört med 35 mm-versionen. Den integrerade laseravståndsmätaren ger exakt avståndsinformation direkt i siktbilden och förenklar bedömningen i praktisk jakt.</p>\n<h2><strong>Nyckelfunktioner</strong></h2>\n<p>• 640×512 Vox-sensor med 12 µm pixelpitch – hög detaljåtergivning och tydlig målseparation<br>• NETD ≤15 mK – mycket hög termisk känslighet för bättre prestanda i fukt, regn och temperaturskiften<br>• 50 mm F1.0 objektiv – ökad räckvidd och förbättrad identifiering på längre avstånd<br>• Integrerad laseravståndsmätare upp till 1000 m – snabb och exakt distansmätning i siktet<br>• OLED-display 1600×1200 – skarp, kontrastrik bild med bra färgåtergivning<br>• Rekylaktiverad videoinspelning – sparar automatiskt sekvenser före och efter skott<br>• 64 GB intern lagring – gott om utrymme för video och bilder<br>• Wi-Fi-stöd – trådlös överföring och appkoppling<br>• Hybrid batterisystem (internt + utbytbart 18650) – minst 9 timmars drift vid 25 °C<br>• IP67-klassning – vädertålig konstruktion för nordiska förhållanden<br>• 30 mm tub – kompatibel med standardringar</p>\n<h2><strong>Teknisk specifikation</strong></h2>\n<p>Sensor: 640×512 okyld Vox<br>Pixelpitch: 12 µm<br>NETD: ≤15 mK<br>Objektiv: 50 mm F1.0<br>Bildfrekvens: 50 Hz<br>Display: OLED 1600×1200<br>Laseravståndsmätare: Ja, upp till 1000 m<br>Intern lagring: 64 GB<br>Video/foto: Ja, rekylaktiverad inspelning<br>Wi-Fi: Ja<br>Batterisystem: Internt batteri + utbytbart 18650<br>Drifttid: minst 9 h vid 25 °C (Wi-Fi av)<br>Skyddsklass: IP67<br>Tubdiameter: 30 mm<br>Temperaturområde: cirka –30 °C till +55 °C</p>\n<h2><strong>Detta ingår</strong></h2>\n<p>• PixFra Pegasus 2 LRF 640×512 50 mm värmesikte<br>• 2 × 18650 batterier<br>• Laddare och laddkabel<br>• Skyddsväska<br>• Okularmussla<br>• Dokumentation</p>\n<p>50 mm-objektivet ger artbestämning kring 570 m på vildsvin, mot 400 m för <a href=\"/products/pegasus-2-lrf-640x512-35-mm-varmesikte-med-laseravstandsmatare\" title=\"PixFra Pegasus 2 LRF 640x512 35 mm\">35 mm-versionen</a> som i gengäld ger bredare bild i skog, och lasern mäter hållet upp till 1000 m. Behöver du inte laser finns <a href=\"/products/pixfra-pegasus-pro-640x512-50-mm-varmesikte\" title=\"PixFra Pegasus Pro 640x512 50 mm\">Pegasus Pro 640x512 50 mm</a> med samma optik till lägre pris.</p>",
+  "faq": [
+   {
+    "q": "Har Pegasus 2 LRF 50 mm avståndsmätare?",
+    "a": "Ja. Integrerad laseravståndsmätare upp till 1000 meter, direkt i siktbilden."
+   },
+   {
+    "q": "Vilken sensor har den?",
+    "a": "En 640x512 okyld VOx-sensor med 12 µm pixelpitch och NETD under 15 mK för hög detalj och känslighet."
+   },
+   {
+    "q": "Varför 50 mm i stället för 35 mm?",
+    "a": "50 mm-objektivet ger ökad räckvidd och bättre identifiering på längre avstånd jämfört med 35 mm-versionen."
+   },
+   {
+    "q": "Display, lagring och inspelning?",
+    "a": "OLED-display i 1600x1200, 64 GB intern lagring och rekylaktiverad videoinspelning med Wi-Fi."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Minst 9 timmar vid 25 °C med Wi-Fi avstängt, med internt 18650-batteri plus ett utbytbart 18650."
+   },
+   {
+    "q": "Tål den nordiska förhållanden?",
+    "a": "Ja. IP67-klassad med driftstemperatur cirka -30 till +55 °C, i klassiskt 30 mm tubformat."
+   }
+  ],
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/pegasus-2-lrf",
+   "https://www.pixfra.com/wp-content/uploads/2025/11/PFI-P650-LRF_datasheet_20251104.pdf"
+  ],
+  "changes": [
+   "text: ChatGPT-omslag (<article>/<div>, data-attribut) borttaget",
+   "text/custom.netd: <15 mK → ≤15 mK (pixfra.com ≤15 mK@f/1.0)",
+   "text/FAQ drifttid: 9–10 h → minst 9 h vid 25 °C, Wi-Fi av (pixfra.com ≥9 h@25 °C)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759635796",
+  "handle": "pixfra-taurus-25-mm-384x288-frontmonterat-varmesikte",
+  "descriptionHtml": "<h2>PixFra Taurus 25 mm 384x288 Frontmonterat Värmesikte</h2>\n<p>PixFra Taurus 25 mm är ett frontmonterat värmesikte för dig som vill komplettera ditt befintliga dagkikarsikte med värme utan att ändra inskjutning eller arbetssätt. Den kortare brännvidden ger ett bredare synfält, vilket gör modellen särskilt lämpad för jakt på kortare till medellånga avstånd där överblick och snabb målupptäckt är viktigt.</p>\n<p>Genom att montera Taurus framför dagkikarsiktet behåller du samma vapen, samma optik och samma skjutposition, men får tillgång till värme när ljuset inte räcker till.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Frontmonterad värmeadapter för dagkikarsikte<br>• Värmesensor 384x288 med 12 µm pixelpitch<br>• 25 mm objektiv för brett synfält<br>• OLED-display med tydlig kontrast<br>• Inbyggd bild- och videoinspelning<br>• WiFi-stöd för app och bildöverföring<br>• Utbytbar batterilösning</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: VOx<br>• Upplösning: 384x288<br>• Pixelpitch: 12 µm<br>• NETD: ≤18 mK<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 25 mm F1.0<br>• Display: OLED 1920x1080<br>• Lagring: 32 GB internminne<br>• Batterityp: 18650<br>• Batteritid: upp till ca 7 timmar<br>• Skyddsklass: IP67</p>\n<p><strong>Detta ingår</strong><br>• PixFra Taurus värmesikte<br>• Batteri<br>• USB-C laddkabel<br>• Rengöringsduk<br>• Manual</p>\n<p>25 mm-objektivet ger brett synfält och artbestämning kring 280 m på vildsvin, vilket räcker vid åteln och i skog. Över öppnare mark når <a href=\"/products/pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte\" title=\"PixFra Taurus 35 mm 384x288\">Taurus 35 mm</a> kring 400 m, och vill du ha laser i samma enhet finns <a href=\"/products/pixfra-taurus-25-mm-384x288-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 25 mm 384x288 LRF\">Taurus 25 mm LRF</a> med avståndsmätare till 1000 m. Ringadaptern väljs efter kikarsiktets objektivdiameter.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/taurus-series"
+  ],
+  "changes": [
+   "text spec display: OLED 1024x768 → OLED 1920x1080 (alla Taurus: 1920 × 1080, 0,49 tum OLED, pixfra.com)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759439188",
+  "handle": "pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte",
+  "descriptionHtml": "<h2>PixFra Taurus 35 mm 384x288 Frontmonterat Värmesikte</h2>\n<p>PixFra Taurus 35 mm 384x288 är ett frontmonterat värmesikte som ger bättre räckvidd och tydligare målseparation än 25 mm-varianten, samtidigt som systemet behåller sin flexibilitet. Den passar dig som ofta jagar på något längre håll men fortfarande vill använda en smidig frontmonterad lösning.</p>\n<p>Du slipper byta sikte eller skjuta om vapnet när du växlar mellan dagsljus och mörker, vilket gör arbetssättet konsekvent i fält.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Frontmonterad värmeadapter för dagkikarsikte<br>• Värmesensor 384x288, 12 µm<br>• 35 mm objektiv för ökad räckvidd<br>• Stabil träffpunkt utan ominskjutning<br>• OLED-display med hög kontrast<br>• Bild- och videoinspelning<br>• WiFi-funktion för appstöd</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: VOx<br>• Upplösning: 384x288<br>• Pixelpitch: 12 µm<br>• NETD: ≤18 mK<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 35 mm F1.0<br>• Display: OLED 1920x1080<br>• Lagring: 32 GB<br>• Batterityp: 18650<br>• Batteritid: upp till ca 7 timmar<br>• Skyddsklass: IP67</p>\n<p><strong>Detta ingår</strong><br>• PixFra Taurus värmesikte<br>• Batteri<br>• USB-C laddkabel<br>• Rengöringsduk<br>• Manual</p>\n<p>35 mm ger artbestämning kring 400 m på vildsvin, mot 280 m för <a href=\"/products/pixfra-taurus-25-mm-384x288-frontmonterat-varmesikte\" title=\"PixFra Taurus 25 mm 384x288\">Taurus 25 mm</a> som i gengäld ger bredare bild vid åteln. Vill du mäta hållet i samma enhet finns <a href=\"/products/pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 35 mm 384x288 LRF\">Taurus 35 mm LRF</a>. Ringadaptern väljs efter kikarsiktets objektivdiameter.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/taurus-series"
+  ],
+  "changes": [
+   "text spec display: OLED 1024x768 → OLED 1920x1080 (alla Taurus: 1920 × 1080, 0,49 tum OLED, pixfra.com)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759144276",
+  "handle": "pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<h2>PixFra Taurus 35 mm 384x288 frontmonterat värmesikte med laseravståndsmätare</h2>\n<p>PixFra Taurus 35 mm 384x288 med laseravståndsmätare är ett frontmonterat värmesikte för dig som vill kombinera värmebild med exakt avståndsbedömning, utan att ändra inskjutning eller arbetssätt. Laseravståndsmätaren ger tydlig information när det är svårt att uppskatta avstånd visuellt, till exempel i mörker eller i varierande terräng.</p>\n<p>35 mm-optiken ger bättre räckvidd än 25 mm-varianten, samtidigt som systemet förblir smidigt och balanserat framför dagkikarsiktet.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Frontmonterad värmeadapter för dagkikarsikte<br>• Integrerad laseravståndsmätare<br>• Värmesensor 384x288 med 12 µm pixelpitch<br>• 35 mm objektiv för ökad räckvidd<br>• OLED-display med hög kontrast<br>• Bild- och videoinspelning<br>• WiFi-stöd för app och bildöverföring</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: VOx<br>• Upplösning: 384x288<br>• Pixelpitch: 12 µm<br>• NETD: ≤18 mK<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 35 mm F1.0<br>• Display: OLED 1920x1080<br>• Lagring: 32 GB<br>• Batterityp: 18650<br>• Batteritid: upp till ca 7 timmar<br>• Skyddsklass: IP67<br>• Laseravståndsmätare: Integrerad</p>\n<p><strong>Detta ingår</strong><br>• PixFra Taurus värmesikte med LRF<br>• Batteri<br>• USB-C laddkabel<br>• Rengöringsduk<br>• Manual</p>\n<p>Med 35 mm-objektivet når artbestämningen kring 400 m på vildsvin, och den integrerade lasern ger avståndet utan att du lämnar siktbilden. Vill du ha mer detalj finns <a href=\"/products/pixfra-taurus-35-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 35 mm 640x512 LRF\">Taurus 35 mm 640x512 LRF</a> med samma optik, och på kortare håll ger <a href=\"/products/pixfra-taurus-25-mm-384x288-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 25 mm 384x288 LRF\">Taurus 25 mm LRF</a> bredare bild.</p>",
+  "faq": [
+   {
+    "q": "Hur monteras Taurus 35 mm LRF?",
+    "a": "Framför ditt dagkikarsikte, utan att ändra inskjutning eller arbetssätt."
+   },
+   {
+    "q": "Har den avståndsmätare?",
+    "a": "Ja. Integrerad laseravståndsmätare som ger tydlig avståndsinformation när det är svårt att uppskatta visuellt, till exempel i mörker."
+   },
+   {
+    "q": "Vilken sensor har den?",
+    "a": "384x288 VOx-sensor med 12 µm pixelpitch och NETD under eller lika med 18 mK."
+   },
+   {
+    "q": "Varför 35 mm objektiv?",
+    "a": "35 mm ger bättre räckvidd än 25 mm-varianten, samtidigt som systemet förblir smidigt framför dagkikarsiktet."
+   },
+   {
+    "q": "Display och batteritid?",
+    "a": "OLED-display 1920x1080 och utbytbart 18650 med upp till cirka 7 timmars drift."
+   },
+   {
+    "q": "Tål den tuff jakt?",
+    "a": "Ja. IP67-klassad med foto, video och Wi-Fi-stöd."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/taurus-lrf"
+  ],
+  "changes": [
+   "text spec display: OLED 1024x768 → OLED 1920x1080 (alla Taurus: 1920 × 1080, 0,49 tum OLED, pixfra.com)",
+   "FAQ display: 1024x768 → 1920x1080 (samma källa)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759177044",
+  "handle": "pixfra-taurus-35-mm-640x512-frontmonterat-varmesikte",
+  "descriptionHtml": "<h2>PixFra Taurus 35 mm 640x512 frontmonterat värmesikte</h2>\n<p>PixFra Taurus 35 mm 640x512 är ett frontmonterat värmesikte för dig som vill ha mer bildinformation och tydligare detaljer utan att gå upp till de största formaten. 12 µm pixlarna bakom 35 mm-optiken lägger tillräckligt med bildpunkter på målet för säker identifiering, och NETD ≤18 mK håller kontrasten även när temperaturskillnaderna är små.</p>\n<p>Brännvidden gör modellen användbar både i tätare miljö och på öppnare marker.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Frontmonterad värmeadapter<br>• Värmesensor 640x512, 12 µm<br>• 35 mm objektiv för allround-användning<br>• Förbättrad detaljåtergivning<br>• OLED-display med hög upplösning<br>• Bild- och videoinspelning<br>• WiFi-stöd</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: VOx<br>• Upplösning: 640x512<br>• Pixelpitch: 12 µm<br>• NETD: ≤18 mK<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 35 mm F1.0<br>• Display: OLED 1920x1080<br>• Lagring: 32 GB<br>• Batterityp: 18650<br>• Batteritid: upp till ca 6 timmar<br>• Skyddsklass: IP67</p>\n<p><strong>Detta ingår</strong><br>• PixFra Taurus värmesikte<br>• Batteri<br>• USB-C kabel<br>• Rengöringsduk<br>• Manual</p>\n<p>Med 640x512 och 35 mm får du artbestämning kring 400 m på vildsvin och fler detaljer i bilden än med <a href=\"/products/pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte\" title=\"PixFra Taurus 35 mm 384x288\">384-versionen</a> på samma optik. Behöver du nå längre finns <a href=\"/products/pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte\" title=\"PixFra Taurus 50 mm 640x512\">Taurus 50 mm 640x512</a> med kring 570 m.</p>",
+  "faq": [
+   {
+    "q": "Hur monteras Taurus 35 mm 640?",
+    "a": "Som en frontmonterad värmeadapter framför ditt dagkikarsikte, utan att ändra inskjutning eller arbetssätt."
+   },
+   {
+    "q": "Vilken sensor har den?",
+    "a": "640x512 VOx-sensor med 12 µm pixelpitch och NETD under eller lika med 18 mK, för bättre identifiering vid låg temperaturkontrast."
+   },
+   {
+    "q": "Varför 35 mm objektiv?",
+    "a": "35 mm gör modellen användbar både i tätare miljö och på öppnare marker, en balanserad allround-lösning."
+   },
+   {
+    "q": "Har den avståndsmätare?",
+    "a": "Nej, den här varianten saknar inbyggd laseravståndsmätare."
+   },
+   {
+    "q": "Display och batteritid?",
+    "a": "OLED-display och utbytbart 18650 med upp till cirka 6 timmars drift."
+   },
+   {
+    "q": "Tål den tuff jakt?",
+    "a": "Ja. IP67-klassad med foto, video och Wi-Fi-stöd."
+   }
+  ],
+  "metafields": {
+   "sensorupplosning": "640x512"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/taurus-series"
+  ],
+  "changes": [
+   "text spec display: OLED 1024x768 → OLED 1920x1080 (alla Taurus: 1920 × 1080, 0,49 tum OLED, pixfra.com)",
+   "text/FAQ batteritid: ca 7 h → ca 6 h (640-modellerna ≥6 h, 384-modellerna ≥7 h enligt pixfra.com)",
+   "custom.sensorupplosning: 640x480 → 640x512 (pixfra.com)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758587220",
+  "handle": "pixfra-taurus-35-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<h2>PixFra Taurus 35 mm 640x512 Frontmonterat Värmesikte Med Laseravståndsmätare</h2>\n<p>PixFra Taurus 35 mm 640x512 med LRF kombinerar högre sensorupplösning med exakt avståndsbedömning i ett allround-format. Den högre upplösningen ger tydligare detaljåtergivning, särskilt vid svåra förhållanden där temperaturkontrasten är låg.</p>\n<p>Laseravståndsmätaren ger extra beslutsstöd innan skott, samtidigt som frontmonteringen gör att du behåller samma optik och ergonomi.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Frontmonterad värmeadapter för dagkikarsikte<br>• Integrerad laseravståndsmätare<br>• Värmesensor 640x512 med 12 µm pixelpitch<br>• 35 mm objektiv för flexibel användning<br>• OLED-display med hög upplösning<br>• Bild- och videoinspelning<br>• WiFi-anslutning</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: VOx<br>• Upplösning: 640x512<br>• Pixelpitch: 12 µm<br>• NETD: ≤18 mK<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 35 mm F1.0<br>• Display: OLED 1920x1080<br>• Lagring: 32 GB<br>• Batterityp: 18650<br>• Batteritid: upp till ca 6 timmar<br>• Skyddsklass: IP67<br>• Laseravståndsmätare: Integrerad</p>\n<p><strong>Detta ingår</strong><br>• PixFra Taurus värmesikte med LRF<br>• Batteri<br>• USB-C kabel<br>• Rengöringsduk<br>• Manual</p>\n<p>640-sensorn ger fler bildpunkter i samma 35 mm-synfält, och artbestämningen ligger kring 400 m på vildsvin, samma som för <a href=\"/products/pixfra-taurus-35-mm-384x288-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 35 mm 384x288 LRF\">384-versionen</a> som kostar mindre. Jagar du över stora fält når <a href=\"/products/pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 50 mm 640x512 LRF\">Taurus 50 mm 640x512 LRF</a> kring 570 m.</p>",
+  "faq": [
+   {
+    "q": "Hur monteras Taurus 35 mm 640 LRF?",
+    "a": "Som en frontmonterad värmeadapter framför ditt dagkikarsikte, du behåller samma optik och ergonomi."
+   },
+   {
+    "q": "Har den avståndsmätare?",
+    "a": "Ja. Integrerad laseravståndsmätare som ger beslutsstöd innan skott."
+   },
+   {
+    "q": "Vilken sensor har den?",
+    "a": "640x512-sensor med 12 µm pixelpitch och NETD under eller lika med 18 mK för tydlig detaljåtergivning även vid låg temperaturkontrast."
+   },
+   {
+    "q": "Varför 35 mm objektiv?",
+    "a": "35 mm ger ett allround-format som funkar både i tätare miljö och på öppnare marker."
+   },
+   {
+    "q": "Display och batteritid?",
+    "a": "OLED 1920x1080 och utbytbart 18650 med upp till cirka 6 timmars drift."
+   },
+   {
+    "q": "Tål den tuff jakt?",
+    "a": "Ja. IP67-klassad med foto, video och Wi-Fi."
+   }
+  ],
+  "metafields": {
+   "sensorupplosning": "640x512"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/taurus-lrf"
+  ],
+  "changes": [
+   "text spec display: OLED 1024x768 → OLED 1920x1080 (alla Taurus: 1920 × 1080, 0,49 tum OLED, pixfra.com)",
+   "FAQ display: 1024x768 → 1920x1080 (samma källa)",
+   "text/FAQ batteritid: ca 7 h → ca 6 h (640-modellerna ≥6 h, 384-modellerna ≥7 h enligt pixfra.com)",
+   "custom.sensorupplosning: 640x480 → 640x512 (pixfra.com)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445759308116",
+  "handle": "pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte",
+  "descriptionHtml": "<h2>PixFra Taurus 50 mm 640x512 frontmonterat värmesikte</h2>\n<p>PixFra Taurus 50 mm 640x512 är utvecklat för jakt där räckvidd och säker identifiering på längre avstånd prioriteras. Den långa brännvidden på 50 mm lägger fler bildpunkter på målet och ger tydligare målbild inför skott, medan 640-sensorn behåller ett användbart synfält trots den långa optiken.</p>\n<p>Samtidigt behåller du den stora fördelen med frontmontering: samma dagkikarsikte, samma ergonomi och ingen ominskjutning.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Frontmonterad värmelösning<br>• Värmesensor 640x512, 12 µm<br>• 50 mm objektiv för längre håll<br>• Mycket god detaljåtergivning<br>• OLED-display med hög kontrast<br>• Bild- och videoinspelning<br>• WiFi-anslutning</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: VOx<br>• Upplösning: 640x512<br>• Pixelpitch: 12 µm<br>• NETD: ≤18 mK<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 50 mm F1.0<br>• Display: OLED 1920x1080<br>• Lagring: 32 GB<br>• Batterityp: 18650<br>• Batteritid: upp till ca 6 timmar<br>• Skyddsklass: IP67</p>\n<p><strong>Detta ingår</strong><br>• PixFra Taurus värmesikte<br>• Batteri<br>• USB-C kabel<br>• Rengöringsduk<br>• Manual</p>\n<p>50 mm F1.0 ger artbestämning kring 570 m på vildsvin och detektion till 2600 m, för åkrar och hyggen där djuren står långt ut. Vill du också mäta hållet finns <a href=\"/products/pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 50 mm 640x512 LRF\">Taurus 50 mm LRF</a>, och jagar du mest i skog ger <a href=\"/products/pixfra-taurus-35-mm-640x512-frontmonterat-varmesikte\" title=\"PixFra Taurus 35 mm 640x512\">35 mm-versionen</a> bredare bild.</p>",
+  "faq": [
+   {
+    "q": "Hur monteras Taurus 50 mm 640?",
+    "a": "Framför ditt dagkikarsikte. Du behåller samma sikte, samma ergonomi och slipper ominskjutning."
+   },
+   {
+    "q": "Vilken sensor har den?",
+    "a": "640x512 VOx-sensor med 12 µm pixelpitch och NETD under eller lika med 18 mK för mycket god detaljåtergivning."
+   },
+   {
+    "q": "Varför 50 mm objektiv?",
+    "a": "Den längre brännvidden ger tydligare målbild och bättre beslutsunderlag på längre avstånd."
+   },
+   {
+    "q": "Har den avståndsmätare?",
+    "a": "Nej, den här varianten saknar inbyggd laseravståndsmätare."
+   },
+   {
+    "q": "Display och batteritid?",
+    "a": "OLED-display och utbytbart 18650 med upp till cirka 6 timmars drift."
+   },
+   {
+    "q": "Tål den tuff jakt?",
+    "a": "Ja. IP67-klassad med foto- och videoinspelning och Wi-Fi."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/taurus-series"
+  ],
+  "changes": [
+   "text spec display: OLED 1024x768 → OLED 1920x1080 (alla Taurus: 1920 × 1080, 0,49 tum OLED, pixfra.com)",
+   "text/FAQ batteritid: ca 7 h → ca 6 h (640-modellerna ≥6 h, 384-modellerna ≥7 h enligt pixfra.com)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758980436",
+  "handle": "pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<h2>PixFra Taurus 50 mm 640x512 frontmonterat värmesikte med laseravståndsmätare</h2>\n<p>PixFra Taurus 50 mm 640x512 med laseravståndsmätare är framtagen för jakt där både lång räckvidd och exakt avstånd är avgörande. Den längre brännvidden ger tydligare målbild på längre håll, och 640-sensorn behåller ett användbart synfält trots den långa optiken.</p>\n<p>Laseravståndsmätaren ger ett tydligt avståndsbesked direkt i systemet, vilket minskar risken för felbedömning i fält.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Frontmonterad värmelösning för dagkikarsikte<br>• Integrerad laseravståndsmätare<br>• Värmesensor 640x512, 12 µm<br>• 50 mm objektiv för längre håll<br>• Mycket god detaljåtergivning<br>• OLED-display med hög kontrast<br>• Bild- och videoinspelning</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: VOx<br>• Upplösning: 640x512<br>• Pixelpitch: 12 µm<br>• NETD: ≤18 mK<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 50 mm F1.0<br>• Display: OLED 1920x1080<br>• Lagring: 32 GB<br>• Batterityp: 18650<br>• Batteritid: upp till ca 6 timmar<br>• Skyddsklass: IP67<br>• Laseravståndsmätare: Integrerad</p>\n<p><strong>Detta ingår</strong><br>• PixFra Taurus värmesikte med LRF<br>• Batteri<br>• USB-C kabel<br>• Rengöringsduk<br>• Manual</p>\n<p>50 mm-objektivet ger artbestämning kring 570 m på vildsvin, och lasern ger hållet direkt i systemet innan du skjuter på de långa avstånden. Utan laser finns <a href=\"/products/pixfra-taurus-50-mm-640x512-frontmonterat-varmesikte\" title=\"PixFra Taurus 50 mm 640x512\">Taurus 50 mm 640x512</a> till lägre pris, och i skog ger <a href=\"/products/pixfra-taurus-35-mm-640x512-frontmonterat-varmesikte-med-laseravstandsmatare\" title=\"PixFra Taurus 35 mm 640x512 LRF\">Taurus 35 mm 640x512 LRF</a> bredare bild.</p>",
+  "faq": [
+   {
+    "q": "Hur monteras Taurus 50 mm 640 LRF?",
+    "a": "Som en frontmonterad värmeadapter framför ditt dagkikarsikte, så du behåller samma optik och ergonomi."
+   },
+   {
+    "q": "Har den avståndsmätare?",
+    "a": "Ja. Integrerad laseravståndsmätare som ger tydligt avståndsbesked direkt i systemet."
+   },
+   {
+    "q": "Vilken sensor har den?",
+    "a": "640x512 VOx-sensor med 12 µm pixelpitch och NETD under eller lika med 18 mK."
+   },
+   {
+    "q": "Varför 50 mm objektiv?",
+    "a": "Den längre brännvidden ger tydligare målbild på längre håll och bättre identifiering innan skott."
+   },
+   {
+    "q": "Display och batteritid?",
+    "a": "OLED 1920x1080 och utbytbart 18650 med upp till cirka 6 timmars drift."
+   },
+   {
+    "q": "Tål den tuff jakt?",
+    "a": "Ja. IP67-klassad med foto- och videoinspelning."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/outdoor/taurus-lrf"
+  ],
+  "changes": [
+   "text spec display: OLED 1024x768 → OLED 1920x1080 (alla Taurus: 1920 × 1080, 0,49 tum OLED, pixfra.com)",
+   "FAQ display: 1024x768 → 1920x1080 (samma källa)",
+   "text/FAQ batteritid: ca 7 h → ca 6 h (640-modellerna ≥6 h, 384-modellerna ≥7 h enligt pixfra.com)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12445758947668",
+  "handle": "pixfra-volans-v850-4k-morkersikte",
+  "descriptionHtml": "<p><strong>PixFra Volans V850 4K Mörkersikte</strong></p>\n<p>Snabbfakta: 4K CMOS-sensor 3840 × 2160, 50 mm objektiv F1.2 till F3.0, 70 mm ögonavstånd, IP67.</p>\n<p>Volans V850 är ett digitalt sikte för dag och natt, byggt kring en 4K-sensor och ett 50 mm objektiv där bländaren går att öppna till F1.2. I dagsljus ger det färgbild, och i skymning eller vid restljus från måne, snö eller åtelbelysning fortsätter det att ge användbar bild. Optik, sensor och skärm är desamma som i V850 LRF, men laseravståndsmätaren är borttagen och vikten är ≤997 g utan batteri mot 1 040 g. Det passar dig som vaktar vildsvin vid åtel eller i fält på avstånd du redan känner till. IR-lampa ingår inte.</p>\n<p>Ögonavståndet på 70 mm ger marginal mot ögonbrynet på grova kalibrar och på vapen utan mynningsbroms eller ljuddämpare, och siktet tål rekyl upp till 1000 g/0,4 ms. Förstoringen är 4,9x och synfältet 7,7 × 7,7 m på 100 m, så siktet är gjort för vilt som står still eller rör sig lugnt, inte för snabba skott på nära håll. Volans ser ljus och inte värme: vill du upptäcka vilt bakom vegetation är ett värmesikte rätt verktyg. I helt mörker behöver du komplettera med en IR-lampa, till exempel <a href=\"/products/pixfra-volans-940-nm-ir-lampa\" title=\"PixFra Volans 940 nm IR-lampa\">Volans 940 nm IR-lampa</a> med <a href=\"/products/pixfra-volans-faste-till-ir-lampa\" title=\"PixFra Volans Fäste till IR-lampa\">Volans fäste till IR-lampa</a>.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Färgbild i dagsljus och detaljer i skymning med 4K CMOS-sensor på 3840 × 2160 och 50 Hz bildfrekvens<br>• Mer ljus till sensorn när det mörknar med bländare som öppnas till F1.2, och som stängs mot F3.0 i starkt ljus<br>• Marginal på grova kalibrar med 70 mm ögonavstånd och rekyltålighet 1000 g/0,4 ms<br>• Rund 1,25 tums LCD-skärm med 800 × 800 pixlar, så siktbilden ser ut som i ett vanligt kikarsikte<br>• Inskjutning via Pixfras app med flera inställningsprofiler och finjustering i X- och Y-led<br>• Video med ljud, stillbild och rekylaktiverad inspelning på 64 GB inbyggt minne, med galleri direkt i siktet</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensor: 4K CMOS, 3840 × 2160<br>• Bildfrekvens: 50 Hz<br>• Objektiv: 50 mm, justerbar bländare F1.2 till F3.0<br>• Förstoring: 4,9x<br>• Synfält: 4,4°, 7,7 × 7,7 m vid 100 m<br>• Detektionsräckvidd (dag): 1000 m<br>• Minsta fokuseringsavstånd: 5 m<br>• Skärm: LCD 1,25 tum, 800 × 800<br>• Dioptrijustering: -3 D till +3 D<br>• Utgångspupill: 10 mm<br>• Ögonavstånd: 70 mm<br>• Bildlägen: 4 (färg, natt, grön, gul)<br>• Lagring: 64 GB inbyggt<br>• Max rekyl: 1000 g/0,4 ms<br>• Batteri: 1 st uppladdningsbart och utbytbart litiumbatteri, 3200 mAh<br>• Strömförsörjning: 5 VDC/2 A, USB Type-C<br>• Drifttid: ≥5,5 h vid 25 °C (Wi-Fi av)<br>• Driftstemperatur: -30 °C till +55 °C<br>• Lagringstemperatur: -30 °C till +65 °C<br>• Luftfuktighet vid drift: ≤95 %<br>• Skyddsklass: IP67<br>• Mått: 434,3 × 86,8 × 71,3 mm<br>• Vikt: ≤997 g (utan batteri)</p>\n<p><strong>Detta ingår</strong><br>• 1 x Volans V850 4K mörkersikte<br>• 2 x batterier (1 i siktet och 1 extra)<br>• 1 x batteriladdare<br>• 1 x laddsladd<br>• 1 x fokusring<br>• 1 x väska med rem<br>• 1 x rengöringsduk<br>• 1 x manual<br>• 1 x garantikort</p>\n<p>IR-lampa, fäste till IR-lampa och montage ingår inte.</p>\n<p>F1.2-bländaren och 4K-sensorn ger färgbild långt in i skymningen, och med en IR-lampa monterad fortsätter samma sikte att fungera när det blir helt mörkt. Behöver du mäta avståndet till djuret finns <a href=\"/products/pixfra-volans-v850-lrf-4k-morkersikte-ir-med-laseravstandsmatare\" title=\"PixFra Volans V850 LRF\">V850 LRF</a> med laseravståndsmätare upp till 1000 m.</p>",
+  "faq": null,
+  "metafields": {
+   "forstoring": "4,9x"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.pixfra.com/wp-content/uploads/2025/02/PFI-V850_datasheet_20250227.pdf",
+   "https://astrosweden.se/products/volans-v850-4k-morkersikte"
+  ],
+  "changes": [
+   "text/custom.forstoring: 4,3x → 4,9x och synfält 8,6 × 8,6 m → 4,4°, 7,7 × 7,7 m (PFI-V850-datablad och officiell distributör eniga; pixfra.com-sidan säger 4.3×/8.6 m, konflikt flaggad)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662125396",
+  "handle": "pulsar-telos-xg50-640x480-varmekamera",
+  "descriptionHtml": "<p><strong>Pulsar Telos XG50 640×480</strong></p>\n<p>En värmekamera med 640-sensor och F50/1.0-objektiv för dig som spanar över stora fält och på långa avstånd.</p>\n<p>Telos XG50 är utrustad med en 640×480-sensor på 12 µm som ger skarpa detaljer även på långt håll. Med en detektionsräckvidd på upp till 2 300 meter, IPX7 och modulär design som går att uppgradera passar den dig som vill använda samma kamera länge.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Sensor 640×480 pixlar, 12 µm, NETD &lt;40 mK (sNETD &lt;20 mK)<br>• Objektiv F50/1.0 med 3,5–14× förstoring (digital zoom upp till 4×)<br>• AMOLED-skärm 1024×768 pixlar<br>• Detektionsräckvidd upp till 2 300 m<br>• 64 GB internminne för foto och video<br>• Wi-Fi 2,4/5 GHz och Stream Vision 2-appstöd<br>• Vattentålig enligt IPX7, fungerar i –25 °C till +40 °C<br>• LPS 7i Li-Ion-batteri med cirka 8,5 timmars drift<br>• Modulär design för framtida uppgraderingar</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 23,8 cm<br>Bredd: 7,2 cm<br>Höjd: 6,2 cm<br>Vikt: 660 g<br>Sensor: 640×480 pixlar, 12 µm, NETD &lt;40 mK, sNETD &lt;20 mK<br>Bildfrekvens: 50 Hz<br>Fältvidd: 8,8° × 6,6° (≈15,4 m × 11,5 m @100 m)<br>Närfokus: 5 m<br>Batteri: LPS 7i Li-Ion 6 400 mAh, cirka 8,5 tim vid 22 °C</p>\n<p><strong>Detta ingår</strong><br>• LPS 7i Li-Ion-batteripack<br>• USB-C-kabel<br>• Bärväska<br>• Rengöringsduk<br>• Handrem<br>• Nätadapter</p>\n<p>F50/1.0 ger artbestämning kring 570 m på vildsvin, och 3,5-14x låter dig zooma in på det du hittat ute på fältet. Vill du också mäta hållet finns <a href=\"/products/pulsar-telos-xg50-lrf-640x480-varmekamera-med-laseravstandsmatare\" title=\"Pulsar Telos XG50 LRF\">Telos XG50 LRF</a> med laser till 1000 m, och vill du ha mer kontrast i dis har <a href=\"/products/pulsar-telos-xp50-640x480-varmekamera\" title=\"Pulsar Telos XP50\">Telos XP50</a> NETD under 18 mK.</p>",
+  "faq": [
+   {
+    "q": "Har Telos XG50 avståndsmätare?",
+    "a": "Nej, XG50 saknar laser. Vill du ha inbyggd avståndsmätare, välj Telos XG50 LRF."
+   },
+   {
+    "q": "Vilken sensor har XG50?",
+    "a": "En 640x480-sensor med 12 µm pixel och sensor-NETD under 40 mK (system-NETD under 20 mK)."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till 2300 m med F50/1.0-optiken. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "3,5x upp till 14x med digital zoom."
+   },
+   {
+    "q": "Kan den uppgraderas?",
+    "a": "Ja, den modulära designen gör den framtidssäker."
+   },
+   {
+    "q": "Hur lång batteritid och tålighet?",
+    "a": "Cirka 8,5 h med LPS 7i-batteri, IPX7. Vikt 660 g."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK",
+   "forstoring": "3,5x-14x",
+   "short_pitch": "Spanar av stora fält där viltet står långt ut: 640-sensor bakom F50/1.0 ger detektion till 2300 m och artbestämning kring 570 m, 3,5-14x och IPX7."
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/",
+   "https://pulsarvision.com/manuals/telos/xg50"
+  ],
+  "changes": [
+   "text/FAQ/custom.forstoring/short_pitch: 3–24x (digital 8x) → 3,5–14x (digital 4x) (pulsarvision.com Telos XG50)",
+   "custom.netd: 40 mK (sensor-NETD) → ≤20 mK (system-NETD); text/FAQ kompletterad med sNETD <20 mK",
+   "text/FAQ batteritid: ca 7 h → ca 8,5 h vid 22 °C",
+   "text mått/vikt: 24,3 × 7,2 × 9,0 cm, 730 g → 23,8 × 7,2 × 6,2 cm, 660 g (XG50: 238x72x62 mm, 0,66 kg); FAQ vikt 730 → 660 g",
+   "Detta ingår: Axelrem → Handrem (packlista i Pulsars manual: Hand strap)",
+   "custom.short_pitch (proposals/b18 innehöll 3-24x): 3-24x → 3,5-14x"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662158164",
+  "handle": "pulsar-telos-xg50-lrf-640x480-varmekamera-med-laseravstandsmatare",
+  "descriptionHtml": "<p><strong>Pulsar Telos XG50 LRF 640×480</strong></p>\n<p>En värmekamera med 640-sensor, F50/1.0-objektiv och laseravståndsmätare för dig som spanar på långa håll och vill ha avståndet direkt.</p>\n<p>Telos XG50 LRF är utrustad med en 640×480-sensor på 12 µm som ger tydlig bildåtergivning även på längre avstånd. Med en upptäcktsräckvidd på upp till 2 300 meter, integrerad laseravståndsmätning och modulär design är den byggd för långa pass över öppen mark, och den modulära designen går att uppgradera.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Sensor 640×480 pixlar, 12 µm, NETD &lt;40 mK (sNETD &lt;20 mK)<br>• Objektiv F50/1.0 med 3,5–14× förstoring (digital zoom upp till 4×)<br>• AMOLED-skärm 1024×768 pixlar<br>• Detektionsräckvidd upp till 2 300 m<br>• Inbyggd laseravståndsmätare upp till 1 000 m med ±1 m noggrannhet<br>• 64 GB internminne för foto och video<br>• Wi-Fi 2,4/5 GHz och Stream Vision 2-appstöd<br>• Vattentålig enligt IPX7, drift från –25 °C till +40 °C<br>• LPS 7i Li-Ion-batteri med cirka 8,5 timmars drift<br>• Modulär design för framtida uppgraderingar</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 23,8 cm<br>Bredd: 7,2 cm<br>Höjd: 9,0 cm<br>Vikt: 720 g<br>Sensor: 640×480 pixlar, 12 µm, NETD &lt;40 mK, sNETD &lt;20 mK<br>Bildfrekvens: 50 Hz<br>Fältvidd: 8,8° × 6,6° (≈15,4 m × 11,5 m @100 m)<br>Närfokus: 5 m<br>Batteri: LPS 7i Li-Ion 6 400 mAh, cirka 8,5 tim vid 22 °C</p>\n<p><strong>Detta ingår</strong><br>• LPS 7i Li-Ion-batteripack<br>• USB-C-kabel<br>• Bärväska<br>• Rengöringsduk<br>• Handrem<br>• Nätadapter</p>\n<p>Lasern mäter till 1 000 m med ±1 m och F50/1.0 ger artbestämning kring 570 m på vildsvin, så du ser vad och hur långt i samma kamera. Utan laser finns <a href=\"/products/pulsar-telos-xg50-640x480-varmekamera\" title=\"Pulsar Telos XG50\">Telos XG50</a> till lägre pris, och vill du ha högre upplösning finns <a href=\"/products/pulsar-telos-xl50-lrf-1074x768-varmekamera-med-laseravstandsmatare\" title=\"Pulsar Telos XL50 LRF\">Telos XL50 LRF</a> med 1024x768-sensor.</p>",
+  "faq": [
+   {
+    "q": "Har Telos XG50 LRF avståndsmätare?",
+    "a": "Ja, inbyggd laser upp till 1000 m med ±1 m noggrannhet."
+   },
+   {
+    "q": "Vilken sensor har XG50 LRF?",
+    "a": "En 640x480-sensor med 12 µm pixel och sensor-NETD under 40 mK (system-NETD under 20 mK)."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till 2300 m med F50/1.0-optiken. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "3,5x upp till 14x med digital zoom."
+   },
+   {
+    "q": "Kan den uppgraderas?",
+    "a": "Ja, den modulära designen gör att du kan hålla enheten uppdaterad."
+   },
+   {
+    "q": "Hur lång batteritid och tålighet?",
+    "a": "Cirka 8,5 h med LPS 7i-batteri, IPX7. Vikt 720 g."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK",
+   "forstoring": "3,5x-14x"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/",
+   "https://pulsarvision.com/manuals/telos/lrf-xg50"
+  ],
+  "changes": [
+   "text/FAQ/custom.forstoring: 3–24x (digital 8x) → 3,5–14x (digital 4x) (pulsarvision.com Telos LRF XG50)",
+   "custom.netd: 40 mK (sensor-NETD) → ≤20 mK (system-NETD); text/FAQ kompletterad med sNETD <20 mK",
+   "text/FAQ batteritid: ca 7 h → ca 8,5 h vid 22 °C",
+   "text mått/vikt: längd 24,3 → 23,8 cm, vikt 730 → 720 g (238x72x90 mm, 0,72 kg); FAQ vikt 730 → 720 g",
+   "Detta ingår: Axelrem → Handrem (Pulsars packlista)",
+   "text: ChatGPT-attribut data-start/data-end borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662256468",
+  "handle": "pulsar-telos-xl50-1074x768-varmekamera",
+  "descriptionHtml": "<p><strong>Pulsar Telos XL50 1024×768</strong></p>\n<p>En värmekamera med 1024×768-sensor och F50/1.0-objektiv för dig som vill ha bredare bild och mer detalj att zooma i.</p>\n<p>Telos XL50 har en högupplöst 1024×768-sensor med 12 µm pixlar och bred förstoring som gör det möjligt att urskilja detaljer även under svåra förhållanden. Den modulära konstruktionen går att uppgradera, och med IPX7 och cirka 7 timmars drift på LPS 7i-batteriet klarar den långa pass.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Sensor 1024×768 pixlar, 12 µm, NETD &lt;40 mK (sNETD &lt;20 mK)<br>• Objektiv F50/1.0 med 2,5–20× förstoring och digital 8× zoom<br>• AMOLED-skärm 1024×768 pixlar<br>• Detektionsräckvidd upp till 2 300 m<br>• 64 GB internminne för video och foto<br>• Wi-Fi 2,4/5 GHz och Stream Vision 2-appstöd<br>• Vattentålig enligt IPX7, temperaturspann –25 °C till +40 °C<br>• LPS 7i Li-Ion-batteri med cirka 7 timmars driftstid<br>• Modulär design med uppgraderingsmöjligheter</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 24,3 cm<br>Bredd: 7,2 cm<br>Höjd: 6,2 cm<br>Vikt: 680 g<br>Sensor: 1024×768 pixlar, 12 µm, NETD &lt;40 mK, sNETD &lt;20 mK<br>Bildfrekvens: 50 Hz<br>Fältvidd: 14° × 10,5° (≈24,6 m × 18,5 m @100 m)<br>Närfokus: 5 m<br>Batteri: LPS 7i Li-Ion 6 400 mAh, cirka 7 tim vid 22 °C</p>\n<p><strong>Detta ingår</strong><br>• LPS 7i Li-Ion-batteripack<br>• USB-C-kabel<br>• Bärväska<br>• Rengöringsduk<br>• Handrem<br>• Nätadapter</p>\n<p>1024×768-sensorn ger ett synfält på 24,6 m på 100 m, så du söker av hygget snabbare än med en 640-kamera på samma 50 mm-objektiv, och artbestämningen ligger kring 570 m på vildsvin. Räcker 640x480 finns <a href=\"/products/pulsar-telos-xg50-640x480-varmekamera\" title=\"Pulsar Telos XG50\">Telos XG50</a> till lägre pris, och vill du ha laser till 1000 m finns <a href=\"/products/pulsar-telos-xl50-lrf-1074x768-varmekamera-med-laseravstandsmatare\" title=\"Pulsar Telos XL50 LRF\">Telos XL50 LRF</a>.</p>",
+  "faq": [
+   {
+    "q": "Har Telos XL50 avståndsmätare?",
+    "a": "Den här XL50 är basversionen. Vill du ha inbyggd laser, välj Telos XL50 LRF."
+   },
+   {
+    "q": "Vilken sensor har XL50?",
+    "a": "En HD-sensor på 1024x768 med 12 µm pixel och system-NETD under 20 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till 2300 m med F50/1.0-optiken. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "2,5x upp till 20x med digital zoom, på en AMOLED i 1024x768."
+   },
+   {
+    "q": "Kan XL50 uppgraderas?",
+    "a": "Ja, den modulära designen gör att du kan uppgradera enheten över tid."
+   },
+   {
+    "q": "Hur lång batteritid och tålighet?",
+    "a": "Cirka 7 h med LPS 7i-batteri (6400 mAh), IPX7. Vikt 680 g."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": "pulsar-telos-xl50-1024x768-varmekamera",
+  "redirect": true,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/",
+   "https://pulsarvision.com/manuals/telos/xl50"
+  ],
+  "changes": [
+   "handle: ...-1074x768-... → pulsar-telos-xl50-1024x768-varmekamera med redirect (sensor 1024x768, pulsarvision.com)",
+   "custom.netd: 20 mK → ≤20 mK (format, system-NETD <20)",
+   "text mått/vikt: höjd 9,0 → 6,2 cm, vikt 730 → 680 g (XL50: 243x72x62 mm, 0,68 kg); FAQ vikt 730 → 680 g",
+   "Detta ingår: Axelrem → Handrem (Pulsars packlista)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662223700",
+  "handle": "pulsar-telos-xl50-lrf-1074x768-varmekamera-med-laseravstandsmatare",
+  "descriptionHtml": "<p><strong>Pulsar Telos XL50 LRF 1024×768</strong></p>\n<p>En värmekamera med 1024×768-sensor och laseravståndsmätare till 1 000 m, för dig som både söker av stora ytor och vill veta avståndet.</p>\n<p>Telos XL50 LRF har en 1024×768-sensor med 12 µm pixlar och system-NETD under 20 mK, som håller detaljerna när regn och dis jämnar ut kontrasten. Med upp till 20× förstoring, inbyggd avståndsmätare och modulär design går den att uppgradera i stället för att bytas ut.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Sensor 1024×768 pixlar, 12 µm, NETD &lt;40 mK (sNETD &lt;20 mK)<br>• Optik F50/1.0 med 2,5–20× förstoring och digital 8× zoom<br>• AMOLED-skärm 1024×768 pixlar<br>• Detektionsräckvidd upp till 2 300 m<br>• Inbyggd laseravståndsmätare upp till 1 000 m med ±1 m noggrannhet<br>• 64 GB internminne för video och foto<br>• Wi-Fi 2,4/5 GHz och Stream Vision 2-appstöd<br>• Vattentålig enligt IPX7, drift i –25 °C till +40 °C<br>• LPS 7i Li-Ion-batteri med cirka 7 timmars drift<br>• Modulär design som kan uppgraderas med framtida teknik</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 24,2 cm<br>Bredd: 7,2 cm<br>Höjd: 9,0 cm<br>Vikt: 730 g<br>Sensor: 1024×768 pixlar, 12 µm, NETD &lt;40 mK, sNETD &lt;20 mK<br>Bildfrekvens: 50 Hz<br>Fältvidd: 14° × 10,5° (≈24,6 m × 18,5 m @100 m)<br>Närfokus: 5 m<br>Batteri: LPS 7i Li-Ion 6 400 mAh, cirka 7 tim vid 22 °C</p>\n<p><strong>Detta ingår</strong><br>• LPS 7i Li-Ion-batteripack<br>• USB-C-kabel<br>• Bärväska<br>• Rengöringsduk<br>• Handrem<br>• Nätadapter</p>\n<p>Lasern mäter till 1 000 m med ±1 m, och 1024×768-sensorn ger 24,6 m synfält på 100 m med artbestämning kring 570 m på vildsvin. Räcker 640x480 finns <a href=\"/products/pulsar-telos-xg50-lrf-640x480-varmekamera-med-laseravstandsmatare\" title=\"Pulsar Telos XG50 LRF\">Telos XG50 LRF</a>, och vill du ha 1280x1024 finns <a href=\"/products/pulsar-telos-xt50-lrf-1280x1024-varmekikare-med-laseravstandsmatare\" title=\"Pulsar Telos XT50 LRF\">Telos XT50 LRF</a>.</p>",
+  "faq": null,
+  "metafields": {
+   "netd": "≤20 mK",
+   "laseravstandsmatare": "true"
+  },
+  "title": null,
+  "new_handle": "pulsar-telos-xl50-lrf-1024x768-varmekamera-med-laseravstandsmatare",
+  "redirect": true,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/",
+   "https://pulsarvision.com/manuals/telos/lrf-xl50"
+  ],
+  "changes": [
+   "handle: ...-1074x768-... → pulsar-telos-xl50-lrf-1024x768-varmekamera-med-laseravstandsmatare med redirect",
+   "custom.laseravstandsmatare: saknades → true (laser 1000 m, pulsarvision.com)",
+   "custom.netd: 20 mK → ≤20 mK (format)",
+   "text längd: 24,3 → 24,2 cm (242x72x90 mm)",
+   "Detta ingår: Axelrem → Handrem (Pulsars packlista)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662092628",
+  "handle": "pulsar-telos-xp50-640x480-varmekamera",
+  "descriptionHtml": "<p><strong>Pulsar Telos XP50 640×480</strong></p>\n<p>En värmekamera med NETD under 18 mK och F50/1.0-objektiv för dig som spanar i fukt, dis och regn där kontrasten är låg.</p>\n<p>Telos XP50 använder en 640×480-sensor på 17 µm med NETD &lt;18 mK, vilket ger kontrast även när regn och dimma jämnar ut temperaturskillnaderna. Med 2,5–10× förstoring, IPX7 och cirka 8,5 timmars drift är den gjord för långa pass.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Sensor 640×480 pixlar, 17 µm, NETD &lt;18 mK (sNETD &lt;15 mK)<br>• Objektiv F50/1.0 med 2,5–10× förstoring (digital zoom upp till 4×)<br>• AMOLED-skärm 1024×768 pixlar<br>• Detektionsräckvidd upp till 1 800 m<br>• 64 GB internminne för foto och video<br>• Wi-Fi 2,4/5 GHz och Stream Vision 2-appstöd<br>• Vattentålig enligt IPX7, fungerar i –25 °C till +40 °C<br>• LPS 7i Li-Ion-batteri med cirka 8,5 timmars drift<br>• Modulär design som kan uppgraderas med framtida teknik</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 23,8 cm<br>Bredd: 7,2 cm<br>Höjd: 6,2 cm<br>Vikt: 660 g<br>Sensor: 640×480 pixlar, 17 µm, NETD &lt;18 mK (sNETD &lt;15 mK)<br>Bildfrekvens: 50 Hz<br>Fältvidd: 12,4° × 9,3° (≈21,8 m × 16,3 m @100 m)<br>Närfokus: 5 m<br>Batteri: LPS 7i Li-Ion 6 400 mAh, cirka 8,5 tim vid 22 °C</p>\n<p><strong>Detta ingår</strong><br>• LPS 7i Li-Ion-batteripack<br>• USB-C-kabel<br>• Bärväska<br>• Rengöringsduk<br>• Handrem<br>• Nätadapter</p>\n<p>17 µm-pixlarna och 50 mm ger artbestämning kring 400 m på vildsvin, mot 570 m för <a href=\"/products/pulsar-telos-xg50-640x480-varmekamera\" title=\"Pulsar Telos XG50\">Telos XG50</a> med 12 µm, men XP50 har lägre NETD, under 18 mK. Vill du även mäta hållet finns <a href=\"/products/pulsar-telos-xp50-lrf-640x480-varmekamera-med-laseravstandsmatare\" title=\"Pulsar Telos XP50 LRF\">Telos XP50 LRF</a> med laser till 1000 m.</p>",
+  "faq": [
+   {
+    "q": "Har Telos XP50 avståndsmätare?",
+    "a": "Nej, XP50 saknar laser. XP50 LRF-versionen har inbyggd avståndsmätare."
+   },
+   {
+    "q": "Vilken sensor har XP50?",
+    "a": "En 640x480-sensor med 17 µm pixel och sensor-NETD under 18 mK (system-NETD under 15 mK)."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till 1800 m med F50/1.0-optiken. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "2,5x upp till 10x med digital zoom."
+   },
+   {
+    "q": "Kan den uppgraderas?",
+    "a": "Ja, den modulära designen gör den framtidssäker."
+   },
+   {
+    "q": "Hur lång batteritid och tålighet?",
+    "a": "Cirka 8,5 h med LPS 7i-batteri, IPX7. Vikt 660 g."
+   }
+  ],
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/",
+   "https://pulsarvision.com/manuals/telos/xp50"
+  ],
+  "changes": [
+   "custom.netd: 18 mK (sensor-NETD) → ≤15 mK (system-NETD, pulsarvision.com); text/FAQ kompletterad med system-NETD",
+   "Detta ingår: Axelrem → Handrem (Pulsars packlista)",
+   "text mått/vikt: höjd 9,0 → 6,2 cm, vikt 720 → 660 g (XP50: 238x72x62 mm, 0,66 kg); FAQ vikt 720 → 660 g"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662289236",
+  "handle": "pulsar-telos-xp50-lrf-640x480-varmekamera-med-laseravstandsmatare",
+  "descriptionHtml": "<p><strong>Pulsar Telos XP50 LRF 640×480</strong></p>\n<p>En värmekamera med NETD under 18 mK, F50/1.0-objektiv och inbyggd laseravståndsmätare till 1 000 m.</p>\n<p>Telos XP50 LRF har en 640×480-sensor på 17 µm som håller kontrasten i fukt och dis, och den modulära designen låter dig hålla kameran uppdaterad över tid. LPS 7i-batteriet ger cirka 8,5 timmars drift och laddas via USB-C eller trådlöst.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 640×480 sensor, 17 µm pixelstorlek, NETD &lt;18 mK<br>• Optik F50/1.0 med 2,5–10× förstoring (digital zoom x4)<br>• Detektionsräckvidd upp till 1 800 m<br>• Inbyggd laseravståndsmätare upp till 1 000 m med ±1 m noggrannhet<br>• AMOLED-skärm 1 024×768 för skarp bildåtergivning<br>• Videoinspelning och foto med 64 GB internminne<br>• Wi-Fi 2,4/5 GHz och Stream Vision 2-appstöd<br>• Vattentålig enligt IPX7, fungerar i –25 °C till +40 °C<br>• LPS 7i Li-Ion-batteri, ca 8,5 timmars drift, USB-C och trådlös laddning<br>• Modulär design för framtida uppgraderingar</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 23,8 cm<br>Bredd: 7,2 cm<br>Höjd: 9,0 cm<br>Vikt: 720 g<br>Sensor: 640×480 pixlar, 17 µm, NETD &lt;18 mK (sNETD &lt;15 mK)<br>Bildfrekvens: 50 Hz<br>Fältvidd: 12,4° × 9,3° (≈21,8 m × 16,3 m @100 m)<br>Minsta närfokus: 5 m</p>\n<p><strong>Detta ingår</strong><br>• LPS 7i Li-Ion-batteripack<br>• USB-C-kabel<br>• Bärväska<br>• Rengöringsduk<br>• Handrem<br>• Nätadapter</p>\n<p>Lasern mäter hållet med ±1 m upp till 1 000 m, och 50 mm-objektivet ger artbestämning kring 400 m på vildsvin. Klarar du dig utan laser finns <a href=\"/products/pulsar-telos-xp50-640x480-varmekamera\" title=\"Pulsar Telos XP50\">Telos XP50</a>, och vill du nå längre med laser ger <a href=\"/products/pulsar-telos-xg50-lrf-640x480-varmekamera-med-laseravstandsmatare\" title=\"Pulsar Telos XG50 LRF\">Telos XG50 LRF</a> med 12 µm-sensor kring 570 m.</p>",
+  "faq": [
+   {
+    "q": "Har Telos XP50 LRF avståndsmätare?",
+    "a": "Ja, inbyggd laser upp till 1000 m med ±1 m noggrannhet."
+   },
+   {
+    "q": "Vilken sensor har XP50 LRF?",
+    "a": "En 640x480-sensor med 17 µm pixel och sensor-NETD under 18 mK (system-NETD under 15 mK)."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till 1800 m med F50/1.0-optiken. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "2,5x upp till 10x med digital zoom, på en AMOLED i 1024x768."
+   },
+   {
+    "q": "Kan Telos uppgraderas?",
+    "a": "Ja, den modulära designen gör att du kan hålla enheten uppdaterad över tid."
+   },
+   {
+    "q": "Hur lång batteritid och tålighet?",
+    "a": "Cirka 8,5 h med LPS 7i-batteri, USB-C och trådlös laddning. IPX7. Vikt 720 g."
+   }
+  ],
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/telos/",
+   "https://pulsarvision.com/manuals/telos/lrf-xp50"
+  ],
+  "changes": [
+   "custom.netd: 18 mK (sensor-NETD) → ≤15 mK (system-NETD, pulsarvision.com); text/FAQ kompletterad med system-NETD",
+   "Detta ingår: Axelrem → Handrem (Pulsars packlista)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662420308",
+  "handle": "pulsar-oryx-xg35-lrf-varmekamera-med-laseravstandsmatare-640x480",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/pulsar-oryx/"
+  ],
+  "changes": [
+   "custom.netd: 20 mK → ≤20 mK (format, system-NETD <20 mK)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12457557918036",
+  "handle": "pulsar-thermion-2-xg60-lrf-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<p><strong>Pulsar Thermion 2 XG60 LRF Värmesikte med laseravståndsmätare<br></strong><br><strong>Snabbfakta:</strong> 640x480 sensor (12 µm), sNETD &lt;20 mK, 60 mm F/1,1, LRF upp till 800 m (±1 m)</p>\n<p>Pulsar Thermion 2 XG60 LRF är ett långhållsinriktat värmesikte för dig som vill ha hög grundförstoring, tydlig detalj i värmebilden och avstånd direkt i siktbilden. 60 mm-optiken och 4–32x förstoring gör att du får en mer informativ målbild när avstånden drar iväg, samtidigt som den högupplösta Micro-OLED-displayen hjälper dig se konturer och små skillnader utan att bilden känns “grötig”.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Långhållsoptik för tydligare identifiering: 60 mm F/1,1 och 4–32x förstoring ger mer “tryck” i målbilden på längre håll<br>• Ser svaga värmeskillnader bättre: sNETD &lt;20 mK hjälper i fukt, dis och stökig bakgrund<br>• Avstånd direkt när du behöver det: inbyggd laseravståndsmätare upp till 800 m med ±1 m noggrannhet (905 nm, laserklass 1)<br>• Skarp och lättläst siktbild: Micro-OLED 2560x2560 för bättre detalj och lugnare bild vid inzoomning<br>• Stabil uppdatering i rörelse: 50 Hz för mjukare panorering och enklare följning av rörliga mål<br>• Standard 30 mm ringar: enkel montering i klassiskt tubformat utan specialfästen<br>• Dubbla batterier för längre pass: 4900 mAh inbyggt + APS3 3200 mAh utbytbart, upp till 11 h vid ca 22°C<br>• Robust för jaktbruk: IPX7, -25 till +50°C och rekylklassad upp till 6000 J<br>• Dokumentera och analysera: inbyggd inspelning med ljud (1280x960) och 64 GB internminne<br>• Appstöd: Stream Vision 2 samt Stream Vision Ballistics för kompatibla ballistikfunktioner</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: Okyld<br>• Sensorupplösning: 640x480<br>• Pixelpitch: 12 µm<br>• Sensor NETD: &lt;40 mK<br>• sNETD (system): &lt;20 mK<br>• Uppdateringsfrekvens: 50 Hz<br>• Objektiv: 60 mm F/1,1<br>• Förstoring: 4–32x<br>• Synfält: 7,3° (12,8 m på 100 m)<br>• Ögonavstånd: 65 mm<br>• Display: Micro-OLED, 2560x2560<br>• Detektionsavstånd: upp till 2800 m<br>• LRF: upp till 800 m, ±1 m, 905 nm, laserklass 1 (IEC 60825-1:2014)<br>• Klickvärde: 10 mm (H) / 10 mm (V) på 100 m<br>• Justerområde: 2000 mm (H) / 2000 mm (V) på 100 m<br>• Foto/video: 1280x960, .mp4 / .jpg<br>• Internminne: 64 GB<br>• WiFi: 2,4/5 GHz, IEEE 802.11 b/g/n/ac<br>• Bluetooth: BLE 4.2<br>• Strömförsörjning: APS3 3200 mAh (utbytbart) + 4900 mAh (inbyggt)<br>• Drifttid: upp till 11 h (vid ca 22°C)<br>• Skyddsklass: IPX7<br>• Temperaturspann: -25 till +50°C<br>• Tubdiameter: 30 mm<br>• Mått: 442x84x98 mm<br>• Vikt: 1,2 kg</p>\n<p><strong>Detta ingår</strong><br>• Pulsar Thermion 2 XG60 LRF<br>• Ögonmussla<br>• 2 st APS3-batterier<br>• Laddare med två laddplatser<br>• Bluetooth-fjärrkontroll<br>• Rengöringsduk<br>• Instruktionsbok</p>\n<p>XG60 LRF är för dig som skjuter över öppen mark och vill ha både bild och avstånd i samma sikte: 60 mm och 4x grundförstoring ger artbestämning kring 680 m på vildsvin, och lasern mäter till 800 m med ±1 m. Samma objektiv med 1024x768-sensor och 2,5x grundförstoring finns i <a href=\"/products/pulsar-thermion-2-xl60-lrf-varmesikte-med-laseravstandsmatare\" title=\"Thermion 2 XL60 LRF\">Thermion 2 XL60 LRF</a>, och klarar du dig utan laser ger <a href=\"/products/thermion-2-xg50-640x480-varmesikte\" title=\"Thermion 2 XG50\">Thermion 2 XG50</a> artbestämning kring 570 m. Skriv till oss om du vill ha hjälp med ringar och montering.</p>",
+  "faq": [
+   {
+    "q": "Har Thermion 2 XG60 LRF avståndsmätare?",
+    "a": "Ja. Inbyggd laseravståndsmätare upp till 800 meter med ±1 m noggrannhet (905 nm, laserklass 1)."
+   },
+   {
+    "q": "Vilken sensor har XG60 LRF?",
+    "a": "En 640x480-sensor med 12 µm pixelpitch och system-NETD under 20 mK."
+   },
+   {
+    "q": "Hur långt ser man med XG60 LRF?",
+    "a": "Detektionsavstånd upp till 2800 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar XG60 LRF?",
+    "a": "4-32x med ljusstark 60 mm F/1,1-optik och Micro-OLED-display i 2560x2560."
+   },
+   {
+    "q": "Hur lång batteritid och hur monteras den?",
+    "a": "Upp till 11 timmar vid cirka 22 °C (inbyggt 4900 mAh + utbytbart APS3 3200 mAh). Monteras i standard 30 mm ringar, vikt cirka 1,2 kg."
+   },
+   {
+    "q": "Tål XG60 LRF tuff jakt?",
+    "a": "Ja. IPX7, -25 till +50 °C och rekylklassad upp till 6000 J. Inspelning med ljud och 64 GB internminne, plus ballistikstöd via Stream Vision."
+   }
+  ],
+  "metafields": {
+   "detektionsrackvidd": "2800 m",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2-lrf/"
+  ],
+  "changes": [
+   "custom.detektionsrackvidd: 2000 m → 2800 m (pulsarvision.com Thermion 2 LRF XG60)",
+   "text/FAQ drifttid: upp till 8 h → upp till 11 h vid 22 °C (samma källa)",
+   "custom.netd: 20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12457529049428",
+  "handle": "pulsar-thermion-2-xl60-lrf-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<p><strong>Pulsar Thermion 2 XL60 LRF Värmesikte med laseravståndsmätare</strong></p>\n<p><strong>Snabbfakta:</strong> 1024x768 sensor, 12 µm, sNETD &lt;20 mK, 60 mm F/1,1, LRF upp till 800 m</p>\n<p>Pulsar Thermion 2 XL60 LRF är ett termiskt kikarsikte i klassiskt 30 mm tubformat för dig som vill ha mer detalj i värmebilden och avståndet uppmätt innan du skjuter. Kombinationen av HD-sensor (1024x768) och 60 mm-optik ger en tydlig, stabil målbild på längre håll, och den inbyggda laseravståndsmätaren mäter upp till 800 m med 1 m precision.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Mer detalj där det brukar bli svårt: HD-sensor 1024x768 med 12 µm pixelpitch för tydligare konturer och bättre identifiering<br>• Ser svaga värmeskillnader: sNETD &lt;20 mK hjälper dig få ut mer i regn, dimma och svår bakgrund<br>• Långhållsoptik med kontroll: 60 mm F/1,1 och 2,5–20x förstoring för precis målbild på längre avstånd<br>• Avstånd direkt i siktbilden: inbyggd laseravståndsmätare upp till 800 m, våglängd 905 nm, laserklass 1, mätprecision 1 m<br>• Skarp siktbild för noggranna beslut: Micro-OLED 2560x2560 och 50 Hz för mjuk, tydlig bild<br>• Snabbt anlägg och bekväm skjutställning: 65 mm ögonavstånd och diopterjustering -5 till +2<br>• Flytta mellan vapen utan specialfästen: monteras i standard 30 mm ringar<br>• Dubbel batterilösning för långa pass: inbyggt APS5 4900 mAh + utbytbart APS3 3200 mAh, upp till 8 h vid 22°C<br>• Robust byggd för verkligheten: IPX7, drift -25 till +50°C och rekylklassad upp till 6000 J samt kaliber 12<br>• Dokumentera och analysera: foto och video 1280x960 med ljud, 64 GB internminne, .jpg och .mp4<br>• App och trådlöst: Wi-Fi 2,4/5 GHz (802.11 b/g/n/ac) och Bluetooth BLE 4.2 för funktioner och uppdateringar via Stream Vision 2<br>• Ballistiskt stöd: inbyggd ballistikkalkylator och stöd för ballistikfunktioner i Pulsars ekosystem</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: okyld<br>• Sensorupplösning: 1024x768<br>• Pixelpitch: 12 µm<br>• Uppdateringsfrekvens: 50 Hz<br>• Optik: 60 mm F/1,1<br>• Förstoring: 2,5–20x<br>• Synfält (H): 11,7° / 20,5 m på 100 m<br>• Ögonavstånd: 65 mm<br>• Diopterjustering: -5 till +2<br>• Detektionsavstånd (”deer”-typ): 2800 m<br>• Display: Micro-OLED, 2560x2560<br>• Tubdiameter för ringar: 30 mm<br>• LRF max räckvidd: 800 m<br>• LRF våglängd: 905 nm<br>• LRF mätprecision: 1 m<br>• Laserklass: 1 (IEC 60825-1:2014)<br>• Klickvärde (mm/100 m): 16 (2,5x), 8 (5x), 4 (10x), 2 (20x)<br>• Klickomfång (H/V) mm/100 m: 3200/3200<br>• Rekylklassning räfflat: 6000 J<br>• Rekylklassning slätborrat: kaliber 12<br>• Kapslingsklass: IPX7<br>• Drifttemperatur: -25 till +50°C<br>• Batterier: APS5 4900 mAh (inbyggt) + APS3 3200 mAh (utbytbart)<br>• Drifttid: upp till 8 h (vid 22°C)<br>• Extern ström: 5 V / 9 V (USB-C Power Delivery)<br>• Foto/video: 1280x960, .jpg/.mp4, 64 GB internminne<br>• Wi-Fi: 2,4/5 GHz, IEEE 802.11 b/g/n/ac<br>• Bluetooth: BLE 4.2<br>• Mått (med ögonmussla): 442x84x98 mm<br>• Vikt (med utbytbart batteri): 1,2 kg</p>\n<p><strong>Detta ingår</strong><br>• Värmesikte<br>• Avtagbar gummiögonmussla<br>• APS3 batteripack, 2 st<br>• Trådlös fjärrkontroll<br>• APS-batteriladdare<br>• Nätadapter<br>• USB-C kabel med USB-A adapter<br>• Förvaringsväska<br>• Rengöringsduk för lins<br>• Snabbmanual<br>• Garantikort</p>\n<p>XL60 LRF sätter en 1024x768-sensor bakom 60 mm-objektivet: 11,7 graders synfält vid 2,5x gör att du ser mer av fältet runt djuret, och artbestämningen ligger kring 680 m på vildsvin. Samma objektiv och samma artbestämning med 640-sensor och smalare bild finns i <a href=\"/products/pulsar-thermion-2-xg60-lrf-varmesikte-med-laseravstandsmatare\" title=\"Thermion 2 XG60 LRF\">Thermion 2 XG60 LRF</a> till lägre pris.</p>",
+  "faq": null,
+  "metafields": {
+   "detektionsrackvidd": "2800 m",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2-lrf/"
+  ],
+  "changes": [
+   "custom.detektionsrackvidd: 2000 m → 2800 m (pulsarvision.com Thermion 2 LRF XL60)",
+   "text mått: 442x78x98 → 442x84x98 mm (samma källa)",
+   "custom.netd: 20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662616916",
+  "handle": "pulsar-thermion-2-xp50-pro-lrf-640x480-varmesikte",
+  "descriptionHtml": "<h2>Professionellt Värmesikte med Integrerad Laseravståndsmätare</h2>\n<p>Pulsar Thermion 2 XP50 Pro LRF är ett värmesikte för dig som vill ha bred bild och avståndet i samma sikte. 640×480-sensorn på 17 µm bakom 50 mm-objektivet ger detektion till 1800 m och artbestämning kring 400 m på vildsvin vid goda förhållanden.</p>\n<h3>Viktiga fördelar:</h3>\n<ul>\n<li>\n<strong>640×480 högupplöst sensor</strong> - 17 µm pixel, NETD under 25 mK och system-NETD under 18 mK</li>\n<li>\n<strong>Integrerad laseravståndsmätare (LRF)</strong> - avståndsmätning upp till 800 m med ±1 m noggrannhet</li>\n<li>\n<strong>50 mm F/1.0-objektiv</strong> - 2-16x förstoring och 21,8 m synfält på 100 m</li>\n<li>\n<strong>IPX7-klassat hus i aluminiumlegering</strong> - drift från -25 till +50 °C och rekyltålighet 6000 J</li>\n<li>\n<strong>50 Hz bildfrekvens</strong> - följsam bild när djuret rör sig</li>\n<li>\n<strong>Inbyggd foto- och videoinspelning</strong> - 16 GB internminne och Wi-Fi till Stream Vision 2</li>\n</ul>\n<h3>Passar för:</h3>\n<p>Professionell jakt, viltförvaltning och observation under alla ljusförhållanden.</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: 640×480 px, 17 µm, 50 Hz<br>NETD: under 25 mK (system-NETD under 18 mK)<br>Objektiv: 50 mm F/1.0<br>Förstoring: 2-16x<br>Synfält: 12,4° × 9,3° (21,8 × 16,3 m på 100 m)<br>Detektionsavstånd: 1800 m<br>Laseravståndsmätare: upp till 800 m, ±1 m, 905 nm, laserklass 1<br>Display: AMOLED 1024×768<br>Ögonavstånd: 50 mm<br>Batteri: inbyggt 4900 mAh och löstagbart APS2 (2000 mAh)<br>Drifttid: upp till 8,5 h vid 22 °C<br>Extern ström: USB-C (Power Delivery 5 V och 9 V)<br>Internminne: 16 GB<br>Inspelning: 1024×768, video .mp4 och foto .jpg<br>Trådlöst: Wi-Fi 2,4/5 GHz<br>Kapslingsklass: IPX7<br>Drifttemperatur: -25 till +50 °C<br>Rekyltålighet: 6000 J på räfflade vapen, kaliber 12 på slätborrade<br>Montering: standard 30 mm-ringar<br>Material: aluminiumlegering<br>Mått: 420 × 78,5 × 94,5 mm<br>Vikt: 1,05 kg</p>\n<p><strong>Detta ingår</strong><br>• Pulsar Thermion 2 XP50 Pro LRF<br>• Avtagbar ögonmussla i gummi<br>• APS2-batteri (löstagbart, det interna batteriet sitter inbyggt)<br>• APS-batteriladdare<br>• Nätadapter<br>• USB-C-kabel med USB-A-adapter<br>• Batterilock för APS3<br>• Bärväska<br>• Putsduk för linsen<br>• Snabbmanual och garantikort</p>\n<p>Ringar och montage ingår inte.</p>\n<p>Jämfört med <a href=\"/products/pulsar-thermion-2-xp50-pro-640x480-varmesikte\" title=\"Thermion 2 XP50 Pro\">Thermion 2 XP50 Pro</a> har XP50 Pro LRF samma sensorupplösning, pixelstorlek och objektiv, och därmed samma artbestämning kring 400 m. Skillnaden är laseravståndsmätaren. Räcker 384-sensorn finns samma räckvidd i <a href=\"/products/pulsar-thermion-2-xq50-pro-lrf-384x288-varmesikte\" title=\"Thermion 2 XQ50 Pro LRF\">Thermion 2 XQ50 Pro LRF</a>.</p>",
+  "faq": [
+   {
+    "q": "Har Thermion 2 XP50 Pro LRF avståndsmätare?",
+    "a": "Ja. Den integrerade laseravståndsmätaren mäter upp till 800 meter med ±1 meters noggrannhet."
+   },
+   {
+    "q": "Vilken sensor har XP50 Pro LRF?",
+    "a": "En 640x480-sensor med 17 µm pixel, NETD under 25 mK och system-NETD under 18 mK, bakom 50 mm F/1.0-optik."
+   },
+   {
+    "q": "Vilket objektiv har XP50 Pro LRF?",
+    "a": "Ett 50 mm F/1.0-objektiv med 2-16x förstoring och 21,8 m synfält på 100 m."
+   },
+   {
+    "q": "Hur mycket väger XP50 Pro LRF?",
+    "a": "1,05 kg enligt Pulsar, med måtten 420 × 78,5 × 94,5 mm."
+   },
+   {
+    "q": "Kan man dokumentera jakten med XP50 Pro LRF?",
+    "a": "Ja. Foto och video sparas på 16 GB internminne, och huset är IPX7-klassat för regn och fukt."
+   }
+  ],
+  "metafields": {
+   "netd": "≤25 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2-lrf/",
+   "https://pulsarvision.com/manuals/pulsar-thermion-2-lrf/lrf-xp50-pro"
+  ],
+  "changes": [
+   "text: Teknisk specifikation och Detta ingår tillagda ur pulsarvision.com (Thermion 2 LRF XP50 PRO) och Pulsars manual (packlista); 'Ringar och montage ingår inte' tillagt",
+   "text vikt: 970 g → 1,05 kg (pulsarvision.com); FAQ vikt 'cirka 970 gram' → 1,05 kg",
+   "FAQ laser: 1000 m → 800 m (pulsarvision.com)",
+   "FAQ sensor/objektiv: 'kristallklar'/'hög ljusstyrka' ersatt med verifierade värden (NETD, F/1.0, synfält)",
+   "text nyckelpunkter: 'Väderbeständig'/'Snabb bilduppdatering'/'Dokumentera dina jakter' konkretiserade med IPX7, 50 Hz, 16 GB",
+   "custom.netd: <25 mK → ≤25 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12515587686740",
+  "handle": "pulsar-trail-3-lrf-xq50-384-288-50-mm-varmesikte-med-laseravstandsmatare-kopia",
+  "descriptionHtml": "<h2><strong>Pulsar Trail 3 LRF XQ50 384×288, 50 mm Värmesikte med laseravståndsmätare</strong></h2>\n<p><strong>Snabbfakta:</strong> 384×288 sensor (17 µm) • 50 mm F1.0 • NETD &lt;15 mK • Laseravståndsmätare upp till ca 1200 m</p>\n<p>Pulsar Trail 3 LRF XQ50 är ett värmesikte med integrerad laseravståndsmätare och magnesiumhus på cirka 700 g, för jakt och skytte i mörker. Den känsliga 384×288-sensorn tillsammans med 50 mm germaniumoptik ger tydlig målseparation även i dimma, regn och låg temperaturkontrast. Den inbyggda laseravståndsmätaren gör att du snabbt får korrekt avstånd direkt i siktbilden, vilket underlättar säkrare skottbeslut.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<p>• Tydlig målidentifiering även i svåra förhållanden – NETD &lt;15 mK ger hög värmekänslighet<br>• Integrerad laseravståndsmätare – mät avstånd upp till cirka 1200 meter direkt i siktet<br>• Bra räckvidd för praktisk jakt – upptäckt av värmekälla upp till cirka 1800 meter<br>• Anpassningsbar förstoring – ca 3,5× grundförstoring med digital zoom upp till ca 14×<br>• Full HD AMOLED-display – skarp bild och bra kontrast i alla ljusförhållanden<br>• Magnesiumhus som tål rekyl upp till 6000 J på räfflade vapen</p>\n<p><strong>Teknisk specifikation</strong></p>\n<p>• Sensorupplösning: 384×288 pixlar<br>• Pixelstorlek: 17 µm<br>• NETD: &lt;15 mK<br>• Objektiv: 50 mm F1.0 germanium<br>• Grundförstoring: ca 3,5×<br>• Digital zoom: upp till ca 14×<br>• Synfält: ca 7,5° (≈13 m på 100 m)<br>• Detektionsräckvidd: upp till ca 1800 m<br>• Laseravståndsmätare: upp till ca 1200 m<br>• Display: AMOLED 1920×1080<br>• Batteri: Pulsar LPS-serie, upp till ca 12 h drift<br>• Material: magnesiumlegering<br>• Vikt: ca 700 g<br>• Mått: ca 271 × 86 × 71 mm</p>\n<p><strong>Detta ingår</strong></p>\n<p>• Pulsar Trail 3 LRF XQ50 värmesikte med avtagbar ögonmussla<br>• LPS 7i-batteripack<br>• Nätadapter<br>• USB-C-kabel med USB-A-adapter<br>• Bärväska<br>• Putsduk för linsen<br>• Snabbguide och snabbguide för Stream Vision Ballistics<br>• Garantikort</p>\n<p>Trail 3 LRF XQ50 passar dig som vill ha laser och värmebild i ett lätt sikte: avstånd upp till cirka 1200 m och artbestämning kring 400 m på vildsvin, i ett hus på cirka 700 g. Vill du ha bredare bild och längre artbestämning, kring 570 m, finns <a href=\"/products/pulsar-trail-3-lrf-xr50-640x480-50-mm-varmesikte-med-laseravstandsmatare\" title=\"Trail 3 LRF XR50\">Trail 3 LRF XR50</a> med 640-sensor på 12 µm. Som fäste passar <a href=\"/products/pulsar-weaver-lqd-snabbfaste-for-talion-och-trail-3\" title=\"Pulsar Weaver LQD Snabbfäste för Talion och Trail 3\">Pulsar Weaver LQD för Talion och Trail 3</a>.</p>",
+  "faq": [
+   {
+    "q": "Har Trail 3 LRF XQ50 avståndsmätare?",
+    "a": "Ja. Integrerad laseravståndsmätare som mäter upp till cirka 1200 meter direkt i siktbilden."
+   },
+   {
+    "q": "Vilken sensor har Trail 3 LRF XQ50?",
+    "a": "En 384x288-sensor med 17 µm pixelstorlek och hög värmekänslighet, med 50 mm F1.0 germaniumoptik."
+   },
+   {
+    "q": "Hur långt ser man med Trail 3 LRF XQ50?",
+    "a": "Upptäckt av värmekälla upp till cirka 1800 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar Trail 3 LRF XQ50?",
+    "a": "Cirka 3,5x grundförstoring med digital zoom upp till cirka 14x, och AMOLED-display i 1920x1080."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Upp till cirka 12 timmar med Pulsars LPS-batterisystem."
+   },
+   {
+    "q": "Hur mycket väger Trail 3 LRF XQ50?",
+    "a": "Cirka 700 gram, i ett magnesiumhus som tål rekyl upp till 6000 J."
+   }
+  ],
+  "metafields": {
+   "netd": "≤15 mK",
+   "detektionsrackvidd": "1800 m"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/trail-3-lrf/",
+   "https://pulsarvision.com/manuals/trail-3-lrf/xq50"
+  ],
+  "changes": [
+   "custom.netd: 18 mK → ≤15 mK (system-NETD <15, pulsarvision.com; texten hade rätt)",
+   "custom.detektionsrackvidd: 2000 m → 1800 m (pulsarvision.com; texten hade rätt)",
+   "Detta ingår: vag lista → Pulsars packlista (manual Trail 3 LRF XQ50)",
+   "text/FAQ: 'robust magnesiumkonstruktion' → magnesiumhus som tål 6000 J"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12515527655764",
+  "handle": "pulsar-trail-3-lrf-xr50-640x480-50-mm-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<h2><strong>Pulsar Trail 3 LRF XR50 640×480, 50 mm Värmesikte med laseravståndsmätare</strong></h2>\n<p><strong>Snabbfakta:</strong> 640×480 sensor (12 µm) • 50 mm F1.0 • NETD &lt;18 mK • ca 2300 m detektion • LRF upp till ca 1200 m</p>\n<p>Pulsar Trail 3 LRF XR50 är ett värmesikte för långa håll, med 640-sensor på 12 µm, ljusstarkt 50 mm-objektiv och laseravståndsmätare i samma enhet. Lasern mäter upp till cirka 1200 m, så du har avståndet i siktbilden även när sikten är dålig eller avstånden är stora.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<p>• Hög detaljåtergivning: 640×480 sensor med 12 µm pixelpitch och hög känslighet (&lt;18 mK) ger skarp värmebild även vid små temperaturskillnader<br>• Integrerad laseravståndsmätare: Mäter avstånd upp till cirka 1200 m för bättre precision vid längre håll<br>• Ljusstark 50 mm F1.0-optik: Effektiv värmeinsamling och tydligare separering mellan mål och bakgrund<br>• Variabel förstoring: Cirka 3–24× förstoring för både medel- och långhållsanvändning<br>• Full-HD AMOLED-display: 1920×1080 display ger tydlig kontrast och bra bild även i kyla<br>• Inspelning och anslutning: Video, app-anslutning och streaming via Pulsars system<br>• Tål rekyl: upp till 6000 J på räfflade vapen, magnesiumhus och IP67</p>\n<p><strong>Teknisk specifikation</strong></p>\n<p>• Sensorupplösning: 640×480 pixlar<br>• Pixelpitch: 12 µm<br>• NETD: &lt;18 mK<br>• Objektiv: 50 mm F1.0<br>• Förstoring: ca 3–24×<br>• Synfält: ca 8,8° / 15,4 m på 100 m<br>• Detektionsräckvidd: upp till cirka 2300 m<br>• Laseravståndsmätare: upp till cirka 1200 m<br>• Display: AMOLED 1920×1080<br>• Uppdateringsfrekvens: 50 Hz<br>• Batteritid: upp till 11 timmar vid 22 °C</p>\n<p><strong>Detta ingår</strong></p>\n<p>• Pulsar Trail 3 LRF XR50 värmesikte med avtagbar ögonmussla<br>• LPS 7i-batteripack<br>• Nätadapter<br>• USB-C-kabel med USB-A-adapter<br>• Bärväska<br>• Putsduk för linsen<br>• Snabbguide och snabbguide för Stream Vision Ballistics<br>• Garantikort</p>\n<p>12 µm-pixeln ger Trail 3 LRF XR50 artbestämning kring 570 m på vildsvin, mot 400 m för <a href=\"/products/pulsar-trail-3-lrf-xq50-384-288-50-mm-varmesikte-med-laseravstandsmatare-kopia\" title=\"Trail 3 LRF XQ50\">Trail 3 LRF XQ50</a> med 384-sensor, och 3x grundförstoring gör det till ett sikte för fält och öppen mark. Vill du ha samma sensor och objektiv utan laser i klassiskt tubformat, se <a href=\"/products/thermion-2-xg50-640x480-varmesikte\" title=\"Thermion 2 XG50\">Thermion 2 XG50</a>.</p>",
+  "faq": [
+   {
+    "q": "Har Trail 3 LRF XR50 avståndsmätare?",
+    "a": "Ja. Inbyggd laseravståndsmätare som mäter avstånd upp till cirka 1200 meter."
+   },
+   {
+    "q": "Vilken sensor har Trail 3 LRF XR50?",
+    "a": "En 640x480-sensor med 12 µm pixelpitch och hög känslighet (under 18 mK) för skarp bild även vid små temperaturskillnader."
+   },
+   {
+    "q": "Hur långt ser man med Trail 3 LRF XR50?",
+    "a": "Detektionsräckvidd upp till cirka 2300 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar Trail 3 LRF XR50?",
+    "a": "Cirka 3-24x för både medel- och långhåll, med AMOLED-display i 1920x1080."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Upp till 11 timmar vid 22 °C med LPS 7i-batteriet."
+   },
+   {
+    "q": "Kan man spela in med Trail 3 LRF XR50?",
+    "a": "Ja. Video, appanslutning och streaming via Pulsars system."
+   }
+  ],
+  "metafields": {
+   "netd": "≤18 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/trail-3-lrf/",
+   "https://pulsarvision.com/manuals/trail-3-lrf/xr50"
+  ],
+  "changes": [
+   "custom.netd: 15 mK → ≤18 mK (system-NETD <18, pulsarvision.com; texten hade rätt)",
+   "text/FAQ batteritid: cirka 10–12 h → upp till 11 h vid 22 °C (pulsarvision.com)",
+   "Detta ingår: vag lista → Pulsars packlista (manual Trail 3 LRF XR50)",
+   "text: 'Robust konstruktion' → rekyltålighet 6000 J, magnesiumhus, IP67"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662354772",
+  "handle": "pulsar-axion-xg30-compact-640x480-varmekamera",
+  "descriptionHtml": "<p><strong>Pulsar Axion XG30 Compact 640x480 värmekamera</strong></p>\n<p>Axion XG30 Compact får plats i jackfickan men har full 640-sensor, så du kan svepa av åkerkanten och följa upp ett eftersök med samma lilla kikare. Magnesiumhuset, upp till 7 timmars batteritid och 2–16× förstoring räcker för ett helt nattpass.</p>\n<p>Den europeiska 640×480-sensorn med 12 µm pixelstorlek och system-NETD &lt; 25 mK levererar tydliga konturer och bra separering av detaljer. Ett 30 mm f/1.2-objektiv, 14,6° synfält och detektionsräckvidd upp till 1300 m ger bra täckning från nära håll till längre pass. AMOLED-displayen (640×400), inbyggt 64 GB minne och Wi-Fi 2,4/5 GHz (Stream Vision 2) gör det enkelt att spela in, dela och uppdatera enheten. IPX7-klassningen gör att regn inte stoppar passet, och den laddas via USB-C.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 640×480-sensor (12 µm) med system-NETD &lt; 25 mK<br>• 30 mm f/1.2-objektiv och 2–16× förstoring<br>• Bred överblick: 14,6° synfält<br>• Detektionsräckvidd upp till 1300 m<br>• AMOLED-display 640×400 för snabb, klar bild<br>• Inbyggt minne 64 GB, video/foto 960×600<br>• Wi-Fi 2,4/5 GHz och appen Stream Vision 2<br>• Upp till 7 h drift med APS3-batteri (vid 22 °C)<br>• IPX7 och magnesiumhus med 1/4\" stativgänga</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: 640×480 @ 12 µm<br>System NETD (sNETD): &lt; 25 mK<br>Sensor NETD: &lt; 40 mK<br>Bildfrekvens: 50 Hz<br>Objektiv: 30 mm f/1.2<br>Förstoring: 2–16×<br>Synfält: 14,6°<br>Detektionsräckvidd: 1300 m<br>Display: AMOLED 640×400<br>Foto/video-upplösning: 960×600<br>Inbyggt minne: 64 GB<br>Wi-Fi: 2,4/5 GHz (IEEE 802.11 b/g/n/ac)<br>Skyddsklass: IPX7<br>Drifttemperatur: -20 till +40 °C<br>Batteri: APS3 Li-ion, 3200 mAh<br>Drifttid: Upp till 7 h (vid 22 °C)<br>Anslutning: USB-C (5 V / 9 V)<br>Fäste: 1/4\" stativgänga<br>Mått: 144 × 41 × 69 mm<br>Vikt: 250 g utan batteri</p>\n<p><strong>Detta ingår</strong><br>• Axion XG30 värmekamera<br>• APS3-batteri<br>• Nätadapter<br>• USB-C-kabel<br>• Bärväska<br>• Handrem<br>• Snabbstartguide<br>• Putsduk<br>• Garantikort</p>\n<p>XG30 Compact är för dig som vill ha 640-sensorns bredd i ett hus som ryms i fickan: 14,6 graders synfält och detektion till 1300 m täcker åtel, hygge och åkerkant. Vill du nå längre ut över öppen mark har <a href=\"/products/pulsar-axion-xg35-compact-640x480-varmekamera\" title=\"Axion XG35 Compact\">Axion XG35 Compact</a> 35 mm-objektiv, detektion till 1750 m och artbestämning kring 400 m, och räcker en 384-sensor finns <a href=\"/products/pulsar-axion-xq30-pro-varmekamera-384x288\" title=\"Axion XQ30 Pro\">Axion XQ30 Pro</a> till lägre pris.</p>",
+  "faq": null,
+  "metafields": {
+   "netd": "≤25 mK",
+   "artbestamning": "340",
+   "detaljbedomning": "210"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-monoculars/pulsar-axion-compact/"
+  ],
+  "changes": [
+   "text: '1400 yd' → 1300 m (2 ställen, pulsarvision.com Axion Compact XG30: 1300 m)",
+   "text drifttemperatur: −13…+104 °F (≈ −25…+40 °C) → -20 till +40 °C (pulsarvision.com)",
+   "text mått: 5.6×1.6×2.7 in → 144 × 41 × 69 mm; vikt 8.5 oz (med batteri) → 250 g utan batteri (pulsarvision.com)",
+   "custom.artbestamning/detaljbedomning: saknades → 340/210 (12 µm/30 mm, formeln i skillen)",
+   "custom.netd: 25 mK → ≤25 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662682452",
+  "handle": "pulsar-thermion-2-xp60-pro-lrf-640x480-varmesikte",
+  "descriptionHtml": "<p><strong>Pulsar Thermion 2 XP60 PRO LRF Värmesikte med laseravståndsmätare<br></strong><br><strong>Snabbfakta:</strong> 640×480 sensor, 17 µm, sNETD &lt;18 mK, 60 mm F/1,1, laseravståndsmätare upp till 800 m (±1 m)</p>\n<p>Pulsar Thermion 2 XP60 PRO LRF är ett värmesikte för långa håll, för dig som vill kunna mäta avstånd direkt i siktet. Kombinationen av 60 mm F/1,1-optik, 3–24x förstoring och en högupplöst 2560×2560 Micro-OLED-display ger en lugn, skarp och lättläst bild även när du zoomar upp och när vädret är sämre.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Långhållsfokus med 60 mm F/1,1-optik som samlar in mer värmesignatur och ger tydligare konturer på längre avstånd<br>• Exakt avstånd direkt i siktet med integrerad laseravståndsmätare upp till 800 m och mätnoggrannhet ±1 m<br>• Mer detalj vid inzoomning med 3–24x förstoring och högupplöst Micro-OLED-display 2560×2560<br>• Stabil målbild i praktiken med sNETD &lt;18 mK (hög systemkänslighet) och 50 Hz uppdateringsfrekvens<br>• Bättre anlägg och säkerhet med 65 mm ögonavstånd<br>• Smidig nollning och flera vapenupplägg med 10 skjutprofiler och upp till 100 nollningsavstånd (10 per profil)<br>• Picture-in-Picture för precis skottplacering utan att tappa helhetsbilden<br>• Filma och fota i hög upplösning med inbyggd inspelning (1280×960) och 64 GB internminne<br>• Stream Vision 2 via WiFi för livebild, överföring och inställningar direkt i mobilen<br>• Robust för verklig jaktmiljö med IPX7 och driftområde -25 till +50 °C<br>• Standardmontering med 30 mm ringar, passar bra när du vill byta mellan dagoptik och termiskt</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensortyp: Okyld<br>• Sensorupplösning: 640×480<br>• Pixelpitch: 17 µm<br>• NETD (sensor): &lt;25 mK<br>• sNETD (system): &lt;18 mK<br>• Uppdateringsfrekvens: 50 Hz<br>• Objektiv: 60 mm F/1,1<br>• Förstoring: 3–24x<br>• Synfält: 10,4° (18,1 m på 100 m)<br>• Ögonavstånd: 65 mm<br>• Display: Micro-OLED, 2560×2560<br>• Detektionsräckvidd: upp till 2000 m<br>• Laseravståndsmätare: max 800 m, ±1 m, 905 nm, laserklass 1 (IEC 60825-1:2014)<br>• Klickvärde: 14 mm (H) / 14 mm (V) på 100 m<br>• Justerområde: 2840 mm (H) / 2840 mm (V) på 100 m<br>• Foto/video: 1280×960, .mp4 / .jpg<br>• Internminne: 64 GB<br>• WiFi-standard: IEEE 802.11 b/g/n/ac<br>• Strömförsörjning: Inbyggt batteri + utbytbart APS3 Battery Pack<br>• Batteritid: upp till 11 h vid 22 °C<br>• Skyddsklass: IPX7<br>• Arbetstemperatur: -25 till +50 °C<br>• Material: aluminiumlegering<br>• Mått: 442×84×98 mm<br>• Vikt: 1,2 kg<br>• Montering: Standard 30 mm ringar</p>\n<p><strong>Detta ingår</strong><br>• Pulsar Thermion 2 XP60 PRO LRF<br>• Ögonmussla<br>• 2 st APS3-batterier<br>• Laddare med två laddplatser<br>• Bluetooth-fjärrkontroll<br>• Rengöringsduk<br>• Instruktionsbok</p>\n<p>XP60 PRO LRF passar dig som spanar och skjuter över stora fält: 3x grundförstoring, 10,4 graders synfält och laser till 800 m med ±1 m ger både överblick och avstånd i samma sikte. Räcker 50 mm finns <a href=\"/products/pulsar-thermion-2-xp50-pro-lrf-640x480-varmesikte\" title=\"Thermion 2 XP50 Pro LRF\">Thermion 2 XP50 Pro LRF</a> med artbestämning kring 400 m, och vill du ha högre detaljgrad på långt håll ger 12 µm-sensorn i <a href=\"/products/pulsar-thermion-2-xg60-lrf-varmesikte-med-laseravstandsmatare\" title=\"Thermion 2 XG60 LRF\">Thermion 2 XG60 LRF</a> artbestämning kring 680 m. Skriv till oss om du vill ha hjälp med ringar och montage.</p>",
+  "faq": [
+   {
+    "q": "Har Thermion 2 XP60 Pro LRF avståndsmätare?",
+    "a": "Ja. Inbyggd laseravståndsmätare upp till 800 meter med ±1 m noggrannhet (905 nm, laserklass 1)."
+   },
+   {
+    "q": "Vilken sensor har XP60 Pro LRF?",
+    "a": "En 640x480-sensor med 17 µm pixelpitch och system-NETD under 18 mK, med 50 Hz uppdatering."
+   },
+   {
+    "q": "Hur långt ser man med XP60 Pro LRF?",
+    "a": "Detektionsräckvidd upp till 2000 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar XP60 Pro LRF?",
+    "a": "3-24x med 60 mm F/1,1-optik och en Micro-OLED-display i 2560x2560."
+   },
+   {
+    "q": "Hur lång batteritid och montering?",
+    "a": "Upp till 11 timmar vid 22 °C med inbyggt batteri plus utbytbart APS3. Monteras i standard 30 mm ringar, vikt 1,2 kg."
+   },
+   {
+    "q": "Tål XP60 Pro LRF tuff jakt?",
+    "a": "Ja. IPX7 och drift -25 till +50 °C, med 64 GB internminne, Picture-in-Picture och Stream Vision 2 via WiFi."
+   }
+  ],
+  "metafields": {
+   "artbestamning": "480",
+   "detaljbedomning": "290",
+   "netd": "≤18 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2-lrf/"
+  ],
+  "changes": [
+   "custom.artbestamning/detaljbedomning: saknades → 480/290 (17 µm/60 mm, formeln i skillen)",
+   "text/FAQ objektiv: f/1.0 → F/1,1 (pulsarvision.com Thermion 2 LRF XP60: F60/1.1)",
+   "text/FAQ display: AMOLED → Micro-OLED 2560x2560; inspelning 2560×2560 → 1280×960 (samma källa)",
+   "text/FAQ batteritid: upp till 7 h → upp till 11 h vid 22 °C (samma källa)",
+   "text/FAQ vikt: 1,16 kg → 1,2 kg; material Metall → aluminiumlegering (samma källa)",
+   "custom.netd: <18 mK → ≤18 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662485844",
+  "handle": "pulsar-talion-xq35-pro-384x288-varmesikte",
+  "descriptionHtml": "<p><strong>Pulsar Talion XQ35 Pro 384×288 värmesikte</strong></p>\n<p>Kompakt värmesikte på 780 g med 35 mm-objektiv och 2,5–10× förstoring, för rörlig jakt i skog och tätare marker.</p>\n<p>Talion XQ35 Pro är byggt för smidig hantering i fält och kombinerar en 384×288-sensor (17 µm, NETD &lt; 25 mK) med 35 mm f/1.0-optik och 2,5–10× förstoring. Det ger en detektionsräckvidd på upp till 1350 meter och artbestämning kring 280 meter på vildsvin vid goda förhållanden, även i mörker, dimma och regn. Siktet har AMOLED-display i HD, 16 GB internminne för foto och video, Picture-in-Picture och flera färgpaletter. Magnesiumchassit är IPX7-klassat och tål rekyl upp till 6000 J.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 384×288 pixlars värmesensor med 17 µm pixel pitch<br>• NETD &lt; 25 mK för hög känslighet i svåra väderförhållanden<br>• 35 mm f/1.0-optik med 2,5–10× förstoring<br>• Upptäcktsräckvidd upp till 1350 meter<br>• AMOLED-display med 1024×768 upplösning<br>• Foto- och videoinspelning med 16 GB internminne<br>• Wi-Fi med stöd för Stream Vision 2<br>• Batteritid upp till 9 timmar med APS 5T<br>• IPX7-klassat magnesiumchassi, fungerar i –25 °C till +50 °C<br>• Rekylmotstånd upp till 6000 J</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: 384×288 px, 17 µm, 50 Hz<br>NETD: under 25 mK (system-NETD under 15 mK)<br>Objektiv: 35 mm F/1.0<br>Förstoring: 2,5-10x (digital zoom 4x)<br>Synfält: 10,7° × 8° (18,2 × 13,7 m på 100 m)<br>Detektionsavstånd: 1350 m<br>Display: AMOLED 1024×768 (1440×1080 på enheter tillverkade efter 09/2024)<br>Ögonavstånd: 50 mm<br>Internminne: 16 GB<br>Batteri: APS 5T, 4900 mAh<br>Drifttid: upp till 9 h vid 22 °C<br>Extern ström: USB-C (Power Delivery 5 V och 9 V)<br>Kapslingsklass: IPX7<br>Drifttemperatur: -25 till +50 °C<br>Rekyltålighet: 6000 J på räfflade vapen, kaliber 12 på slätborrade<br>Kompatibla fästen: Weaver U, Weaver USQD och Weaver LQD<br>Material: magnesiumlegering<br>Längd: 33,0 cm<br>Bredd: 5,7 cm<br>Höjd: 6,7 cm<br>Vikt: 780 g</p>\n<p><strong>Detta ingår</strong><br>• Pulsar Talion XQ35 Pro<br>• Avtagbar ögonmussla i gummi<br>• 2 st APS 5T-batteripack<br>• APS5-batteriladdare<br>• Nätadapter<br>• USB-C-kabel med USB-A-adapter<br>• Bärväska<br>• Rengöringsduk<br>• Snabbguide och garantikort</p>\n<p>Talion XQ35 Pro passar jägaren som rör sig i skog och på tätare marker, där artbestämning kring 280 m räcker gott. Fäste ingår inte, och <a href=\"/products/pulsar-weaver-lqd-snabbfaste-for-talion-och-trail-3\" title=\"Pulsar Weaver LQD Snabbfäste för Talion och Trail 3\">Pulsar Weaver LQD-snabbfästet</a> är gjort för Talion. Behöver du längre räckvidd över fält ger <a href=\"/products/pulsar-thermion-2-xq50-pro-384x288-varmesikte\" title=\"Thermion 2 XQ50 Pro\">Thermion 2 XQ50 Pro</a> med 50 mm-objektiv artbestämning kring 400 m.</p>",
+  "faq": [
+   {
+    "q": "Har Talion XQ35 Pro avståndsmätare?",
+    "a": "Nej, XQ35 Pro har ingen inbyggd laseravståndsmätare. Är du osäker på vilken modell som passar, ring oss på 0301-772010."
+   },
+   {
+    "q": "Vilken sensor har Talion XQ35 Pro?",
+    "a": "En 384x288-sensor med 17 µm pixel pitch och NETD under 25 mK för hög känslighet i svårt väder."
+   },
+   {
+    "q": "Objektiv och förstoring?",
+    "a": "35 mm f/1.0-optik med 2,5-10x förstoring och AMOLED-display i 1024x768."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Upptäcktsräckvidd upp till 1350 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Upp till 9 timmar med APS 5T-batteripack."
+   },
+   {
+    "q": "Tål Talion XQ35 Pro tuff jakt?",
+    "a": "Ja. Magnesiumchassi med IPX7-klassning som klarar -25 till +50 °C och rekyl upp till 6000 J. Vikt 780 g."
+   }
+  ],
+  "metafields": {
+   "netd": "≤25 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/pulsar-talion/",
+   "https://pulsarvision.com/manuals/pulsar-talion/talion-xq35-pro"
+  ],
+  "changes": [
+   "text/FAQ vikt: 820 g → 780 g (pulsarvision.com Talion XQ35 PRO: 0,78 kg)",
+   "text: Teknisk specifikation utökad med verifierade värden (sensor, NETD, optik, synfält, detektion, display, batteri, IPX7, rekyl, fästen) ur pulsarvision.com",
+   "Detta ingår: 1 → 2 st APS 5T, plus ögonmussla, batteriladdare och nätadapter enligt Pulsars manual",
+   "custom.netd: <25 mK → ≤25 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662551380",
+  "handle": "pulsar-thermion-2-xq50-pro-384x288-varmesikte",
+  "descriptionHtml": "<p><strong>Pulsar Thermion 2 XQ50 Pro 384×288 värmesikte</strong></p>\n<p>Värmesikte med 384-sensor bakom 50 mm-objektiv för åtel och fält, med artbestämning kring 400 meter på vildsvin vid goda förhållanden.</p>\n<p>Thermion 2 XQ50 Pro kombinerar en 384×288-sensor (17 µm, NETD &lt; 25 mK) med en ljusstark 50 mm f/1.0-optik och 3–12× förstoring. Det ger en upptäcktsräckvidd på upp till 1800 meter, och NETD under 25 mK håller kontrasten även i regn och dimma. Aluminiumchassit är IPX7-klassat och tål rekyl upp till 6000 J.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 384×288 pixlars värmesensor med 17 µm pixel pitch<br>• NETD &lt; 25 mK för hög känslighet i regn, dimma och kyla<br>• 50 mm f/1.0-optik med 3–12× förstoring<br>• Upptäcktsräckvidd upp till 1800 meter<br>• AMOLED-display med 1024×768 upplösning<br>• Foto- och videoinspelning med 16 GB inbyggt minne<br>• Wi-Fi med stöd för Stream Vision 2<br>• Rekylmotstånd upp till 6000 J<br>• IPX7-klassat aluminiumchassi, fungerar i –25 till +50 °C<br>• Batteritid upp till 10 timmar med dual batterisystem</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: 384×288 px, 17 µm, 50 Hz<br>NETD: under 25 mK (system-NETD under 18 mK)<br>Objektiv: 50 mm F/1.0<br>Förstoring: 3-12x<br>Synfält: 7,5° (13,1 m på 100 m)<br>Detektionsavstånd: 1800 m<br>Display: AMOLED 1024×768 (1440×1080 på enheter tillverkade efter 09/2024)<br>Ögonavstånd: 50 mm<br>Internminne: 16 GB<br>Batteri: inbyggt APS5 (4900 mAh) och löstagbart APS2 (2000 mAh)<br>Drifttid: upp till 10 h vid 22 °C<br>Kapslingsklass: IPX7<br>Drifttemperatur: -25 till +50 °C<br>Rekyltålighet: 6000 J på räfflade vapen, kaliber 12 på slätborrade<br>Montering: standard 30 mm-ringar<br>Mått: 412 × 78 × 83 mm<br>Vikt: 980 g</p>\n<p><strong>Detta ingår</strong><br>• Pulsar Thermion 2 XQ50 Pro<br>• Avtagbar ögonmussla i gummi<br>• APS2-batteri (löstagbart, APS5 sitter inbyggt)<br>• APS-batteriladdare<br>• Nätadapter<br>• USB-C-kabel med USB-A-adapter<br>• Batterilock för APS3<br>• Bärväska<br>• Rengöringsduk<br>• Snabbmanual och garantikort</p>\n<p>Ringar och montage ingår inte.</p>\n<p>XQ50 Pro ger samma artbestämning som 640-modellen <a href=\"/products/pulsar-thermion-2-xp50-pro-640x480-varmesikte\" title=\"Thermion 2 XP50 Pro\">Thermion 2 XP50 Pro</a>, kring 400 m, eftersom pixelstorlek och objektiv är desamma. Skillnaden är synfältet: 640-sensorn ger bredare bild när grisarna rör sig runt åteln. Vill du ha avståndet i siktbilden finns <a href=\"/products/pulsar-thermion-2-xq50-pro-lrf-384x288-varmesikte\" title=\"Thermion 2 XQ50 Pro LRF\">Thermion 2 XQ50 Pro LRF</a> med laser upp till 800 m.</p>",
+  "faq": [
+   {
+    "q": "Har Thermion 2 XQ50 Pro avståndsmätare?",
+    "a": "Nej, XQ50 Pro har ingen inbyggd laseravståndsmätare. Vill du ha LRF, fråga oss om LRF-varianten på 0301-772010."
+   },
+   {
+    "q": "Vilken sensor har XQ50 Pro?",
+    "a": "En 384x288-sensor med 17 µm pixel pitch och NETD under 25 mK för hög känslighet i regn, dimma och kyla."
+   },
+   {
+    "q": "Objektiv och förstoring?",
+    "a": "50 mm f/1.0-optik med 3-12x förstoring och AMOLED-display i 1024x768."
+   },
+   {
+    "q": "Hur långt ser man med XQ50 Pro?",
+    "a": "Upptäcktsräckvidd upp till 1800 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Upp till 10 timmar med dubbelt batterisystem (inbyggt APS5 plus löstagbart APS2)."
+   },
+   {
+    "q": "Tål XQ50 Pro tuff jakt?",
+    "a": "Ja. Aluminiumchassi med IPX7, -25 till +50 °C och rekyl upp till 6000 J. Vikt 980 g."
+   }
+  ],
+  "metafields": {
+   "forstoring": "3-12x",
+   "netd": "≤25 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2/",
+   "https://pulsarvision.com/manuals/thermion-2/thermion-2-xq50-pro"
+  ],
+  "changes": [
+   "text/FAQ/custom.forstoring: 3,5–14x → 3–12x (pulsarvision.com Thermion 2 XQ50 PRO)",
+   "text mått/vikt: 42,0 × 7,8 × 9,5 cm, 950 g → 412 × 78 × 83 mm, 980 g; FAQ vikt 950 → 980 g",
+   "text: Teknisk specifikation utökad med verifierade värden ur pulsarvision.com",
+   "Detta ingår: 'APS3-batteri' borttaget (säljs separat, endast batterilock för APS3 ingår) + ögonmussla enligt Pulsars manual; 'Ringar och montage ingår inte' tillagt",
+   "FAQ batterier: APS2 + APS3 → inbyggt APS5 plus löstagbart APS2",
+   "custom.netd: <25 mK → ≤25 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12199662584148",
+  "handle": "pulsar-thermion-2-xq50-pro-lrf-384x288-varmesikte",
+  "descriptionHtml": "<p><strong>Pulsar Thermion 2 XQ50 Pro LRF 384×288 värmesikte</strong></p>\n<p>Värmesikte med 384-sensor, AMOLED-display i 1024×768 och inbyggd laseravståndsmätare upp till 800 m, för dig som vill ha avståndet klart innan du skjuter.</p>\n<p>Thermion 2 XQ50 Pro LRF kombinerar en 384×288-sensor (17 µm, NETD &lt; 25 mK) med ljusstark F50/1.0-optik och 3–12× förstoring. Laseravståndsmätaren mäter upp till 800 m med ±1 m noggrannhet, och artbestämningen ligger kring 400 m på vildsvin vid goda förhållanden. Huset i aluminiumlegering är IPX7-klassat, och de två batterierna ger upp till 8,5 h drift.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Mikrobolometersensor 384×288 px, 17 µm pixel pitch, NETD &lt; 25 mK<br>• 3–12× förstoring med F50/1.0-optik<br>• Upptäcktsräckvidd ca 1800 m (”deer” typmål)<br>• AMOLED-display 1024×768 px<br>• Inbyggd laseravståndsmätare upp till 800 m, ±1 m noggrannhet<br>• Foto- och videoinspelning med 16 GB inbyggt minne<br>• Dual batterisystem möjlighet att köra multipla sorter (APS2/APS3 extern + APS5 intern), upp till 8,5 h drift<br>• Aluminiumchassi med IPX7-klassning, klarar –25 °C till +50 °C</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: 384×288 px, 17 µm, 50 Hz<br>NETD: under 25 mK (system-NETD under 18 mK)<br>Objektiv: 50 mm F/1.0<br>Förstoring: 3-12x<br>Synfält: 7,5° × 5,6° (13,1 × 9,8 m på 100 m)<br>Detektionsavstånd: 1800 m<br>Laseravståndsmätare: upp till 800 m, ±1 m, 905 nm, laserklass 1<br>Display: AMOLED 1024×768 (1440×1080 på enheter tillverkade efter 09/2024)<br>Ögonavstånd: 50 mm<br>Internminne: 16 GB<br>Batteri: inbyggt 4900 mAh och löstagbart APS2 (2000 mAh)<br>Drifttid: upp till 8,5 h vid 22 °C<br>Kapslingsklass: IPX7<br>Drifttemperatur: -25 till +50 °C<br>Rekyltålighet: 6000 J på räfflade vapen, kaliber 12 på slätborrade<br>Montering: standard 30 mm-ringar<br>Längd: 42,0 cm<br>Bredd: 7,85 cm<br>Höjd: 9,45 cm<br>Vikt: 1,05 kg</p>\n<p><strong>Detta ingår</strong><br>• Pulsar Thermion 2 XQ50 Pro LRF<br>• Avtagbar ögonmussla i gummi<br>• APS2-batteri (löstagbart, det interna batteriet sitter inbyggt)<br>• APS-batteriladdare<br>• Nätadapter<br>• USB-C-kabel med USB-A-adapter<br>• Batterilock för APS3<br>• Bärväska<br>• Rengöringsduk<br>• Snabbmanual och garantikort</p>\n<p>Ringar och montage ingår inte.</p>\n<p>XQ50 Pro LRF är för dig som jagar över fält och vill slippa uppskatta hållet: laser till 800 m och artbestämning kring 400 m i samma sikte. Samma optik och samma artbestämning med 640-sensor och bredare bild finns i <a href=\"/products/pulsar-thermion-2-xp50-pro-lrf-640x480-varmesikte\" title=\"Thermion 2 XP50 Pro LRF\">Thermion 2 XP50 Pro LRF</a>, och behöver du ingen laser finns <a href=\"/products/pulsar-thermion-2-xq50-pro-384x288-varmesikte\" title=\"Thermion 2 XQ50 Pro\">Thermion 2 XQ50 Pro</a>.</p>",
+  "faq": [
+   {
+    "q": "Har Thermion 2 XQ50 Pro LRF avståndsmätare?",
+    "a": "Ja. Inbyggd laseravståndsmätare upp till 800 meter med ±1 meters noggrannhet."
+   },
+   {
+    "q": "Vilken sensor har XQ50 Pro LRF?",
+    "a": "En 384x288-sensor med 17 µm pixel pitch och NETD under 25 mK."
+   },
+   {
+    "q": "Hur långt ser man med XQ50 Pro LRF?",
+    "a": "Upptäcktsräckvidden är cirka 1800 meter för ett hjortstort mål. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar XQ50 Pro LRF?",
+    "a": "3-12x med ljusstark F50/1.0-optik och en AMOLED-display i 1024x768."
+   },
+   {
+    "q": "Hur lång batteritid har XQ50 Pro LRF?",
+    "a": "Upp till 8,5 timmar vid 22 °C med dubbelt batterisystem (externt APS2/APS3 plus internt APS5)."
+   },
+   {
+    "q": "Tål XQ50 Pro LRF tuff jakt?",
+    "a": "Ja. Aluminiumchassi med IPX7-klassning som klarar -25 °C till +50 °C."
+   }
+  ],
+  "metafields": {
+   "netd": "≤25 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://pulsarvision.com/products/thermal-imaging-riflescopes/thermion-2-lrf/",
+   "https://pulsarvision.com/manuals/pulsar-thermion-2-lrf/lrf-xq50-pro"
+  ],
+  "changes": [
+   "text/FAQ drifttid: cirka 10 h → upp till 8,5 h vid 22 °C (pulsarvision.com Thermion 2 LRF XQ50 PRO)",
+   "text vikt: 970 g (utan löstagbart batteri) → 1,05 kg (samma källa)",
+   "text: Teknisk specifikation utökad med verifierade värden ur pulsarvision.com",
+   "Detta ingår: Pulsars packlista (ögonmussla, nätadapter, batterilock APS3; 'APS5 internt' är inbyggt, inte en del); 'Ringar och montage ingår inte' tillagt",
+   "custom.netd: <25 mK → ≤25 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419843739988",
+  "handle": "rix-pocket-k2-256-192-15-mm-termisk-monokikare",
+  "descriptionHtml": "<p><strong>RIX Pocket K2 256 × 192 9 mm</strong></p>\n<p>Snabbfakta: 256 × 192 termisk sensor, NETD &lt; 25 mK, 9 mm F1.0 objektiv, elektronisk bildstabilisering (EIS)</p>\n<p>RIX Pocket K2 är en kompakt termisk monokikare i fickformat för jägare och utomhusmänniskor som vill ha ett lättburet observationsverktyg till ett tillgängligt pris. Med 256 × 192 sensor på 12 μm pixelpitch, NETD under 25 mK och ett 9 mm F1.0 objektiv ger den ett detekteringsavstånd på 468 m och ett brett synfält på 19,4 grader, vilket gör den särskilt användbar för avsökning av nära och medellång terräng. Den passar dig som söker en termisk kikare för spaning kring åtelplatser, hund vid jakt eller allmän observation och som vill ha utrustning som faktiskt får plats i jackfickan.</p>\n<p>Pocket K2 har samma elektroniska bildstabilisering (EIS) som K3, vilket motverkar skakningar vid handhållen användning och digital zoom. RIX Resolution Enhanced Technology (RET) använder AI för att fördubbla bildens pixelantal och kompensera för pixelförlust vid inzoomning. Det utbytbara 18650-batteriet med upp till 7 timmars drifttid och USB-C för extern strömförsörjning gör K2 till en praktisk följeslagare vid längre pass eller flerdagarsturer.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<ul>\n<li>Stabil bild även handhållen tack vare elektronisk bildstabilisering (EIS)</li>\n<li>Skarp värmebild i alla förhållanden med 256 × 192 sensor och NETD under 25 mK</li>\n<li>Brett synfält 19,4° horisontellt för snabb avsökning av nära och medellång terräng</li>\n<li>Bibehållen skärpa vid digital zoom 1,7-6,8× via RIX Resolution Enhanced Technology</li>\n<li>Längre pass i fält med utbytbart 18650-batteri och drifttid upp till 7 timmar</li>\n<li>Säker användning i regn och fukt tack vare IP67-klassning</li>\n<li>Direkt mobilanslutning via inbyggd WiFi och RIX+ app för Android och iOS</li>\n</ul>\n<p><strong>Teknisk specifikation</strong></p>\n<ul>\n<li>Sensor: 256 × 192, 12 μm pixelpitch</li>\n<li>NETD: &lt; 25 mK</li>\n<li>Bildfrekvens: 50 Hz</li>\n<li>Objektiv: 9 mm</li>\n<li>Bländare: F1.0</li>\n<li>Förstoring: 1,7-6,8× digital</li>\n<li>Synfält: 19,4° horisontellt</li>\n<li>Detektionsavstånd (människa): 468 m</li>\n<li>Display: OLED 0,32 tum</li>\n<li>Displayupplösning: 800 × 600</li>\n<li>Ögonavstånd: 13,5 mm</li>\n<li>Dioptrijustering: -7 till +2</li>\n<li>Internminne: 8 GB</li>\n<li>Foto/video: .mp4 och .jpeg, upplösning 800 × 600</li>\n<li>WiFi/app: RIX+ för Android och iOS</li>\n<li>Batterityp: utbytbart 18650 litiumjon</li>\n<li>Batteritid: upp till 7 timmar</li>\n<li>Strömförsörjning: USB-C, 5 V</li>\n<li>IP-klass: IP67</li>\n<li>Drifttemperatur: -20 till +50 °C</li>\n</ul>\n<p><strong>Detta ingår</strong></p>\n<ul>\n<li>1 × 18650-batteri</li>\n<li>USB-C-kabel</li>\n<li>Batteriladdare</li>\n<li>Bärrem</li>\n<li>Rengöringsduk för lins</li>\n<li>Bärväska</li>\n<li>Bruksanvisning</li>\n</ul>\n<p>Garantin är 3 år. Med 19,4 graders synfält och detektion till 468 m är K2 gjord för nära håll: att hitta djuret runt åteln, följa hunden eller kolla av hygget innan du går ut. Artbestämning ligger kring 100 m på vildsvin, och behöver du se längre ger <a href=\"/products/rix-pocket-k3-384x288-termisk-monokikare-med-bildstabilisering\" title=\"RIX Pocket K3 384x288 termisk monokikare\">Pocket K3</a> med 384-sensor artbestämning kring 170 m i samma fickformat. Vi hjälper dig gärna jämföra modellerna mot dina avstånd.</p>",
+  "faq": null,
+  "metafields": {
+   "detektionsrackvidd": "468 m",
+   "netd": "≤25 mK"
+  },
+  "title": null,
+  "new_handle": "rix-pocket-k2-256x192-9-mm-termisk-monokikare",
+  "redirect": true,
+  "sources": [
+   "https://www.rixoptics.com/product/pocket-k2-thermal-imaging-monoculars/"
+  ],
+  "changes": [
+   "handle: ...-15-mm-... → rix-pocket-k2-256x192-9-mm-termisk-monokikare med redirect (9 mm objektiv, rixoptics.com)",
+   "custom.detektionsrackvidd: 500 m → 468 m (rixoptics.com: 512 yd = 468 m; texten hade rätt)",
+   "custom.netd: <25 mK → ≤25 mK (format)",
+   "text: Claude-UI-klasser (class=\"font-claude-...\") borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419745534292",
+  "handle": "rix-pocket-k3-384x288-termisk-monokikare-med-bildstabilisering",
+  "descriptionHtml": "<p><strong>RIX Pocket K3 384 × 288 15 mm</strong></p>\n<p>Snabbfakta: 384 × 288 termisk sensor, NETD &lt; 25 mK, 15 mm F1.0 objektiv, elektronisk bildstabilisering (EIS), inbyggt linsskydd.</p>\n<p>RIX Pocket K3 är en kompakt termisk monokikare i fickformat för jägare och utomhusmänniskor som vill ha ett lättburet observationsverktyg utan att kompromissa på bildkvalitet. Med 384 × 288 sensor på 12 μm pixelpitch, NETD under 25 mK och ett 15 mm F1.0 objektiv ger den ett detekteringsavstånd på 780 m och täcker både närobservation och mer öppen terräng tack vare det breda synfältet på 17,5 grader. Den passar dig som vill ha en termisk kikare som faktiskt får plats i jackfickan och som finns på plats när du behöver den.</p>\n<p>Som första produkt i Pocket-serien har K3 fått elektronisk bildstabilisering (EIS) som motverkar skakningar vid handhållen användning och digital zoom. RIX Resolution Enhanced Technology (RET) använder AI för att fördubbla bildens pixelantal och bibehålla skärpan när du zoomar in. Det utbytbara 18650-batteriet kombinerat med USB-C för extern strömförsörjning gör Pocket K3 till en praktisk lösning för längre pass eller flerdagarsturer där laddmöjligheter är begränsade.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<ul>\n<li>Stabil bild även handhållen tack vare elektronisk bildstabilisering (EIS), första gången tillgänglig i Pocket-serien</li>\n<li>Skarp bild över hela synfältet med 384 × 288 sensor på 12 μm och NETD under 25 mK</li>\n<li>Brett synfält 17,5° horisontellt för enkel överblick i öppen terräng och skog</li>\n<li>Bibehållen skärpa vid digital zoom 2-8× via RIX Resolution Enhanced Technology</li>\n<li>Längre pass i fält med utbytbart 18650-batteri och drifttid upp till 7 timmar</li>\n<li>Säker användning i regn och fukt tack vare IP67-klassning</li>\n<li>Direkt mobilanslutning via inbyggd WiFi och RIX+ app för Android och iOS</li>\n<li>Inbyggt linsskydd för enkel hantering och skydd av linsen</li>\n</ul>\n<p><strong>Teknisk specifikation</strong></p>\n<ul>\n<li>Sensor: 384 × 288, 12 μm pixelpitch</li>\n<li>NETD: &lt; 25 mK</li>\n<li>Bildfrekvens: 50 Hz</li>\n<li>Objektiv: 15 mm</li>\n<li>Bländare: F1.0</li>\n<li>Förstoring: 2-8× digital</li>\n<li>Synfält: 17,5° horisontellt, cirka 30 m vid 100 m</li>\n<li>Detektionsavstånd (människa): 780 m</li>\n<li>Display: OLED</li>\n<li>Displayupplösning: 800 × 600</li>\n<li>Ögonavstånd: 13,5 mm</li>\n<li>Dioptrijustering: -7 till +2</li>\n<li>Internminne: 8 GB</li>\n<li>Foto/video: .mp4 och .jpeg, upplösning 800 × 600</li>\n<li>WiFi/app: RIX+ för Android och iOS</li>\n<li>Batterityp: utbytbart 18650 litiumjon</li>\n<li>Batteritid: upp till 7 timmar</li>\n<li>Strömförsörjning: USB-C, 5 V</li>\n<li>IP-klass: IP67</li>\n<li>Drifttemperatur: -20 till +50 °C</li>\n</ul>\n<p><strong>Detta ingår</strong></p>\n<ul>\n<li>1 × 18650-batteri</li>\n<li>USB-C-kabel</li>\n<li>Batteriladdare</li>\n<li>Bärrem</li>\n<li>Rengöringsduk för lins</li>\n<li>Bärväska</li>\n<li>Bruksanvisning</li>\n</ul>\n<p>Garantin är 3 år och kan utökas till 5 år genom registrering hos RIX. 384-sensorn bakom 15 mm-optiken ger artbestämning kring 170 m på vildsvin, mot 100 m för <a href=\"/products/rix-pocket-k2-256-192-15-mm-termisk-monokikare\" title=\"RIX Pocket K2 256x192 termisk monokikare\">Pocket K2</a> med 256-sensor, och allt ryms fortfarande i jackfickan. Vill du också mäta håll finns <a href=\"/products/rix-titan-t3-384-288-25-mm-termisk-monokikare\" title=\"RIX Titan T3 384x288 25 mm termisk monokikare\">Titan T3</a> med laser till 1200 m och artbestämning kring 280 m.</p>",
+  "faq": null,
+  "metafields": {
+   "detektionsrackvidd": "780 m",
+   "netd": "≤25 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.rixoptics.com/product/pocket-k3-thermal-imaging-monoculars/"
+  ],
+  "changes": [
+   "custom.detektionsrackvidd: 800 m → 780 m (rixoptics.com: 853 yd = 780 m; texten hade rätt)",
+   "Detta ingår: 18650-batteri tillagt (rixoptics.com Package Contents: 18650 Battery ×1)",
+   "custom.netd: <25 mK → ≤25 mK (format)",
+   "text: Claude-UI-klasser borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419869430100",
+  "handle": "rix-titan-t3-384-288-25-mm-termisk-monokikare",
+  "descriptionHtml": "<p><strong>RIX Titan T3 384 × 288 25 mm</strong></p>\n<p>Snabbfakta: 384 × 288 termisk sensor, NETD &lt; 20 mK, 25 mm F0.9 objektiv, integrerad laseravståndsmätare upp till 1 200 m</p>\n<p>RIX Titan T3 är en kompakt termisk monokikare för jägare och skyttar som vill ha en handhållen lösning med både värmebild och integrerad avståndsmätning i samma enhet. Med 384 × 288 sensor på 12 μm pixelpitch, NETD under 20 mK och ett ljusstarkt 25 mm F0.9 objektiv ger den en tydlig bild även i hög luftfuktighet och låg kontrast. Den passar dig som vill ha en termisk kikare för spaning, avstånds- och målbedömning vid vildsvinsjakt eller observation av rovdjur där snabb distansbekräftelse förändrar beslutet.</p>\n<p>Det som lyfter Titan T3 över enklare modeller är kombinationen av F0.9-optik som fångar cirka 20 procent mer ljus än F1.0-objektiv, en högupplöst 1920 × 1080 OLED-display och en inbyggd ballistisk kalkylator i RIX+-appen. När laseravståndsmätaren har mätt distansen kan kalkylatorn ge dig korrigering i MOA eller mil baserat på dina vapen- och ammunitionsparametrar, vilket sparar tid och minskar gissningarna när skottillfället kommer.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<ul>\n<li>Bekräfta avståndet utan separat utrustning tack vare integrerad laseravståndsmätare upp till 1 200 m med ±1 m noggrannhet</li>\n<li>Tydlig bild i fukt, dimma och låg kontrast med 25 mm F0.9 objektiv som fångar cirka 20 procent mer ljus än F1.0</li>\n<li>Hög detaljåtergivning vid svaga temperaturskillnader med NETD under 20 mK</li>\n<li>Skarp visning i ögonmusslan via 1920 × 1080 OLED-display med 2,5 gånger högre upplösning än standard 1024 × 768</li>\n<li>Stabil bild vid handhållen användning tack vare elektronisk bildstabilisering (EIS)</li>\n<li>Snabb skotträkning med inbyggd ballistisk kalkylator via RIX+ app som ger MOA- eller mil-korrigering</li>\n<li>Bibehållen skärpa vid digital zoom via RIX Resolution Enhanced Technology (RET)</li>\n<li>Enhandsanvändning med fokushjul nära okular och knappar åtkomliga oavsett höger- eller vänsterhänt</li>\n</ul>\n<p><strong>Teknisk specifikation</strong></p>\n<ul>\n<li>Sensor: 384 × 288 VOx, 12 μm pixelpitch</li>\n<li>NETD: &lt; 20 mK</li>\n<li>Bildfrekvens: 50 Hz</li>\n<li>Objektiv: 25 mm</li>\n<li>Bländare: F0.9</li>\n<li>Optisk förstoring: 2,6×</li>\n<li>Synfält: 10,5° × 7,9°</li>\n<li>Detektionsavstånd: 1 299 m</li>\n<li>Display: OLED</li>\n<li>Displayupplösning: 1920 × 1080</li>\n<li>Laseravståndsmätare: ja, integrerad, klass 1</li>\n<li>Räckvidd avståndsmätare: 1 200 m, noggrannhet ±1 m</li>\n<li>Ballistisk kalkylator: ja, via RIX+ app</li>\n<li>Bildstabilisering: elektronisk (EIS)</li>\n<li>Internminne: 32 GB</li>\n<li>Foto/video: ja, med inspelning på enhet och WiFi-streaming</li>\n<li>WiFi/app: RIX+ för Android och iOS</li>\n<li>Batterityp: utbytbart uppladdningsbart 18650 litiumjon</li>\n<li>Strömförsörjning: USB-C för extern matning</li>\n<li>IP-klass: IP67</li>\n</ul>\n<p><strong>Detta ingår</strong></p>\n<ul>\n<li>Titan T3-kameran</li>\n<li>Två 18650-uppladdningsbara batterier</li>\n<li>USB-C-kabel</li>\n<li>Batteriladdare</li>\n<li>Handledsrem</li>\n<li>Rengöringsduk för lins</li>\n<li>Bärväska</li>\n<li>Bruksanvisning<br>\n</li>\n</ul>\n<p>Garantin är 3 år och kan utökas till 5 år genom registrering hos RIX. 25 mm-optiken ger artbestämning kring 280 m på vildsvin, och lasern ger dig hållet till 1 200 m utan att du byter enhet, vilket räcker för de flesta åtlar och hyggen. Spanar du över stora åkrar och mossar ger <a href=\"/products/rix-titan-t6-640-480-35-mm-termisk-monokikare\" title=\"RIX Titan T6 640x480 termisk monokikare\">Titan T6</a> med 640 × 480-sensor och 35 mm artbestämning kring 400 m, och räcker en fickkikare utan laser finns <a href=\"/products/rix-pocket-k3-384x288-termisk-monokikare-med-bildstabilisering\" title=\"RIX Pocket K3 384x288 termisk monokikare\">Pocket K3</a>.</p>",
+  "faq": null,
+  "metafields": {
+   "detektionsrackvidd": "1299 m",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://cdn.shopify.com/s/files/1/0669/4299/2482/files/TITAN_MANUAL.pdf"
+  ],
+  "changes": [
+   "custom.detektionsrackvidd: 1500 m → 1299 m (RIX Titan-manual V1.0: T3 1299 m/1421 yd)",
+   "text spec: Detektionsavstånd 1 299 m tillagt och synfält kompletterat 10,5° → 10,5° × 7,9° (samma källa)",
+   "custom.netd: <20 mK → ≤20 mK (format)",
+   "text: Claude-UI-klasser borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15419927593300",
+  "handle": "rix-titan-t6-640-480-35-mm-termisk-monokikare",
+  "descriptionHtml": "<p><strong>RIX Titan T6 640 × 480 35 mm</strong></p>\n<p>Snabbfakta: 640 × 480 termisk sensor, NETD &lt; 20 mK, 35 mm F0.9 objektiv, integrerad laseravståndsmätare upp till 1 200 m</p>\n<p>RIX Titan T6 är en termisk monokikare med 640-sensor, integrerad laseravståndsmätare och ballistisk kalkylator, byggd för jägare och skyttar som vill ha detaljrik bild och precis avståndsbedömning i ett handhållet format. Med 640 × 480 sensor på 12 μm pixelpitch, NETD under 20 mK och ett ljusstarkt 35 mm F0.9 objektiv ger den ett detekteringsavstånd på 1 818 m och tydlig identifiering även i fukt, dimma och låg kontrast. Den passar dig som vill kunna identifiera viltslag på långt håll, bekräfta avstånd före skott och få direkt korrigering för bana och vind utan extra utrustning.</p>\n<p>F0.9-optiken fångar cirka 20 procent mer ljus än ett traditionellt F1.0-objektiv, vilket märks tydligt i sena gryningar och hög luftfuktighet. Den högupplösta 1920 × 1080 OLED-displayen ger 2,5 gånger fler bildpunkter än standardskärmar på 1024 × 768, och elektronisk bildstabilisering (EIS) håller bilden lugn även vid handhållen användning eller vibrationer från fordon. Tillsammans med ballistisk kalkylator via RIX+-appen blir Titan T6 ett fullt utrustat spaningsverktyg där spaning, avståndsmätning och skotträkning sker i samma enhet.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<ul>\n<li>Hög detaljåtergivning på långa avstånd med 640 × 480 sensor på 12 μm och NETD under 20 mK</li>\n<li>Tydlig bild i fukt och låg kontrast med 35 mm F0.9 objektiv som fångar cirka 20 procent mer ljus än F1.0</li>\n<li>Bekräfta avståndet direkt i fält med integrerad laseravståndsmätare upp till 1 200 m och ±1 m noggrannhet</li>\n<li>Snabbare skotträkning med inbyggd ballistisk kalkylator via RIX+-appen som ger MOA- eller mil-korrigering</li>\n<li>Skarp visning via 1920 × 1080 OLED-display med 2,5 gånger högre upplösning än standard 1024 × 768</li>\n<li>Stabil bild vid handhållen användning och fordonsvibrationer tack vare elektronisk bildstabilisering (EIS)</li>\n<li>Detekteringsavstånd på 1 818 m för enkel avsökning av öppen terräng</li>\n<li>Enhandsanvändning med fokushjul nära okular och knappar åtkomliga för både höger- och vänsterhänta</li>\n</ul>\n<p><strong>Teknisk specifikation</strong></p>\n<ul>\n<li>Sensor: 640 × 480 VOx, 12 μm pixelpitch</li>\n<li>NETD: &lt; 20 mK</li>\n<li>Bildfrekvens: 50 Hz</li>\n<li>Objektiv: 35 mm</li>\n<li>Bländare: F0.9</li>\n<li>Optisk förstoring: 2,2×</li>\n<li>Digital zoom: 1-4×</li>\n<li>Synfält: 12,5° horisontellt</li>\n<li>Detektionsavstånd: 1 818 m</li>\n<li>Display: 0,49 tum OLED</li>\n<li>Displayupplösning: 1920 × 1080</li>\n<li>Ögonavstånd: 23 mm</li>\n<li>Dioptrijustering: -5 till +5</li>\n<li>Laseravståndsmätare: ja, integrerad, klass 1, 905 nm</li>\n<li>Räckvidd avståndsmätare: 1 200 m, noggrannhet ±1 m</li>\n<li>Ballistisk kalkylator: ja, via RIX+ app</li>\n<li>Bildstabilisering: elektronisk (EIS)</li>\n<li>Internminne: 32 GB</li>\n<li>Foto/video: .mp4 och .jpg, upplösning 1536 × 1080</li>\n<li>WiFi/app: RIX+ för Android och iOS, 2,4 GHz</li>\n<li>Batterityp: utbytbart uppladdningsbart 18650 litiumjon</li>\n<li>Strömförsörjning: USB-C för extern matning</li>\n<li>IP-klass: IP67</li>\n</ul>\n<p><strong>Detta ingår</strong></p>\n<ul>\n<li>Titan T6-kameran</li>\n<li>Två 18650-uppladdningsbara batterier</li>\n<li>USB-C-kabel</li>\n<li>Batteriladdare</li>\n<li>Handledsrem</li>\n<li>Rengöringsduk för lins</li>\n<li>Bärväska</li>\n<li>Bruksanvisning</li>\n</ul>\n<p>Garantin är 3 år och kan utökas till 5 år genom registrering hos RIX. 35 mm-optiken och 640 × 480-sensorn ger artbestämning kring 400 m på vildsvin, och med detektion till 1 818 m och laser till 1 200 m är T6 kikaren för dig som spanar över stora åkrar och mossar. Jagar du mest i skog och vid åtel ger <a href=\"/products/rix-titan-t3-384-288-25-mm-termisk-monokikare\" title=\"RIX Titan T3 termisk monokikare\">Titan T3</a> med 384-sensor och 25 mm artbestämning kring 280 m, med samma laser och ballistik till lägre pris.</p>",
+  "faq": [
+   {
+    "q": "Har RIX Titan T6 avståndsmätare?",
+    "a": "Ja. Integrerad laseravståndsmätare upp till 1200 meter med ±1 m noggrannhet, plus ballistisk kalkylator via RIX+-appen."
+   },
+   {
+    "q": "Vilken sensor har Titan T6?",
+    "a": "En 640x480 VOx-sensor med 12 µm pixelpitch och låg NETD under 20 mK för hög detalj även i fukt och låg kontrast."
+   },
+   {
+    "q": "Hur långt ser man med Titan T6?",
+    "a": "Detekteringsavstånd upp till 1818 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Vad gör F0.9-optiken för skillnad?",
+    "a": "Den 35 mm F0.9-optiken släpper in mer ljus än ett F1.0-objektiv, vilket märks i sena gryningar och hög luftfuktighet."
+   },
+   {
+    "q": "Vilken display och stabilisering?",
+    "a": "En OLED-display i 1920x1080 med elektronisk bildstabilisering (EIS) som håller bilden lugn handhållet."
+   },
+   {
+    "q": "Tål Titan T6 tuff jakt?",
+    "a": "Ja. IP67-klassad med utbytbart 18650-batteri och 32 GB internminne. 5 års överlåtbar garanti."
+   }
+  ],
+  "metafields": {
+   "detektionsrackvidd": "1818 m",
+   "netd": "≤20 mK",
+   "vikt": "429 g"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://cdn.shopify.com/s/files/1/0669/4299/2482/files/TITAN_MANUAL.pdf"
+  ],
+  "changes": [
+   "custom.detektionsrackvidd: 1800 m → 1818 m (RIX Titan-manual V1.0: T6 1818 m/1988 yd); FAQ 'cirka 1800' → 1818 meter",
+   "custom.vikt: 431 g → 429 g (samma källa, utan batteri)",
+   "text: tom <ul></ul> sist borttagen; Claude-UI-klasser borttagna",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705843695956",
+  "handle": "rix-glint-g2-256x192-25-mm-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": null,
+  "faq": [
+   {
+    "q": "Vad skiljer RIX Glint G2 från Glint G3?",
+    "a": "G3 har 384x288-sensor och 35 mm-optik mot G2:s 256x192 och 25 mm, vilket flyttar artbestämningen från cirka 280 till cirka 400 meter på vildsvin. G2 räcker i skog och vid åtel där skotten sällan går över 200 meter."
+   },
+   {
+    "q": "Hur långt ser man med Glint G2?",
+    "a": "Detektionsräckvidden är 1300 meter, alltså på vilket avstånd en varm signatur kan upptäckas. Artbestämning på vildsvin ligger kring 280 meter och detaljbedömning kring 170 meter vid goda förhållanden."
+   },
+   {
+    "q": "Har Glint G2 inbyggd avståndsmätare?",
+    "a": "Ja. Laseravståndsmätaren mäter till 1500 meter med ±1 meters noggrannhet och avståndet visas direkt i bilden."
+   },
+   {
+    "q": "Vilket batteri använder Glint G2?",
+    "a": "Ett 21700-batteri med upp till 6,5 timmars drifttid. Två batterier och en adapterhylsa för 18650 följer med."
+   },
+   {
+    "q": "Får jag använda värmesikte på jakt i Sverige?",
+    "a": "Termiska sikten är enligt jaktförordningen begränsade till vildsvin, och till öppen terräng eller åtel. Skyddsjaktsbeslut kan medge annat. Kontrollera aktuella regler hos Naturvårdsverket innan du jagar."
+   },
+   {
+    "q": "Vad väger Glint G2?",
+    "a": "625 gram, med måtten 306 x 107 x 90 millimeter. Picatinny-ringmontage följer med i kartongen."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "FAQ: 'under 150 meter' → 'sällan över 200 meter', samordnat med produkttexten (rekommendation, ingen spec)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15705844744532",
+  "handle": "rix-glint-g3-384x288-35-mm-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": null,
+  "faq": [
+   {
+    "q": "Är Glint G3 värt merpriset mot Glint G2?",
+    "a": "G3 ger artbestämning kring 400 meter mot G2:s 280 meter, plus NETD under 20 mK i stället för 25 mK, till högre pris. Jagar du i skog där skotten sällan går över 200 meter räcker G2."
+   },
+   {
+    "q": "Vilken sensor har RIX Glint G3?",
+    "a": "En okyld VOx-sensor i 384x288 med 12 µm pixelstorlek och NETD under 20 mK, bakom ett 35 mm f/0.9-objektiv."
+   },
+   {
+    "q": "Vad innebär detektion 1800 meter i praktiken?",
+    "a": "Att en varm signatur syns på 1800 meter, inte att du kan avgöra vad det är. Artbestämning på vildsvin sker kring 400 meter och detaljbedömning kring 240 meter."
+   },
+   {
+    "q": "Hur lång batteritid har Glint G3?",
+    "a": "Upp till 5,5 timmar på ett 21700-batteri. Två batterier och en adapterhylsa för 18650 medföljer."
+   },
+   {
+    "q": "Klarar Glint G3 grovkalibrig ammunition?",
+    "a": "Ja. Siktet är klassat för rekyl upp till 1500 g och IP67-tätat, med driftområde -20 till +50 °C."
+   },
+   {
+    "q": "Får jag använda värmesikte på jakt i Sverige?",
+    "a": "Termiska sikten är enligt jaktförordningen begränsade till vildsvin, och till öppen terräng eller åtel. Skyddsjaktsbeslut kan medge annat. Kontrollera aktuella regler hos Naturvårdsverket innan du jagar."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "FAQ: prisbelopp '7 000 kronor mer' borttaget → 'till högre pris'; avståndet samordnat med G2-texten (200 m)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604815528276",
+  "handle": "rix-stride-st3-lite-dual-use-384x288-15-mm-varmekikare",
+  "descriptionHtml": null,
+  "faq": [
+   {
+    "q": "Kan Stride ST3 Lite sitta på hjälmen?",
+    "a": "Ja, den kan användas både handhållen och hjälm- eller huvudselemonterad. Det är en observationskamera, inte ett clip-on för dagsikte."
+   },
+   {
+    "q": "Vilken sensor har Stride ST3 Lite?",
+    "a": "En 384x288-sensor med 12 µm pixelpitch och låg NETD under 20 mK."
+   },
+   {
+    "q": "Hur långt ser man med Stride ST3 Lite?",
+    "a": "Detektionsräckvidden är upp till 780 meter, med ett brett synfält på 17,5 grader för snabb avsökning."
+   },
+   {
+    "q": "Hur mycket förstorar Stride ST3 Lite?",
+    "a": "1-6x, via det ljusstarka 15 mm F1.0-objektivet."
+   },
+   {
+    "q": "Hur lång batteritid har Stride ST3 Lite?",
+    "a": "Upp till 4 timmar på ett utbytbart 18650-batteri med USB-C-laddning."
+   },
+   {
+    "q": "Tål Stride ST3 Lite regn och kyla?",
+    "a": "Ja. IP67 mot damm och vatten, -20 till +50 °C, 32 GB minne och Wi-Fi till RIX+-appen."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK"
+  },
+  "title": "RIX Stride ST3 Lite 384x288 15 mm värmekikare",
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "title: 'Dual Use' borttaget (förbjuden term)",
+   "FAQ: fråga om 'Dual Use' omformulerad till hjälmmontage",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604818084180",
+  "handle": "rix-stride-st6-lite-dual-use-640x512-25-mm-varmekikare",
+  "descriptionHtml": "<p>RIX Stride ST6 Lite väger bara 205 gram och samlar en stor 640x512-sensor i ett fickformat som kan användas både handhållen och hjälmmonterad.</p><p><strong>Handhållen eller hjälmmonterad</strong><br>Stride ST6 Lite används på två sätt: handhållen när du sveper av terrängen, eller monterad på hjälm eller huvudsele när du vill röra dig med händerna fria och bibehållen värmebild. Det är en observationskamera, inte ett clip-on för dagsikte.</p><p><strong>Sensor och bild</strong><br>ST6 Lite bygger på en stor 640x512-sensor med 12 µm pixelpitch och en låg NETD under 20 mK, vilket ger hög detaljrikedom och tydliga värmesignaturer även i dimma, regn och kyla. Det 25 mm F1.0-objektivet ger ett brett synfält på 17,5 grader och 1-6x förstoring. Bilden visas på en OLED-skärm i 1024x768 med sex valbara färgpaletter.</p><p><strong>Byggd för fält</strong><br>Detektionsräckvidden är upp till 1300 meter. Huset är IP67-klassat mot damm och vatten och fungerar i -20 till +50 °C. 32 GB internminne tar film och stillbilder, inbyggd Wi-Fi ger streaming via RIX+-appen, och strömmen kommer från ett utbytbart 18650-batteri med cirka 4 timmars drifttid och USB-C-laddning.</p><p><strong>Passar för</strong><br>Eftersök, spaning och nattobservation där du vill ha 640-sensor och detektion till 1300 m i en kamera på 205 gram. Artbestämning ligger kring 280 m på vildsvin. Rör du dig mest i tät skog och på kortare håll räcker <a href=\"/products/rix-stride-st3-lite-dual-use-384x288-15-mm-varmekikare\" title=\"RIX Stride ST3 Lite 384x288 15 mm värmekikare\">Stride ST3 Lite</a> med 384-sensor och artbestämning kring 170 m, till lägre pris och 190 gram.</p><p><strong>Teknisk specifikation</strong><br>Sensor: 640x512, 12 µm<br>NETD: under 20 mK<br>Objektiv: 25 mm F1.0<br>Förstoring: 1-6x<br>Synfält: 17,5° × 13,1°<br>Skärm: OLED 1024x768<br>Detektionsräckvidd: upp till 1300 m<br>Bilduppdatering: 50 Hz<br>Minne: 32 GB<br>Anslutning: Wi-Fi, RIX+-app<br>Batteri: utbytbart 18650, USB-C<br>Batteritid: upp till 4 timmar<br>Tålighet: IP67, -20 till +50 °C<br>Vikt: 205 g<br>Garanti: 3 år, kan förlängas till 5 år vid registrering</p><p><strong>Vad följer med</strong><br>• Värmekamera<br>• 18650-batteri<br>• Adapterkit<br>• USB-C-kabel<br>• Batteriladdare<br>• Handledsrem<br>• Rengöringsduk<br>• Manual</p>",
+  "faq": [
+   {
+    "q": "Kan Stride ST6 Lite sitta på hjälmen?",
+    "a": "Ja, den kan användas både handhållen och hjälm- eller huvudselemonterad. Det är en observationskamera, inte ett clip-on för dagsikte."
+   },
+   {
+    "q": "Vilken sensor har Stride ST6 Lite?",
+    "a": "En stor 640x512-sensor med 12 µm pixelpitch och låg NETD under 20 mK för hög detaljrikedom."
+   },
+   {
+    "q": "Hur långt ser man med Stride ST6 Lite?",
+    "a": "Detektionsräckvidden är upp till 1300 meter, med ett brett synfält på 17,5 grader."
+   },
+   {
+    "q": "Hur mycket förstorar Stride ST6 Lite?",
+    "a": "1-6x, via det ljusstarka 25 mm F1.0-objektivet."
+   },
+   {
+    "q": "Hur lång batteritid har Stride ST6 Lite?",
+    "a": "Upp till 4 timmar på ett utbytbart 18650-batteri med USB-C-laddning."
+   },
+   {
+    "q": "Tål Stride ST6 Lite regn och kyla?",
+    "a": "Ja. IP67 mot damm och vatten, -20 till +50 °C, 32 GB minne och Wi-Fi till RIX+-appen."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK"
+  },
+  "title": "RIX Stride ST6 Lite 640x512 25 mm värmekikare",
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "title: 'Dual Use' borttaget (förbjuden term)",
+   "text: overifierat påstående 'En av världens minsta 640-värmekameror' borttaget",
+   "FAQ: fråga om 'Dual Use' omformulerad till hjälmmontage",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604795834708",
+  "handle": "rix-leap-l3r-384x288-35-mm-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<p>Värmesikte med inbyggd laseravståndsmätare. RIX Leap L3R kombinerar en 384x288-sensor, 35 mm-optik och en laser som mäter avstånd upp till 1200 meter, byggt för jakt, åteljakt och skyddsjakt i alla väder.</p><p><strong>Sensor och bild</strong><br>L3R bygger på en okyld VOx-sensor i 384x288 med 12 µm pixelpitch och en låg NETD under 20 mK. Låg NETD ger tydlig separering av små temperaturskillnader, så att viltet framträder även i dimma, regn och rimfrost. Bilden visas på en skarp AMOLED-skärm med 50 Hz bilduppdatering.</p><p><strong>Optik och avståndsmätare</strong><br>Det 35 mm-objektivet ger en kontinuerlig optisk zoom på 3,2x till 9,6x, plus digital zoom. Den inbyggda laseravståndsmätaren mäter upp till 1200 meter med ±1 meters noggrannhet. Detektionsräckvidden är upp till 1800 meter, alltså på vilket avstånd en varm signatur kan upptäckas. Artbestämning på vildsvin sker kring 400 meter.</p><p><strong>Byggd för fält</strong><br>Huset är IP67-klassat mot damm och vatten och fungerar i -20 till +50 °C. Strömmen kommer från ett utbytbart 18650-batteri. Inbyggd foto- och videoinspelning med 32 GB minne, och Wi-Fi för överföring till RIX+-appen. Passar standard 30 mm ringmontage.</p><p><strong>Passar för</strong><br>Jakt där du vill veta både vad och hur långt: 35 mm ger artbestämning kring 400 meter på vildsvin och lasern mäter till 1200 m med ±1 m, så hållet är känt innan du skjuter. Behöver du inte laser finns samma 35 mm-optik i <a href=\"/products/rix-leap-l3-v2-384x288-35-mm-varmesikte\" title=\"Leap L3 V2\">Leap L3 V2</a> till lägre pris, och på öppna fält ger <a href=\"/products/rix-leap-l6r-640x480-50-mm-varmesikte-med-laseravstandsmatare\" title=\"Leap L6R\">Leap L6R</a> med 640-sensor och 50 mm artbestämning kring 570 meter.</p><p><strong>Teknisk specifikation</strong><br>Sensor: 384x288, 12 µm<br>NETD: under 20 mK<br>Objektiv: 35 mm<br>Förstoring: 3,2-9,6x optisk<br>Synfält: 7,5° (H)<br>Skärm: AMOLED<br>Laseravståndsmätare: ja, upp till 1200 m (±1 m)<br>Detektionsräckvidd: upp till 1800 m<br>Bilduppdatering: 50 Hz<br>Minne: 32 GB<br>Anslutning: Wi-Fi, RIX+-app<br>Batteri: utbytbart 18650<br>Batteritid: upp till 4 timmar per batteri vid 22 °C<br>Montage: 30 mm ringar<br>Tålighet: IP67, -20 till +50 °C<br>Garanti: 3 år, kan förlängas till 5 år vid registrering</p><p><strong>Vad följer med</strong><br>• Värmesikte<br>• Ögonmussla<br>• Picatinny-montage med 30 mm ringar<br>• Insexnyckel<br>• Två 18650-batterier<br>• Batteriladdare<br>• USB-C-kabel<br>• Rengöringsduk<br>• Termiska måltavlor för inskjutning</p>",
+  "faq": null,
+  "metafields": {
+   "batteritid": "Upp till 4 h",
+   "vikt": "1200 g",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.rixoptics.com/product/leap-l3r-thermal-imaging-riflescopes/",
+   "https://cdn.shopify.com/s/files/1/0669/4299/2482/files/LEAP_L6R_L3R_User_Manual_4.0.pdf"
+  ],
+  "changes": [
+   "Vad följer med: dubbla montage (Picatinny-montage + Picatinny QR-sadelmontage) → ett Picatinny-montage med 30 mm ringar och insexnyckel; ögonmussla och måltavlor tillagda; linsskydd, bärväska, bruksanvisning borttagna (RIX Leap L3R/L6R-manual V4.0 'In the box' och rixoptics.com Package Contents)",
+   "text/custom.batteritid: upp till 10 h → upp till 4 h vid 22 °C (rixoptics.com och manual V4.0: 4 h)",
+   "custom.vikt: 1090 g → 1200 g (manual V4.0)",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15604803862868",
+  "handle": "rix-leap-l6r-640x480-50-mm-varmesikte-med-laseravstandsmatare",
+  "descriptionHtml": "<p>RIX Leap L6R kombinerar en stor 640-sensor, ljusstark 50 mm-optik och en inbyggd laseravståndsmätare, byggt för jakt, åteljakt och skyddsjakt på långa och varierande håll.</p><p><strong>Sensor och bild</strong><br>L6R bygger på en okyld VOx-sensor i 640x480 med 12 µm pixelpitch och en låg NETD under 20 mK. Den stora sensorn och låga NETD:n ger hög detaljrikedom och tydlig separering av värmesignaturer även i dimma, regn och kyla. Bilden visas på en skarp AMOLED-skärm, med färgpaletter som white hot, black hot och red hot.</p><p><strong>Optik och avståndsmätare</strong><br>Det 50 mm-objektivet ger en optisk zoom på 2,8x till 8,4x och lång räckvidd. Den inbyggda laseravståndsmätaren mäter upp till 1200 meter med ±1 meters noggrannhet. Detektionsräckvidden är upp till 2600 meter, alltså på vilket avstånd en varm signatur kan upptäckas. Artbestämning på vildsvin sker kring 570 meter.</p><p><strong>Byggd för fält</strong><br>Huset är i aluminium, IP67-klassat mot damm och vatten och tål rekyl upp till 1000 g. Strömmen kommer från ett utbytbart 18650-batteri, och siktet har foto- och videoinspelning samt Wi-Fi till RIX+-appen.</p><p><strong>Passar för</strong><br>Jakt på öppna fält där grisen står långt ut och du vill veta både vad och hur långt: 50 mm ger artbestämning kring 570 meter på vildsvin och lasern mäter till 1200 m. Behöver du inte laser har <a href=\"/products/rix-leap-l6-v2-640x480-50-mm-varmesikte\" title=\"Leap L6 V2\">Leap L6 V2</a> samma 640x480-sensor och 50 mm-objektiv till lägre pris, och vill du ha ett lättare 384-sikte med laser finns <a href=\"/products/rix-leap-l3r-384x288-35-mm-varmesikte-med-laseravstandsmatare\" title=\"Leap L3R\">Leap L3R</a> med artbestämning kring 400 meter.</p><p><strong>Teknisk specifikation</strong><br>Sensor: 640x480, 12 µm<br>NETD: under 20 mK<br>Objektiv: 50 mm<br>Förstoring: 2,8-8,4x optisk<br>Synfält: 8,8° × 4,9°<br>Skärm: AMOLED<br>Laseravståndsmätare: ja, upp till 1200 m (±1 m)<br>Detektionsräckvidd: upp till 2600 m<br>Bilduppdatering: 50 Hz<br>Material: aluminium<br>Anslutning: Wi-Fi, RIX+-app<br>Batteri: utbytbart 18650<br>Batteritid: upp till 4 timmar per batteri vid 22 °C<br>Tålighet: IP67, rekyl upp till 1000 g, -20 till +50 °C<br>Garanti: 3 år, kan förlängas till 5 år vid registrering</p><p><strong>Vad följer med</strong><br>• Värmesikte<br>• Ögonmussla<br>• Picatinny-montage med 30 mm ringar<br>• Insexnyckel<br>• Två 18650-batterier<br>• Batteriladdare<br>• USB-C-kabel<br>• Rengöringsduk<br>• Termiska måltavlor för inskjutning</p>",
+  "faq": [
+   {
+    "q": "Har RIX Leap L6R avståndsmätare?",
+    "a": "Ja. Inbyggd laseravståndsmätare upp till 1200 meter med ±1 m noggrannhet."
+   },
+   {
+    "q": "Vilken sensor har Leap L6R?",
+    "a": "En stor 640x480 VOx-sensor med 12 µm pixelpitch och låg NETD under 20 mK."
+   },
+   {
+    "q": "Hur långt ser man med Leap L6R?",
+    "a": "Detektionsräckvidden är upp till 2600 meter, alltså där en varm signatur kan upptäckas. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar Leap L6R?",
+    "a": "En optisk zoom från 2,8x till 8,4x med det ljusstarka 50 mm-objektivet."
+   },
+   {
+    "q": "Hur lång batteritid har Leap L6R?",
+    "a": "Upp till 4 timmar per 18650-batteri vid 22 °C, och två batterier ingår."
+   },
+   {
+    "q": "Tål Leap L6R tuff jakt?",
+    "a": "Ja. Aluminiumhus, IP67 mot damm och vatten och tål rekyl upp till 1000 g."
+   }
+  ],
+  "metafields": {
+   "batteritid": "Upp till 4 h",
+   "vikt": "1230 g",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.rixoptics.com/product/leap-l6r-thermal-imaging-riflescopes/",
+   "https://cdn.shopify.com/s/files/1/0669/4299/2482/files/LEAP_L6R_L3R_User_Manual_4.0.pdf"
+  ],
+  "changes": [
+   "Vad följer med: QR-sadelmontage → Picatinny-montage med 30 mm ringar och insexnyckel; ögonmussla och måltavlor tillagda; linsskydd, bärväska, manual borttagna (manual V4.0 'In the box', rixoptics.com)",
+   "text/FAQ/custom.batteritid: upp till 8 h → upp till 4 h vid 22 °C (rixoptics.com och manual V4.0)",
+   "custom.vikt: 1180 g → 1230 g (manual V4.0)",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528668758356",
+  "handle": "rusan-quick-detach-mount-for-sauer-404-303-sum-30-mm-h15",
+  "descriptionHtml": "<p><strong>Rusan snabbfäste i stål för Sauer 404 och Sauer 303 Gen. II, 30 mm, H15</strong></p><p>Helt i stål • 30 mm ringar • höjd 15 mm • repeterbart snabbfäste</p><p>Rusan snabbfäste är ett sadelfäste helt i stål för dig som monterar ett kikarsikte eller värmesikte med 30 mm mittrör på en Sauer 404 eller Sauer 303 Gen. II. Fästet öppnas och stängs med två sidoställda låsspakar, och klämkraften ställs in en gång och kontras separat för varje spak, vilket ger mycket god repeterbarhet när du tar av och sätter tillbaka siktet. Ringhöjden är 15 mm. Hela konstruktionen är i stål för hög styvhet och hållbarhet.</p><p>Ett repeterbart snabbfäste låter dig ta av siktet för transport, rengöring eller byte mellan optik och sätta tillbaka det med bibehållen nollställning. Stålkonstruktionen klarar rekyl från grova kalibrar bättre än lättare alternativ.</p><p><strong>Nyckelfunktioner</strong></p><ul>\n<li>\n<strong>Repeterbar nollställning.</strong> Klämkraften kontras separat per spak för konsekvent återgång till nollan.</li>\n<li>\n<strong>Snabb av- och påmontering.</strong> Två sidoställda låsspakar öppnas och stängs i sidled.</li>\n<li>\n<strong>Helt i stål.</strong> Styv och hållbar konstruktion som tål rekyl från grova kalibrar.</li>\n<li>\n<strong>Vapenspecifik passform.</strong> Sadelfäste för Sauer 404 och Sauer 303 Gen. II.</li>\n<li>\n<strong>För 30 mm sikten.</strong> Ringar för kikarsikte eller värmesikte med 30 mm mittrör.</li>\n</ul><p><strong>Teknisk specifikation</strong></p><ul>\n<li>Typ: snabbfäste (sadelfäste)</li>\n<li>Material: stål</li>\n<li>Passar: Sauer 404 och Sauer 303 Gen. II</li>\n<li>Ringdiameter: 30 mm</li>\n<li>Höjd: 15 mm</li>\n<li>Låsning: två sidoställda spakar med justerbar klämkraft</li>\n</ul><p><strong>Detta ingår</strong></p><ul><li>Snabbfäste med 30 mm ringar</li></ul><p>Fästet är gjort för Sauer 404 och Sauer 303 Gen. II med 30 mm sikte, och de två låsspakarna gör att du kan ta av siktet för transport och sätta tillbaka det med nollan kvar. Hur du väljer ringhöjd efter objektiv och pipa går vi igenom i guiden om <a href=\"/blogs/nyheter/ringar-fasten-kikarsikte-montage\" title=\"Ringar och fästen till kikarsikte\">ringar och fästen till kikarsikte</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "text: Claude-UI-klasser (class=\"font-claude-...\", Tailwind-listklasser) borttagna, innehållet oförändrat"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528667218260",
+  "handle": "rusan-weaver-rings-25-4-mm-quick-release-h10",
+  "descriptionHtml": "<p><strong>Rusan Weaver-ringar 25,4 mm, snabbfäste, H10</strong></p><p>25,4 mm tubdiameter • höjd 10 mm • snabbfäste • härdat stål</p><p>Rusan Weaver-ringar i 25,4 mm med snabbfäste är ett par stålringar för dig som monterar ett kikarsikte med 25,4 mm (1 tum) mittrör på en Weaver- eller Picatinny-skena. Snabbfästet gör att du kan ta av och sätta tillbaka siktet med bibehållen nollställning, och en rekyltapp på 3,6 mm fräst ur massivt material låser ringarna i skenans spår under rekyl. Höjden på 10 mm ger ett lågt montage nära pipan. Ringarna är tillverkade av härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</p><p>Ett lågt montage håller kikarsiktet nära pipan för snabb och naturlig anläggning. Snabbfästet låter dig ta av siktet vid transport eller byte mellan vapen, och stålkonstruktionen tål hård belastning bättre än enklare ringar i aluminium.</p><p><strong>Nyckelfunktioner</strong></p><ul>\n<li>\n<strong>Snabb av- och påmontering.</strong> Snabbfästet låter dig ta av och sätta tillbaka siktet med bibehållen nollställning.</li>\n<li>\n<strong>Justerbar klämkraft.</strong> Spakarna kan justeras och placeras i önskat läge.</li>\n<li>\n<strong>Håller nollan under rekyl.</strong> Rekyltapp på 3,6 mm, fräst ur massivt material, låser ringarna i skenans spår.</li>\n<li>\n<strong>Tål hård belastning.</strong> Härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</li>\n<li>\n<strong>Lågt montage.</strong> Höjd på 10 mm håller siktet nära pipan.</li>\n<li>\n<strong>För 25,4 mm kikarsikten.</strong> Passar sikten med 25,4 mm (1 tum) mittrör.</li>\n</ul><p><strong>Teknisk specifikation</strong></p><ul>\n<li>Tubdiameter: 25,4 mm</li>\n<li>Höjd: 10 mm (mätt från skenans ovansida till tubens underkant)</li>\n<li>Fästtyp: snabbfäste med justerbara spakar</li>\n<li>Montage: Weaver- och Picatinny-skena</li>\n<li>Ringbredd: 15 mm</li>\n<li>Rekyltapp: 3,6 mm, fräst ur massivt material</li>\n<li>Material: härdat stål, CNC-fräst ur massivt material</li>\n<li>Finish: svartoxiderad</li>\n</ul><p><strong>Detta ingår</strong></p><ul><li>Ett par ringfästen, 25,4 mm</li></ul><p>Med 10 mm höjd sitter ett 25,4 mm-sikte lågt över pipan, och snabbfästet låter dig ta av det och sätta tillbaka det med nollan kvar. Behöver objektivet lite mer fri höjd finns samma ringar i <a href=\"/products/rusan-weaver-rings-25-4-mm-quick-release-h12\" title=\"Rusan Weaver-ringar 25,4 mm, snabbfäste, H12\">H12</a>, och i guiden om <a href=\"/blogs/nyheter/ringar-fasten-kikarsikte-montage\" title=\"Ringar och fästen till kikarsikte\">ringar och fästen</a> går vi igenom hur du väljer höjd.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "text: Claude-UI-klasser (class=\"font-claude-...\", Tailwind-listklasser) borttagna, innehållet oförändrat"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528667414868",
+  "handle": "rusan-weaver-rings-25-4-mm-quick-release-h12",
+  "descriptionHtml": "<p><strong>Rusan Weaver-ringar 25,4 mm, snabbfäste, H12</strong></p><p>25,4 mm tubdiameter • höjd 12 mm • snabbfäste • härdat stål</p><p>Rusan Weaver-ringar i 25,4 mm med snabbfäste är ett par stålringar för dig som monterar ett kikarsikte med 25,4 mm (1 tum) mittrör på en Weaver- eller Picatinny-skena. Snabbfästet gör att du kan ta av och sätta tillbaka siktet med bibehållen nollställning, och en rekyltapp på 3,6 mm fräst ur massivt material låser ringarna i skenans spår under rekyl. Höjden på 12 mm ger en låg till medelhög montering nära pipan. Ringarna är tillverkade av härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</p><p>Snabbfästet passar dig som vill kunna ta av siktet snabbt, till exempel vid transport eller byte mellan vapen. Spakarna är justerbara och stålkonstruktionen tål hård belastning bättre än enklare ringar i aluminium.</p><p><strong>Nyckelfunktioner</strong></p><ul>\n<li>\n<strong>Snabb av- och påmontering.</strong> Snabbfästet låter dig ta av och sätta tillbaka siktet med bibehållen nollställning.</li>\n<li>\n<strong>Justerbar klämkraft.</strong> Spakarna kan justeras och placeras i önskat läge.</li>\n<li>\n<strong>Håller nollan under rekyl.</strong> Rekyltapp på 3,6 mm, fräst ur massivt material, låser ringarna i skenans spår.</li>\n<li>\n<strong>Tål hård belastning.</strong> Härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</li>\n<li>\n<strong>Låg, stabil montering.</strong> Höjd på 12 mm håller siktet nära pipan.</li>\n<li>\n<strong>För 25,4 mm kikarsikten.</strong> Passar sikten med 25,4 mm (1 tum) mittrör.</li>\n</ul><p><strong>Teknisk specifikation</strong></p><ul>\n<li>Tubdiameter: 25,4 mm</li>\n<li>Höjd: 12 mm (mätt från skenans ovansida till tubens underkant)</li>\n<li>Fästtyp: snabbfäste med justerbara spakar</li>\n<li>Montage: Weaver- och Picatinny-skena</li>\n<li>Ringbredd: 15 mm</li>\n<li>Rekyltapp: 3,6 mm, fräst ur massivt material</li>\n<li>Material: härdat stål, CNC-fräst ur massivt material</li>\n<li>Finish: svartoxiderad</li>\n</ul><p><strong>Detta ingår</strong></p><ul><li>Ett par ringfästen, 25,4 mm</li></ul><p>Med 12 mm höjd sitter ett 25,4 mm-sikte nära pipan, och snabbfästet låter dig ta av det vid transport och sätta tillbaka det med nollan kvar. Vill du sitta lägre finns samma ringar i <a href=\"/products/rusan-weaver-rings-25-4-mm-quick-release-h10\" title=\"Rusan Weaver-ringar 25,4 mm, snabbfäste, H10\">H10</a>, och vill du hellre skruva fast ringarna för hand finns <a href=\"/products/rusan-weaver-rings-25-4-mm-thumb-screw-h12\" title=\"Rusan Weaver-ringar 25,4 mm, vingskruv, H12\">H12 med vingskruv</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "text: Claude-UI-klasser (class=\"font-claude-...\", Tailwind-listklasser) borttagna, innehållet oförändrat"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528668004692",
+  "handle": "rusan-weaver-rings-25-4-mm-thumb-screw-h12",
+  "descriptionHtml": "<p><strong>Rusan Weaver-ringar 25,4 mm, vingskruv, H12</strong></p><p>25,4 mm tubdiameter • höjd 12 mm • vingskruvsfäste • härdat stål</p><p>Rusan Weaver-ringar i 25,4 mm är ett par stålringar för dig som monterar ett kikarsikte med 25,4 mm (1 tum) mittrör på en Weaver- eller Picatinny-skena. Ringarna fästs på skenan med vingskruv, vilket gör monteringen verktygsfri, och en rekyltapp på 3,6 mm fräst ur massivt material låser dem i skenans spår så att nollan sitter kvar under rekyl. Höjden på 12 mm ger en låg till medelhög montering som håller siktet nära pipan. Ringarna är tillverkade av härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</p><p>Låg ringhöjd ger ett kompakt och stabilt montage där kikarsiktet sitter nära pipan, vilket många föredrar för snabb och naturlig anläggning. Stålkonstruktionen tål hård belastning bättre än enklare ringar i aluminium.</p><p><strong>Nyckelfunktioner</strong></p><ul>\n<li>\n<strong>Verktygsfri montering på skenan.</strong> Vingskruvsfästet låter dig fästa och lossa ringarna på Weaver- eller Picatinny-skena för hand.</li>\n<li>\n<strong>Håller nollan under rekyl.</strong> Rekyltapp på 3,6 mm, fräst ur massivt material, låser ringarna i skenans spår.</li>\n<li>\n<strong>Tål hård belastning.</strong> Härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</li>\n<li>\n<strong>Låg, stabil montering.</strong> Höjd på 12 mm håller siktet nära pipan.</li>\n<li>\n<strong>För 25,4 mm kikarsikten.</strong> Passar sikten med 25,4 mm (1 tum) mittrör.</li>\n<li>\n<strong>Jämn klämkraft.</strong> Ringbredd på 15 mm fördelar klämkraften jämnt över tuben.</li>\n</ul><p><strong>Teknisk specifikation</strong></p><ul>\n<li>Tubdiameter: 25,4 mm</li>\n<li>Höjd: 12 mm (mätt från skenans ovansida till tubens underkant)</li>\n<li>Fästtyp: vingskruv</li>\n<li>Montage: Weaver- och Picatinny-skena</li>\n<li>Ringbredd: 15 mm</li>\n<li>Rekyltapp: 3,6 mm, fräst ur massivt material</li>\n<li>Material: härdat stål, CNC-fräst ur massivt material</li>\n<li>Finish: svartoxiderad</li>\n</ul><p><strong>Detta ingår</strong></p><ul><li>Ett par ringfästen, 25,4 mm</li></ul><p>Vingskruven gör att ringarna sitter fast på skenan utan verktyg, och 12 mm höjd håller ett 25,4 mm-sikte nära pipan. Vill du kunna ta av siktet med spakar och behålla nollan finns samma höjd med <a href=\"/products/rusan-weaver-rings-25-4-mm-quick-release-h12\" title=\"Rusan Weaver-ringar 25,4 mm, snabbfäste, H12\">snabbfäste</a>, och i guiden om <a href=\"/blogs/nyheter/ringar-fasten-kikarsikte-montage\" title=\"Ringar och fästen till kikarsikte\">ringar och fästen</a> går vi igenom hur du väljer ringhöjd.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "text: Claude-UI-klasser (class=\"font-claude-...\", Tailwind-listklasser) borttagna, innehållet oförändrat"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528667939156",
+  "handle": "rusan-weaver-rings-34-mm-quick-release-h18",
+  "descriptionHtml": "<p><strong>Rusan Weaver-ringar 34 mm, snabbfäste, H18</strong></p><p>34 mm tubdiameter • höjd 18 mm • snabbfäste • härdat stål</p><p>Rusan Weaver-ringar i 34 mm med snabbfäste är ett par stålringar för dig som monterar ett kikarsikte med 34 mm mittrör på en Weaver- eller Picatinny-skena. Snabbfästet gör att du kan ta av och sätta tillbaka siktet med bibehållen nollställning, och en rekyltapp på 3,6 mm fräst ur massivt material låser ringarna i skenans spår under rekyl. Höjden på 18 mm ger plats för grövre objektiv. Ringarna är tillverkade av härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</p><p>Snabbfästet passar dig som vill kunna ta av siktet snabbt, till exempel vid transport eller byte mellan vapen. Spakarna är justerbara så att klämkraften kan ställas in, och stålkonstruktionen tål hård belastning bättre än enklare ringar i aluminium.</p><p><strong>Nyckelfunktioner</strong></p><ul>\n<li>\n<strong>Snabb av- och påmontering.</strong> Snabbfästet låter dig ta av och sätta tillbaka siktet med bibehållen nollställning.</li>\n<li>\n<strong>Justerbar klämkraft.</strong> Spakarna kan justeras och placeras i önskat läge.</li>\n<li>\n<strong>Håller nollan under rekyl.</strong> Rekyltapp på 3,6 mm, fräst ur massivt material, låser ringarna i skenans spår.</li>\n<li>\n<strong>Tål hård belastning.</strong> Härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</li>\n<li>\n<strong>Plats för grova objektiv.</strong> Höjd på 18 mm ger fri höjd för större objektiv.</li>\n<li>\n<strong>För 34 mm kikarsikten.</strong> Passar sikten med 34 mm mittrör.</li>\n</ul><p><strong>Teknisk specifikation</strong></p><ul>\n<li>Tubdiameter: 34 mm</li>\n<li>Höjd: 18 mm (mätt från skenans ovansida till tubens underkant)</li>\n<li>Fästtyp: snabbfäste med justerbara spakar</li>\n<li>Montage: Weaver- och Picatinny-skena</li>\n<li>Ringbredd: 15 mm</li>\n<li>Rekyltapp: 3,6 mm, fräst ur massivt material</li>\n<li>Material: härdat stål, CNC-fräst ur massivt material</li>\n<li>Finish: svartoxiderad</li>\n</ul><p><strong>Detta ingår</strong></p><ul><li>Ett par ringfästen, 34 mm</li></ul><p>Höjden på 18 mm ger fri höjd för större objektiv på ett 34 mm-sikte, och snabbfästet tar av och sätter tillbaka siktet med nollan kvar. Kräver objektivet eller tornen ännu mer plats finns <a href=\"/products/rusan-weaver-rings-34-mm-thumb-screw-h24\" title=\"Rusan Weaver-ringar 34 mm, vingskruv, H24\">34 mm-ringar i H24 med vingskruv</a>. Hur du räknar fram rätt höjd går vi igenom i guiden om <a href=\"/blogs/nyheter/ringar-fasten-kikarsikte-montage\" title=\"Ringar och fästen till kikarsikte\">ringar och fästen</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "text: Claude-UI-klasser (class=\"font-claude-...\", Tailwind-listklasser) borttagna, innehållet oförändrat"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528668266836",
+  "handle": "rusan-weaver-rings-34-mm-thumb-screw-h24",
+  "descriptionHtml": "<p><strong>Rusan Weaver-ringar 34 mm, vingskruv, H24</strong></p>\n<p>34 mm tubdiameter • höjd 24 mm • vingskruvsfäste • härdat stål</p>\n<p>Rusan Weaver-ringar i 34 mm är ett par stålringar för dig som monterar ett kikarsikte med 34 mm mittrör på en Weaver- eller Picatinny-skena. Ringarna fästs på skenan med vingskruv, vilket gör monteringen verktygsfri, och en rekyltapp på 3,6 mm fräst ur massivt material låser dem i skenans spår så att nollan sitter kvar under rekyl. Höjden på 24 mm ger gott om plats för grova objektiv och höga torn. Ringarna är tillverkade av härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</p>\n<p>Rätt ringhöjd avgör hur lågt och stabilt kikarsiktet kan sitta. Med 24 mm höjd är det här paret avsett för uppsättningar där objektivet eller tornen kräver extra fri höjd över pipan, samtidigt som stålkonstruktionen klarar hård belastning bättre än enklare ringar i aluminium.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<ul>\n<li>\n<strong>Verktygsfri montering på skenan.</strong> Vingskruvsfästet låter dig fästa och lossa ringarna på Weaver- eller Picatinny-skena för hand, utan extra verktyg.</li>\n<li>\n<strong>Håller nollan under rekyl.</strong> Rekyltapp på 3,6 mm, fräst ur massivt material, låser ringarna i skenans spår.</li>\n<li>\n<strong>Tål hård belastning.</strong> Härdat stål, CNC-fräst ur massivt material med svartoxiderad finish.</li>\n<li>\n<strong>Plats för grova objektiv.</strong> Höjd på 24 mm ger fri höjd för stora objektiv och höga torn.</li>\n<li>\n<strong>För 34 mm kikarsikten.</strong> Passar kikarsikten med 34 mm mittrör.</li>\n<li>\n<strong>Jämn klämkraft.</strong> Ringbredd på 15 mm fördelar klämkraften jämnt över tuben.</li>\n</ul>\n<p><strong>Teknisk specifikation</strong></p>\n<ul>\n<li>Tubdiameter: 34 mm</li>\n<li>Höjd: 24 mm (mätt från skenans ovansida till tubens underkant)</li>\n<li>Fästtyp: vingskruv</li>\n<li>Montage: Weaver- och Picatinny-skena</li>\n<li>Ringbredd: 15 mm</li>\n<li>Rekyltapp: 3,6 mm, fräst ur massivt material</li>\n<li>Material: härdat stål, CNC-fräst ur massivt material</li>\n<li>Finish: svartoxiderad</li>\n</ul>\n<p><strong>Detta ingår</strong></p>\n<ul>\n<li>Ett par ringfästen, 34 mm</li>\n</ul>\n<p>Med 24 mm höjd får stora objektiv och höga torn plats på ett 34 mm-sikte, och vingskruven fäster ringarna på skenan utan verktyg. Räcker lägre höjd och vill du kunna ta av siktet med spakar finns <a href=\"/products/rusan-weaver-rings-34-mm-quick-release-h18\" title=\"Rusan Weaver-ringar 34 mm, snabbfäste, H18\">34 mm-ringar i H18 med snabbfäste</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "text: Claude-UI-klasser (class=\"font-claude-...\", Tailwind-listklasser) borttagna, innehållet oförändrat"
+  ]
+ }
+]

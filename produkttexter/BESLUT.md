@@ -72,3 +72,11 @@
 - Telson ARC/Toxin/TM Tactical: varv × MIL ≠ total står så hos Telson själva. Orört.
 - Sig ROMEO2/ROMEO-X Compact: våra texter säger 25 års garanti, Sig anger "Infinite Guarantee" + 5 år elektronik (USA). Ej verifierat för EU.
 - Sig-synfält: fler sikten kan ha fot/100 yd omräknat som m/100 m (t.ex. TANGO6T 32,2 m). Ej kontrollerat.
+
+### c1 PixFra/Pulsar/RIX
+- RIX Leap L3R och L6R: RIX anger 4 h, 1200/1230 g och en ringmontering; Astro Sweden anger 10 h, OLED 1024x768, QR-sadel och bärväska. Rättningen är INTE inlagd (vi kan sälja en annan variant). Bekräfta mot leverantören.
+- RIX-garanti: text "3 år" mot FAQ "5 år överlåtbar" (RIX US: 5 år för 384+ vid köp hos RIX). Orört.
+- Talion och Trail 3: manualen säger att fästet "säljs separat eller ingår beroende på modell". Kontrollera mot leverantören.
+- Thermion 2 XP50 Pro (utan LRF): vi anger 8,5 h och 900 g, Pulsar 10 h och 0,98 kg. Ej ändrat.
+- Mile M2: detektion 460/710 m på webben mot 500/800 m i databladet. Ej ändrat.
+- Volans V850: förstoring 4,9x enligt datablad och Astro, 4,3x på pixfra.com. Ändrat till 4,9x.

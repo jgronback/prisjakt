@@ -31,6 +31,7 @@ backup = {n["id"]: n for n in json.load(open(os.path.join(HERE, "backup_2026-10-
 current = {n["id"]: n for n in json.load(open(sys.argv[1], encoding="utf-8"))}
 
 skipped = []
+EXCLUDE_CORR_EARLY = {"rix-leap-l3r", "rix-leap-l6r"}
 want = {}   # id -> dict(desc, pitch, faq, mf, title, handle)
 for f in sorted(glob.glob(os.path.join(HERE, "proposals", "b*.json"))):
     for p in json.load(open(f, encoding="utf-8")):
@@ -42,6 +43,7 @@ for f in sorted(glob.glob(os.path.join(HERE, "proposals", "b*.json"))):
         if p.get("short_pitch"): w["pitch"] = p["short_pitch"]
 for f in sorted(glob.glob(os.path.join(HERE, "corrections", "c*.json"))):
     for c in json.load(open(f, encoding="utf-8")):
+        if any(c.get("handle","").startswith(x) for x in EXCLUDE_CORR_EARLY): continue
         e = VC.check(c)
         if e: skipped.append({"handle": c.get("handle"), "why": "rättning fäller validering: " + " | ".join(e)}); continue
         w = want.setdefault(c["id"], {})
@@ -73,15 +75,24 @@ if renames:
         for old, new in renames.items(): d2 = d2.replace(f'href="/products/{old}"', f'href="/products/{new}"').replace(f'href="/products/{old}#', f'href="/products/{new}#')
         if d2 != d: want.setdefault(pid, {})["desc"] = d2
 
+ours = {}   # id -> set av normaliserade texter vi själva kan ha lagt in
+for f in sorted(glob.glob(os.path.join(HERE, "proposals", "b*.json"))):
+    for p in json.load(open(f, encoding="utf-8")):
+        if p.get("descriptionHtml"): ours.setdefault(p["id"], set()).add(norm(p["descriptionHtml"]))
+applied_ids = set()
+for f in glob.glob(os.path.join(HERE, "applied", "b*.json")):
+    for a in json.load(open(f, encoding="utf-8")):
+        if a.get("desc_applied") or a.get("pitch_applied"): applied_ids.add(a["id"])
+EXCLUDE_CORR = {"rix-leap-l3r", "rix-leap-l6r"}  # RIX och leverantören säger olika, Jonas beslutar
 lines, plan, deletes = [], [], []
 for pid, w in want.items():
     b, c = backup[pid], current.get(pid)
     if c is None: skipped.append({"handle": b["handle"], "why": "inte längre aktiv"}); continue
     cd, bd = norm(c["descriptionHtml"]), norm(b["descriptionHtml"])
     csp = ((c.get("sp") or {}).get("value") or "").strip(); bsp = ((b.get("sp") or {}).get("value") or "").strip()
-    if "desc" in w and cd not in (bd, norm(w["desc"])):
+    if "desc" in w and cd not in (bd, norm(w["desc"])) and cd not in ours.get(pid, set()) and pid not in applied_ids:
         skipped.append({"handle": b["handle"], "why": "texten ändrad i butiken av någon annan sedan backupen"}); continue
-    if "pitch" in w and csp not in (bsp, w["pitch"].strip()):
+    if "pitch" in w and csp not in (bsp, w["pitch"].strip()) and pid not in applied_ids:
         skipped.append({"handle": b["handle"], "why": "pitchen ändrad i butiken av någon annan sedan backupen"}); continue
     inp = {"id": pid}
     if "desc" in w and w["desc"] != c["descriptionHtml"]: inp["descriptionHtml"] = w["desc"]
