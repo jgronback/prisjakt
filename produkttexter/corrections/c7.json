@@ -1,0 +1,503 @@
+[
+ {
+  "id": "gid://shopify/Product/12110394884436",
+  "handle": "hikmicro-condor-cq50l",
+  "descriptionHtml": "<p data-start=\"170\" data-end=\"472\">Condor CQ50L har längst räckvidd i HIKMICRO:s Condor-serie och är gjord för observation på långa håll. 640-sensorn med NETD under 20 mK, 50 mm f/1.0-objektivet och laseravståndsmätaren till 1 000 m ger detektion upp till 2 600 m och hållet till det du ser, vid nattjakt, eftersök och övervakning.</p>\n<h3 data-start=\"474\" data-end=\"496\">Nyckelfunktioner</h3>\n<p data-start=\"497\" data-end=\"1019\">• 640×512 VOx-sensor med 12 µm pixelpitch<br data-start=\"538\" data-end=\"541\">• Termisk känslighet (NETD) &lt; 20 mK för tydlig bild i svåra förhållanden<br data-start=\"613\" data-end=\"616\">• 50 mm f/1.0-lins för lång räckvidd<br data-start=\"652\" data-end=\"655\">• Optisk förstoring 3×, digital zoom upp till totalt 24×<br data-start=\"711\" data-end=\"714\">• OLED-display med 1024×768 upplösning<br data-start=\"752\" data-end=\"755\">• Inbyggd laseravståndsmätare upp till 1 000 m med ±1 m noggrannhet<br data-start=\"822\" data-end=\"825\">• Detektionsräckvidd upp till 2 600 m<br data-start=\"862\" data-end=\"865\">• 64 GB intern lagring för video, bild och ljud<br data-start=\"912\" data-end=\"915\">• IP67-klassad för skydd mot väta och damm<br data-start=\"957\" data-end=\"960\">• Tre utbytbara 18650-batterier ingår: upp till 4 timmar per batteri, cirka 6 timmar på tre batterier med laser och hotspot på</p>\n<h3 data-start=\"1021\" data-end=\"1048\">Teknisk specifikation</h3>\n<p data-start=\"1049\" data-end=\"1498\">Sensor (termisk): 640×512 @ 12 µm<br data-start=\"1082\" data-end=\"1085\">NETD: &lt; 20 mK<br data-start=\"1098\" data-end=\"1101\">Lins: 50 mm f/1.0<br data-start=\"1118\" data-end=\"1121\">Förstoring: 3× optisk, upp till 24× digital<br data-start=\"1164\" data-end=\"1167\">Display: 0,39″ OLED, 1024×768<br data-start=\"1196\" data-end=\"1199\">Synfält: 8,7° × 7,0°<br data-start=\"1219\" data-end=\"1222\">Detektionsräckvidd: upp till 2 600 m<br data-start=\"1258\" data-end=\"1261\">Laseravståndsmätare: upp till 1 000 m, ±1 m<br data-start=\"1304\" data-end=\"1307\">Lagring: 64 GB intern<br data-start=\"1328\" data-end=\"1331\">Batteritid: upp till 4 h per batteri (25 °C, hotspot av), cirka 6 h med tre batterier (laser och hotspot på)<br data-start=\"1383\" data-end=\"1386\">Skyddsklass: IP67<br data-start=\"1403\" data-end=\"1406\">Vikt: ca 450 g (utan batteri)<br data-start=\"1435\" data-end=\"1438\">Mått: 197,1 × 60 × 94,9 mm<br data-start=\"1460\" data-end=\"1463\">Drifttemperatur: –30 °C till +55 °C</p>\n<h3 data-start=\"1500\" data-end=\"1517\">Detta ingår</h3>\n<p data-start=\"1518\" data-end=\"1648\">• HIKMICRO Condor CQ50L<br data-start=\"1541\" data-end=\"1544\">• 3× 18650-batterier<br data-start=\"1564\" data-end=\"1567\">• USB-C-kabel<br data-start=\"1580\" data-end=\"1583\">• Magnetiskt linsskydd<br data-start=\"1605\" data-end=\"1608\">• Axelrem<br data-start=\"1617\" data-end=\"1620\">• Förvaringsväska<br data-start=\"1637\" data-end=\"1640\">• Manual</p>\n<p data-start=\"1650\" data-end=\"1817\" data-is-last-node=\"\" data-is-only-node=\"\">50 mm-objektivet ger artbestämning kring 570 m på vildsvin, så du kan bedöma djuret på andra sidan stora fält och mossar, och de tre medföljande batterierna räcker cirka 6 timmar med laser och hotspot på. Jagar du mest i skog eller blandterräng ger <a href=\"/products/hikmicro-condor-cq35l\" title=\"HIKMICRO Condor CQ35L\">Condor CQ35L</a> bredare bild och artbestämning kring 400 m, och <a href=\"/products/hikmicro-condor-cq50l-2-0-thermal-monocular\" title=\"HIKMICRO Condor CQ50L 2.0 Termisk monokikare\">CQ50L 2.0</a> har F0.9-optik, NETD under 15 mK och slutarfri bild.</p>",
+  "faq": [
+   {
+    "q": "Har Condor CQ50L avståndsmätare?",
+    "a": "Ja, inbyggd laser upp till 1000 m med ±1 m noggrannhet."
+   },
+   {
+    "q": "Vilken sensor har CQ50L?",
+    "a": "En 640x512-sensor med 12 µm pixel och NETD under 20 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till 2600 m med 50 mm f/1.0. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "3x optiskt upp till 24x med digital zoom."
+   },
+   {
+    "q": "Hur länge räcker batteriet?",
+    "a": "Upp till 4 h per batteri med hotspot av, och cirka 6 h på de tre medföljande 18650-batterierna med laser och hotspot på."
+   },
+   {
+    "q": "Hur tålig är den?",
+    "a": "IP67, drift -30 till +55 grader. Vikt cirka 450 g utan batteri."
+   }
+  ],
+  "metafields": {
+   "short_pitch": "Condor-seriens längsta räckvidd: 640-sensor bakom 50 mm f/1.0 och laser upp till 1000 m. Detektion upp till 2600 m, tre 18650-batterier ingår.",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/f37fe67a7a7b4e5e964fd6bb598b2f5e.pdf",
+   "https://www.hikmicrotech.com/se/outdoor-products/condor-thermal-lrf-monocular/"
+  ],
+  "changes": [
+   "descriptionHtml/faq/short_pitch: batteritid \"upp till 12 h (3×18650)\" → upp till 4 h per batteri, ca 6 h med tre batterier (LRF och hotspot på), källa HIKMICRO datablad CQ50L + hikmicrotech.com/se Condor",
+   "descriptionHtml: mått 197 × 60 × 95 mm → 197,1 × 60 × 94,9 mm (datablad)",
+   "metafält netd: \"20 mK\" → \"≤20 mK\" (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388724052",
+  "handle": "hikmicro-falcon-fq25-thermal-monocular",
+  "descriptionHtml": "<p>HIKMICRO Falcon FQ25 är en handhållen termisk monokikare för jakt och viltobservation i mörker. Utrustad med en 640 × 512 infraröd detektor och en 12 μm sensor, erbjuder den ett NETD-värde på mindre än 20 mK, vilket säkerställer hög känslighet och tydliga bilder. Monokularen har en OLED-display med en upplösning på 1024 × 768 och 1,42× grundförstoring med digital zoom i stegen 1×, 2×, 4× och 8×. Med ett minsta fokuseringsavstånd på 2,5 m och detektion upp till 1 200 m täcker den allt från eftersöket på nära håll till fältkanten. Den väger 500 g och har ett hölje i magnesium. En IP67-klassning innebär att den är vattentät och kan sänkas ned i 1 meter djupt vatten i upp till 30 minuter. Knapparna går att hitta i mörker och med handskar. Monokularen drivs av ett utbytbart li-ion-batteri med en drifttid på upp till 5 timmar.<br>\n<br>\nNyckelfunktioner<br>\n• Lätt och kompakt design<br>\n• Upptäcktsområde på upp till 1200 m<br>\n• 640 × 512 infraröd detektor med 12 μm sensor<br>\n• Knappar som går att hitta med handskar<br>\n• IP67-klassad<br>\n• Välj mellan olika paletter - Black Hot, White Hot, Red Hot, Fusion<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 190,3 mm<br>\n* Bredd: 58,3 mm<br>\n* Höjd: 66,9 mm<br>\n* Vikt: 500 g<br>\n<br>\nDetta ingår<br>\n- Termisk monokulär<br>\n- Laddningsbart li-ion-batteri<br>\n- USB-laddningskabel<br>\n- Användarmanual<br>\n<br>\n25 mm-objektivet ger bred bild åt 640-sensorn och artbestämning kring 280 m på vildsvin, vilket passar skog, hyggen och eftersök där viltet dyker upp nära. Spanar du även över öppna fält når <a href=\"/products/hikmicro-falcon-fq35-2-0-thermal-monocular\" title=\"HIKMICRO Falcon FQ35 2.0 Termisk monokikare\">Falcon FQ35 2.0</a> kring 400 m med NETD under 15 mK, och <a href=\"/products/hikmicro-falcon-fq50-2-0-thermal-monocular\" title=\"HIKMICRO Falcon FQ50 2.0 Termisk monokikare\">FQ50 2.0</a> kring 570 m.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/9b1aff8c27824b1d9e074e8e22230769.pdf"
+  ],
+  "changes": [
+   "descriptionHtml: mått längd 11 cm/bredd 5 cm/höjd 23 cm → 190,3/58,3/66,9 mm (datablad FQ25 V5.5.61)",
+   "descriptionHtml: \"8x zoom\" → 1,42× grundförstoring + digital zoom 1×/2×/4×/8× (datablad), löser konflikten mot metafält 1.4-11.2x"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395605332",
+  "handle": "hikmicro-habrok-4k-he25l-850nm",
+  "descriptionHtml": "<p>HIKMICRO Habrok 4K HE25L 850nm är en multispektral kikare med värmedetektor och en 3840 × 2160 4K CMOS-detektor i samma hus: du letar upp viltet i värmebilden och växlar till 4K-kanalen för att se detaljer. En inbyggd laseravståndsmätare mäter 10 till 1000 m med ±1 m noggrannhet, och kikaren väger 795 g utan batterier. Kikaren har en förstoring på 5,5x till 22,0x, ett termiskt detekteringsområde på upp till 1200 m och är IP67-klassad för att klara tuffa väderförhållanden. Den har även inbyggd film- och fotoinspelning samt möjlighet att växla mellan olika färgpaletter och optiska lägen, vilket förbättrar synligheten beroende på miljön.<br>\n<br>\nNyckelfunktioner<br>\n• Värmedetektor 256 × 192 px, 12 µm, NETD under 35 mK<br>\n• 3840 × 2160 4K ultrahögupplöst CMOS-detektor<br>\n• 25 mm, F1.0-objektiv med termiskt detekteringsområde på upp till 1200 m<br>\n• Förstoringsgrad på 5,5x till 22,0x (4x)<br>\n• IP67-klassad för robust användning<br>\n• 64 GB internminne för film-, foto- och ljudinspelning<br>\n• Laseravståndsmätare 10 till 1000 m, ±1 m<br>\n• 850 nm IR-LED för bättre bild i mörker<br>\n• Upp till 8 timmars drift med utbytbart batteri<br>\n• USB-C strömförsörjning för extra bekvämlighet<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 223 mm<br>\n* Bredd: 138 mm<br>\n* Höjd: 68,2 mm<br>\n* Vikt: 795 g utan batterier<br>\n<br>\nDetta ingår<br>\n• Habrok 4K HE25L<br>\n• Halsrem<br>\n• USB-C-kabel<br>\n• Stativadapter<br>\n• Batteri (×4)<br>\n• Batteriladdare<br>\n• Luddfri duk<br>\n• Snabbstartsguide<br>\n<br>\nVärmekanalen med 25 mm F1.0 ger artbestämning kring 280 m på vildsvin, och 4K-kanalen visar detaljerna när ljuset räcker. Upp till 8 timmars drift på utbytbart batteri räcker för en lång natt vid åteln. Nyare <a href=\"/products/hikmicro-habrok-4k-he25l-2-0-multispektral-kikare\" title=\"HIKMICRO Habrok 4K HE25L 2.0 multispektral kikare\">HE25L 2.0</a> har NETD under 18 mK mot 35 mK och utbytbar IR, och vill du ha osynlig IR finns <a href=\"/products/hikmicro-habrok-4k-he25ln-940nm\" title=\"HIKMICRO Habrok 4K HE25LN 940nm\">HE25LN 940nm</a>.</p>",
+  "faq": [
+   {
+    "q": "Vad betyder multispektral på HE25L?",
+    "a": "Den kombinerar en värmedetektor och en 4K CMOS-kamera i samma kikare, för både dag- och nattbruk."
+   },
+   {
+    "q": "Har HE25L avståndsmätare?",
+    "a": "Ja, inbyggd laser som mäter 10 till 1000 m med ±1 m noggrannhet."
+   },
+   {
+    "q": "Hur långt ser man i värme?",
+    "a": "Termiskt detekteringsområde upp till cirka 1200 m med 25 mm F1.0-linsen."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "5,5x till 22x, med fyrstegs digital zoom."
+   },
+   {
+    "q": "Fungerar den i mörker?",
+    "a": "Ja. Inbyggd 850 nm IR-LED förbättrar synligheten i mörka förhållanden."
+   },
+   {
+    "q": "Kan man spela in?",
+    "a": "Ja, film, foto och ljud sparas på 64 GB internminne, och man kan växla mellan värmepaletter och dag-, natt- och autoläge."
+   },
+   {
+    "q": "Hur länge räcker batteriet?",
+    "a": "Minst 8 h med hotspot av, på utbytbara batterier med USB-C. IP67 och 795 g utan batterier."
+   }
+  ],
+  "metafields": {
+   "vikt": "795 g"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/0911b8f1c5e94712aac1c86eb780961a.pdf",
+   "https://www.hikmicrotech.com/se/outdoor-products/habrok-4k-multi-spectrum-binocular/"
+  ],
+  "changes": [
+   "descriptionHtml/faq: laseravståndsmätare 1000 m saknades i texten trots lrf=true → tillagd (datablad: LRF 10-1000 m, ±1 m). lrf=true och NETD ≤35 mK är korrekta enligt datablad (1:a generationen; 2.0 har 18 mK)",
+   "descriptionHtml: \"Kraftfull värmedetektor\" → 256 × 192 px, 12 µm, NETD under 35 mK (datablad)",
+   "descriptionHtml: mått 21/15/7,95 cm → 223/138/68,2 mm, vikt ca 800 g → 795 g utan batterier (datablad)",
+   "descriptionHtml/faq: \"64 GB minneskort\" → 64 GB internminne (Built-in EMMC, datablad)",
+   "descriptionHtml Detta ingår → officiell lista: halsrem, Type-C-kabel, stativadapter, 4 batterier, batteriladdare, luddfri duk, QSG (datablad s. 5)",
+   "metafält vikt: \"800 g\" → \"795 g\""
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12473857835348",
+  "handle": "hikmicro-habrok-4k-he25l-2-0-multispektral-kikare",
+  "descriptionHtml": "<p data-start=\"0\" data-end=\"32\"><strong data-start=\"0\" data-end=\"32\">HIKMICRO Habrok 4K HE25L 2.0</strong></p>\n<p data-start=\"34\" data-end=\"196\"><strong data-start=\"34\" data-end=\"49\">Snabbfakta:</strong> 256×192 (12 µm) med NETD &lt;18 mK, 25 mm F1.0 (detektion upp till 1 200 m), 4K CMOS 3840×2160 med 60 mm optik, laseravståndsmätare upp till 1 000 m.</p>\n<p data-start=\"198\" data-end=\"539\">HABROK 4K HE25L 2.0 är en multispektral kikare som kombinerar värmebild och 4K digital dag/natt i samma enhet. Du kan söka av marker och skog med värme för att snabbt hitta värmesignaturer, och sedan växla till 4K-kanalen när du vill artbestämma och se detaljer. En inbyggd laseravståndsmätare hjälper dig få exakta avstånd direkt i kikaren.</p>\n<p data-start=\"541\" data-end=\"1395\"><strong data-start=\"541\" data-end=\"561\">Nyckelfunktioner</strong><br data-start=\"561\" data-end=\"564\">• Hitta värmesignaturer snabbt i skog och fält: 256×192 värmesensor (12 µm) med NETD &lt;18 mK.<br data-start=\"656\" data-end=\"659\">• Tydlig värmebild även när det är “svårt ljus”: 25 mm F1.0 och värmedetektion upp till 1 200 m.<br data-start=\"755\" data-end=\"758\">• Se detaljer när du behöver identifiera: 4K CMOS 3840×2160 och 60 mm optik med 5,5× till 22× förstoring.<br data-start=\"863\" data-end=\"866\">• Mät avstånd direkt i kikaren: inbyggd laseravståndsmätare upp till 1 000 m med ±1 m noggrannhet.<br data-start=\"964\" data-end=\"967\">• För mörker: utbytbar IR-belysning (940 nm som standard, 850 nm som alternativ) och nattvisningsräckvidd upp till 400 m.<br data-start=\"1088\" data-end=\"1091\">• Smidigare bild när du zoomar: elektronisk bildstabilisering i både termisk och digital kanal (från 2×).<br data-start=\"1196\" data-end=\"1199\">• Dokumentera och dela: foto, video och ljudinspelning med 64 GB intern lagring samt anslutning via app.<br data-start=\"1303\" data-end=\"1306\">• Byggd för väder och tuff användning: IP67 och driftstemperatur från -30 °C till +55 °C.</p>\n<p data-start=\"1397\" data-end=\"2358\"><strong data-start=\"1397\" data-end=\"1422\">Teknisk specifikation</strong><br data-start=\"1422\" data-end=\"1425\">• Värmesensor: 256×192 VOx, 12 µm, 50 Hz<br data-start=\"1465\" data-end=\"1468\">• NETD: &lt;18 mK (vid 25 °C, F1.0)<br data-start=\"1500\" data-end=\"1503\">• Värmeobjektiv: 25 mm F1.0<br data-start=\"1530\" data-end=\"1533\">• Detektering (värme): upp till 1 200 m<br data-start=\"1572\" data-end=\"1575\">• Förstoring (värme): 4,3× till 17,2×<br data-start=\"1612\" data-end=\"1615\">• Synfält (värme): 7,0° × 5,3° (12,2 m × 9,3 m på 100 m)<br data-start=\"1671\" data-end=\"1674\">• Digital sensor: 1/1.8” CMOS, 3840×2160<br data-start=\"1714\" data-end=\"1717\">• Digital optik: 60 mm F2.2<br data-start=\"1744\" data-end=\"1747\">• Förstoring (digital): 5,5× till 22×<br data-start=\"1784\" data-end=\"1787\" data-is-only-node=\"\">• Synfält (digital): 7,3° × 4,1° (12,8 m × 7,2 m på 100 m)<br data-start=\"1845\" data-end=\"1848\">• IR-belysning: 940 nm (standard) eller 850 nm (utbytbar)<br data-start=\"1905\" data-end=\"1908\">• Nattvisningsräckvidd (digital): upp till 400 m<br data-start=\"1956\" data-end=\"1959\">• Display: OLED 1920×1080<br data-start=\"1984\" data-end=\"1987\">• Dioptrijustering: -5D till +3D<br data-start=\"2019\" data-end=\"2022\">• Pupillavstånd: 60 till 74 mm<br data-start=\"2052\" data-end=\"2055\">• Intern lagring: 64 GB<br data-start=\"2078\" data-end=\"2081\">• Skyddsklass: IP67<br data-start=\"2100\" data-end=\"2103\">• Driftstid: ≥6,5 h (vid 25 °C, med hotspot och LRF på)<br data-start=\"2158\" data-end=\"2161\">• Laddning/ström: USB-C (stöd för extern ström och direktladdning)<br data-start=\"2227\" data-end=\"2230\">• Mått: 143,1 × 74,8 × 223,3 mm<br data-start=\"2261\" data-end=\"2264\">• Vikt: 895 g (utan batterier)<br data-start=\"2294\" data-end=\"2297\">• Laseravståndsmätare: 10 till 1 000 m, ±1 m, klass 1, 905 nm</p>\n<p><strong>Detta ingår</strong><br>• Habrok 4K HE25L 2.0<br>• Halsrem<br>• USB-C-kabel<br>• Stativadapter<br>• Batteri (×4)<br>• Utbytbar IR-belysning (×1)<br>• Batteriladdare<br>• Luddfri duk<br>• Snabbstartsguide</p>\n<p>Med 25 mm-objektivet når värmekanalen artbestämning kring 280 m på vildsvin, och 4K-kanalen med 60 mm optik låter dig se detaljer på djuret när det finns ljus. Det räcker vid åteln och i skogen. Spanar du över större fält ger <a href=\"/products/hikmicro-habrok-4k-hh35l-2-0-multispektral-kikare\" title=\"HIKMICRO Habrok 4K HH35L 2.0 multispektral kikare\">Habrok 4K HH35L 2.0</a> med 384-sensor och 35 mm artbestämning kring 400 m, med samma 4K-kanal och laser.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/e32eb7dd2cd149eb8691fc1614ecbd0b.pdf"
+  ],
+  "changes": [
+   "descriptionHtml: avsnittet Detta ingår saknades → tillagt enligt officiell tillbehörslista i datablad HE25L 2.0 V6.0.2 (halsrem, Type-C-kabel, stativadapter, 4 batterier, utbytbar IR-belysning, QSG, luddfri duk, batteriladdare)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397309268",
+  "handle": "hikmicro-habrok-4k-hq35l",
+  "descriptionHtml": "<p>HIKMICRO Habrok 4K HQ35L är en multispektral kikare som upptäcker värmesignaturer på avstånd upp till 1800 meter, för jakt, skytte och spaning. Den har en 640 × 512 termisk detektor med NETD på mindre än 20 mK. Den 35 mm termiska linsen ger förstoring från 3,0x till 22,0x. Den har även en 3840 × 2160 (4K) CMOS digital detektor som ger en optisk förstoring från 5,5x till 22,0x. Kikaren är utrustad med en inbyggd laseravståndsmätare som kan mäta upp till 1000 meter, så du vet hållet innan du går vidare. <br>\n<br>\nNyckelfunktioner:<br>\n• Termisk detektor med 640 × 512 upplösning<br>\n• NETD &lt; 20 mK för hög känslighet<br>\n• 35 mm termisk lins med detekteringsområde upp till 1800 m<br>\n• 3840 × 2160 (4K) CMOS digital detektor<br>\n• Integrerad laseravståndsmätare upp till 1000 m<br>\n• Lång batteritid på över 8 timmar<br>\n• Ergonomisk och IP67-klassad konstruktion<br>\n• Lättviktig design på 798 g<br>\n• Utbytbar IR-belysning: 940 nm monterad, 850 nm medföljer<br>\n<br>\nTeknisk specifikation:<br>\n* Längd: 222,4 mm<br>\n* Bredd: 138,1 mm<br>\n* Höjd: 68,5 mm<br>\n* Vikt: 798 g utan batteri<br>\n<br>\nDetta ingår:<br>\n• Nackrem (×1)<br>\n• Typ-C-kabel (×1)<br>\n• Tripodadapter (×1)<br>\n• Batteri (×4)<br>\n• Utbytbar IR-illuminator (850 nm) (×1)<br>\n• Snabbstartsguide (×1)<br>\n• Luddfri duk (×1)<br>\n• Batteriladdare (×1)<br>\n• Bärsele för kikare (×1)<br>\n<br>\n640-sensorn ger bredare bild över fält och hyggen, och 4K-kanalen låter dig bedöma djuret när det finns ljus. Artbestämningen når kring 400 m på vildsvin, samma som <a href=\"/products/hikmicro-habrok-4k-hh35l-2-0-multispektral-kikare\" title=\"HIKMICRO Habrok 4K HH35L 2.0 multispektral kikare\">Habrok 4K HH35L 2.0</a> med 384-sensor till lägre pris. Över 8 timmars drift räcker för de längsta passen.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/e4daf4d7841b49edbd9b3422f9ca464a.pdf"
+  ],
+  "changes": [
+   "descriptionHtml: mått 28,5/16,2/\"Höjd 0 cm\" → 222,4/138,1/68,5 mm (datablad HQ35L 5.5-22x60 V5.5.97)",
+   "descriptionHtml: IR 850+940 förtydligat: 940 nm monterad (default), 850 nm utbytbar och medföljer, stämmer med Detta ingår (datablad)",
+   "descriptionHtml Detta ingår: \"Linjefri duk (×3)\" → Luddfri duk (×1) enligt datablad; \"Binokulär sele\" → Bärsele för kikare (språk)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396260692",
+  "handle": "hikmicro-habrok-hq35l-850nm",
+  "descriptionHtml": "<p>HIKMICRO Habrok HQ35L 850nm är en multispektral kikare med värmekanal, CMOS-dagkamera, IR-belysning och laser i samma hus. Med en upplösning på 640 × 512 pixlar och en högkänslig termisk modul erbjuder denna kikare en termisk detektor med NETD &lt; 20 mK, vilket gör den idealisk för jakt i mörka förhållanden. Den har en 35 mm F1.0-lins som ger ett termiskt upptäcktsavstånd på upp till 1800 meter. Dess 2560 × 1440 högupplösta CMOS-detektor och 1920 × 1080 upplösning på OLED-displayen säkerställer en klar och tydlig bild. Kikaren är utrustad med inbyggd 850nm IR-belysning och en laseravståndsmätare som sträcker sig upp till 1000 meter. Den väger 780 gram och är IP67-klassad för att klara tuffa väderförhållanden.<br>\n<br>\nNyckelfunktioner<br>\n• 640 × 512 upplösning med termisk detektor<br>\n• NETD &lt; 20 mK för hög känslighet<br>\n• 35 mm F1.0-lins med upptäcktsavstånd upp till 1800 m<br>\n• 2560 × 1440 högupplöst CMOS-detektor<br>\n• 1920 × 1080 upplösning på 0,49-tums OLED-display<br>\n• Inbyggd 850nm IR-belysning<br>\n• Laseravståndsmätare med upp till 1000 m mätavstånd<br>\n• Lätt och kompakt design på 780 g<br>\n• IP67-klassad för väderbeständighet<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 212,4 mm<br>\n* Bredd: 138,2 mm<br>\n* Höjd: 68,4 mm<br>\n* Vikt: 780 g utan batterier<br>\n<br>\nDetta ingår<br>\n• Habrok HQ35L<br>\n• Halsrem<br>\n• USB-C-kabel<br>\n• Stativadapter<br>\n• Batteri (×4)<br>\n• Batteriladdare<br>\n• Luddfri duk<br>\n• Snabbstartsguide<br>\n<br>\n640-sensorn bakom 35 mm ger bred överblick över fält och hyggen och artbestämning kring 400 m på vildsvin, och 850 nm-belysningen ger dagkameran bild i mörker. Med osynlig 940 nm IR heter samma kikare <a href=\"/products/hikmicro-habrok-hq35ln-940nm\" title=\"HIKMICRO Habrok HQ35LN 940nm\">Habrok HQ35LN 940nm</a>, och <a href=\"/products/hikmicro-habrok-4k-hq35l\" title=\"HIKMICRO Habrok 4K HQ35L\">Habrok 4K HQ35L</a> har 4K-kanal till lägre pris.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/4c4584786fc3445caba2beef4aadeb38.pdf"
+  ],
+  "changes": [
+   "descriptionHtml: platshållare \"[X cm]\" → mått 212,4 × 138,2 × 68,4 mm (datablad HQ35L V5.5.80)",
+   "descriptionHtml Detta ingår: \"Laddningsbart batteri, Användarmanual\" → officiell lista med 4 batterier, laddare, halsrem, stativadapter, duk, QSG (datablad)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397538644",
+  "handle": "hikmicro-habrok-pro-hx60l-multi-spectrum-binocular",
+  "descriptionHtml": "<p data-start=\"157\" data-end=\"831\">HIKMICRO Habrok PRO HX60L är en multispektral kikare med värmekanal och 4K-kanal för observation på långa håll, dag som natt. Med en termisk detektor på 1280 × 1024 och en 4K CMOS-sensor ger den skarpa bilder oavsett tid på dygnet. Den 60 mm termiska linsen ger ett upptäckaravstånd på upp till 3100 meter, och den inbyggda laseravståndsmätaren möjliggör precisa mätningar upp till 1000 meter. HX60L är utrustad med en utbytbar 850 nm IR-lampa för ökad synlighet i mörker, och är IP67-klassad för att tåla tuffa väderförhållanden. Batteriet räcker över 9,5 timmar.</p>\n<p data-start=\"833\" data-end=\"1280\"><strong data-start=\"833\" data-end=\"853\">Nyckelfunktioner</strong><br data-start=\"853\" data-end=\"856\">• Termisk detektor med 1280 × 1024 upplösning och &lt;18 mK känslighet<br data-start=\"923\" data-end=\"926\">• 4K CMOS-sensor (3840 × 2160) för digital observation<br data-start=\"980\" data-end=\"983\">• 60 mm termisk lins med upptäckaravstånd upp till 3100 meter<br data-start=\"1044\" data-end=\"1047\">• IR-lampa (850 nm) för förbättrad nattprestanda<br data-start=\"1095\" data-end=\"1098\">• Laseravståndsmätare med upp till 1000 meters räckvidd<br data-start=\"1153\" data-end=\"1156\" data-is-only-node=\"\">• Över 9,5 timmars batteritid<br data-start=\"1185\" data-end=\"1188\">• IP67-klassad för vatten- och dammtålighet<br data-start=\"1231\" data-end=\"1234\">• Inbyggd video- och ljudinspelning samt GPS</p>\n<p data-start=\"1282\" data-end=\"1367\"><strong data-start=\"1282\" data-end=\"1307\">Teknisk specifikation</strong><br data-start=\"1307\" data-end=\"1310\">Längd: 231,5 mm<br>Bredd: 152,8 mm<br>Höjd: 81,95 mm<br>Vikt: 1050 g med batteripaket</p>\n<p data-start=\"1369\" data-end=\"1508\"><strong data-start=\"1369\" data-end=\"1384\">Detta ingår</strong><br data-start=\"1384\" data-end=\"1387\">• HIKMICRO Habrok PRO HX60L med 850 nm IR-belysning<br>• Halsrem<br>• USB-C-kabel<br>• Stativadapter<br>• Batteripaket (×2)<br>• Batteriladdare<br>• Bärsele för kikare<br>• Luddfri duk<br>• Snabbstartsguide</p>\n<p data-start=\"1510\" data-end=\"1701\">1280-sensorn bakom 60 mm ger artbestämning kring 680 m på vildsvin, så du kan bedöma djuret på stora marker långt innan du behöver gå närmare. Med osynlig 940 nm IR heter samma kikare <a href=\"/products/hikmicro-habrok-pro-hx60ln-multi-spectrum-binocular\" title=\"HIKmicro Habrok PRO HX60LN Termisk kikare\">Habrok PRO HX60LN</a>, och räcker kring 570 m för dina avstånd finns <a href=\"/products/hikmicro-habrok-pro-hq50l-multi-spectrum-binocular\" title=\"HIKMICRO Habrok PRO HQ50L Multi-spectrum Binocular\">Habrok PRO HQ50L</a> med 640-sensor och 50 mm.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/c6298772ce6c4523b28799ce876d2549.pdf"
+  ],
+  "changes": [
+   "descriptionHtml: mått 24/10/8 cm → 231,5 × 152,8 × 81,95 mm, vikt 1050 g med batteripaket (datablad HX60L V5.5.94)",
+   "descriptionHtml Detta ingår → officiell lista: halsrem, Type-C-kabel, stativadapter, 2 batteripaket, laddare, kikarsele, duk, QSG (datablad)",
+   "GRANSKA-konflikt HX60LS mot HX60L/LN: ej fel. HX60L/LN: 25 Hz, NETD <18 mK, 9,5 h. HX60LS: 50 Hz, NETD <15 mK, 5,5 h (respektive datablad)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395146580",
+  "handle": "hikmicro-habrok-pro-hx60ln-multi-spectrum-binocular",
+  "descriptionHtml": "<p data-start=\"172\" data-end=\"803\">HIKMICRO Habrok PRO HX60LN är en multispektral kikare för jakt, skytte och spaning på långa håll. Den kombinerar en 1280 × 1024-värmekanal med en 4K-kanal för både dagsljus och mörker. Med ett upptäckaravstånd på upp till 3100 meter och integrerad laseravståndsmätare vet du både var djuret är och hur långt bort det står. Den utbytbara 940 nm IR-lampan förbättrar sikten i nattscenarier. Med över 9,5 timmars batteritid och IP67-klassning räcker den genom en hel natt i regn och kyla.</p>\n<p data-start=\"805\" data-end=\"1266\"><strong data-start=\"805\" data-end=\"825\">Nyckelfunktioner</strong><br data-start=\"825\" data-end=\"828\">• Termisk detektor med 1280 × 1024 upplösning och &lt;18 mK känslighet<br data-start=\"895\" data-end=\"898\">• 4K CMOS-sensor (3840 × 2160) för skarpa digitala bilder<br data-start=\"955\" data-end=\"958\">• 60 mm termisk lins med upptäckaravstånd upp till 3100 meter<br data-start=\"1019\" data-end=\"1022\">• 940 nm IR-lampa med räckvidd upp till 350 meter<br data-start=\"1071\" data-end=\"1074\">• Laseravståndsmätare med upp till 1000 meters räckvidd<br data-start=\"1129\" data-end=\"1132\" data-is-only-node=\"\">• Över 9,5 timmars batteritid<br data-start=\"1161\" data-end=\"1164\">• Robust IP67-klassad konstruktion<br data-start=\"1198\" data-end=\"1201\">• Integrerad GPS, video- och ljudinspelning samt brusreducering</p>\n<p data-start=\"1268\" data-end=\"1360\"><strong data-start=\"1268\" data-end=\"1293\">Teknisk specifikation</strong><br data-start=\"1293\" data-end=\"1296\">Längd: 231,5 mm<br>Bredd: 152,8 mm<br>Höjd: 81,95 mm<br>Vikt: 1050 g med batteripaket</p>\n<p data-start=\"1362\" data-end=\"1493\"><strong data-start=\"1362\" data-end=\"1377\">Detta ingår</strong><br data-start=\"1377\" data-end=\"1380\">• HIKMICRO Habrok PRO HX60LN med 940 nm IR-belysning<br>• Halsrem<br>• USB-C-kabel<br>• Stativadapter<br>• Batteripaket (×2)<br>• Batteriladdare<br>• Bärsele för kikare<br>• Luddfri duk<br>• Snabbstartsguide</p>\n<p data-start=\"1495\" data-end=\"1696\">Med 60 mm-linsen når värmekanalen artbestämning kring 680 m på vildsvin, och 940 nm-lampan ger 4K-kanalen bild i mörker utan synligt sken. Med 850 nm IR heter samma kikare <a href=\"/products/hikmicro-habrok-pro-hx60l-multi-spectrum-binocular\" title=\"HIKMICRO Habrok PRO HX60L Multi-spectrum Binocular\">Habrok PRO HX60L</a>, och <a href=\"/products/hikmicro-habrok-pro-hx60ls-multi-spectrum-binocular\" title=\"HIKMICRO Habrok PRO HX60LS Multi-spectrum kikare\">Habrok PRO HX60LS</a> har NETD under 15 mK, kompass och Hot Track.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/2f2b7a144c6e4070ac5bcf24ce01b307.pdf"
+  ],
+  "changes": [
+   "descriptionHtml: mått 28,2/16,5/10,5 cm → 231,5 × 152,8 × 81,95 mm, vikt 1050 g med batteripaket (datablad HX60LN V5.5.94)",
+   "descriptionHtml Detta ingår → officiell lista: halsrem, Type-C-kabel, stativadapter, 2 batteripaket, laddare, kikarsele, duk, QSG (datablad)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12465694998868",
+  "handle": "hikmicro-habrok-pro-hx60ls-multi-spectrum-binocular",
+  "descriptionHtml": "<p data-start=\"0\" data-end=\"174\"><strong data-start=\"0\" data-end=\"52\">HIKMICRO Habrok PRO HX60LS Multi-spectrum kikare</strong><br data-start=\"52\" data-end=\"55\">Snabbfakta: 1280×1024 termisk sensor (NETD &lt; 15 mK) + 60 mm F1.0, 4K digital, laseravståndsmätare 10 till 1000 m (±1 m)</p>\n<p data-start=\"176\" data-end=\"619\">Habrok PRO HX60LS är en multispektral kikare som kombinerar värmebild från en 1280×1024-sensor och 4K digital optik i samma enhet, med inbyggd laseravståndsmätare. Du får en stabil 50 Hz-bild för svepande spaning, lång detekteringsräckvidd (upp till 3100 m) och möjlighet att växla mellan termiskt och digitalt läge beroende på ljus och uppgift. För dig som vill kunna hitta, mäta och följa vilt med tydlig detaljåtergivning, även när förhållandena är svåra.</p>\n<p data-start=\"621\" data-end=\"1586\"><strong data-start=\"621\" data-end=\"641\">Nyckelfunktioner</strong><br data-start=\"641\" data-end=\"644\">• Ser värmesignaturer på långt håll: 1280×1024 VOx, 12 μm, NETD &lt; 15 mK och 60 mm F1.0 (detektering upp till 3100 m)<br data-start=\"760\" data-end=\"763\">• Jämn bild när du sveper: 50 Hz + Sync Pro för mjukare bildvisning vid observation<br data-start=\"846\" data-end=\"849\">• 4K detalj i dagsljus och mörker: 3840×2160 digital kanal med 60 mm F2.2 samt utbytbar 850 nm IR-belysning (natträckvidd upp till 400 m)<br data-start=\"986\" data-end=\"989\">• Mäter avstånd direkt i kikaren: klass 1 LRF, 10 till 1000 m med ±1 m noggrannhet<br data-start=\"1071\" data-end=\"1074\">• Snabbare lägesbild: GPS och digital kompass, plus Hot Track som markerar varmaste punkten i värmebilden<br data-start=\"1179\" data-end=\"1182\" data-is-only-node=\"\">• Dokumentera och dela: video, stillbilder och ljudinspelning med 64 GB internminne samt Wi-Fi hotspot<br data-start=\"1284\" data-end=\"1287\">• Tydlig visning och bra komfort: 0,49\" OLED 1920×1080, dioptri -5D till +3D och ögonavstånd 15 mm<br data-start=\"1385\" data-end=\"1388\">• Byggd för tuff användning: IP67, arbetstemperatur -30 °C till +55 °C och 1050 g med batteripaket<br data-start=\"1486\" data-end=\"1489\">• Utbytbart batteripaket: cirka 5,5 h drift vid 25 °C (hotspot av, LRF på) och laddning via USB-C</p>\n<p data-start=\"1588\" data-end=\"3067\"><strong data-start=\"1588\" data-end=\"1613\">Teknisk specifikation</strong><br data-start=\"1613\" data-end=\"1616\">• Termisk sensor: VOx (okyld), 1280×1024, 12 μm, 50 Hz<br data-start=\"1670\" data-end=\"1673\">• Termisk känslighet: NETD &lt; 15 mK (25 °C, F# 1.0)<br data-start=\"1723\" data-end=\"1726\">• Termiskt objektiv: 60 mm F1.0, fokus via fokusring<br data-start=\"1778\" data-end=\"1781\">• Termiskt synfält: 14,6° × 8,8° (25,6 m × 15,4 m vid 100 m)<br data-start=\"1841\" data-end=\"1844\">• Termisk förstoring: 2,6× till 20,0× (basförstoring 7,7×)<br data-start=\"1902\" data-end=\"1905\" data-is-only-node=\"\">• Min. fokusavstånd (termiskt): 3 m<br data-start=\"1940\" data-end=\"1943\">• Detekteringsräckvidd (termiskt): upp till 3100 m<br data-start=\"1993\" data-end=\"1996\">• Digital sensor: 1/1.8\" progressiv CMOS, 3840×2160<br data-start=\"2047\" data-end=\"2050\">• Digitalt objektiv: 60 mm F2.2, fokus via fokusring<br data-start=\"2102\" data-end=\"2105\">• Digitalt synfält: 7,3° × 4,1° (12,6 m × 7,2 m vid 100 m)<br data-start=\"2163\" data-end=\"2166\">• Digital förstoring: 5,5× till 22,0×<br data-start=\"2203\" data-end=\"2206\">• IR-belysning: 850 nm, utbytbar, natträckvidd upp till 400 m<br data-start=\"2267\" data-end=\"2270\">• Display: 0,49\" OLED, 1920×1080<br data-start=\"2302\" data-end=\"2305\">• Paletter: Termiskt (Black Hot, White Hot, Red Hot, Fusion) och Optiskt (Day, Night, Auto)<br data-start=\"2396\" data-end=\"2399\">• Dioptri: -5D till +3D<br data-start=\"2422\" data-end=\"2425\">• FFC-lägen: Auto, Manual, External Correction<br data-start=\"2471\" data-end=\"2474\">• Bildfunktioner: PIP, Hot Track, standby-läge<br data-start=\"2520\" data-end=\"2523\">• Inspelning: video, stillbild, ljud<br data-start=\"2559\" data-end=\"2562\">• Lagring: inbyggd eMMC 64 GB<br data-start=\"2591\" data-end=\"2594\">• Anslutning: Wi-Fi hotspot<br data-start=\"2621\" data-end=\"2624\">• Positionering: GPS, digital magnetisk kompass<br data-start=\"2671\" data-end=\"2674\">• Batteri: utbytbart och uppladdningsbart Li-ion-batteripaket<br data-start=\"2735\" data-end=\"2738\">• Drifttid: ca 5,5 h (25 °C, hotspot av, LRF på)<br data-start=\"2786\" data-end=\"2789\">• USB-C: 5V/9V DC, 3A (stöd för extern ström och direktladdning)<br data-start=\"2853\" data-end=\"2856\">• Mått: 152,8 × 81,95 × 231,5 mm<br data-start=\"2888\" data-end=\"2891\">• Vikt: 1050 g (med batteripaket)<br data-start=\"2924\" data-end=\"2927\">• IP-klass: IP67<br data-start=\"2943\" data-end=\"2946\">• Pupillavstånd: 60 till 74 mm<br data-start=\"2976\" data-end=\"2979\">• Stativgänga: 1/4-20 UNC<br data-start=\"3004\" data-end=\"3007\">• Laseravståndsmätare: klass 1, 905 nm, 10 till 1000 m, ±1 m</p>\n<p data-start=\"3069\" data-end=\"3271\"><strong data-start=\"3069\" data-end=\"3084\">Detta ingår</strong><br data-start=\"3084\" data-end=\"3087\">• Habrok PRO HX60LS kikare<br data-start=\"3113\" data-end=\"3116\">• 2× batteripaket<br data-start=\"3133\" data-end=\"3136\">• Batteriladdare<br data-start=\"3152\" data-end=\"3155\">• Utbytbar IR-belysning<br data-start=\"3178\" data-end=\"3181\">• Bärsele för kikare<br data-start=\"3196\" data-end=\"3199\" data-is-only-node=\"\">• Nackrem<br data-start=\"3208\" data-end=\"3211\">• Tripodadapter<br data-start=\"3226\" data-end=\"3229\">• USB-C-kabel<br data-start=\"3242\" data-end=\"3245\">• Linsduk<br data-start=\"3254\" data-end=\"3257\">• Snabbguide</p>\n<p data-start=\"3273\" data-end=\"3511\">Med 60 mm F1.0 och 1280-sensorn når värmekanalen artbestämning kring 680 m på vildsvin, och GPS, kompass och laser ger dig både läge och håll till djuret. Behöver du inte den räckvidden ger <a href=\"/products/hikmicro-habrok-pro-hq50l-multi-spectrum-binocular\" title=\"HIKMICRO Habrok PRO HQ50L Multi-spectrum Binocular\">Habrok PRO HQ50L</a> med 640-sensor och 50 mm artbestämning kring 570 m. Vill du ha hjälp att ställa in paletter, PIP och genvägar för jaktpasset hjälper vi dig gärna.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/abf5c666ec404fda9007949c0f33fb07.pdf"
+  ],
+  "changes": [
+   "descriptionHtml Detta ingår: \"Binokulärsele\" → Bärsele för kikare (språk). Övriga värden (50 Hz, NETD <15 mK, 5,5 h, 1050 g) stämmer mot datablad HX60LS V5.5.136"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388232532",
+  "handle": "hikmicro-lynx-le15s-thermal-monocular",
+  "descriptionHtml": "<p data-start=\"83\" data-end=\"576\">HIKMICRO Lynx LE15S är en kompakt termisk monokikare på 280 g för att hitta värmen från vilt i mörker, på åteln, passet eller eftersöket. Den fungerar lika bra för övervakning. Utrustad med en 256 × 192 VOx-detektor med 12 μm pixeldiameter och en NETD på mindre än 35 mK, levererar den tydliga bilder även i mörka och utmanande miljöer. Den 15 mm F1.0-termiska linsen ger ett synfält på 11,7° × 8,8° och en upptäcktsräckvidd på upp till 750 meter för ett mål av människostorlek (1,7 m).</p>\n<p data-start=\"578\" data-end=\"963\">Den inbyggda OLED-skärmen på 0,32 tum med 800 × 600 upplösning ger skarpa och kontraststarka bilder. Enheten erbjuder digital zoom upp till 8×, fyra olika färgpaletter (Black Hot, White Hot, Red Hot, Fusion) och bildbehandlingen Adaptive AGC, DDE och 3D-DNR, som reglerar kontrasten, skärper konturer och minskar bruset.</p>\n<p data-start=\"965\" data-end=\"1399\">Med en inbyggd 8 GB lagringskapacitet kan användaren spela in video och ta stillbilder. Wi-Fi-hotspot-funktionen möjliggör anslutning till HIKMICRO Sight-appen för fjärrstyrning och livevisning. Batteritiden är upp till 8 timmar vid kontinuerlig användning utan hotspot, eller cirka 6 timmar med hotspot aktiverad. Enheten är IP67-klassad, vilket gör den vattentålig och dammtålig, och har en driftstemperatur från –20 °C till +55 °C.</p>\n<p data-start=\"1401\" data-end=\"1996\"><strong data-start=\"1401\" data-end=\"1421\">Nyckelfunktioner</strong><br data-start=\"1421\" data-end=\"1424\">• Termisk sensor: 256 × 192 upplösning, 12 μm pixeldiameter<br data-start=\"1483\" data-end=\"1486\">• NETD: &lt; 35 mK<br data-start=\"1501\" data-end=\"1504\">• OLED-skärm: 800 × 600 upplösning, 0,32 tum<br data-start=\"1548\" data-end=\"1551\">• Termisk lins: 15 mm F1.0, synfält 11,7° × 8,8°<br data-start=\"1599\" data-end=\"1602\">• Upptäcktsräckvidd: upp till 750 meter<br data-start=\"1641\" data-end=\"1644\">• Förstoring: 2,2× till 17,6× (digital zoom upp till 8×)<br data-start=\"1671\" data-end=\"1674\">• Färgpaletter: Black Hot, White Hot, Red Hot, Fusion<br data-start=\"1727\" data-end=\"1730\">• Bildbehandling: Adaptive AGC, DDE, 3D-DNR<br data-start=\"1773\" data-end=\"1776\">• Lagring: 8 GB internminne<br data-start=\"1803\" data-end=\"1806\">• Wi-Fi-hotspot och appstyrning<br data-start=\"1837\" data-end=\"1840\">• Batteritid: upp till 8 timmar (6 timmar med hotspot)<br data-start=\"1894\" data-end=\"1897\">• USB-C-laddning och extern strömförsörjning<br data-start=\"1941\" data-end=\"1944\">• IP67-klassad, drifttemperatur –20 °C till +55 °C</p>\n<p data-start=\"1998\" data-end=\"2086\"><strong data-start=\"1998\" data-end=\"2023\">Teknisk specifikation</strong><br data-start=\"2023\" data-end=\"2026\">Längd: 158,3 mm<br data-start=\"2041\" data-end=\"2044\">Bredd: 61 mm<br data-start=\"2056\" data-end=\"2059\">Höjd: 57 mm<br data-start=\"2070\" data-end=\"2073\">Vikt: 280 g</p>\n<p data-start=\"2088\" data-end=\"2245\"><strong data-start=\"2088\" data-end=\"2103\">Detta ingår</strong><br>• HIKMICRO Lynx LE15S termisk monokikare<br>• USB-kabel<br>• Rengöringsduk<br>• Skyddsfodral<br>• Handledsrem<br>• Snabbstartsguide</p>\n<p>15 mm-objektivet ger LE15S artbestämning kring 170 m på vildsvin, och med 280 g och upp till 8 timmars drift utan hotspot följer den med i fickan på varje pass. Efterföljaren <a href=\"/products/hikmicro-lynx-le15-3-0-termisk-monokikare\" title=\"HIKMICRO Lynx LE15 3.0 Termisk monokikare\">LE15 3.0</a> har samma 15 mm-optik med NETD under 20 mK mot 35 mK, och med 384 × 288-sensor finns <a href=\"/products/hikmicro-lynx-lh15-2-0-thermal-monocular\" title=\"HIKMICRO Lynx LH15 2.0 Termisk monokikare\">LH15 2.0</a>.</p>",
+  "faq": [
+   {
+    "q": "Har LE15S avståndsmätare?",
+    "a": "Nej, LE15S saknar laseravståndsmätare."
+   },
+   {
+    "q": "Vilken sensor har LE15S?",
+    "a": "En 256x192-sensor med 12 µm pixel och NETD under 35 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektion upp till 750 m. Artbestämning på vildsvin sker kring 170 m vid goda förhållanden."
+   },
+   {
+    "q": "Kan man dela bilden?",
+    "a": "Ja, Wi-Fi-hotspot ansluter till HIKMICRO Sight-appen för fjärrstyrning och livevisning."
+   },
+   {
+    "q": "Hur länge räcker batteriet?",
+    "a": "Upp till 8 h utan hotspot, cirka 6 h med hotspot på. Laddning via USB-C."
+   },
+   {
+    "q": "Hur tålig är den?",
+    "a": "IP67 och drift från -20 till +55 grader. Vikt 280 g, med 8 GB internminne."
+   }
+  ],
+  "metafields": {
+   "vikt": "280 g",
+   "forstoring": "2.2-17.6x",
+   "netd": "≤35 mK",
+   "short_pitch": "Hittar värmen i skogskanten utan att tynga fickan: 256-sensor bakom 15 mm F1.0, detektion upp till 750 m och upp till 8 h drift på 280 g."
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/1d3343f36f964b0da594b443256b772a.pdf"
+  ],
+  "changes": [
+   "descriptionHtml/faq/short_pitch/metafält vikt: 260 g → 280 g (datablad LE15S V5.5.72)",
+   "descriptionHtml: meningen om LCOS borttagen, skärmen är 0,32 tum OLED 800 × 600 (datablad)",
+   "descriptionHtml + metafält forstoring: 2.2-8.8x → 2,2-17,6x (datablad: 2.2× to 17.6× (8×))",
+   "descriptionHtml Detta ingår → officiell lista: QSG, duk, USB-kabel, skyddsfodral, handledsrem. \"Laddare\" borttagen, finns inte i officiell lista",
+   "descriptionHtml: låst avslutning (\"avancerade funktioner och robusta design\") omskriven: artbestämning 170 m, 280 g, 8 h, länkar LE15 3.0 och LH15 2.0",
+   "faq \"Hur långt\": \"mål av människostorlek\" → detektion 750 m + artbestämning kring 170 m",
+   "metafält netd: \"35 mK\" → \"≤35 mK\" (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395408724",
+  "handle": "hikmicro-lynx-lh25-2-0-thermal-monocular",
+  "descriptionHtml": "<p><strong>HIKMICRO Lynx LH25 2.0</strong></p>\n<p><strong>Snabbfakta:</strong> 384 × 288 px (12 µm) med NETD under 20 mK, 25 mm F1.0, detektion upp till 1 200 m, 277 g utan batteri.</p>\n<p>HIKMICRO Lynx LH25 2.0 är en termisk monokikare i fickformat för dig som spanar från passet, vid åteln eller över hyggen och vill se längre än de korta Lynx-objektiven räcker. 25 mm-objektivet ger 2,4× grundförstoring och detektion upp till 1 200 m, och sensorn på 384 × 288 px med NETD under 20 mK skiljer djuret från bakgrunden även när temperaturskillnaden är liten, som i dimma och regn. Artbestämning på vildsvin ligger kring 280 m vid goda förhållanden.</p>\n<p>Synfältet på 10,5° × 7,9° (18,4 m på 100 m) är smalare än på 15 och 19 mm, så LH25 2.0 gör mest nytta där du tittar ut över öppnare mark och mindre i tät granskog. Batteriet är utbytbart och räcker upp till 6,5 timmar vid 25 °C, och eftersom två batterier ingår kan du byta i mörkret i stället för att avbryta passet.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Ser svaga värmekontraster: 384 × 288 px, 12 µm och NETD under 20 mK (vid 25 °C, F1.0)<br>• Når ut över fältkanten: 25 mm F1.0, detektion upp till 1 200 m och förstoring 2,4× till 19,2× (digital zoom upp till 8×)<br>• Skarp bild i okularet: 0,39 tums OLED i 1024 × 768 med paletterna Black Hot, White Hot, Red Hot och Fusion<br>• Byt batteri i fält: utbytbart Li-ion-batteri med upp till 6,5 timmars drift, två batterier och laddare ingår<br>• Dokumentera det du ser: foto, video och ljud på 16 GB internminne, hotspot till HIKMICRO Sight-appen<br>• Tål väder och kyla: IP67 och drift från -30 °C till +55 °C</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: VOx, 384 × 288, 12 µm, 50 Hz<br>NETD: under 20 mK (vid 25 °C, F1.0)<br>Objektiv: 25 mm F1.0, fokusring, närgräns 2,5 m<br>Förstoring: 2,4× till 19,2× (digital zoom upp till 8×)<br>Synfält: 10,5° × 7,9° (18,4 × 13,8 m på 100 m)<br>Detektion: upp till 1 200 m<br>Display: 0,39 tum OLED, 1024 × 768<br>Utgångspupill: 6 mm<br>Ögonavstånd: 20 mm<br>Dioptri: -5 till +3<br>Lagring: 16 GB internminne<br>Batteri: utbytbart, uppladdningsbart Li-ion<br>Drifttid: upp till 6,5 h (vid 25 °C, hotspot och CVBS av)<br>Ström: USB-C 5 V, 2 A, stöd för extern strömkälla<br>Kapslingsklass: IP67<br>Drifttemperatur: -30 °C till +55 °C<br>Mått: 172,5 × 56,0 × 60,8 mm<br>Vikt: 277 g utan batteri</p>\n<p><strong>Detta ingår</strong><br>• HIKMICRO Lynx LH25 2.0 termisk monokikare<br>• Batteri (×2)<br>• Batteriladdare<br>• USB-kabel<br>• Skyddsfodral<br>• Handledsrem<br>• Rengöringsduk<br>• Snabbstartsguide</p>\n<p>25 mm-objektivet ger LH25 2.0 artbestämning kring 280 m på vildsvin, och med två batterier på upp till 6,5 timmar vardera räcker den en hel natt på passet. Jagar du mest i tät skog ger <a href=\"/products/hikmicro-lynx-lh19-2-0-thermal-monocular\" title=\"HIKMICRO Lynx LH19 2.0 Termisk monokikare\">LH19 2.0</a> bredare bild med artbestämning kring 210 m, och efterföljaren <a href=\"/products/hikmicro-lynx-lh25-3-0-thermal-monocular\" title=\"HIKMICRO Lynx LH25 3.0 Termisk monokikare\">LH25 3.0</a> har samma 25 mm-optik med NETD under 15 mK.</p>",
+  "faq": [
+   {
+    "q": "Har LH25 2.0 avståndsmätare?",
+    "a": "Nej, LH25 2.0 saknar laseravståndsmätare."
+   },
+   {
+    "q": "Vilken sensor har LH25 2.0?",
+    "a": "En 384x288 VOx-sensor med 12 µm pixel och NETD under 20 mK."
+   },
+   {
+    "q": "Vad innebär detektion 1200 m i praktiken?",
+    "a": "Att något varmt syns på upp till 1200 m. Artbestämning på vildsvin sker på kortare håll, kring 280 m vid goda förhållanden."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "2,4x grundförstoring och upp till 19,2x med digital zoom i 8 steg."
+   },
+   {
+    "q": "Hur länge räcker batteriet?",
+    "a": "Upp till 6,5 h per batteri vid 25 °C med hotspot av. Batteriet är utbytbart, och två batterier plus laddare ingår."
+   },
+   {
+    "q": "Vad skiljer LH25 2.0 från LH25 3.0?",
+    "a": "Båda har 384-sensor och 25 mm-objektiv med detektion upp till 1200 m. LH25 3.0 har NETD under 15 mK mot under 20 mK på LH25 2.0."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK",
+   "detektionsrackvidd": "1200 m",
+   "forstoring": "2.4-19.2x",
+   "skarmtyp": "OLED",
+   "vikt": "277 g",
+   "short_pitch": "Når ut över hyggen och fältkanter: 384-sensor bakom 25 mm F1.0, NETD under 20 mK och detektion upp till 1200 m, med två utbytbara batterier i lådan."
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/faccee5dcd18492ab75bf192b5cf0802.pdf",
+   "https://www.hikmicrotech.com/se/outdoor-products/lynx-2-0-thermal-monocular/"
+  ],
+  "changes": [
+   "descriptionHtml: hela texten beskrev Lynx Pro LH25 (LCOS 1280×960, NETD ≤35 mK, 1180 m, 2,45-19,6x, 7,5 h inbyggt batteri, ca 300 g). Ny text enligt skillens struktur ur datablad LH25 2.0 V5.5.72 och hikmicrotech.com/se: NETD <20 mK, 0,39\" OLED 1024×768, 1200 m, 2,4-19,2x, 10,5°×7,9°, 6,5 h utbytbart batteri, 16 GB, IP67, 172,5×56,0×60,8 mm, 277 g utan batteri",
+   "Detta ingår: \"Lynx Pro LH25, USB-C-kabel, putsduk\" → officiell tillbehörslista i datablad (QSG, duk, USB-kabel, skyddsfodral, handledsrem, laddare, 2 batterier)",
+   "metafält: netd \"35 mK\" → \"≤20 mK\", detektionsrackvidd \"1180 m\" → \"1200 m\", forstoring \"2,45x-19,6x\" → \"2.4-19.2x\", skarmtyp \"LCOS\" → \"OLED\", vikt \"300 g\" → \"277 g\" (datablad). artbestamning 280/detaljbedomning 170 oförändrade (12 µm/25 mm enligt tabell)",
+   "faq och short_pitch omskrivna efter samma datablad (gamla: 1180 m, 35 mK, 2,45-19,6x, 7,5 h, 300 g)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394163540",
+  "handle": "hikmicro-lynx-lh15-2-0-thermal-monocular",
+  "descriptionHtml": "<p data-start=\"125\" data-end=\"467\">HIKMICRO Lynx LH15 2.0 är en kompakt termisk monokikare på 270 g för jägare, friluftsfolk och fågelskådare som vill se vilt i mörker och dåligt väder. Med en 384×288-sensor och en känslighet på under 20 mK kan den urskilja värmesignaturer även vid liten temperaturskillnad – exempelvis i dimma eller regn.</p>\n<p data-start=\"469\" data-end=\"851\">Enheten har ett synfält på 17,5° × 13,1°, det vill säga 30,8 meter i bredd på 100 meters håll, och en räckvidd upp till 750 meter, vilket ger god överblick och effektiv måldetektering på medellånga avstånd. OLED-skärmen på 0,39 tum med 1024×768 upplösning ger skarp och detaljerad återgivning. Fyra färgpaletter finns att välja mellan för bästa möjliga kontrast i olika miljöer. Batteriet laddas via USB-C och ger upp till 6,5 timmars drift.</p>\n<h3 data-start=\"853\" data-end=\"875\">Nyckelfunktioner</h3>\n<p data-start=\"876\" data-end=\"1314\">• Högkänslig termisk sensor (NETD &lt;20 mK @25°C, F/1.0)<br data-start=\"930\" data-end=\"933\">• 384×288 pixlars upplösning och 12 μm pixelstorlek<br data-start=\"984\" data-end=\"987\">• OLED-display med 1024×768 pixlars upplösning<br data-start=\"1033\" data-end=\"1036\">• Synfält 17,5° × 13,1° (30,8 m på 100 m) och räckvidd upp till 750 meter<br data-start=\"1089\" data-end=\"1092\">• Kompakt design – endast 270 gram<br data-start=\"1126\" data-end=\"1129\">• Fyra färgpaletter: Black Hot, White Hot, Red Hot, Fusion<br data-start=\"1187\" data-end=\"1190\">• Upp till 6,5 timmars batteritid<br data-start=\"1223\" data-end=\"1226\">• Inbyggt 16 GB minne för bilder och video<br data-start=\"1268\" data-end=\"1271\">• USB-C för laddning och strömförsörjning</p>\n<h3 data-start=\"1316\" data-end=\"1343\">Teknisk specifikation</h3>\n<p data-start=\"1344\" data-end=\"1405\">Längd: 164,0 mm<br>Bredd: 56,0 mm<br>Höjd: 60,8 mm<br data-start=\"1389\" data-end=\"1392\">Vikt: 270 g</p>\n<h3 data-start=\"1407\" data-end=\"1424\">Detta ingår</h3>\n<p data-start=\"1425\" data-end=\"1574\">• HIKMICRO Lynx LH15 2.0 termisk monokikare<br data-start=\"1468\" data-end=\"1471\">• USB-C-kabel<br data-start=\"1484\" data-end=\"1487\">• Mikrofiberduk<br data-start=\"1502\" data-end=\"1505\">• Manual<br data-start=\"1513\" data-end=\"1516\">• Skyddsfodral<br data-start=\"1530\" data-end=\"1533\">• Handledsrem<br data-start=\"1546\" data-end=\"1549\">• Laddare<br data-start=\"1558\" data-end=\"1561\">• Batterier</p>\n<p data-start=\"1576\" data-end=\"1708\">15 mm-objektivet ger LH15 2.0 bred bild i skogen och artbestämning kring 170 m på vildsvin, vilket räcker vid de flesta åtlar. Vill du nå längre med samma 384-sensor ger <a href=\"/products/hikmicro-lynx-lh19-2-0-thermal-monocular\" title=\"HIKMICRO Lynx LH19 2.0 Termisk monokikare\">LH19 2.0</a> detektion upp till 900 m och artbestämning kring 210 m, och den nyare generationen finns i <a href=\"/collections/hikmicro-lynx-3-0\" title=\"HIKMICRO Lynx 3.0\">Lynx-kollektionen</a>.</p>",
+  "faq": [
+   {
+    "q": "Har LH15 2.0 avståndsmätare?",
+    "a": "Nej, LH15 2.0 saknar laseravståndsmätare."
+   },
+   {
+    "q": "Vilken sensor har LH15 2.0?",
+    "a": "En 384x288-sensor med 12 µm pixel och NETD under 20 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektion upp till 750 m med synfält 17,5° (30,8 m på 100 m). Artbestämning på vildsvin sker kring 170 m."
+   },
+   {
+    "q": "Vad passar den till?",
+    "a": "Att upptäcka djur i mörker, dimma eller täta miljöer, med god överblick."
+   },
+   {
+    "q": "Vilken skärm har den?",
+    "a": "En 0,39 tums OLED i 1024x768 med fyra paletter: Black Hot, White Hot, Red Hot och Fusion."
+   },
+   {
+    "q": "Hur liten och lätt är den?",
+    "a": "Bara 270 g, med 16 GB minne och USB-C. Upp till 6,5 h drift."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/dc9d9f91e735456386c5096fd4d17bf2.pdf"
+  ],
+  "changes": [
+   "descriptionHtml/faq: \"synfält 43 meter\" → 17,5° × 13,1° (30,8 m på 100 m) (datablad LH15 2.0 V5.5.72)",
+   "descriptionHtml: mått 20,4/9,5/7,2 cm → 164,0 × 56,0 × 60,8 mm (datablad, samma som metafält matt)",
+   "Förstoring 1,4x-11,2x stämmer med datablad (1.4× to 11.2× (8×)), orörd",
+   "metafält netd: \"20 mK\" → \"≤20 mK\" (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15369350742356",
+  "handle": "hikmicro-lynx-lq35l-3-0-termisk-monokikare",
+  "descriptionHtml": "<p><strong>HIKMICRO Lynx LQ35L 3.0</strong></p>\n<p>Snabbfakta: 640 × 512 termisk sensor, NETD &lt; 15 mK, 35 mm F1.0 objektiv, integrerad laseravståndsmätare upp till 1 000 m</p>\n<p>HIKMICRO Lynx LQ35L 3.0 är en kompakt termisk monokikare i handhållet format med integrerad laseravståndsmätare, byggd för jägare som vill kombinera tydlig värmebild med snabb avståndsbedömning i samma enhet. Med 640 × 512 sensor på 12 μm, NETD under 15 mK och ett 35 mm F1.0 objektiv ger den ett detekteringsavstånd på upp till 1 800 m och en bildkvalitet som klarar fukt, regn och dimma. Den passar dig som söker en seriös termisk kikare för spaning, vildsvinsobservation, eftersök och avsökning av större ytor där avståndet till bytet behöver bekräftas innan beslut.</p>\n<p>Den inbyggda laseravståndsmätaren med ±1 m noggrannhet sparar tid i fält jämfört med en separat avståndsmätare och håller alla funktioner i en enhet. AMOLED-displayen på 1920 × 1080 ger en skarp bild även vid digital zoom, och HSIS shutterless-systemet eliminerar de återkommande kalibreringspauser som tidigare modeller har. Tillsammans med utbytbart 18650-batteri och 64 GB internminne är LQ35L 3.0 anpassad för längre jaktpass där driftsäkerhet är lika viktigt som bildkvalitet.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<ul>\n<li>Bekräfta avståndet utan separat utrustning tack vare integrerad laseravståndsmätare upp till 1 000 m med ±1 m noggrannhet</li>\n<li>Tydlig identifiering på långt håll med 640 × 512 sensor och 35 mm F1.0 objektiv som ger detektion upp till 1 800 m</li>\n<li>Hög detaljåtergivning även vid svaga temperaturskillnader med NETD under 15 mK</li>\n<li>Skarp bild i ögonmusslan via 0,49 tums AMOLED-display med 1920 × 1080 upplösning</li>\n<li>Avbrottsfri observation utan kalibreringspauser med HSIS shutterless-systemet</li>\n<li>Längre pass utan stillestånd tack vare utbytbart och uppladdningsbart 18650-batteri</li>\n</ul>\n<p><strong>Teknisk specifikation</strong></p>\n<ul>\n<li>Sensor: 640 × 512 VOx, 12 μm pixelpitch</li>\n<li>NETD: &lt; 15 mK</li>\n<li>Bildfrekvens: 50 Hz</li>\n<li>Objektiv: 35 mm</li>\n<li>Bländare: F1.0</li>\n<li>Optisk förstoring: 1,9x</li>\n<li>Digital zoom: upp till 15,2x</li>\n<li>Detektionsavstånd: 1 800 m</li>\n<li>Display: 0,49 tum AMOLED</li>\n<li>Displayupplösning: 1920 × 1080</li>\n<li>Laseravståndsmätare: ja, integrerad</li>\n<li>Räckvidd avståndsmätare: 1 000 m, noggrannhet ±1 m, lasersäkerhetsklass 1</li>\n<li>Internminne: 64 GB EMMC</li>\n<li>Foto/video: ja, inklusive ljudinspelning</li>\n<li>WiFi/app: HIKMICRO Sight, WiFi hotspot</li>\n<li>Batterityp: utbytbart uppladdningsbart 18650 litiumjon</li>\n<li>Batteritid: upp till 5 h vid 25 °C med hotspot på, cirka 4,5 h vid -20 °C</li>\n<li>Strömförsörjning: USB Type-C, 5 V 2 A, stöd för extern strömkälla</li>\n<li>IP-klass: IP67</li>\n<li>Mått: 173,3 × 66,8 × 49,3 mm</li>\n<li>Vikt: 410,7 g inklusive batteri<br><br>\n</li>\n</ul>\n<p><strong>Detta ingår<br></strong></p>\n<ul>\n<li>HIKMICRO Lynx LQ35L 3.0 termisk monokikare</li>\n<li>18650-batteri</li>\n<li>USB-C-kabel</li>\n<li>Handbok</li>\n</ul>\n<p>Med lasern i samma hand mäter du hållet upp till 1 000 m med ±1 m noggrannhet medan du ser djuret, och 35 mm-optiken ger artbestämning kring 400 m på vildsvin. Behöver du inte mäta avstånd finns samma sensor och optik i <a href=\"/products/hikmicro-lynx-lq35-3-0-termisk-monokikare\" title=\"Hikmicro Lynx LQ35 3.0\">LQ35 3.0</a> till lägre pris.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "descriptionHtml Detta ingår: \"HIKMICRO Lynx LQ35 3.0\" → \"LQ35L 3.0\" (fel modellnamn, språkfel)",
+   "descriptionHtml: kopierade chatt-klassattribut (font-claude-response-body m.fl.) borttagna, ingen textändring"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757946196",
+  "handle": "holosun-507-comp-multi-reticle-shake-awake",
+  "descriptionHtml": "<h2>HOLOSUN 507 COMPETITION rödpunktsikte</h2>\n<p>Holosun 507 COMP är ett rödpunktsikte byggt för tävlingsskyttar och dynamiskt skytte där varje hundradel av en sekund räknas.</p>\n<p>Med ett stort siktfönster på <strong>27,9 mm × 22,1 mm</strong> får du snabbare målfångst, bättre överblick och en tydlig siktesbild även vid snabba förflyttningar mellan mål. Kombinationen av det stora fönstret och Holosuns <strong>Competition Reticle System, CRS</strong>, gör att du kan anpassa riktmedlet efter både nära mål och mer precisa skott på längre avstånd.</p>\n<p>I precision, IPSC och annat dynamiskt skytte ger det stora fönstret och de valbara cirklarna en siktbild som hjälper dig att kapa tid.</p>\n<h3>Funktioner för tävling och snabb målfångst</h3>\n<p>Det unika <strong>Competition Reticle System</strong> erbjuder totalt åtta olika retikelkombinationer. Du kan välja en smal <strong>2 MOA-punkt</strong> för precision eller använda de större <strong>8, 20 eller 32 MOA-cirklarna</strong> för snabb inramning av målet.</p>\n<p>Siktet har <strong>8 dagsljuslägen</strong> och <strong>4 NV-lägen</strong>, vilket gör det enkelt att anpassa ljusstyrkan efter omgivningen. 507 COMP är dessutom parallaxfritt och har obegränsad ögonlättnad, så att du kan fokusera helt på skyttet.</p>\n<h3>Byggd för prestanda och driftsäkerhet</h3>\n<p>Holosun 507 COMP är byggt för att tåla intensiv träning och tävling. Huset är tillverkat i tåligt <strong>7075-T6 aluminium</strong> och har <strong>IP67-klassning</strong>, vilket innebär skydd mot damm och kortvarig nedsänkning i vatten.</p>\n<p>Med <strong>Shake Awake™</strong> går siktet automatiskt ned i viloläge vid inaktivitet och aktiveras direkt vid rörelse. Det bidrar till en mycket lång batteritid på upp till <strong>50 000 timmar</strong> vid optimal inställning.</p>\n<p>Siktet använder en <strong>Trijicon RMR-kompatibel footprint</strong>, vilket gör det enkelt att montera på många vanliga plattformar och pistoler.</p>\n<h3>Nyckelfunktioner</h3>\n<ul>\n<li>\n<strong>Competition Reticle System, CRS:</strong> 2 MOA-punkt samt 8, 20 och 32 MOA-cirklar i åtta valbara kombinationer.</li>\n<li>\n<strong>Stort siktfönster:</strong> 27,9 mm × 22,1 mm för snabbare målfångst.</li>\n<li>\n<strong>Shake Awake™:</strong> Automatisk vilofunktion som sparar batteri.</li>\n<li>\n<strong>7075-T6 aluminium:</strong> Robust chassi byggt för hård användning.</li>\n<li>\n<strong>IP67-klassning:</strong> Skydd mot damm och vatten.</li>\n<li>\n<strong>Lång batteritid:</strong> Upp till 50 000 timmar vid optimal inställning.</li>\n<li>\n<strong>RMR-kompatibel footprint:</strong> Bred kompatibilitet med vanliga monteringslösningar.</li>\n<li>\n<strong>Ljuslägen:</strong> 8 dagsljuslägen och 4 NV-lägen.</li>\n</ul>\n<h3>Teknisk specifikation</h3>\n<ul>\n<li>\n<strong>Dimensioner:</strong> ca 46 × 33 × 33 mm</li>\n<li>\n<strong>Fönsterstorlek:</strong> 27,9 mm × 22,1 mm</li>\n<li>\n<strong>Vikt:</strong> ca 48 g</li>\n<li>\n<strong>Retikel:</strong> 2 MOA-punkt samt 8, 20 och 32 MOA-cirklar</li>\n<li>\n<strong>Retikelkombinationer:</strong> Flera valbara kombinationer via CRS</li>\n<li>\n<strong>Ljuslägen:</strong> 8 dagsljuslägen + 4 NV-lägen</li>\n<li>\n<strong>Batteri:</strong> CR1632</li>\n<li>\n<strong>Justering:</strong> 1 MOA per klick, ca ±30 MOA</li>\n<li>\n<strong>Kapslingsklass:</strong> IP67</li>\n<li>\n<strong>Material:</strong> 7075-T6 aluminium</li>\n<li>\n<strong>Footprint:</strong> Trijicon RMR</li>\n</ul>\n<h3>Detta ingår</h3>\n<ul>\n<li>Holosun 507 COMP rödpunktsikte</li>\n<li>CR1632-batteri</li>\n<li>T10-nyckel</li>\n<li>Monteringsskruvar</li>\n<li>Rengöringsduk</li>\n<li>Användarmanual</li>\n</ul>\n<p>Fönstret på 27,9 × 22,1 mm gör att du hittar punkten snabbare vid varje dragning, och 32 MOA-cirkeln ramar in målet när du förflyttar dig mellan stationerna. Föredrar du grön retikel finns <a href=\"/products/holosun-507comp-gr-multi-reticle-shake-awake\" title=\"HOLOSUN 507COMP-GR, Multi Reticle/Shake Awake\">507COMP-GR</a>, och vill du ha ett ännu större fönster är det <a href=\"/products/holosun-507-promax-rod-prs-rodpunktsikte\" title=\"\">507 ProMax</a> med 30,0 × 24,9 mm.</p>",
+  "faq": [
+   {
+    "q": "Vilka riktmedel och MOA erbjuder CRS?",
+    "a": "2 MOA punkt plus 8/20/32 MOA cirklar i åtta valbara kombinationer."
+   },
+   {
+    "q": "Hur stort är siktfönstret?",
+    "a": "27,9 mm x 22,1 mm, ett av marknadens största för snabb målfångst."
+   },
+   {
+    "q": "Vad är Shake Awake?",
+    "a": "Siktet går i viloläge vid inaktivitet och aktiveras direkt vid minsta rörelse, vilket sparar batteri."
+   },
+   {
+    "q": "Vilket batteri används och hur lång är batteritiden?",
+    "a": "CR1632, med upp till 50 000 timmars drifttid vid optimal inställning."
+   },
+   {
+    "q": "Hur många ljuslägen finns?",
+    "a": "8 dagsljuslägen plus 4 NV-lägen. Klickvärdet är 1 MOA per klick, ±30 MOA."
+   },
+   {
+    "q": "Vilket montage används och vad ingår?",
+    "a": "RMR-kompatibel footprint (Trijicon RMR). I lådan: sikte, CR1632-batteri, T10-nyckel och skruvar, rengöringsduk och manual."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.holosun.com/products/hs507comp-rd"
+  ],
+  "changes": [
+   "descriptionHtml/faq: ljuslägen 8 dagsljus + 2 NV → 8 dagsljus + 4 NV (holosun.com HS507COMP-RD: \"8 Daylight & 4 NV\")"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12209757094228",
+  "handle": "holosun-507comp-gr-multi-reticle-shake-awake",
+  "descriptionHtml": "<p data-start=\"245\" data-end=\"267\"><strong data-start=\"245\" data-end=\"267\">Holosun 507 COMP-GR</strong></p>\n<p data-start=\"269\" data-end=\"470\">Holosun 507 COMP-GR är ett tävlingssikte med grön Super LED, extra stort fönster och valbara retikler i ett kompakt och tåligt format för tävling och dynamiskt skytte.</p>\n<p data-start=\"472\" data-end=\"678\">Med Extra Large Window för snabb målåtkomst, Competition Reticle System för flera siktesval och Shake Awake-teknik för att spara batteri, får du stor överblick, flera siktesval och lång batteritid i samma sikte.</p>\n<p data-start=\"680\" data-end=\"1302\"><strong data-start=\"680\" data-end=\"700\">Nyckelfunktioner</strong><br data-start=\"700\" data-end=\"703\">• Competition Reticle System (CRS): 2 MOA dot, 8/20/32 MOA cirklar – välj mellan kombinationer för exakt sikte<br data-start=\"813\" data-end=\"816\">• Grön Super LED (540 nm) med upp till cirka 50 000 timmars batteritid (CR1632)<br data-start=\"895\" data-end=\"898\">• Extra stort siktfönster: ca 1,1″ × 0,87″ för snabb målkontroll och bättre översikt<br data-start=\"980\" data-end=\"983\">• Shake Awake-teknologi: siktet vaknar vid rörelse och sparar kraft när det är orört<br data-start=\"1067\" data-end=\"1070\">• Tillverkad av 7075-T6 aluminium med standardfäste; tålig, vattentät (IP67) och parallaxfri med obegränsad ögonlättnad<br data-start=\"1189\" data-end=\"1192\">• 12 ljusstyrkelägen: 8 för dagsljus och 4 för mörkersikte (NV)</p>\n<p data-start=\"1304\" data-end=\"1715\"><strong data-start=\"1304\" data-end=\"1329\">Teknisk specifikation</strong><br data-start=\"1329\" data-end=\"1332\">• Retikel: 2 MOA dot + 8/20/32 MOA cirklar<br data-start=\"1374\" data-end=\"1377\">• LED-färg: grön (540 nm)<br data-start=\"1402\" data-end=\"1405\">• Förstoring: 1× (ingen)<br data-start=\"1429\" data-end=\"1432\">• Ögonlättnad: obegränsad<br data-start=\"1457\" data-end=\"1460\">• Vikt: cirka 48 g<br data-start=\"1478\" data-end=\"1481\">• Dimensioner: cirka 46 × 33 × 33 mm<br data-start=\"1517\" data-end=\"1520\">• Justering: 1 MOA per klick, ±30 MOA vind/höjd<br data-start=\"1567\" data-end=\"1570\">• Batteri: CR1632 (medföljer)<br data-start=\"1599\" data-end=\"1602\">• Batteritid: upp till cirka 50 000 timmar (på optimalt läge)<br data-start=\"1663\" data-end=\"1666\">• Miljö: drift –30 °C till +60 °C, IP67-klassad</p>\n<p data-start=\"1717\" data-end=\"1870\"><strong data-start=\"1717\" data-end=\"1732\">Detta ingår</strong><br data-start=\"1732\" data-end=\"1735\">• Holosun 507COMP-GR reflexsikte<br data-start=\"1767\" data-end=\"1770\">• CR1632-batteri (förinstallerat)<br data-start=\"1803\" data-end=\"1806\">• T10-nyckel för nollning<br data-start=\"1831\" data-end=\"1834\">• Rengöringsduk<br data-start=\"1849\" data-end=\"1852\">• Bruksanvisning</p>\n<p>Den gröna 540 nm-LED:n och fönstret på 27,9 × 22,1 mm gör att du hittar punkten snabbt mellan målen, och 2 MOA-punkten finns kvar för det precisa skottet. Samma sikte med röd retikel finns som <a href=\"/products/holosun-507-comp-multi-reticle-shake-awake\" title=\"HOLOSUN 507 COMP, Multi Reticle/Shake Awake\">507 COMP</a> till lägre pris.</p>",
+  "faq": [
+   {
+    "q": "Vilken färg och våglängd har LED:n?",
+    "a": "Grön Super LED, 540 nm."
+   },
+   {
+    "q": "Vilka riktmedel erbjuder CRS?",
+    "a": "2 MOA dot plus 8/20/32 MOA cirklar i valbara kombinationer."
+   },
+   {
+    "q": "Hur stort är siktfönstret?",
+    "a": "Extra stort, ca 1,1 tum x 0,87 tum, för snabb målkontroll och bättre översikt."
+   },
+   {
+    "q": "Vad är Shake Awake?",
+    "a": "Siktet vaknar vid rörelse och sparar kraft när det är orört."
+   },
+   {
+    "q": "Vilket batteri används och hur lång är batteritiden?",
+    "a": "CR1632 (medföljer förinstallerat), med upp till ca 50 000 timmar på optimalt läge."
+   },
+   {
+    "q": "Hur många ljuslägen finns och är det tåligt?",
+    "a": "12 lägen: 8 för dagsljus och 4 för mörkersikte (NV). Huset är 7075-T6 aluminium och IP67-klassat."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.holosun.com/products/he507comp-gr"
+  ],
+  "changes": [
+   "descriptionHtml/faq: \"8 nivåer (6 dagsljus + 2 nattsyn)\" → 12 lägen, 8 dagsljus + 4 NV (holosun.com HE507COMP-GR)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528669413716",
+  "handle": "hikmicro-hm-acs-14-18",
+  "descriptionHtml": "<p><strong>HIKMICRO ljuddämparfäste för HIKCam A7E, 14-18 mm</strong></p><p>Ljuddämparfäste • för HIKCam A7E • ytterdiameter 14-18 mm • 71 g</p><p>HM-ACS är HIKMICROs ljuddämparfäste för HIKCam A7E. Det täcker ytterdiameter 14 till 18 mm och väger 71 g, mot 36,5 g för det lilla pipfästet HM-AC-14.5-18 (14,5 till 18 mm). Välj HM-ACS när kameran ska sitta på ett ljuddämpat gevär. Med rätt fäste slipper du feljusterade och instabila upptagningar och kan fokusera på själva skyttet.</p><p>HIKCam A7E är ett kamerasystem för jakt och lerduveskytte som spelar in automatiskt vid rekyl. Ett stabilt pipfäste i rätt diameter är förutsättningen för skarpa och välriktade klipp.</p><p><strong>Nyckelfunktioner</strong></p><ul>\n<li>\n<strong>Stadig montering på pipan.</strong> Klämfäste avsett för pipdiameter 14-18 mm.</li>\n<li>\n<strong>Gjort för HIKCam A7E.</strong> Passar HIKMICRO HIKCam A7E actionkamera.</li>\n<li>\n<strong>Stabil och rätt riktad bild.</strong> Håller kameran på plats under skott och rekyl.</li>\n<li>\n<strong>Välj efter din pipa.</strong> Mät pipans ytterdiameter och välj det intervall som passar.</li>\n</ul><p><strong>Teknisk specifikation</strong></p><ul>\n<li>Typ: ljuddämparfäste</li>\n<li>Passar: HIKMICRO HIKCam A7E</li>\n<li>Ytterdiameter: 14-18 mm</li>\n<li>Vikt: 71 g</li>\n</ul><p><strong>Detta ingår</strong></p><ul><li>Monteringsfäste för HIKCam A7E</li></ul><p>Mät pipans ytterdiameter innan du beställer: HM-ACS täcker 14-18 mm. Fästet bär <a href=\"/products/hikmicro-hikcam-a7e-actionkamera\" title=\"HIKMICRO HIKCAM A7E Actionkamera\">HIKCAM A7E</a>, och övriga storlekar hittar du bland <a href=\"/collections/hikcam-tillbehor\" title=\"HIKCam tillbehör\">HIKCam-tillbehören</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/hikcam-a7e-action-camera/",
+   "https://www.hikmicrotech.com/fr/outdoor-products/hikcam-a7e-action-camera/"
+  ],
+  "changes": [
+   "descriptionHtml: skillnaden mot HM-AC-14.5-18 förklarad. HIKMICRO: \"ljuddämparfäste 14–18 mm 71 g\", \"liten 14,5–18 mm 36,5 g\". HM-ACS = ljuddämparfästet (S, intervallet 14-18 mm finns bara för det fästet), vikt 71 g tillagd",
+   "descriptionHtml: kopierade chatt-klassattribut borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528669086036",
+  "handle": "hikmicro-hm-ac-14-5-18",
+  "descriptionHtml": "<p><strong>HIKMICRO pipfäste för HIKCam A7E, litet, 14,5-18 mm</strong></p><p>Pipfäste, litet • för HIKCam A7E • pipdiameter 14,5-18 mm • 36,5 g</p><p>Det här monteringsfästet fäster din HIKMICRO HIKCam A7E actionkamera direkt på pipan. Det är det lilla pipfästet i serien, för pipdiametrar mellan 14,5 och 18 mm, och väger 36,5 g. Skjuter du med ljuddämpare finns <a href=\"/products/hikmicro-hm-acs-14-18\" title=\"HIKMICRO HM-ACS-14-18\">ljuddämparfästet HM-ACS</a> för 14 till 18 mm. Med rätt fäste slipper du feljusterade och instabila upptagningar och kan fokusera på själva skyttet.</p><p>HIKCam A7E är ett kamerasystem för jakt och lerduveskytte som spelar in automatiskt vid rekyl. Ett stabilt pipfäste i rätt diameter är förutsättningen för skarpa och välriktade klipp.</p><p><strong>Nyckelfunktioner</strong></p><ul>\n<li>\n<strong>Stadig montering på pipan.</strong> Klämfäste avsett för pipdiameter 14,5-18 mm.</li>\n<li>\n<strong>Gjort för HIKCam A7E.</strong> Passar HIKMICRO HIKCam A7E actionkamera.</li>\n<li>\n<strong>Stabil och rätt riktad bild.</strong> Håller kameran på plats under skott och rekyl.</li>\n<li>\n<strong>Välj efter din pipa.</strong> Mät pipans ytterdiameter och välj det intervall som passar.</li>\n</ul><p><strong>Teknisk specifikation</strong></p><ul>\n<li>Typ: monteringsfäste (pipklämma)</li>\n<li>Passar: HIKMICRO HIKCam A7E</li>\n<li>Pipdiameter: 14,5-18 mm</li>\n<li>Vikt: 36,5 g</li>\n</ul><p><strong>Detta ingår</strong></p><ul><li>Monteringsfäste för HIKCam A7E</li></ul><p>Det här fästet är för pipor med ytterdiameter 14,5-18 mm, så mät innan du beställer. Grövre pipor täcks av andra storlekar bland <a href=\"/collections/hikcam-tillbehor\" title=\"HIKCam tillbehör\">HIKCam-tillbehören</a>, och kameran som fästet bär är <a href=\"/products/hikmicro-hikcam-a7e-actionkamera\" title=\"HIKMICRO HIKCAM A7E Actionkamera\">HIKCAM A7E</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/hikcam-a7e-action-camera/"
+  ],
+  "changes": [
+   "descriptionHtml: skillnaden mot HM-ACS-14-18 förklarad med länk; vikt 36,5 g tillagd (HIKMICRO: \"liten 14,5–18 mm 36,5 g\")",
+   "descriptionHtml: kopierade chatt-klassattribut borttagna"
+  ]
+ }
+]

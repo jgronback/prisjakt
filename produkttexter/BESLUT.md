@@ -56,3 +56,11 @@
 - Död manuallänk: custom.manual på EPS-produkterna (holosun.eu-PDF) ger 404.
 - Nocpix ACE H50R: Detta ingår "eller" mot "och"; spec bara mått/vikt. Nocpix publicerar inga packlistor.
 - QUEST S50R: "två 18650 ingår" i FAQ ej verifierat.
+
+### c7 HIKMICRO Condor/Falcon/Habrok/Lynx, Holosun 403/507
+- Raptor RQ50L: mått "50,5 × 41,3 × 12 cm" och "6x18650" kvar; inga officiella data.
+- Holosun 403 Gold/403C/403R: konflikter kvar (gamla sidor 404).
+- Lynx LQ35 3.0 och LQ35L 3.0: synfält 12,5°×7,5° kvar, HIKMICRO publicerar inget.
+- Falcon FQ25: metafältet matt och 455 g (webbsidan) mot databladet 190,3 × 58,3 × 66,9 mm och 500 g. Texten följer databladet.
+- Packlistor med avvikelse: Condor CQ50L (magnetiskt linsskydd, axelrem), Holosun 507COMP-GR (ingen CR1632 hos Holosun).
+- Lynx LH19 2.0: troligen samma felaktiga mått som LH15 2.0 hade. Ej kontrollerad.
