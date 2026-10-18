@@ -16,3 +16,11 @@
 - Packlistor utan officiell källa: Helos 4-20x50, TSR1, TSP4.
 - OS11 "Holografiskt" i titeln: ingen officiell Athlon-sida.
 - TSR/TSP-modellerna (inte på athlonoptics.com) har kvar tum och oz.
+
+### c4 Bushnell/Delta Optical/Element/Focus
+- OBS säkerhet 7/10: deltaoptical.pl blockerar hämtning. Delta-rättningarna (Stryker HD 1-6x24 max höjd 30 MRAD, Compact Dot HD 28 mått 68 x 51,5 x 58 mm, Sailor 7x50 synfält 7,6° och belyst kompass, Mini Dot 26 HD 6 MOA) bygger på sökmotorns utdrag av deltaoptical.pl, inte på en direkt läst sida.
+- Forest Gen3 ED 10x50/12x50: skymningsvärde och ljusstyrka fel även hos tillverkare och leverantör. Uträknat: 10x50 = 22,4 och 25; 12x50 = 24,5 och 17,4. Ej ändrat utan ditt ja.
+- Delta-T 9x45 (skymningsvärde 18,3), Titanium HD 2,5-10x50 (utgångspupill), RF-4000 ("Utgångspupill 17 mm"): fel finns i Deltas egna källor. Ej ändrat.
+- Compact Dot HD 28: Delta anger 11 belysningssteg, vi 7. Equinox Z2: manual 183 m, vi 229 m. Sailor: Delta 24 mån garanti, vi 10 år. Ej ändrat.
+- Handles: delta-optical-forest-ii-8x42/10x42-kikare är Gen3 ED-produkter i dag. Byta med redirect?
+- StarLight 15x70 och Titanium 8x56 saknar Detta ingår.
