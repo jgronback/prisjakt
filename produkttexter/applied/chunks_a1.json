@@ -1,1 +1,7 @@
-[{"chunk":"c00","ok":true,"errors":[]},{"chunk":"c01","ok":true,"errors":[]},{"chunk":"c02","ok":true,"errors":[]},{"chunk":"c03","ok":true,"errors":[],"note":"u65 (gid://shopify/Product/15717415747924) skickades om separat med exakt paketinnehall efter att ett avskriftsfel (kortphallsbanan) upptackts i forsta sandningen"},{"chunk":"c04","ok":null,"note":"pending","errors":[]}]
+[
+ {"chunk":"c00","ok":true,"errors":[]},
+ {"chunk":"c01","ok":true,"errors":[]},
+ {"chunk":"c02","ok":true,"errors":[]},
+ {"chunk":"c03","ok":true,"errors":[],"resent":[{"alias":"u65","id":"gid://shopify/Product/15717415747924","reason":"avskriftsfel i custom.faq (kortphallsbanan) i forsta sandningen, skickades om med exakt paketinnehall"}]},
+ {"chunk":"c04","ok":true,"errors":[],"resent":[{"alias":"u10","id":"gid://shopify/Product/12110395900244","reason":"avskriftsfel ljusgenomsapp"},{"alias":"u15","id":"gid://shopify/Product/12110396490068","reason":"avskriftsfel uppat/nedat i st f uppfor/nedfor"},{"alias":"u16","id":"gid://shopify/Product/15704894275924","reason":"avskriftsfel uppat/nedat"},{"alias":"u20","id":"gid://shopify/Product/12110390690132","reason":"avskriftsfel uppat/nedat (beskrivning + short_pitch)"}]}
+]
