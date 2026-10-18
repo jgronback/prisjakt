@@ -1,0 +1,718 @@
+[
+ {
+  "id": "gid://shopify/Product/12340770668884",
+  "handle": "athlon-midas-m5-5x-magnifier",
+  "title": "Athlon Midas M5 5x Magnifier",
+  "vendor": "Athlon Optics",
+  "type": "Förstoringsmodul",
+  "pris": "3995.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 708,
+  "descriptionHtml": "<p data-start=\"6446\" data-end=\"6677\"><strong data-start=\"6446\" data-end=\"6493\">Athlon Midas M5 5× Magnifier (flip-to-side)</strong><br data-start=\"6493\" data-end=\"6496\">Mer räckvidd när du behöver det, bortväxlat när du inte gör det. M5 ger 5× förstoring bakom din rödpunkt och flip-to-side-funktion för omedelbar växling mellan nära och längre håll.</p>\n<p data-start=\"6679\" data-end=\"6889\"><strong data-start=\"6679\" data-end=\"6699\">Nyckelfunktioner</strong><br data-start=\"6699\" data-end=\"6702\">• 5× förlängning av rödpunktens räckvidd<br data-start=\"6742\" data-end=\"6745\">• Flip-to-side-hantering för snabb växling<br data-start=\"6787\" data-end=\"6790\">• Justerbar diopter och centreringshöjd för AR-plattformar<br data-start=\"6848\" data-end=\"6851\">• Kvävgasfylld, stöttålig och vädertät</p>\n<p data-start=\"6891\" data-end=\"7058\"><strong data-start=\"6891\" data-end=\"6916\">Teknisk specifikation</strong><br data-start=\"6916\" data-end=\"6919\">• Synfält @100 m: <strong data-start=\"6937\" data-end=\"6946\">7,7 m</strong><br data-start=\"6946\" data-end=\"6949\">• Ögonavstånd: <strong data-start=\"6964\" data-end=\"6973\">64 mm</strong><br data-start=\"6973\" data-end=\"6976\">• Längd: <strong data-start=\"6985\" data-end=\"6995\">9,4 cm</strong><br data-start=\"6995\" data-end=\"6998\">• Vikt: <strong data-start=\"7006\" data-end=\"7018\">ca 329 g</strong><br data-start=\"7018\" data-end=\"7021\">• Centerhöjd (med fäste): <strong data-start=\"7047\" data-end=\"7058\">≈ 35 mm</strong></p>\n<p data-start=\"7060\" data-end=\"7128\"><strong data-start=\"7060\" data-end=\"7075\">Detta ingår</strong><br data-start=\"7075\" data-end=\"7078\">• Förstoringsmodul • (Flip-to-side-)fäste • Manual</p>\n<p data-start=\"7130\" data-end=\"7220\"><strong data-start=\"7130\" data-end=\"7220\">Lägg till räckvidd utan att offra snabbhet — växla på en rörelse och håll tempot uppe.</strong></p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773192020",
+  "handle": "athlon-argos-g2-10x42-hd-handkikare",
+  "title": "Athlon Argos G2 10x42 HD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "3490.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 197,
+  "descriptionHtml": "<p>Upptäck Athlon Argos G2 10x42 HD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773355860",
+  "handle": "athlon-argos-g2-10x42-uhd-handkikare",
+  "title": "Athlon Argos G2 10x42 UHD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "4390.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 198,
+  "descriptionHtml": "<p>Upptäck Athlon Argos G2 10x42 UHD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772634964",
+  "handle": "athlon-argos-g2-10x50-hd-handkikare",
+  "title": "Athlon Argos G2 10x50 HD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "3995.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 197,
+  "descriptionHtml": "<p>Upptäck Athlon Argos G2 10x50 HD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772962644",
+  "handle": "athlon-argos-g2-12x50-hd-handkikare",
+  "title": "Athlon Argos G2 12x50 HD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "3890.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Argos G2 12x50?\",\"a\":\"Den förstorar 12x med ett 50 mm objektiv. Det stora objektivet släpper in mycket ljus för observation i sämre ljus.\"},{\"q\":\"Hur stort synfält har Athlon Argos G2 12x50?\",\"a\":\"Synfältet är 86 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Athlon Argos G2 12x50?\",\"a\":\"Ögonavståndet är 16 mm, vilket fungerar bra även för glasögonbärare.\"},{\"q\":\"Hur nära kan man fokusera med Athlon Argos G2 12x50?\",\"a\":\"Närgränsen är 4 m.\"},{\"q\":\"Vilken prismatyp har Athlon Argos G2 12x50?\",\"a\":\"Den har takkantsprismor i BAK-4-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Passar Athlon Argos G2 12x50 för fågelskådning?\",\"a\":\"Ja, den är designad för natur- och fågelskådare.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "12x"
+  },
+  "textlangd": 197,
+  "descriptionHtml": "<p>Upptäck Athlon Argos G2 12x50 HD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773454164",
+  "handle": "athlon-argos-g2-8x42-hd-handkikare",
+  "title": "Athlon Argos G2 8x42 HD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "2945.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 1352,
+  "descriptionHtml": "<p data-start=\"0\" data-end=\"34\">Athlon Argos G2 8x42 HD Handkikare</p>\n<p data-start=\"36\" data-end=\"298\">En ljusstark och robust handkikare med HD-glas, magnesiumchassi och tätad konstruktion som levererar klar bild även i tuffa förhållanden. ESP-dielektrisk beläggning och fas-korrigerade BaK-4-prismor ger neutral färgåtergivning och fin skärpa över hela synfältet.</p>\n<p data-start=\"300\" data-end=\"521\">Argos G2 8x42 HD är byggd för att användas – argonfylld för att motstå imma, vattentät och lätt att greppa även med handskar. Den generösa ögonreliefen och twist-up-ögonmusslorna gör den bekväm både med och utan glasögon.</p>\n<p data-start=\"523\" data-end=\"908\"><strong data-start=\"523\" data-end=\"543\">Nyckelfunktioner</strong><br data-start=\"543\" data-end=\"546\">• 8x förstoring och 42 mm objektiv<br data-start=\"580\" data-end=\"583\">• Synfält 124 m på 1000 m (7,1°)<br data-start=\"615\" data-end=\"618\">• Närgräns 4 m<br data-start=\"632\" data-end=\"635\">• Ögonrelief 17,3 mm; pupillavstånd 56–76 mm<br data-start=\"679\" data-end=\"682\">• ESP dielektrisk prismabeläggning, fas-korrigerade BaK-4-prismor<br data-start=\"747\" data-end=\"750\">• Avancerad flerskiktsbeläggning på alla linser<br data-start=\"797\" data-end=\"800\">• Argonfylld, vattentät och imtät<br data-start=\"833\" data-end=\"836\">• Twist-up-ögonmusslor i flera lägen<br data-start=\"872\" data-end=\"875\">• Lätt och tåligt magnesiumchassi</p>\n<p data-start=\"910\" data-end=\"1288\"><strong data-start=\"910\" data-end=\"935\">Teknisk specifikation</strong><br data-start=\"935\" data-end=\"938\">Mått (H × B): 145 × 135 mm (5,7\" × 5,3\")<br data-start=\"978\" data-end=\"981\">Vikt: 723 g (25,5 oz)<br data-start=\"1002\" data-end=\"1005\">Förstoring: 8x<br data-start=\"1019\" data-end=\"1022\">Objektivdiameter: 42 mm<br data-start=\"1045\" data-end=\"1048\">Synfält: 124 m/1000 m (371 ft/1000 yd)<br data-start=\"1086\" data-end=\"1089\">Närgräns: 4 m<br data-start=\"1102\" data-end=\"1105\">Ögonrelief: 17,3 mm<br data-start=\"1124\" data-end=\"1127\">Pupillavstånd: 56–76 mm<br data-start=\"1150\" data-end=\"1153\">Prismor: BaK-4, takprisma, fas-korrigerade<br data-start=\"1195\" data-end=\"1198\">Beläggningar: ESP dielektrisk + avancerad fullt flerskiktsbeläggning, XPL skyddsbeläggning</p>\n<p data-start=\"1290\" data-end=\"1397\"><strong data-start=\"1290\" data-end=\"1305\">Detta ingår</strong><br data-start=\"1305\" data-end=\"1308\">• Mjuk väska<br data-start=\"1320\" data-end=\"1323\">• Nackrem<br data-start=\"1332\" data-end=\"1335\">• Linsskydd (okular och objektiv)<br data-start=\"1368\" data-end=\"1371\">• Rengöringsduk<br data-start=\"1386\" data-end=\"1389\">• Manual</p>\n<p data-start=\"1399\" data-end=\"1418\">Se mer, bär mindre.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770865492",
+  "handle": "athlon-argos-g2-8x42-uhd-handkikare",
+  "title": "Athlon Argos G2 8x42 UHD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "3590.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 197,
+  "descriptionHtml": "<p>Upptäck Athlon Argos G2 8x42 UHD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770832724",
+  "handle": "athlon-cronus-g2-10x42-uhd-handkikare",
+  "title": "Athlon Cronus G2 10x42 UHD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "6890.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 262,
+  "descriptionHtml": "<p>Upptäck Athlon Cronus G2 10x42 UHD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:<br>\n• Med förstoring 10x<br>\n• Med linsdiameter 42 mm<br>\n• Med ed-glas Ja</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770636116",
+  "handle": "athlon-cronus-g2-15x56-uhd-kikare-med-hard-vaska",
+  "title": "Athlon Cronus G2 15x56 UHD Kikare Med Hård Väska",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "9890.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Cronus G2 15x56?\",\"a\":\"Den förstorar 15x med ett 56 mm objektiv. Det stora objektivet ger mycket ljus för högförstorande observation.\"},{\"q\":\"Hur stort synfält har Athlon Cronus G2 15x56?\",\"a\":\"Synfältet är 78 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Athlon Cronus G2 15x56?\",\"a\":\"Ögonavståndet är 18,5 mm. Det är gott om utrymme även för glasögonbärare.\"},{\"q\":\"Hur nära kan man fokusera med Athlon Cronus G2 15x56?\",\"a\":\"Närgränsen är 4 m.\"},{\"q\":\"Vilken prismatyp har Athlon Cronus G2 15x56?\",\"a\":\"Den har takkantsprismor. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Passar Athlon Cronus G2 15x56 för fågelskådning?\",\"a\":\"Ja, den är designad för natur- och fågelskådare.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "15x"
+  },
+  "textlangd": 210,
+  "descriptionHtml": "<p>Upptäck Athlon Cronus G2 15x56 UHD Kikare Med Hård Väska, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770505044",
+  "handle": "athlon-cronus-g2-20-60x86-ed-tubkikare",
+  "title": "Athlon Cronus G2 20-60x86 ED Tubkikare",
+  "vendor": "Athlon Optics",
+  "type": "Tubkikare",
+  "pris": "15250.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {
+   "forst": "20-60x"
+  },
+  "textlangd": 571,
+  "descriptionHtml": "<p>Upptäck Athlon Cronus G2 20-60x86 ED Tubkikare, ett tubkikare designat för långdistansobservationer och fågelskådning. Den har hög förstoring, HD-glas och gasfylld, vattentät konstruktion.<br>\nEgenskaper:<br>\n• Med aprochromatic lens system Linssystem som ger bättre kontrast, skärpa och färgåtergivning<br>\n• Med uhd glas Reducerar markant kromatiska aberrationerna och förbättrar skärpan och färgåtergivningen och utökar skärpan myckeyt mer än tubkikare som har ED eller HD linser<br>\n• Med esp dielectric coating Flerlagers multi linsbehandling som gör att 99% av ljuset släpps igenom</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773421396",
+  "handle": "athlon-midas-g2-10x25-uhd",
+  "title": "Athlon Midas G2 10x25 UHD",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "3595.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 187,
+  "descriptionHtml": "<p>Upptäck Athlon Midas G2 10x25 UHD, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773290324",
+  "handle": "athlon-midas-g2-10x42-uhd-handkikare",
+  "title": "Athlon Midas G2 10x42 UHD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "4890.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 198,
+  "descriptionHtml": "<p>Upptäck Athlon Midas G2 10x42 UHD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772831572",
+  "handle": "athlon-midas-g2-10x50-uhd-handkikare",
+  "title": "Athlon Midas G2 10x50 UHD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "5790.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 198,
+  "descriptionHtml": "<p>Upptäck Athlon Midas G2 10x50 UHD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773126484",
+  "handle": "athlon-midas-g2-12x50-uhd-handkikare",
+  "title": "Athlon Midas G2 12x50 UHD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "5890.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 198,
+  "descriptionHtml": "<p>Upptäck Athlon Midas G2 12x50 UHD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773519700",
+  "handle": "athlon-midas-g2-8x42-uhd-handkikare",
+  "title": "Athlon Midas G2 8x42 UHD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "4890.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Midas G2 8x42?\",\"a\":\"Den förstorar 8x med ett 42 mm objektiv. UHD-glas med ED-element ger en skarp bild med minimala färgfel.\"},{\"q\":\"Hur stort synfält har Athlon Midas G2 8x42?\",\"a\":\"Synfältet är 142 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Athlon Midas G2 8x42?\",\"a\":\"Ögonavståndet är 17,2 mm. Det är gott om utrymme även för glasögonbärare.\"},{\"q\":\"Hur nära kan man fokusera med Athlon Midas G2 8x42?\",\"a\":\"Närgränsen är 2 m.\"},{\"q\":\"Vilken prismatyp har Athlon Midas G2 8x42?\",\"a\":\"Den har takkantsprismor i BAK-4-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Athlon Midas G2 8x42?\",\"a\":\"Vikten är 661 g.\"},{\"q\":\"Passar Athlon Midas G2 8x42 för jakt?\",\"a\":\"Ja, den fungerar lika bra i skogen som på skjutbanan enligt tillverkaren.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1463,
+  "descriptionHtml": "<article class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"97ff4789-8d4c-4f39-8b81-e71a90d96d7b\" data-testid=\"conversation-turn-2\" data-scroll-anchor=\"true\" data-turn=\"assistant\" tabindex=\"-1\">\n<div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\" tabindex=\"-1\">\n<div class=\"flex max-w-full flex-col grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"e5b6aeba-a401-4b3b-9ff0-77c6efbcccb6\" dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\" data-message-model-slug=\"gpt-5-thinking\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[1px]\">\n<div class=\"markdown prose dark:prose-invert w-full break-words light markdown-new-styling\">\n<p data-start=\"0\" data-end=\"39\"><strong data-start=\"0\" data-end=\"39\">Athlon Midas G2 8x42 UHD Handkikare</strong></p>\n<p data-start=\"41\" data-end=\"228\">UHD-glas med ED-element ger en ren och skarp bild med minimala färgfel. Den lätta magnesiumkroppen och det breda synfältet gör den lika smidig i skogen som på skjutbanan, i regn och kyla.</p>\n<p data-start=\"230\" data-end=\"530\">Med 8x förstoring, 42 mm objektiv och avancerade prismabeläggningar får du hög ljustransmission och tydliga konturer även i sämre ljus. 2 meters närgräns och 17,2 mm ögonavstånd gör den flexibel för såväl detaljstudier som glasögonbärare. Argonfyllning och vattentäthet säkrar driftsäkerhet över tid.</p>\n<p data-start=\"532\" data-end=\"1007\"><strong data-start=\"532\" data-end=\"552\">Nyckelfunktioner</strong><br data-start=\"552\" data-end=\"555\">• UHD ED-glas för hög kontrast och skärpa<br data-start=\"596\" data-end=\"599\">• Dielektrisk prismabeläggning och faskorrigering för maximal ljustransmission och korrekt färg<br data-start=\"694\" data-end=\"697\">• BaK-4 takkantsprismor och fullt flerskiktsbehandlad optik<br data-start=\"756\" data-end=\"759\">• Lätt och robust magnesiumchassi<br data-start=\"792\" data-end=\"795\">• Vattentät och imtät, argonfylld<br data-start=\"828\" data-end=\"831\">• 8,1° synfält, 144 m på 1000 m<br data-start=\"862\" data-end=\"865\">• 2 m närgräns för detaljobservation<br data-start=\"901\" data-end=\"904\">• 17,2 mm ögonavstånd, twist-up-ögonmusslor<br data-start=\"947\" data-end=\"950\">• IPD 57–74 mm<br data-start=\"964\" data-end=\"967\">• Stativanslutning via adapter (tillval)</p>\n<p data-start=\"1009\" data-end=\"1430\"><strong data-start=\"1009\" data-end=\"1034\">Teknisk specifikation</strong><br data-start=\"1034\" data-end=\"1037\">Längd: 14,5 cm<br data-start=\"1051\" data-end=\"1054\">Bredd: 13,2 cm<br data-start=\"1068\" data-end=\"1071\">Höjd: uppgift saknas<br data-start=\"1091\" data-end=\"1094\">Vikt: 661 g<br data-start=\"1105\" data-end=\"1108\">Förstoring: 8x<br data-start=\"1122\" data-end=\"1125\">Objektivdiameter: 42 mm<br data-start=\"1148\" data-end=\"1151\">Synfält: 8,1° 144 m/1000 m<br data-start=\"1177\" data-end=\"1180\">Närgräns: 2 m<br data-start=\"1193\" data-end=\"1196\">Utgångspupill: 5,3 mm<br data-start=\"1217\" data-end=\"1220\">Ögonavstånd: 17,2 mm<br data-start=\"1240\" data-end=\"1243\">Interpupillära avstånd: 57–74 mm<br data-start=\"1275\" data-end=\"1278\">Prisma: BaK-4, takkantsprisma<br data-start=\"1307\" data-end=\"1310\">Antireflexbehandling: Fully Multi Coated<br data-start=\"1350\" data-end=\"1353\">Gasfyllning: Argon<br data-start=\"1371\" data-end=\"1374\">Vattentät: Ja<br data-start=\"1387\" data-end=\"1390\">Chassi: Magnesium<br data-start=\"1407\" data-end=\"1410\">Garanti: VIP livstid</p>\n<p data-start=\"1432\" data-end=\"1522\"><strong data-start=\"1432\" data-end=\"1447\">Detta ingår</strong><br data-start=\"1447\" data-end=\"1450\">• Väska<br data-start=\"1457\" data-end=\"1460\">• Nackrem<br data-start=\"1469\" data-end=\"1472\">• Okular- och objektivskydd<br data-start=\"1499\" data-end=\"1502\">• Putsduk<br data-start=\"1511\" data-end=\"1514\">• Manual</p>\n<p data-start=\"1524\" data-end=\"1557\">Se mer, ta bättre beslut.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"z-0 flex min-h-[46px] justify-start\"><br></div>\n<div class=\"mt-3 w-full empty:hidden\">\n<div class=\"text-center\"><br></div>\n</div>\n</div>\n</div>\n</article>\n<div aria-hidden=\"true\" data-edge=\"true\" class=\"pointer-events-none h-px w-px\"><br></div>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770963796",
+  "handle": "athlon-neos-g2-10x42-hd-handkikare",
+  "title": "Athlon Neos G2 10x42 HD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "2095.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 196,
+  "descriptionHtml": "<p>Upptäck Athlon Neos G2 10x42 HD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340769849684",
+  "handle": "athlon-neos-g2-8x42-hd-handkikare",
+  "title": "Athlon Neos G2 8x42 HD Handkikare",
+  "vendor": "Athlon Optics",
+  "type": "Handkikare",
+  "pris": "1790.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 195,
+  "descriptionHtml": "<p>Upptäck Athlon Neos G2 8x42 HD Handkikare, ett handkikare designat för natur- och fågelskådare. Den har multibelagd optik för ljus överföring, ergonomiskt grepp och vädertålig design.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771619156",
+  "handle": "athlon-kikarvaska-med-selefunktion",
+  "title": "Athlon Kikarväska Med Selefunktion",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsele",
+  "pris": "1195.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 193,
+  "descriptionHtml": "<p>Upptäck Athlon Kikarväska Med Selefunktion, ett kikarsele designat för vandrings- och jaktentusiaster. Den har justerbara remmar, ventilerande material och snabb frigöringsmekanism.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771160404",
+  "handle": "athlon-56-mm-solskydd-for-argos-btr-och-helos-btr",
+  "title": "Athlon 56 mm solskydd för Argos BTR och Helos BTR",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "590.75",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 253,
+  "descriptionHtml": "<p>Upptäck Athlon 56 mm solskydd för Argos BTR och Helos BTR, ett kikarsikte designat för jägare och sportskyttar. Den har klar, skarp optik med variabel förstoring och belyst riktmedel samt robust hölje.<br>\nEgenskaper:<br>\n• Med färg Mattsvart<br>\n• Med längd 114mm.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340773552468",
+  "handle": "athlon-56-mm-solskydd-for-cronus",
+  "title": "Athlon 56 mm solskydd för Cronus",
+  "vendor": "Athlon Optics",
+  "type": "Linsskydd",
+  "pris": "695.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": null,
+  "metafalt": {},
+  "textlangd": 178,
+  "descriptionHtml": "<p>Upptäck Athlon 56 mm solskydd för Cronus, ett linsskydd designat för användare som vill skydda sin optik. Den har snabb flip-up-design som skyddar mot smuts och regn.<br>\nEgenskaper:</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770799956",
+  "handle": "athlon-ares-btr-gen3-2-5-15x50-ffp-mil-aprs13-belyst-kikarsikte",
+  "title": "Athlon Ares BTR GEN3 2,5-15x50 FFP MIL APRS13 Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "9850.0",
+  "short_pitch": "Ett sikte för hela året: 2,5x för nära skott och 15x när precisionen gäller. Belyst APRS13 i första fokalplanet och Zero Stop som håller nollan.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492003668",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Ares BTR GEN3 2,5-15x50?\",\"a\":\"Athlon Ares BTR Gen 3 2,5-15x50 har 2,5-15x förstoring och 50 mm objektiv. 2,5x för nära skott och 15x för precision.\"},{\"q\":\"Vilket riktmedel har Athlon Ares BTR GEN3 2,5-15x50?\",\"a\":\"Riktmedlet är belyst APRS13 i MIL.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Ares BTR Gen 3 2,5-15x50 har riktmedlet i främre fokalplanet (FFP). Det betyder att riktmedlet skalar med förstoringen, så mått och hållpunkter stämmer på alla förstoringar.\"},{\"q\":\"Vad är klickvärdet på Athlon Ares BTR GEN3 2,5-15x50?\",\"a\":\"Klickvärdet är 0,1 MIL per klick, med Zero Stop och låsbara torn.\"},{\"q\":\"Vilken tubdiameter har Athlon Ares BTR GEN3 2,5-15x50 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 30 mm. Du behöver alltså ringar eller montage för 30 mm.\"},{\"q\":\"Vad passar Athlon Ares BTR GEN3 2,5-15x50 för?\",\"a\":\"Det är en allround-FFP för jakt och skytte året runt. 2,5x fungerar för nära skott och 15x när precisionen gäller.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "2,5-15x"
+  },
+  "textlangd": 658,
+  "descriptionHtml": "<p data-start=\"4942\" data-end=\"5176\"><strong data-start=\"4942\" data-end=\"4999\">Athlon Ares BTR Gen 3 2,5–15×50 FFP APRS13 MIL Belyst</strong><br data-start=\"4999\" data-end=\"5002\">En verklig allround-FFP: 2,5× för nära skott och 15× för precision. Samma premium-torn och Zero Stop som storebror, men i ett mer kompakt paket för jakt och skytte året runt.</p>\n<p data-start=\"5178\" data-end=\"5356\"><strong data-start=\"5178\" data-end=\"5198\">Nyckelfunktioner</strong><br data-start=\"5198\" data-end=\"5201\">• FFP APRS13 (MIL) med belysning<br data-start=\"5233\" data-end=\"5236\">• Zero Stop och låsbara torn<br data-start=\"5264\" data-end=\"5267\">• Närgräns <strong data-start=\"5278\" data-end=\"5286\">10 m</strong> för mångsidig träning<br data-start=\"5308\" data-end=\"5311\">• Klar, kontraststark bild över hela omfånget</p>\n<p data-start=\"5358\" data-end=\"5531\"><strong data-start=\"5358\" data-end=\"5383\">Teknisk specifikation</strong><br data-start=\"5383\" data-end=\"5386\">• Synfält @100 m: <strong data-start=\"5404\" data-end=\"5418\">14,8–2,4 m</strong><br data-start=\"5418\" data-end=\"5421\">• Ögonavstånd: <strong data-start=\"5436\" data-end=\"5445\">99 mm</strong><br data-start=\"5445\" data-end=\"5448\">• Längd: <strong data-start=\"5457\" data-end=\"5468\">32,0 cm</strong><br data-start=\"5468\" data-end=\"5471\">• Vikt: <strong data-start=\"5479\" data-end=\"5491\">ca 765 g</strong><br data-start=\"5491\" data-end=\"5494\">• Tub: <strong data-start=\"5501\" data-end=\"5510\">30 mm</strong> • Klick: <strong data-start=\"5520\" data-end=\"5531\">0,1 MIL</strong></p>\n<p data-start=\"5533\" data-end=\"5584\"><strong data-start=\"5533\" data-end=\"5548\">Detta ingår</strong><br data-start=\"5548\" data-end=\"5551\">• Kikarsikte • Linsskydd • Manual</p>\n<p data-start=\"5586\" data-end=\"5674\"><strong data-start=\"5586\" data-end=\"5674\">Ett sikte som täcker 90 % av dina skytteinspel — från smygjakt till stål på avstånd.</strong></p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770898260",
+  "handle": "athlon-ares-btr-gen3-4-5-27x50-ffp-mil-aprs13-belyst-kikarsikte",
+  "title": "Athlon Ares BTR GEN3 4,5-27x50 FFP MIL APRS13 Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "10750.0",
+  "short_pitch": "Korrekt hållpunkt oavsett förstoring, ända ut på långhåll. APRS13 i första fokalplanet och Zero Stop som alltid tar dig tillbaka till nollan.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272491970900",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Ares BTR GEN3 4,5-27x50?\",\"a\":\"Athlon Ares BTR Gen 3 4,5-27x50 har 4,5-27x förstoring och 50 mm objektiv. Ett brett spann för allt från nära håll till långhåll.\"},{\"q\":\"Vilket riktmedel har Athlon Ares BTR GEN3 4,5-27x50?\",\"a\":\"Riktmedlet är belyst APRS13 i MIL. Det ger korrekta subtensioner genom hela zoomomfånget.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Ares BTR Gen 3 4,5-27x50 har riktmedlet i främre fokalplanet (FFP). Det betyder att riktmedlet skalar med förstoringen, så mått och hållpunkter stämmer på alla förstoringar.\"},{\"q\":\"Vad är klickvärdet på Athlon Ares BTR GEN3 4,5-27x50?\",\"a\":\"Klickvärdet är 0,1 MIL per klick, med Zero Stop och låsbara torn.\"},{\"q\":\"Vilken tubdiameter har Athlon Ares BTR GEN3 4,5-27x50 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 30 mm. Du behöver alltså ringar eller montage för 30 mm.\"},{\"q\":\"Har Athlon Ares BTR GEN3 4,5-27x50 belyst riktmedel?\",\"a\":\"Ja, APRS13-riktmedlet är belyst.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "4,5-27x"
+  },
+  "textlangd": 713,
+  "descriptionHtml": "<p data-start=\"4156\" data-end=\"4407\"><strong data-start=\"4156\" data-end=\"4213\">Athlon Ares BTR Gen 3 4,5–27×50 FFP APRS13 MIL Belyst</strong><br data-start=\"4213\" data-end=\"4216\">Ares Gen 3 tar nästa steg i premium-segmentet: bättre glas, distinkt Zero Stop och låsbara torn. APRS13 i första fokalplanet ger skarpa håll och korrekta subtensioner genom hela zoomomfånget.</p>\n<p data-start=\"4409\" data-end=\"4618\"><strong data-start=\"4409\" data-end=\"4429\">Nyckelfunktioner</strong><br data-start=\"4429\" data-end=\"4432\">• FFP APRS13 (MIL) med belysning<br data-start=\"4464\" data-end=\"4467\">• Zero Stop och låsbara torn (E &amp; W)<br data-start=\"4503\" data-end=\"4506\">• 25 m närgräns och bred användbarhet 4,5–27×<br data-start=\"4551\" data-end=\"4554\">• Avancerad antireflexbehandling för kontrast i gryning/skymning</p>\n<p data-start=\"4620\" data-end=\"4792\"><strong data-start=\"4620\" data-end=\"4645\">Teknisk specifikation</strong><br data-start=\"4645\" data-end=\"4648\">• Synfält @100 m: <strong data-start=\"4666\" data-end=\"4679\">7,6–1,3 m</strong><br data-start=\"4679\" data-end=\"4682\">• Ögonavstånd: <strong data-start=\"4697\" data-end=\"4706\">99 mm</strong><br data-start=\"4706\" data-end=\"4709\">• Längd: <strong data-start=\"4718\" data-end=\"4729\">35,1 cm</strong><br data-start=\"4729\" data-end=\"4732\">• Vikt: <strong data-start=\"4740\" data-end=\"4752\">ca 658 g</strong><br data-start=\"4752\" data-end=\"4755\">• Tub: <strong data-start=\"4762\" data-end=\"4771\">30 mm</strong> • Klick: <strong data-start=\"4781\" data-end=\"4792\">0,1 MIL</strong></p>\n<p data-start=\"4794\" data-end=\"4845\"><strong data-start=\"4794\" data-end=\"4809\">Detta ingår</strong><br data-start=\"4809\" data-end=\"4812\">• Kikarsikte • Linsskydd • Manual</p>\n<p data-start=\"4847\" data-end=\"4935\"><strong data-start=\"4847\" data-end=\"4935\">Få datastyrd träffsäkerhet: tydliga håll, ren spårning och trygg återgång till noll.</strong></p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771389780",
+  "handle": "athlon-ares-etr-gen2-uhd-4-5-30x56-ffp-mil-aprs12-belyst-kikarsikte",
+  "title": "Athlon Ares ETR GEN2 UHD 4,5-30x56 FFP MIL APRS12 Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "14785.0",
+  "short_pitch": "Från tävlingsbanan till öppna jaktfält utan att tumma på precisionen. UHD-glas ger ren bild ut på långhåll, och Zero-Stop tar dig alltid hem till nollan.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272491807060",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Ares ETR Gen 2 4,5-30x56?\",\"a\":\"Athlon Ares ETR Gen 2 4,5-30x56 förstorar 4,5 till 30 gånger. Objektivet är 56 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Ares ETR Gen 2 4,5-30x56?\",\"a\":\"Riktmedlet är APRS12 FFP MIL. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Ares ETR Gen 2 4,5-30x56?\",\"a\":\"Riktmedlet sitter i främre fokalplanet (FFP), vilket innebär att det skalar med förstoringen så att MIL-måtten och hållpunkterna stämmer på alla förstoringar.\"},{\"q\":\"Vilket klickvärde har Athlon Ares ETR Gen 2 4,5-30x56?\",\"a\":\"Klickvärdet är 0,1 MIL.\"},{\"q\":\"Vilken tubdiameter har Athlon Ares ETR Gen 2 4,5-30x56?\",\"a\":\"Tubdiametern är 34 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Passar Athlon Ares ETR Gen 2 4,5-30x56 för tävling och långhåll?\",\"a\":\"Ja, det är byggt för långhåll och ger lugna, upprepningsbara avfyrningar från tävlingsbana till öppna jaktfält.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "4,5-30x"
+  },
+  "textlangd": 716,
+  "descriptionHtml": "<p data-start=\"5321\" data-end=\"5542\"><strong data-start=\"5321\" data-end=\"5382\">Athlon Ares ETR Gen 2 UHD 4,5–30×56 FFP MIL APRS12 Belyst</strong><br data-start=\"5382\" data-end=\"5385\">Ett av Athlons mest uppskattade långhållssikten: 34 mm-tub, Zero-Stop, UHD-glas och APRS12-milriktmedel som håller ihop från tävling till jakt på öppna fält.</p>\n<p data-start=\"5544\" data-end=\"5734\"><strong data-start=\"5544\" data-end=\"5564\">Nyckelfunktioner</strong><br data-start=\"5564\" data-end=\"5567\">• FFP, belyst APRS12 (MIL)<br data-start=\"5593\" data-end=\"5596\">• 0,1 MIL/klick, Zero-Stop<br data-start=\"5622\" data-end=\"5625\">• 34 mm-tub för stort justeromfång<br data-start=\"5659\" data-end=\"5662\">• Sidoparallax från ca 23 m till ∞<br data-start=\"5696\" data-end=\"5699\">• Synfält upp till ca 8,17 m @100 m</p>\n<p data-start=\"5736\" data-end=\"5937\"><strong data-start=\"5736\" data-end=\"5761\">Teknisk specifikation</strong><br data-start=\"5761\" data-end=\"5764\">• Förstoring: 4,5–30× • Objektiv: 56 mm • Tub: 34 mm<br data-start=\"5816\" data-end=\"5819\">• Synfält @100 m: ca 8,17–1,25 m<br data-start=\"5851\" data-end=\"5854\">• Ögonavstånd: ca 99 mm<br data-start=\"5877\" data-end=\"5880\">• Längd: ca 38,9 cm • Vikt: ca 1043 g<br data-start=\"5917\" data-end=\"5920\">• Batteri: CR2032</p>\n<p data-start=\"5939\" data-end=\"5986\"><strong data-start=\"5939\" data-end=\"5954\">Detta ingår</strong><br data-start=\"5954\" data-end=\"5957\">• Kikarsikte • Bruksanvisning</p>\n<p data-start=\"5988\" data-end=\"6081\">Byggt för att vinna serier – och för att ge lugna, upprepningsbara avfyrningar på långa håll.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771684692",
+  "handle": "athlon-argos-btr-1-8x24-gen-3-belyst-kikarsikte",
+  "title": "Athlon Argos BTR 1-8x24 Gen 3 Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "5490.0",
+  "short_pitch": "Rödpunktssnabbt på 1x och tryggt ut mot mellanavstånd. Belyst ATMR4 ger tydlig målbild, och den lätta, kompakta byggen sitter smidigt i dynamiskt skytte.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492986708",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Argos BTR Gen 3 1-8x24?\",\"a\":\"Athlon Argos BTR Gen 3 1-8x24 förstorar 1 till 8 gånger. Objektivet är 24 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Argos BTR Gen 3 1-8x24?\",\"a\":\"Riktmedlet är ATMR4 SFP MOA. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Argos BTR Gen 3 1-8x24?\",\"a\":\"Riktmedlet sitter i bakre fokalplanet (SFP), vilket innebär att det behåller samma storlek genom hela zoomen och att hållpunkterna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vilket klickvärde har Athlon Argos BTR Gen 3 1-8x24?\",\"a\":\"Klickvärdet är 0,5 MOA.\"},{\"q\":\"Vilken tubdiameter har Athlon Argos BTR Gen 3 1-8x24?\",\"a\":\"Tubdiametern är 30 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Passar Athlon Argos BTR Gen 3 1-8x24 för dynamiskt skytte?\",\"a\":\"Ja, det är ett LPVO som fungerar som rödpunktsikte på 1x och ger hållpunkter för mellanavstånd.\"}]",
+  "metafalt": {
+   "obj": "24 mm",
+   "forst": "1-8x"
+  },
+  "textlangd": 723,
+  "descriptionHtml": "<p data-start=\"1904\" data-end=\"2105\"><strong data-start=\"1904\" data-end=\"1959\">Athlon Argos BTR Gen 3 1–8×24 SFP Belyst Kikarsikte</strong><br data-start=\"1959\" data-end=\"1962\">En prisvärd LPVO som fungerar som rödpunktsikte på 1× och ger hållpunkter för mellanavstånd. Belyst ATMR4-riktmedel i SFP och robust 30 mm-tub.</p>\n<p data-start=\"2107\" data-end=\"2341\"><strong data-start=\"2107\" data-end=\"2127\">Nyckelfunktioner</strong><br data-start=\"2127\" data-end=\"2130\">• SFP, belyst ATMR4 (MOA)<br data-start=\"2155\" data-end=\"2158\">• Fast parallax ~91 m (100 yd) för stabil nära-till-medeldistans<br data-start=\"2222\" data-end=\"2225\">• 0,5 MOA/klick, tydliga, kapslade rattar<br data-start=\"2266\" data-end=\"2269\">• Synfält upp till ca 36,7 m @100 m<br data-start=\"2304\" data-end=\"2307\">• Kompakt och lätt – smidig balans</p>\n<p data-start=\"2343\" data-end=\"2540\"><strong data-start=\"2343\" data-end=\"2368\">Teknisk specifikation</strong><br data-start=\"2368\" data-end=\"2371\">• Förstoring: 1–8× • Objektiv: 24 mm • Tub: 30 mm<br data-start=\"2420\" data-end=\"2423\">• Synfält @100 m: ca 36,7–4,83 m<br data-start=\"2455\" data-end=\"2458\">• Ögonavstånd: ca 89 mm<br data-start=\"2481\" data-end=\"2484\">• Längd: ca 24,9 cm • Vikt: ca 456 g<br data-start=\"2520\" data-end=\"2523\">• Batteri: CR2032</p>\n<p data-start=\"2542\" data-end=\"2589\"><strong data-start=\"2542\" data-end=\"2557\">Detta ingår</strong><br data-start=\"2557\" data-end=\"2560\">• Kikarsikte • Bruksanvisning</p>\n<p data-start=\"2591\" data-end=\"2671\">Snabb på nära håll – trygg på mellanavstånd; ett smart val för dynamiskt skytte.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772110676",
+  "handle": "athlon-argos-btr-6-24x50-gen-3-ffp-mil-belyst-kikarsikte",
+  "title": "Athlon Argos BTR 6-24x50 Gen 3 FFP MIL Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "5995.0",
+  "short_pitch": "Ett prisvänligt sätt in i långhållsskyttet, redo för PRS-debuten. FFP och 0,1 MIL-klick ger logisk hållning och dial, med nollstopp som säkrar nollan.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492790100",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Argos BTR Gen 3 6-24x50?\",\"a\":\"Athlon Argos BTR Gen 3 6-24x50 förstorar 6 till 24 gånger. Objektivet är 50 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Argos BTR Gen 3 6-24x50?\",\"a\":\"Riktmedlet är APRS11 FFP MIL. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Argos BTR Gen 3 6-24x50?\",\"a\":\"Riktmedlet sitter i främre fokalplanet (FFP), vilket innebär att det skalar med förstoringen så att MIL-måtten och hållpunkterna stämmer på alla förstoringar.\"},{\"q\":\"Vilket klickvärde har Athlon Argos BTR Gen 3 6-24x50?\",\"a\":\"Klickvärdet är 0,1 MIL.\"},{\"q\":\"Vilken tubdiameter har Athlon Argos BTR Gen 3 6-24x50?\",\"a\":\"Tubdiametern är 30 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Passar Athlon Argos BTR Gen 3 6-24x50 för långhåll och PRS?\",\"a\":\"Ja, det är en långhållsfavorit som passar för PRS-debut och seriös träning.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "6-24x"
+  },
+  "textlangd": 739,
+  "descriptionHtml": "<p data-start=\"4658\" data-end=\"4718\"><strong data-start=\"4658\" data-end=\"4718\">Athlon Argos BTR Gen 3 6–24×50 FFP MIL Belyst Kikarsikte</strong></p>\n<p data-start=\"4720\" data-end=\"4895\">Prispressad långhållsfavorit i senaste GEN3-versionen. FFP-retikel (APRS11 MIL), nollstopp och parallax ner till ca 9 m gör den klockren för både PRS-debut och seriös träning.</p>\n<p data-start=\"4897\" data-end=\"5024\">Ny turretdesign och förbättrat grepp på zoomringen gör hanteringen snabb och exakt — och du får full MIL-logik från 6 till 24×.</p>\n<p data-start=\"5026\" data-end=\"5214\"><strong data-start=\"5026\" data-end=\"5046\">Nyckelfunktioner</strong><br data-start=\"5046\" data-end=\"5049\">• Förstoring 6–24×, objektiv 50 mm, tub 30 mm<br data-start=\"5094\" data-end=\"5097\">• FFP, belyst APRS11 MIL, nollstopp<br data-start=\"5132\" data-end=\"5135\">• Synfält @100 m: ca 5,6–1,5 m<br data-start=\"5165\" data-end=\"5168\">• Klickvärde: 0,1 MIL<br data-start=\"5189\" data-end=\"5192\">• Parallax: ca 9 m – ∞</p>\n<p data-start=\"5216\" data-end=\"5302\"><strong data-start=\"5216\" data-end=\"5241\">Teknisk specifikation</strong><br data-start=\"5241\" data-end=\"5244\">Längd: ca 35,8 cm<br data-start=\"5261\" data-end=\"5264\">Vikt: ca 859 g<br data-start=\"5278\" data-end=\"5281\">Ögonavstånd: ca 84 mm</p>\n<p data-start=\"5304\" data-end=\"5353\"><strong data-start=\"5304\" data-end=\"5319\">Detta ingår</strong><br data-start=\"5319\" data-end=\"5322\">• Kikarsikte<br data-start=\"5334\" data-end=\"5337\">• Bruksanvisning</p>\n<p data-start=\"5355\" data-end=\"5477\">Kom in i långhållsskytte utan kompromisser — rätt funktioner, rätt logik, rätt pris.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772176212",
+  "handle": "athlon-argos-btr-8-34x56-gen-3-ffp-mil-belyst-kikarsikte",
+  "title": "Athlon Argos BTR 8-34x56 Gen 3 FFP MIL Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "6095.0",
+  "short_pitch": "Extra förstoring för att läsa vind och nagla fina hållpunkter långt ut. FFP håller skalan rätt på alla lägen, och nollstoppet tar dig tillbaka till nollan.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492757332",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Argos BTR Gen 3 8-34x56?\",\"a\":\"Athlon Argos BTR Gen 3 8-34x56 förstorar 8 till 34 gånger. Objektivet är 56 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Argos BTR Gen 3 8-34x56?\",\"a\":\"Riktmedlet är APRS11 FFP MIL. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Argos BTR Gen 3 8-34x56?\",\"a\":\"Riktmedlet sitter i främre fokalplanet (FFP), vilket innebär att det skalar med förstoringen så att MIL-måtten och hållpunkterna stämmer på alla förstoringar.\"},{\"q\":\"Vilket klickvärde har Athlon Argos BTR Gen 3 8-34x56?\",\"a\":\"Klickvärdet är 0,1 MIL.\"},{\"q\":\"Vilken tubdiameter har Athlon Argos BTR Gen 3 8-34x56?\",\"a\":\"Tubdiametern är 30 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Är riktmedlet belyst på Athlon Argos BTR Gen 3 8-34x56?\",\"a\":\"Ja, riktmedlet är belyst.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "8-34x"
+  },
+  "textlangd": 767,
+  "descriptionHtml": "<p data-start=\"5480\" data-end=\"5540\"><strong data-start=\"5480\" data-end=\"5540\">Athlon Argos BTR Gen 3 8–34×56 FFP MIL Belyst Kikarsikte</strong></p>\n<p data-start=\"5542\" data-end=\"5745\">När du vill ha mer förstoring och finare hållpunkter. GEN3 8–34×56 ger FFP-retikel (APRS11 MIL), nollstopp och parallax från ca 13,7 m för precis nollning och skarpa riktmedelsdetaljer på hög förstoring.</p>\n<p data-start=\"5747\" data-end=\"5879\">Med 0,1 MIL-klick och tydlig turretdelning är det lätt att jobba systematiskt genom banan — från grov inställning till sista finlir.</p>\n<p data-start=\"5881\" data-end=\"6072\"><strong data-start=\"5881\" data-end=\"5901\">Nyckelfunktioner</strong><br data-start=\"5901\" data-end=\"5904\">• Förstoring 8–34×, objektiv 56 mm, tub 30 mm<br data-start=\"5949\" data-end=\"5952\">• FFP, belyst APRS11 MIL, nollstopp<br data-start=\"5987\" data-end=\"5990\">• Synfält @100 m: ca 4,2–1,0 m<br data-start=\"6020\" data-end=\"6023\">• Klickvärde: 0,1 MIL<br data-start=\"6044\" data-end=\"6047\">• Parallax: ca 13,7 m – ∞</p>\n<p data-start=\"6074\" data-end=\"6160\"><strong data-start=\"6074\" data-end=\"6099\">Teknisk specifikation</strong><br data-start=\"6099\" data-end=\"6102\">Längd: ca 39,4 cm<br data-start=\"6119\" data-end=\"6122\">Vikt: ca 907 g<br data-start=\"6136\" data-end=\"6139\">Ögonavstånd: ca 84 mm</p>\n<p data-start=\"6162\" data-end=\"6211\"><strong data-start=\"6162\" data-end=\"6177\">Detta ingår</strong><br data-start=\"6177\" data-end=\"6180\">• Kikarsikte<br data-start=\"6192\" data-end=\"6195\">• Bruksanvisning</p>\n<p data-start=\"6213\" data-end=\"6327\">Mer avstånd, mer precision — skapat för att läsa vind och ringa hem poängen.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770013524",
+  "handle": "athlon-argos-hmr-2-12x42-belyst-kikarsikte",
+  "title": "Athlon Argos HMR 2-12x42 Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "4495.0",
+  "short_pitch": "Tydliga hållpunkter när skymningen faller, i ett lätt och smidigt paket. Belyst BDC-retikel och sidoparallax från ca 9 m tar dig från pyrsch till skjutbana.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492200276",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Argos HMR 2-12x42 Belyst?\",\"a\":\"Athlon Argos HMR 2-12x42 har 2-12x förstoring och 42 mm objektiv. Ett kompakt allroundspann för jakt och skytte.\"},{\"q\":\"Vilket riktmedel har Athlon Argos HMR 2-12x42 Belyst?\",\"a\":\"Riktmedlet är belyst BDC 600A i andra fokalplanet. Det ger snabba hållpunkter under skymning.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Argos HMR 2-12x42 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Argos HMR 2-12x42?\",\"a\":\"Klickvärdet är 0,25 MOA per klick, med kapslade torn.\"},{\"q\":\"Vilken tubdiameter har Athlon Argos HMR 2-12x42 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 25,4 mm (1 tum). Du behöver alltså ringar eller montage för 25,4 mm.\"},{\"q\":\"Har Athlon Argos HMR 2-12x42 Belyst belyst riktmedel?\",\"a\":\"Ja, BDC 600A-riktmedlet är belyst.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "2-12x"
+  },
+  "textlangd": 876,
+  "descriptionHtml": "<p data-start=\"1352\" data-end=\"1398\"><strong data-start=\"1352\" data-end=\"1398\">Athlon Argos HMR 2–12×42 Belyst Kikarsikte</strong></p>\n<p data-start=\"1400\" data-end=\"1621\">Kompakt allround för jakt och skytte där låg vikt och smidighet prioriteras. Den belysta BDC-retikeln ger tydliga hållpunkter under skymning och sidoparallax från nära håll gör siktet flexibelt från pyrsch till skjutbana.</p>\n<p data-start=\"1623\" data-end=\"1914\"><strong data-start=\"1623\" data-end=\"1643\">Nyckelfunktioner</strong><br data-start=\"1643\" data-end=\"1646\">• Belyst SFP-retikel (BDC 600A) för snabba hållpunkter<br data-start=\"1711\" data-end=\"1714\">• Sidoparallax från korta avstånd – fin skärpa från ca 9 m<br data-start=\"1772\" data-end=\"1775\">• Fullt flermulticoatat glas, argonfylld tub<br data-start=\"1819\" data-end=\"1822\">• Kapslade torn – säkra justeringar i fält<br data-start=\"1864\" data-end=\"1867\">• Låg vikt och kort bygglängd för smidig balans</p>\n<p data-start=\"1916\" data-end=\"2140\"><strong data-start=\"1916\" data-end=\"1941\">Teknisk specifikation</strong><br data-start=\"1941\" data-end=\"1944\">• Förstoring: 2–12×<br data-start=\"1963\" data-end=\"1966\">• Objektiv: 42 mm<br data-start=\"1983\" data-end=\"1986\">• Tub: 1” (25,4 mm)<br data-start=\"2005\" data-end=\"2008\">• Ögonavstånd: ca 91 mm<br data-start=\"2031\" data-end=\"2034\">• Klicksteg: 0,25 MOA<br data-start=\"2055\" data-end=\"2058\">• Parallax: från 10 yards (≈ 9,1 m) till ∞<br data-start=\"2100\" data-end=\"2103\">• Längd: ca 300 mm<br data-start=\"2121\" data-end=\"2124\">• Vikt: ca 561 g</p>\n<p data-start=\"2142\" data-end=\"2190\"><strong data-start=\"2142\" data-end=\"2157\">Detta ingår</strong><br data-start=\"2157\" data-end=\"2160\">• Kikarsikte<br data-start=\"2172\" data-end=\"2175\">• Dokumentation</p>\n<p data-start=\"2192\" data-end=\"2290\">Få en lätt, belyst och pålitlig allroundlösning som levererar från första gryning till sista ljus.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770242900",
+  "handle": "athlon-argos-hmr-2-12x42-kikarsikte",
+  "title": "Athlon Argos HMR 2-12x42 Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "5490.0",
+  "short_pitch": "Snabb anläggning i skogen på 2x, och 12x när du vill ha mer kontroll. Lätt och kompakt med kapslade torn som håller nollan hela säsongen.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492101972",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Argos HMR 2-12x42?\",\"a\":\"Athlon Argos HMR 2-12x42 har 2-12x förstoring och 42 mm objektiv. 2x för snabb anläggning i skogen och 12x när du behöver mer kontroll.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Argos HMR 2-12x42 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Argos HMR 2-12x42?\",\"a\":\"Klickvärdet är 0,25 MOA per klick, med kapslade torn.\"},{\"q\":\"Vilken tubdiameter har Athlon Argos HMR 2-12x42 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 25,4 mm (1 tum). Du behöver alltså ringar eller montage för 25,4 mm.\"},{\"q\":\"Har Athlon Argos HMR 2-12x42 belyst riktmedel?\",\"a\":\"Nej, den här varianten har inte belyst riktmedel.\"},{\"q\":\"Vad passar Athlon Argos HMR 2-12x42 för?\",\"a\":\"Det är ett kompakt och lätt allroundsikte för jakt och skytte. Sidoparallax från 10 m gör det flexibelt från skog till bana.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "2-12x"
+  },
+  "textlangd": 621,
+  "descriptionHtml": "<p data-end=\"2779\" data-start=\"2551\"><strong data-end=\"2590\" data-start=\"2551\">Athlon Argos HMR 2–12×42 Kikarsikte</strong><br data-end=\"2593\" data-start=\"2590\">Kompakt, lätt och mångsidigt. Argos HMR ger 2× för snabb anläggning i skogen och 12× när du behöver mer kontroll. Sidoparallax från 10 m och kapslade torn ger enkel och robust hantering.</p>\n<p data-end=\"2935\" data-start=\"2781\"><strong data-end=\"2801\" data-start=\"2781\">Nyckelfunktioner</strong><br data-end=\"2804\" data-start=\"2801\">• 2–12× i SFP med MOA-skalning<br data-end=\"2837\" data-start=\"2834\">• Sidoparallax från 10 m<br data-end=\"2864\" data-start=\"2861\">• Lätt 1-tums tub och kompakt format<br data-end=\"2903\" data-start=\"2900\">• Avancerad flerskiktsbehandling</p>\n<p data-end=\"3098\" data-start=\"2937\"><strong data-end=\"2962\" data-start=\"2937\">Teknisk specifikation</strong><br data-end=\"2965\" data-start=\"2962\">• Synfält @100 m: ca 18,6–3,2 m<br data-end=\"2999\" data-start=\"2996\">• Ögonavstånd: ca 91 mm<br data-end=\"3025\" data-start=\"3022\">• Längd: ca 30,0 cm<br data-end=\"3047\" data-start=\"3044\">• Vikt: ca 561 g<br data-end=\"3066\" data-start=\"3063\">• Tub: 25,4 mm • Klick: 0,25 MOA</p>\n<p data-end=\"3151\" data-start=\"3100\"><strong data-end=\"3115\" data-start=\"3100\">Detta ingår</strong><br data-end=\"3118\" data-start=\"3115\">• Kikarsikte <br>• Linsskydd <br>• Manual</p>\n<p data-end=\"3214\" data-start=\"3153\">Smidigt format och stabil optik som gör jobbet hela säsongen.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771488084",
+  "handle": "athlon-argos-hmr-4-20x50-belyst-kikarsikte",
+  "title": "Athlon Argos HMR 4-20x50 Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "5495.0",
+  "short_pitch": "Tydliga hållpunkter även när ljuset sviktar på passet. Belyst BDC 600A gör målet läsbart i skiftande ljus, och kapslade rattar håller nollan på plats.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272493052244",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Argos HMR 4-20x50 Belyst?\",\"a\":\"Athlon Argos HMR 4-20x50 Belyst förstorar 4 till 20 gånger. Objektivet är 50 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Argos HMR 4-20x50 Belyst?\",\"a\":\"Riktmedlet är BDC 600A SFP MOA. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Argos HMR 4-20x50 Belyst?\",\"a\":\"Riktmedlet sitter i bakre fokalplanet (SFP), vilket innebär att det behåller samma storlek genom hela zoomen och att hållpunkterna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vilket klickvärde har Athlon Argos HMR 4-20x50 Belyst?\",\"a\":\"Klickvärdet är 0,25 MOA.\"},{\"q\":\"Vilken tubdiameter har Athlon Argos HMR 4-20x50 Belyst?\",\"a\":\"Tubdiametern är 25,4 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Är riktmedlet belyst på Athlon Argos HMR 4-20x50 Belyst?\",\"a\":\"Ja, riktmedlet är belyst med BDC 600A som underlättar skott i varierande ljus.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "4-20x"
+  },
+  "textlangd": 657,
+  "descriptionHtml": "<p data-start=\"3935\" data-end=\"4145\"><strong data-start=\"3935\" data-end=\"3985\">Athlon Argos HMR 4–20×50 SFP Belyst Kikarsikte</strong><br data-start=\"3985\" data-end=\"3988\">Samma kompakta HMR-plattform – nu med belyst BDC 600A-riktmedel som underlättar skott i varierande ljus. Sidoparallax och kapslade rattar för säker nollning.</p>\n<p data-start=\"4147\" data-end=\"4299\"><strong data-start=\"4147\" data-end=\"4167\">Nyckelfunktioner</strong><br data-start=\"4167\" data-end=\"4170\">• SFP, belyst BDC 600A (MOA)<br data-start=\"4198\" data-end=\"4201\">• Sidoparallax från ca 9 m till ∞<br data-start=\"4234\" data-end=\"4237\">• 0,25 MOA/klick, kapslade rattar<br data-start=\"4270\" data-end=\"4273\">• Argonfylld och vattentät</p>\n<p data-start=\"4301\" data-end=\"4500\"><strong data-start=\"4301\" data-end=\"4326\">Teknisk specifikation</strong><br data-start=\"4326\" data-end=\"4329\">• Förstoring: 4–20× • Objektiv: 50 mm • Tub: 25,4 mm<br data-start=\"4381\" data-end=\"4384\">• Synfält @100 m: ca 9,3–1,87 m<br data-start=\"4415\" data-end=\"4418\">• Ögonavstånd: ca 91 mm<br data-start=\"4441\" data-end=\"4444\">• Längd: ca 33,7 cm • Vikt: ca 595 g<br data-start=\"4480\" data-end=\"4483\">• Batteri: CR2032</p>\n<p data-start=\"4502\" data-end=\"4549\"><strong data-start=\"4502\" data-end=\"4517\">Detta ingår</strong><br data-start=\"4517\" data-end=\"4520\">• Kikarsikte • Bruksanvisning</p>\n<p data-start=\"4551\" data-end=\"4634\">Få tydliga hållpunkter när ljuset sviktar – utan att tappa den smidiga HMR-känslan.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771717460",
+  "handle": "athlon-argos-hmr-4-20x50-kikarsikte",
+  "title": "Athlon Argos HMR 4-20x50 Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "5290.0",
+  "short_pitch": "Allround i jakttermer, klar bild när gryningen och skymningen ställer krav. Sidoparallaxen skärper bilden på alla håll, och kapslade rattar håller nollan trygg.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492953940",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Argos HMR 4-20x50?\",\"a\":\"Athlon Argos HMR 4-20x50 förstorar 4 till 20 gånger. Objektivet är 50 mm.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Argos HMR 4-20x50?\",\"a\":\"Riktmedlet sitter i bakre fokalplanet (SFP), vilket innebär att det behåller samma storlek genom hela zoomen och att hållpunkterna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vilket klickvärde har Athlon Argos HMR 4-20x50?\",\"a\":\"Klickvärdet är 0,25 MOA.\"},{\"q\":\"Vilken tubdiameter har Athlon Argos HMR 4-20x50?\",\"a\":\"Tubdiametern är 25,4 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Är riktmedlet belyst på Athlon Argos HMR 4-20x50?\",\"a\":\"Nej, riktmedlet är inte belyst.\"},{\"q\":\"Passar Athlon Argos HMR 4-20x50 för jakt?\",\"a\":\"Ja, det är en jaktorienterad allround-zoom med bra ljustransmission i gryning och skymning.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "4-20x"
+  },
+  "textlangd": 709,
+  "descriptionHtml": "<p data-start=\"1146\" data-end=\"1400\"><strong data-start=\"1146\" data-end=\"1189\">Athlon Argos HMR 4–20×50 SFP Kikarsikte</strong><br data-start=\"1189\" data-end=\"1192\">Jaktorienterad allround-zoom med 1″-tub, sidoparallax och tydliga, kapslade rattar. Optiken ger bra ljustransmission i gryning/skymning och SFP-riktmedlet håller samma visuella storlek över hela zoomomfånget.</p>\n<p data-start=\"1402\" data-end=\"1595\"><strong data-start=\"1402\" data-end=\"1422\">Nyckelfunktioner</strong><br data-start=\"1422\" data-end=\"1425\">• SFP-riktmedel (AHMC eller MIL-Dot)<br data-start=\"1461\" data-end=\"1464\">• Sidoparallax från ca 9 m till ∞<br data-start=\"1497\" data-end=\"1500\">• Kapslade höjd-/sidrattar, 0,25 MOA per klick<br data-start=\"1546\" data-end=\"1549\">• Avancerad flerskiktsbeläggning, argonfylld</p>\n<p data-start=\"1597\" data-end=\"1776\"><strong data-start=\"1597\" data-end=\"1622\">Teknisk specifikation</strong><br data-start=\"1622\" data-end=\"1625\">• Förstoring: 4–20× • Objektiv: 50 mm • Tub: 25,4 mm<br data-start=\"1677\" data-end=\"1680\">• Synfält @100 m: ca 9,3–1,87 m<br data-start=\"1711\" data-end=\"1714\">• Ögonavstånd: ca 91 mm<br data-start=\"1737\" data-end=\"1740\">• Längd: ca 33,7 cm • Vikt: ca 595 g</p>\n<p data-start=\"1778\" data-end=\"1825\"><strong data-start=\"1778\" data-end=\"1793\">Detta ingår</strong><br data-start=\"1793\" data-end=\"1796\">• Kikarsikte • Bruksanvisning</p>\n<p data-start=\"1827\" data-end=\"1897\">Ställ in, håll i – och låt glaset göra jobbet när ljuset blir svagare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771914068",
+  "handle": "athlon-cronus-btr-gen2-1-6x24-sfp-belyst",
+  "title": "Athlon Cronus BTR GEN2 1-6X24 SFP Belyst",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "13595.75",
+  "short_pitch": "Full fart i 3-gun och trånga jaktlägen med båda ögonen öppna. Belyst ATSR2 ger snabb målupptagning, och UHD-glaset håller bilden skarp när du zoomar upp.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492855636",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Cronus BTR Gen 2 1-6x24?\",\"a\":\"Athlon Cronus BTR Gen 2 1-6x24 förstorar 1 till 6 gånger. Objektivet är 24 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Cronus BTR Gen 2 1-6x24?\",\"a\":\"Riktmedlet är ATSR2 SFP MOA. Det är belyst och gjort för snabb målupptagning.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Cronus BTR Gen 2 1-6x24?\",\"a\":\"Riktmedlet sitter i bakre fokalplanet (SFP), vilket innebär att det behåller samma storlek genom hela zoomen och att hållpunkterna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vilket klickvärde har Athlon Cronus BTR Gen 2 1-6x24?\",\"a\":\"Klickvärdet är 0,5 MOA.\"},{\"q\":\"Vilken tubdiameter har Athlon Cronus BTR Gen 2 1-6x24?\",\"a\":\"Tubdiametern är 30 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Passar Athlon Cronus BTR Gen 2 1-6x24 för 3-gun och dynamiskt skytte?\",\"a\":\"Ja, det är ett LPVO gjort för 3-gun, dynamiskt skytte och jakt i trånga lägen.\"}]",
+  "metafalt": {
+   "obj": "24 mm",
+   "forst": "1-6x"
+  },
+  "textlangd": 779,
+  "descriptionHtml": "<p data-start=\"2106\" data-end=\"2163\"><strong data-start=\"2106\" data-end=\"2163\">Athlon Cronus BTR Gen 2 1–6×24 SFP Belyst (ATSR2 MOA)</strong></p>\n<p data-start=\"2165\" data-end=\"2349\">Cronus BTR 1–6×24 är ett toppklass-LPVO för 3-gun, dynamiskt skytte och jakt i trånga lägen. ATSR2-retikeln (SFP, MOA) är gjord för snabb målupptagning och tydliga hållpunkter på 1–6×.</p>\n<p data-start=\"2351\" data-end=\"2502\">UHD-glas, nollstopp och gedigna torn ger en skarp, robust helhet. Stor “box” på 1× och jämn ögonavlastning gör det lätt att skjuta med båda ögon öppna.</p>\n<p data-start=\"2504\" data-end=\"2689\"><strong data-start=\"2504\" data-end=\"2524\">Nyckelfunktioner</strong><br data-start=\"2524\" data-end=\"2527\">• Förstoring 1–6×, objektiv 24 mm, tub 30 mm<br data-start=\"2571\" data-end=\"2574\">• SFP, belyst ATSR2 MOA<br data-start=\"2597\" data-end=\"2600\">• Synfält @100 m: ca 35,6–5,9 m<br data-start=\"2631\" data-end=\"2634\">• Klickvärde: 0,5 MOA<br data-start=\"2655\" data-end=\"2658\">• Parallax: fast (ej justerbar)</p>\n<p data-start=\"2691\" data-end=\"2781\"><strong data-start=\"2691\" data-end=\"2716\">Teknisk specifikation</strong><br data-start=\"2716\" data-end=\"2719\">Längd: ca 26,4 cm<br data-start=\"2736\" data-end=\"2739\">Vikt: ca 610 g<br data-start=\"2753\" data-end=\"2756\">Ögonavstånd: ca 91–102 mm</p>\n<p data-start=\"2783\" data-end=\"2832\"><strong data-start=\"2783\" data-end=\"2798\">Detta ingår</strong><br data-start=\"2798\" data-end=\"2801\">• Kikarsikte<br data-start=\"2813\" data-end=\"2816\">• Bruksanvisning</p>\n<p data-start=\"2834\" data-end=\"2965\">Snabbt där det är nära, tydligt när det blir längre — ett säkert val för tempo och precision.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772012372",
+  "handle": "athlon-helos-btr-gen-2-1-10x28-sfp-moa-belyst-kikarsikte",
+  "title": "Athlon Helos BTR Gen 2 1-10x28 SFP MOA Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "7390.0",
+  "short_pitch": "Rödpunktsfart på 1x, precision uppåt 10x när målet backar undan. Belyst ATMR4 ger snabb målbild, och robust bygge tål tempot på PCC och AR.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492822868",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Helos BTR Gen 2 1-10x28?\",\"a\":\"Athlon Helos BTR Gen 2 1-10x28 förstorar 1 till 10 gånger. Objektivet är 28 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Helos BTR Gen 2 1-10x28?\",\"a\":\"Riktmedlet är ATMR4 SFP MOA. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Helos BTR Gen 2 1-10x28?\",\"a\":\"Riktmedlet sitter i bakre fokalplanet (SFP), vilket innebär att det behåller samma storlek genom hela zoomen och att hållpunkterna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vilket klickvärde har Athlon Helos BTR Gen 2 1-10x28?\",\"a\":\"Klickvärdet är 0,5 MOA.\"},{\"q\":\"Vilken tubdiameter har Athlon Helos BTR Gen 2 1-10x28?\",\"a\":\"Tubdiametern är 34 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Är riktmedlet belyst på Athlon Helos BTR Gen 2 1-10x28?\",\"a\":\"Ja, riktmedlet är belyst.\"}]",
+  "metafalt": {
+   "obj": "28 mm",
+   "forst": "1-10x"
+  },
+  "textlangd": 736,
+  "descriptionHtml": "<p data-start=\"3839\" data-end=\"3899\"><strong data-start=\"3839\" data-end=\"3899\">Athlon Helos BTR Gen 2 1–10×28 SFP MOA Belyst Kikarsikte</strong></p>\n<p data-start=\"3901\" data-end=\"4076\">Allround-LPVO med 34 mm tub, stor topp-till-botten-zoom och tydligt ATMR4-riktmedel (SFP, MOA). 1–10× låter dig gå från rent rödpunktsläge till precisionsskott på längre håll.</p>\n<p data-start=\"4078\" data-end=\"4199\">Robust byggd, fullt flermulticoatad optik och enkel 0,5 MOA-justering gör den lätt att leva med på allt från PCC till AR.</p>\n<p data-start=\"4201\" data-end=\"4387\"><strong data-start=\"4201\" data-end=\"4221\">Nyckelfunktioner</strong><br data-start=\"4221\" data-end=\"4224\">• Förstoring 1–10×, objektiv 28 mm, tub 34 mm<br data-start=\"4269\" data-end=\"4272\">• SFP, belyst ATMR4 MOA<br data-start=\"4295\" data-end=\"4298\">• Synfält @100 m: ca 36,7–3,3 m<br data-start=\"4329\" data-end=\"4332\">• Klickvärde: 0,5 MOA<br data-start=\"4353\" data-end=\"4356\">• Parallax: fast (ej justerbar)</p>\n<p data-start=\"4389\" data-end=\"4475\"><strong data-start=\"4389\" data-end=\"4414\">Teknisk specifikation</strong><br data-start=\"4414\" data-end=\"4417\">Längd: ca 26,2 cm<br data-start=\"4434\" data-end=\"4437\">Vikt: ca 519 g<br data-start=\"4451\" data-end=\"4454\">Ögonavstånd: ca 81 mm</p>\n<p data-start=\"4477\" data-end=\"4526\"><strong data-start=\"4477\" data-end=\"4492\">Detta ingår</strong><br data-start=\"4492\" data-end=\"4495\">• Kikarsikte<br data-start=\"4507\" data-end=\"4510\">• Bruksanvisning</p>\n<p data-start=\"4528\" data-end=\"4655\">Ett sikte som gör bössan snabb på 1× och relevant upp mot 10× — mer spelrum i varje läge.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772307284",
+  "handle": "athlon-helos-btr-gen-2-2-12x42-ffp-mil-belyst-kikarsikte",
+  "title": "Athlon Helos BTR Gen 2 2-12x42 FFP MIL Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "7795.0",
+  "short_pitch": "Från snabba lägen till lugna precisionsskott i samma sikte. Belyst FFP-riktmedel håller hållpunkterna rätt genom hela zoomen, och parallaxen går ner till 9 m.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492691796",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Helos BTR Gen 2 2-12x42?\",\"a\":\"Athlon Helos BTR Gen 2 2-12x42 förstorar 2 till 12 gånger. Objektivet är 42 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Helos BTR Gen 2 2-12x42?\",\"a\":\"Riktmedlet är AHMR2 FFP MIL. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Helos BTR Gen 2 2-12x42?\",\"a\":\"Riktmedlet sitter i främre fokalplanet (FFP), vilket innebär att det skalar med förstoringen så att MIL-måtten och hållpunkterna stämmer på alla förstoringar.\"},{\"q\":\"Vilket klickvärde har Athlon Helos BTR Gen 2 2-12x42?\",\"a\":\"Klickvärdet är 0,1 MIL.\"},{\"q\":\"Vilken tubdiameter har Athlon Helos BTR Gen 2 2-12x42?\",\"a\":\"Tubdiametern är 30 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Är riktmedlet belyst på Athlon Helos BTR Gen 2 2-12x42?\",\"a\":\"Ja, riktmedlet är belyst.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "2-12x"
+  },
+  "textlangd": 806,
+  "descriptionHtml": "<p data-start=\"1030\" data-end=\"1090\"><strong data-start=\"1030\" data-end=\"1090\">Athlon Helos BTR Gen 2 2–12x42 FFP MIL Belyst Kikarsikte</strong></p>\n<p data-start=\"1092\" data-end=\"1291\">Ett allroundsikte som klarar allt från snabba lägen till precisionsskott. AHMR2 FFP IR MIL, låsbara torn, Zero Stop och parallax från 9,1 m ger snabb, reproducerbar träffbild i verkliga förhållanden.</p>\n<p data-start=\"1293\" data-end=\"1515\"><strong data-start=\"1293\" data-end=\"1313\">Nyckelfunktioner</strong><br data-start=\"1313\" data-end=\"1316\">• FFP med belyst AHMR2 MIL<br data-start=\"1342\" data-end=\"1345\">• Låsbara höjd-/sidotorn och Precision Zero Stop<br data-start=\"1393\" data-end=\"1396\">• Sidoparallax 9,1 m–∞<br data-start=\"1418\" data-end=\"1421\">• Advanced Fully Multi-Coated + XPL-beläggning<br data-start=\"1467\" data-end=\"1470\">• 30 mm enstyckstub, argonfylld och vattentät</p>\n<p data-start=\"1517\" data-end=\"1739\"><strong data-start=\"1517\" data-end=\"1542\">Teknisk specifikation</strong><br data-start=\"1542\" data-end=\"1545\">Förstoring: 2–12×<br data-start=\"1562\" data-end=\"1565\">Objektivdiameter: 42 mm<br data-start=\"1588\" data-end=\"1591\">Tubdiameter: 30 mm<br data-start=\"1609\" data-end=\"1612\">Ögonavstånd: 91,44 mm<br data-start=\"1633\" data-end=\"1636\">Synfält @ 100 m: 18,57–3,20 m<br data-start=\"1665\" data-end=\"1668\">Klickvärde: 0,1 MIL<br data-start=\"1687\" data-end=\"1690\">Parallax: 9,1 m–∞<br data-start=\"1707\" data-end=\"1710\">Längd: 29,97 cm<br data-start=\"1725\" data-end=\"1728\">Vikt: 720 g</p>\n<p data-start=\"1741\" data-end=\"1777\"><strong data-start=\"1741\" data-end=\"1756\">Detta ingår</strong><br data-start=\"1756\" data-end=\"1759\">• Sikte<br data-start=\"1766\" data-end=\"1769\">• Manual</p>\n<p data-start=\"1779\" data-end=\"1889\">Byt inte sikte – byt zoom. Lägg i varukorgen och få ett verktyg som faktiskt täcker både nära och längre håll.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772372820",
+  "handle": "athlon-helos-btr-gen-2-4-20x50-ffp-mil-kikarsikte",
+  "title": "Athlon Helos BTR Gen 2 4-20x50 FFP MIL Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "7695.0",
+  "short_pitch": "Stabila träffar från medelhåll och längre ut. FFP-riktmedlet håller MIL-hållpunkterna rätt på alla förstoringar, och Zero Stop ger samma nolla serie efter serie.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492659028",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Helos BTR Gen 2 4-20x50?\",\"a\":\"Athlon Helos BTR Gen 2 4-20x50 förstorar 4 till 20 gånger. Objektivet är 50 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Helos BTR Gen 2 4-20x50?\",\"a\":\"Riktmedlet är APRS6 FFP MIL. Det är belyst och etsat i glaset.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Helos BTR Gen 2 4-20x50?\",\"a\":\"Riktmedlet sitter i främre fokalplanet (FFP), vilket innebär att det skalar med förstoringen så att MIL-måtten och hållpunkterna stämmer på alla förstoringar.\"},{\"q\":\"Vilket klickvärde har Athlon Helos BTR Gen 2 4-20x50?\",\"a\":\"Klickvärdet är 0,1 MIL.\"},{\"q\":\"Vilken tubdiameter har Athlon Helos BTR Gen 2 4-20x50?\",\"a\":\"Tubdiametern är 30 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Passar Athlon Helos BTR Gen 2 4-20x50 för långhåll och tävling?\",\"a\":\"Ja, det är byggt för stabila träffar från medelhåll till längre håll och är redo för tävling och träning.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "4-20x"
+  },
+  "textlangd": 1552,
+  "descriptionHtml": "<p data-start=\"0\" data-end=\"49\">Athlon Helos BTR Gen 2 4–20x50 FFP MIL Kikarsikte</p>\n<p data-start=\"51\" data-end=\"327\">Byggt för stabila träffar från medel- till längre håll. 4–20x-omfånget i kombination med FFP-retikel gör att dina MIL-värden stämmer på alla förstoringar, så du kan både hålla och diala med trygghet. Låsbara torn och exakt Zero Stop ger konsekventa återgångar mellan serierna.</p>\n<p data-start=\"329\" data-end=\"660\">Glaset är Advanced Fully Multi-Coated med XPL-skydd som står emot smuts och repor, och det argonfyllda 30 mm-röret håller imman borta i skiftande väder. Sidoparallax från 10 yards till oändligt, 0.1 MIL/klick och 10 MIL per varv ger snabb, kontrollerad justering – med totalt 32 MIL höjd och 25 MIL vind för verklig arbetsmarginal.</p>\n<p data-start=\"662\" data-end=\"1071\"><strong data-start=\"662\" data-end=\"682\">Nyckelfunktioner</strong><br data-start=\"682\" data-end=\"685\">• FFP APRS6 MIL, belyst och etsat i glas<br data-start=\"725\" data-end=\"728\">• Låsbara torn + Precision Zero Stop<br data-start=\"764\" data-end=\"767\">• 0.1 MIL per klick, 10 MIL per varv<br data-start=\"803\" data-end=\"806\">• Total justermån: 32 MIL (elevation), 25 MIL (vind)<br data-start=\"858\" data-end=\"861\">• Sidoparallax: 10 yds–∞<br data-start=\"885\" data-end=\"888\" data-is-only-node=\"\">• 30 mm enstycksrör i aluminium, argonfylld (vattentät/imtät/stöttålig)<br data-start=\"959\" data-end=\"962\">• Advanced Fully Multi-Coated linser + XPL skyddsbeläggning<br data-start=\"1021\" data-end=\"1024\">• Synfält 27.9–5.6 ft @100 yd, ögonavstånd 3.6\"</p>\n<p data-start=\"1073\" data-end=\"1418\"><strong data-start=\"1073\" data-end=\"1098\">Teknisk specifikation</strong><br data-start=\"1098\" data-end=\"1101\">Förstoring: 4–20×<br data-start=\"1118\" data-end=\"1121\">Objektivdiameter: 50 mm<br data-start=\"1144\" data-end=\"1147\">Tubdiameter: 30 mm<br data-start=\"1165\" data-end=\"1168\">Ögonavstånd: 3.6\"<br data-start=\"1185\" data-end=\"1188\">Synfält @100 yd: 27.9–5.6 ft<br data-start=\"1216\" data-end=\"1219\" data-is-only-node=\"\">Parallax: Side Focus 10 yds–∞<br data-start=\"1248\" data-end=\"1251\">Klickvärde: 0.1 MIL<br data-start=\"1270\" data-end=\"1273\">Justering per varv: 10 MIL<br data-start=\"1299\" data-end=\"1302\">Total höjdjustering: 32 MIL<br data-start=\"1329\" data-end=\"1332\">Total vindjustering: 25 MIL<br data-start=\"1359\" data-end=\"1362\">Längd: 13.3\"<br data-start=\"1374\" data-end=\"1377\">Vikt: 27.6 oz<br data-start=\"1390\" data-end=\"1393\">Retikel: APRS6 FFP IR MIL</p>\n<p data-start=\"1420\" data-end=\"1482\"><strong data-start=\"1420\" data-end=\"1435\">Detta ingår</strong><br data-start=\"1435\" data-end=\"1438\">• Athlon Helos BTR Gen 2 4–20×50 (APRS6 MIL)</p>\n<p data-start=\"1484\" data-end=\"1614\">Gör det enkelt att skjuta stabilt: lås nollan, mät i MIL och fokusera på fler säkra träffar – redo för tävling och träning direkt.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771848532",
+  "handle": "athlon-helos-btr-gen-2-6-24x56-ffp-mil-belyst-kikarsikte",
+  "title": "Athlon Helos BTR Gen 2 6-24x56 FFP MIL Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "7995.0",
+  "short_pitch": "Byggt för långhåll där varje klick måste sitta. Belyst FFP håller hållpunkterna rätt genom hela zoomen, och nollstopp med låsbara torn skyddar din nolla.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492921172",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Helos BTR Gen 2 6-24x56?\",\"a\":\"Athlon Helos BTR Gen 2 6-24x56 förstorar 6 till 24 gånger. Objektivet är 56 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Helos BTR Gen 2 6-24x56?\",\"a\":\"Riktmedlet är APRS6 FFP MIL. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Helos BTR Gen 2 6-24x56?\",\"a\":\"Riktmedlet sitter i främre fokalplanet (FFP), vilket innebär att det skalar med förstoringen så att MIL-måtten och hållpunkterna stämmer på alla förstoringar.\"},{\"q\":\"Vilket klickvärde har Athlon Helos BTR Gen 2 6-24x56?\",\"a\":\"Klickvärdet är 0,1 MIL.\"},{\"q\":\"Vilken tubdiameter har Athlon Helos BTR Gen 2 6-24x56?\",\"a\":\"Tubdiametern är 34 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Passar Athlon Helos BTR Gen 2 6-24x56 för långhåll och PRS?\",\"a\":\"Ja, det är byggt för långhållsskytte och passar för både PRS-träning och fältanvändning.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "6-24x"
+  },
+  "textlangd": 929,
+  "descriptionHtml": "<p data-start=\"198\" data-end=\"258\"><strong data-start=\"198\" data-end=\"258\">Athlon Helos BTR Gen 2 6–24×56 FFP MIL Belyst Kikarsikte</strong></p>\n<p data-start=\"260\" data-end=\"478\">Helos BTR Gen 2 är byggt för långhållsskytte där nollstopp, låsbara torn och robust 34 mm-tub ger kontroll i varje skott. Den belysta FFP-riktmedlet (APRS6 MIL) håller dina hållpunkter korrekta genom hela zoomomfånget.</p>\n<p data-start=\"480\" data-end=\"691\">Med parallax ner till ca 9 m och tydlig justering i 0,1 MIL är det lätt att finjustera för både PRS-träning och verklig fältanvändning. Långt ögonavstånd och bred synfältstart gör siktet förlåtande bakom bössan.</p>\n<p data-start=\"693\" data-end=\"943\"><strong data-start=\"693\" data-end=\"713\">Nyckelfunktioner</strong><br data-start=\"713\" data-end=\"716\">• Förstoring 6–24×, objektiv 56 mm, tub 34 mm<br data-start=\"761\" data-end=\"764\">• FFP, belyst APRS6 MIL, nollstopp och låsbara torn<br data-start=\"815\" data-end=\"818\">• Synfält @100 m: ca 6,6–1,7 m<br data-start=\"848\" data-end=\"851\">• Klickvärde: 0,1 MIL; total justermån: 29 MIL höjd / 25 MIL sida<br data-start=\"916\" data-end=\"919\">• Parallax: ca 9 m – ∞</p>\n<p data-start=\"945\" data-end=\"1031\"><strong data-start=\"945\" data-end=\"970\">Teknisk specifikation</strong><br data-start=\"970\" data-end=\"973\">Längd: ca 36,3 cm<br data-start=\"990\" data-end=\"993\">Vikt: ca 978 g<br data-start=\"1007\" data-end=\"1010\">Ögonavstånd: ca 94 mm</p>\n<p data-start=\"1033\" data-end=\"1082\"><strong data-start=\"1033\" data-end=\"1048\">Detta ingår</strong><br data-start=\"1048\" data-end=\"1051\">• Kikarsikte<br data-start=\"1063\" data-end=\"1066\">• Bruksanvisning</p>\n<p data-start=\"1084\" data-end=\"1209\">Känn skillnaden när varje klick sitter — byggd för att leverera träffar när det räknas.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770996564",
+  "handle": "athlon-heras-spr-15-60x56-sfp-blr2-nir-moa-belyst",
+  "title": "Athlon Heras SPR 15-60x56 SFP BLR2 NIR MOA Belyst",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "7995.0",
+  "short_pitch": "Byggd för att krympa grupperna, från bänken vid 100 m ut på långhåll. Fina 1/8 MOA-klick och låsbart vindrag håller spårningen ren ända upp vid 60x.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272491938132",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Heras SPR 15-60x56?\",\"a\":\"Athlon Heras SPR 15-60x56 har 15-60x förstoring och 56 mm objektiv. Den höga förstoringen är gjord för bänk och långhåll.\"},{\"q\":\"Vilket riktmedel har Athlon Heras SPR 15-60x56?\",\"a\":\"Riktmedlet är BLR2 i MOA. Det sitter i andra fokalplanet.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Heras SPR 15-60x56 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Heras SPR 15-60x56?\",\"a\":\"Klickvärdet är 1/8 MOA per klick. Det finstegade klicket och låsbara vindtaget gör spårningen ren även vid 60x.\"},{\"q\":\"Vilken tubdiameter har Athlon Heras SPR 15-60x56 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 30 mm. Du behöver alltså ringar eller montage för 30 mm.\"},{\"q\":\"Har Athlon Heras SPR 15-60x56 belyst riktmedel?\",\"a\":\"Enligt specifikationen levereras den här varianten utan belysning.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "15-60x"
+  },
+  "textlangd": 698,
+  "descriptionHtml": "<p data-start=\"2571\" data-end=\"2810\"><strong data-start=\"2571\" data-end=\"2630\">Athlon Heras SPR 15–60×56 SFP BLR2 MOA (utan belysning)</strong><br data-start=\"2630\" data-end=\"2633\">Finputsat för precision från 100-m bänken till långhållet. Låsbart vindrag, Zero Stop och finstegad 1/8 MOA-klick gör att du kan läsa vind och hålla spårningen ren även vid 60×.</p>\n<p data-start=\"2812\" data-end=\"3007\"><strong data-start=\"2812\" data-end=\"2832\">Nyckelfunktioner</strong><br data-start=\"2832\" data-end=\"2835\">• 15–60× med BLR2 (MOA), SFP<br data-start=\"2863\" data-end=\"2866\">• <strong data-start=\"2868\" data-end=\"2891\">Precision Zero Stop</strong> och låsbart vind­tag<br data-start=\"2912\" data-end=\"2915\">• Sidoparallax från <strong data-start=\"2935\" data-end=\"2943\">10 m</strong><br data-start=\"2943\" data-end=\"2946\">• Avancerad flerlagerbehandling för klarhet på hög förstoring</p>\n<p data-start=\"3009\" data-end=\"3183\"><strong data-start=\"3009\" data-end=\"3034\">Teknisk specifikation</strong><br data-start=\"3034\" data-end=\"3037\">• Synfält @100 m: <strong data-start=\"3055\" data-end=\"3068\">2,6–0,6 m</strong><br data-start=\"3068\" data-end=\"3071\">• Ögonavstånd: <strong data-start=\"3086\" data-end=\"3095\">94 mm</strong><br data-start=\"3095\" data-end=\"3098\">• Längd: <strong data-start=\"3107\" data-end=\"3118\">40,4 cm</strong><br data-start=\"3118\" data-end=\"3121\">• Vikt: <strong data-start=\"3129\" data-end=\"3143\">ca 1 001 g</strong><br data-start=\"3143\" data-end=\"3146\">• Tub: <strong data-start=\"3153\" data-end=\"3162\">30 mm</strong> • Klick: <strong data-start=\"3172\" data-end=\"3183\">1/8 MOA</strong></p>\n<p data-start=\"3185\" data-end=\"3236\"><strong data-start=\"3185\" data-end=\"3200\">Detta ingår</strong><br data-start=\"3200\" data-end=\"3203\">• Kikarsikte • Linsskydd • Manual</p>\n<p data-start=\"3238\" data-end=\"3347\"><strong data-start=\"3238\" data-end=\"3347\">Bygg dina grupper mindre och dina justeringar mer självsäkra — även när förstoring och krav är som högst.</strong></p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340769915220",
+  "handle": "athlon-heras-spr-2-12x42-sfp-mil",
+  "title": "Athlon Heras SPR 2-12x42 SFP MIL",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "4970.0",
+  "short_pitch": "Enkelt att tänka i mils, smidigt nog för skogen. 0,1 MIL-klick och SFP-MIL-retikel ger ren logik, och sidoparallax från ca 9 m håller bilden skarp på banan.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492265812",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Heras SPR 2-12x42 SFP MIL?\",\"a\":\"Athlon Heras SPR 2-12x42 har 2-12x förstoring och 42 mm objektiv. Smidigt i skogen och tillräckligt precist på banan.\"},{\"q\":\"Vilket riktmedel har Athlon Heras SPR 2-12x42 SFP MIL?\",\"a\":\"Riktmedlet är AAGR1 i MIL. Det gör det enkelt att tänka i mils.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Heras SPR 2-12x42 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Heras SPR 2-12x42?\",\"a\":\"Klickvärdet är 0,1 MIL per klick, med lågprofilstorn som håller nollan.\"},{\"q\":\"Vilken tubdiameter har Athlon Heras SPR 2-12x42 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 25,4 mm (1 tum). Du behöver alltså ringar eller montage för 25,4 mm.\"},{\"q\":\"Har Athlon Heras SPR 2-12x42 belyst riktmedel?\",\"a\":\"Nej, Athlon Heras SPR 2-12x42 har inte belyst riktmedel.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "2-12x"
+  },
+  "textlangd": 700,
+  "descriptionHtml": "<p data-start=\"3275\" data-end=\"3311\"><strong data-start=\"3275\" data-end=\"3311\">Athlon Heras SPR 2–12×42 SFP MIL</strong></p>\n<p data-start=\"3313\" data-end=\"3512\">Ett modernt allroundsikte med MIL-skalning för den som vill räkna i hela mils. Heras SPR kombinerar 1”-tub med bred förstoring och nära sidoparallax – smidigt i skogen, tillräckligt precist på banan.</p>\n<p data-start=\"3514\" data-end=\"3719\"><strong data-start=\"3514\" data-end=\"3534\">Nyckelfunktioner</strong><br data-start=\"3534\" data-end=\"3537\">• SFP-MIL-retikel och 0,1 MIL-klick – enkelt att “tänka mils”<br data-start=\"3598\" data-end=\"3601\">• Sidoparallax från ca 9 m till ∞<br data-start=\"3634\" data-end=\"3637\">• Fullt flermulticoatad optik, argonfylld tub<br data-start=\"3682\" data-end=\"3685\">• Lågprofilstorn som håller nollan</p>\n<p data-start=\"3721\" data-end=\"3897\"><strong data-start=\"3721\" data-end=\"3746\">Teknisk specifikation</strong><br data-start=\"3746\" data-end=\"3749\">• Förstoring: 2–12×<br data-start=\"3768\" data-end=\"3771\">• Objektiv: 42 mm<br data-start=\"3788\" data-end=\"3791\">• Tub: 1” (25,4 mm)<br data-start=\"3810\" data-end=\"3813\">• Klicksteg: 0,1 MIL<br data-start=\"3833\" data-end=\"3836\">• Parallax: från 10 yards (≈ 9,1 m) till ∞<br data-start=\"3878\" data-end=\"3881\">• Vikt: ca 666 g</p>\n<p data-start=\"3899\" data-end=\"3947\"><strong data-start=\"3899\" data-end=\"3914\">Detta ingår</strong><br data-start=\"3914\" data-end=\"3917\">• Kikarsikte<br data-start=\"3929\" data-end=\"3932\">• Dokumentation</p>\n<p data-start=\"3949\" data-end=\"4020\">Gör det enkelt att skjuta med mils – smidigt format, stora möjligheter.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770210132",
+  "handle": "athlon-heras-spr-4-20x50-sfp-mil",
+  "title": "Athlon Heras SPR 4-20x50 SFP MIL",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "4995.0",
+  "short_pitch": "Ren, repeterbar justering när du räknar i mils. Låsbar vindratt och justerbar höjdratt håller hållen, och parallax från 10 m funkar på både bana och luft.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492134740",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Heras SPR 4-20x50 SFP MIL?\",\"a\":\"Athlon Heras SPR 4-20x50 har 4-20x förstoring och 50 mm objektiv. Ett brett spann för jakt och bana.\"},{\"q\":\"Vilket riktmedel har Athlon Heras SPR 4-20x50 SFP MIL?\",\"a\":\"Riktmedlet är AAGR2 i MIL. Det ger enkel ballistik med MIL-logik.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Heras SPR 4-20x50 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Heras SPR 4-20x50?\",\"a\":\"Klickvärdet är 0,1 MIL per klick. Vindratten är låsbar och höjdratten justerbar.\"},{\"q\":\"Vilken tubdiameter har Athlon Heras SPR 4-20x50 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 25,4 mm (1 tum). Du behöver alltså ringar eller montage för 25,4 mm.\"},{\"q\":\"Har Athlon Heras SPR 4-20x50 belyst riktmedel?\",\"a\":\"Nej, Athlon Heras SPR 4-20x50 har inte belyst riktmedel.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "4-20x"
+  },
+  "textlangd": 678,
+  "descriptionHtml": "<p data-start=\"3221\" data-end=\"3478\"><strong data-start=\"3221\" data-end=\"3268\">Athlon Heras SPR 4–20×50 SFP MIL Kikarsikte</strong><br data-start=\"3268\" data-end=\"3271\">Modern tolkning av klassisk jaktsikte-logik. Justerbar höjd­ratt, låsbar vindratt och MIL-riktmedel i SFP ger enkel ballistik och säker hantering. Parallax från 10 m gör att det även funkar på bana och luft.</p>\n<p data-start=\"3480\" data-end=\"3658\"><strong data-start=\"3480\" data-end=\"3500\">Nyckelfunktioner</strong><br data-start=\"3500\" data-end=\"3503\">• 4–20× med SFP MIL-riktmedel (ej belyst)<br data-start=\"3544\" data-end=\"3547\">• Låsbar vindratt och justerbar höjdratt<br data-start=\"3587\" data-end=\"3590\">• Sidoparallax 10 m till oändligt<br data-start=\"3623\" data-end=\"3626\">• Avancerad flerskiktsbehandling</p>\n<p data-start=\"3660\" data-end=\"3819\"><strong data-start=\"3660\" data-end=\"3685\">Teknisk specifikation</strong><br data-start=\"3685\" data-end=\"3688\">• Synfält @100 m: ca 9,3–1,9 m<br data-start=\"3718\" data-end=\"3721\">• Ögonavstånd: ca 91 mm<br data-start=\"3744\" data-end=\"3747\">• Längd: ca 33,8 cm<br data-start=\"3766\" data-end=\"3769\">• Vikt: ca 709 g<br data-start=\"3785\" data-end=\"3788\">• Tub: 25,4 mm • Klick: 0,1 MIL</p>\n<p data-start=\"3821\" data-end=\"3872\"><strong data-start=\"3821\" data-end=\"3836\">Detta ingår</strong><br data-start=\"3836\" data-end=\"3839\">• Kikarsikte <br>• Linsskydd <br>• Manual</p>\n<p data-start=\"3874\" data-end=\"3941\">Få ren, repeterbar justering och tydlig MIL-logik utan krusiduller.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771881300",
+  "handle": "athlon-heras-spr-6-24x50-sfp-mil-belyst",
+  "title": "Athlon Heras SPR 6-24x50 SFP MIL Belyst",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "7770.0",
+  "short_pitch": "Smidigt på passet och tryggt på längre håll. Belyst APRS7-riktmedel och avancerad ljusbehandling ger klar bild när ljuset tryter, med nollstopp och låsbar vindratt.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492888404",
+  "faq": "[{\"q\":\"Hur mycket förstorar Athlon Heras SPR?\",\"a\":\"Athlon Heras SPR förstorar 6 till 24 gånger. Objektivet är 56 mm.\"},{\"q\":\"Vilket riktmedel har Athlon Heras SPR?\",\"a\":\"Riktmedlet är APRS7 SFP MIL. Det är belyst.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet på Athlon Heras SPR?\",\"a\":\"Riktmedlet sitter i bakre fokalplanet (SFP), vilket innebär att det behåller samma storlek genom hela zoomen och att hållpunkterna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vilket klickvärde har Athlon Heras SPR?\",\"a\":\"Klickvärdet är 0,1 MIL.\"},{\"q\":\"Vilken tubdiameter har Athlon Heras SPR?\",\"a\":\"Tubdiametern är 30 mm. Tubdiametern avgör vilka ringar eller montage som passar.\"},{\"q\":\"Är riktmedlet belyst på Athlon Heras SPR?\",\"a\":\"Ja, riktmedlet är belyst.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "6-24x"
+  },
+  "textlangd": 809,
+  "descriptionHtml": "<p data-start=\"1212\" data-end=\"1266\"><strong data-start=\"1212\" data-end=\"1266\">Athlon Heras SPR 6–24×56 SFP MIL Belyst Kikarsikte</strong></p>\n<p data-start=\"1268\" data-end=\"1489\">Heras SPR är Athlons moderna jakt/”crossover”-sikte: låsbar vindratt, nollstopp och belyst SFP-riktmedel (APRS7 MIL) i en kompakt 30 mm-tub. Parallaxen går ner till ca 9 m, vilket gör det användbart även på korta avstånd.</p>\n<p data-start=\"1491\" data-end=\"1646\">Optiken är avancerat flerlagersbehandlad för maximal ljustransmission och tydlig bild över hela zoomomfånget — smidigt för pass, toppfågel och inskjutning.</p>\n<p data-start=\"1648\" data-end=\"1854\"><strong data-start=\"1648\" data-end=\"1668\">Nyckelfunktioner</strong><br data-start=\"1668\" data-end=\"1671\">• Förstoring 6–24×, objektiv 56 mm, tub 30 mm<br data-start=\"1716\" data-end=\"1719\">• SFP, belyst APRS7 MIL, nollstopp; låsbar vindratt<br data-start=\"1770\" data-end=\"1773\">• Synfält @100 m: ca 6,6–1,7 m<br data-start=\"1803\" data-end=\"1806\">• Klickvärde: 0,1 MIL<br data-start=\"1827\" data-end=\"1830\">• Parallax: ca 9 m – ∞</p>\n<p data-start=\"1856\" data-end=\"1942\"><strong data-start=\"1856\" data-end=\"1881\">Teknisk specifikation</strong><br data-start=\"1881\" data-end=\"1884\">Längd: ca 36,6 cm<br data-start=\"1901\" data-end=\"1904\">Vikt: ca 916 g<br data-start=\"1918\" data-end=\"1921\">Ögonavstånd: ca 91 mm</p>\n<p data-start=\"1944\" data-end=\"1993\"><strong data-start=\"1944\" data-end=\"1959\">Detta ingår</strong><br data-start=\"1959\" data-end=\"1962\">• Kikarsikte<br data-start=\"1974\" data-end=\"1977\">• Bruksanvisning</p>\n<p data-start=\"1995\" data-end=\"2103\">Stabil precision utan krångel — smidig i skogen, trygg på längre håll.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770308436",
+  "handle": "athlon-midas-btr-hd-tactical-1-6x24-gen2-sfp-belyst-kikarsikte",
+  "title": "Athlon Midas BTR HD Tactical 1-6x24 Gen2 SFP Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "5995.0",
+  "short_pitch": "Båda ögonen öppna på 1x när det händer snabbt, och 6x för kontrollerade skott längre ut. Belyst ATSR4 och distinkta klick håller dig trygg i farten.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492036436",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Midas BTR HD Tactical 1-6x24?\",\"a\":\"Athlon Midas BTR HD Tactical 1-6x24 har 1-6x förstoring och 24 mm objektiv. 1x ger båda ögon öppna och 6x räcker för kontrollerade skott längre ut.\"},{\"q\":\"Vilket riktmedel har Athlon Midas BTR HD Tactical 1-6x24?\",\"a\":\"Riktmedlet är belyst ATSR4 i MOA.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Midas BTR HD Tactical 1-6x24 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Midas BTR HD Tactical 1-6x24?\",\"a\":\"Klickvärdet är 0,25 MOA per klick, med capped torn för trygg bäring.\"},{\"q\":\"Vilken tubdiameter har Athlon Midas BTR HD Tactical 1-6x24 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 30 mm. Du behöver alltså ringar eller montage för 30 mm.\"},{\"q\":\"Vad passar Athlon Midas BTR HD Tactical 1-6x24 för?\",\"a\":\"Det är ett LPVO för dynamiskt skytte och jakt. Snabbt när det är nära, precist när det behöver räcka längre.\"}]",
+  "metafalt": {
+   "obj": "24 mm",
+   "forst": "1-6x"
+  },
+  "textlangd": 713,
+  "descriptionHtml": "<p data-start=\"1055\" data-end=\"1335\"><strong data-start=\"1055\" data-end=\"1133\">Athlon Midas BTR HD Tactical 1–6×24 Gen2 SFP Belyst Kikarsikte (ATSR4 MOA)</strong><br data-start=\"1133\" data-end=\"1136\">Ett riktigt LPVO för dynamiskt skytte och jakt. 1× ger båda ögon öppna och 6× räcker för kontrollerade skott längre ut. Distinkta klick och belysning i SFP gör det enkelt att jobba snabbt och säkert.</p>\n<p data-start=\"1337\" data-end=\"1529\"><strong data-start=\"1337\" data-end=\"1357\">Nyckelfunktioner</strong><br data-start=\"1357\" data-end=\"1360\">• 1–6× med belyst ATSR4 i SFP (MOA)<br data-start=\"1395\" data-end=\"1398\">• 30 mm tub och robust, kvävgasfylld konstruktion<br data-start=\"1447\" data-end=\"1450\">• Capped torn för trygg bäring<br data-start=\"1480\" data-end=\"1483\">• Avancerad flerskiktsbehandling för klar bild</p>\n<p data-start=\"1531\" data-end=\"1694\"><strong data-start=\"1531\" data-end=\"1556\">Teknisk specifikation</strong><br data-start=\"1556\" data-end=\"1559\">• Synfält @100 m: ca 36,0–5,9 m<br data-start=\"1590\" data-end=\"1593\">• Ögonavstånd: ca 97 mm<br data-start=\"1616\" data-end=\"1619\">• Längd: ca 26,9 cm<br data-start=\"1638\" data-end=\"1641\">• Vikt: ca 513 g<br data-start=\"1657\" data-end=\"1660\">• Klick: 0,25 MOA • Parallax: fast</p>\n<p data-start=\"1696\" data-end=\"1747\"><strong data-start=\"1696\" data-end=\"1711\">Detta ingår</strong><br data-start=\"1711\" data-end=\"1714\">• Kikarsikte <br>• Linsskydd <br>• Manual</p>\n<p data-start=\"1749\" data-end=\"1810\">Snabbt när det är nära, precist när det behöver räcka längre.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340769718612",
+  "handle": "athlon-midas-btr-hd-tactical-4-5-27x50-gen-2-sf-sfp-belyst-kikarsikte",
+  "title": "Athlon Midas BTR HD Tactical 4,5-27x50 Gen 2 SF SFP Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "6995.0",
+  "short_pitch": "Byggt för långhåll där varje klick måste sitta. Precision Zero Stop och exponerade torn tar dig säkert tillbaka till nollan, med belyst riktmedel i SFP.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492331348",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Midas BTR HD Tactical 4,5-27x50?\",\"a\":\"Athlon Midas BTR HD Tactical 4,5-27x50 har 4,5-27x förstoring och 50 mm objektiv. Ett brett spann för långhållsskytte.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Midas BTR HD Tactical 4,5-27x50 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Midas BTR HD Tactical 4,5-27x50?\",\"a\":\"Klickvärdet beror på retikelversion: 0,25 MOA (AHMR) eller 0,1 MIL (APRS4). Båda varianterna har Precision Zero Stop.\"},{\"q\":\"Vilken tubdiameter har Athlon Midas BTR HD Tactical 4,5-27x50 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 30 mm. Du behöver alltså ringar eller montage för 30 mm.\"},{\"q\":\"Har Athlon Midas BTR HD Tactical 4,5-27x50 belyst riktmedel?\",\"a\":\"Ja, riktmedlet är belyst.\"},{\"q\":\"Vad passar Athlon Midas BTR HD Tactical 4,5-27x50 för?\",\"a\":\"Det är byggt för långhållsskytte. Precision Zero Stop och sidoparallax från ca 27 m ger trygg hantering på håll.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "4,5-27x"
+  },
+  "textlangd": 828,
+  "descriptionHtml": "<p data-start=\"4834\" data-end=\"4907\"><strong data-start=\"4834\" data-end=\"4907\">Athlon Midas BTR HD Tactical 4,5–27×50 Gen 2 SF SFP Belyst Kikarsikte</strong></p>\n<p data-start=\"4909\" data-end=\"5107\">Taktisk precision med lång räckvidd, belyst SFP-retikel och Zero Stop. 30 mm-tub, stora justermarginaler och sidoparallax från ca 27 m gör Midas BTR Gen 2 till en vass plattform för långhållsskytte.</p>\n<p data-start=\"5109\" data-end=\"5309\"><strong data-start=\"5109\" data-end=\"5129\">Nyckelfunktioner</strong><br data-start=\"5129\" data-end=\"5132\">• Precision Zero Stop och exponerade torn<br data-start=\"5173\" data-end=\"5176\">• Belysta retikelalternativ (MOA eller MIL)<br data-start=\"5219\" data-end=\"5222\">• Avancerad flermulticoating + XPL skyddsbeläggning<br data-start=\"5273\" data-end=\"5276\">• Argonfylld, vattentät och imtät</p>\n<p data-start=\"5311\" data-end=\"5570\"><strong data-start=\"5311\" data-end=\"5336\">Teknisk specifikation</strong><br data-start=\"5336\" data-end=\"5339\">• Förstoring: 4,5–27×<br data-start=\"5360\" data-end=\"5363\">• Objektiv: 50 mm<br data-start=\"5380\" data-end=\"5383\">• Tub: 30 mm<br data-start=\"5395\" data-end=\"5398\">• Ögonavstånd: ca 99 mm<br data-start=\"5421\" data-end=\"5424\">• Parallax: sidofokus från 30 yards (≈ 27,4 m) till ∞<br data-start=\"5477\" data-end=\"5480\">• Klicksteg: 0,25 MOA (AHMR) eller 0,1 MIL (APRS4)<br data-start=\"5530\" data-end=\"5533\">• Längd: ca 351 mm<br data-start=\"5551\" data-end=\"5554\">• Vikt: ca 737 g</p>\n<p data-start=\"5572\" data-end=\"5620\"><strong data-start=\"5572\" data-end=\"5587\">Detta ingår</strong><br data-start=\"5587\" data-end=\"5590\">• Kikarsikte<br data-start=\"5602\" data-end=\"5605\">• Dokumentation</p>\n<p data-start=\"5622\" data-end=\"5711\">När varje klick måste sitta – välj ett sikte som är byggt för att leverera på långt håll.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340772897108",
+  "handle": "athlon-midas-btr-os11-1x-holografiskt-sikte",
+  "title": "Athlon Midas BTR OS11 1x Holografiskt Sikte",
+  "vendor": "Athlon Optics",
+  "type": "Rödpunktssikte",
+  "pris": "3996.0",
+  "short_pitch": "Kompakt 3 MOA rödpunkt med sidoladdat CR2032 så du byter batteri utan att demontera siktet, plus stort fönster och obegränsat ögonavstånd.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200259304423764",
+  "faq": "[{\"q\":\"Vilken riktpunkt och vilket klickvärde har OS11?\",\"a\":\"3 MOA röd punkt med parallax under 2 MOA och klickvärde 1 MOA för höjd och sidled.\"},{\"q\":\"Hur många ljuslägen finns det?\",\"a\":\"Sex ljuslägen för dagsljus.\"},{\"q\":\"Vilket batteri används och hur byter man det?\",\"a\":\"Ett CR2032 som laddas via en sidolucka, så du kan byta batteri utan att ta av siktet.\"},{\"q\":\"Hur stort är fönstret?\",\"a\":\"Fönstret är 24,5 x 15,9 mm och siktet har obegränsat ögonavstånd.\"},{\"q\":\"Är det vattentätt?\",\"a\":\"Ja, vattentätt och imtätt (kvävefyllt), med ett enstyckschassi i aluminium.\"},{\"q\":\"Vad ingår?\",\"a\":\"Sikte, picatinnyfäste, CR2032-batteri och manual.\"}]",
+  "metafalt": {
+   "obj": "24,5 x 15,9 mm",
+   "forst": "1x"
+  },
+  "textlangd": 1357,
+  "descriptionHtml": "<p data-start=\"0\" data-end=\"43\">Athlon Midas BTR OS11 1x Holografiskt Sikte</p>\n<p data-start=\"45\" data-end=\"226\">Kompakt, snabb och tydlig siktesbild för nära avstånd. OS11 kombinerar 3 MOA-punkt, stort fönster och sidoladdat CR2032-batteri så att du kan byta batteri utan att demontera siktet.</p>\n<p data-start=\"228\" data-end=\"479\">Robust enstyckschassi i aluminium, vattentät och kvävefylld konstruktion samt obegränsat ögonavstånd ger pålitlig drift i alla väder och vinklar. 1 MOA-klick och sex ljuslägen gör det enkelt att finjustera för tempo eller precision, oavsett plattform.</p>\n<p data-start=\"481\" data-end=\"847\"><strong data-start=\"481\" data-end=\"501\">Nyckelfunktioner</strong><br data-start=\"501\" data-end=\"504\">• 3 MOA röd punkt för snabb målupptagning<br data-start=\"545\" data-end=\"548\">• 1x förstoring, obegränsat ögonavstånd<br data-start=\"587\" data-end=\"590\">• Sex ljuslägen för dagsljus<br data-start=\"618\" data-end=\"621\">• 1 MOA klickvärde för höjd/sidled<br data-start=\"655\" data-end=\"658\">• Parallax &lt; 2 MOA<br data-start=\"676\" data-end=\"679\">• Fönster 24,5 × 15,9 mm för bred överblick<br data-start=\"722\" data-end=\"725\">• Sidolucka för batteri (CR2032) – byt utan att ta av siktet<br data-start=\"785\" data-end=\"788\">• Vattentät och imtät (kvävefylld)<br data-start=\"822\" data-end=\"825\">• Picatinnyfäste ingår</p>\n<p data-start=\"849\" data-end=\"1210\"><strong data-start=\"849\" data-end=\"874\">Teknisk specifikation</strong><br data-start=\"874\" data-end=\"877\">Förstoring: 1×<br data-start=\"891\" data-end=\"894\">Retikel: 3 MOA röd punkt<br data-start=\"918\" data-end=\"921\">Parallax: &lt; 2 MOA<br data-start=\"938\" data-end=\"941\">Ljuslägen: 6<br data-start=\"953\" data-end=\"956\">Klickvärde: 1 MOA<br data-start=\"973\" data-end=\"976\">Fönsterstorlek: 24,5 × 15,9 mm<br data-start=\"1006\" data-end=\"1009\">Längd: 1,93\" (≈ 4,9 cm)<br data-start=\"1032\" data-end=\"1035\">Mitthöjd: 1,2\" (≈ 3,0 cm)<br data-start=\"1060\" data-end=\"1063\">Vikt: 2,3 oz (≈ 65 g)<br data-start=\"1084\" data-end=\"1087\">Batteri: 1 × CR2032 (sidolucka)<br data-start=\"1118\" data-end=\"1121\">Montering: Picatinny<br data-start=\"1141\" data-end=\"1144\">Konstruktion: Enstyckschassi i aluminium, vattentät och kvävefylld</p>\n<p data-start=\"1212\" data-end=\"1310\"><strong data-start=\"1212\" data-end=\"1227\">Detta ingår</strong><br data-start=\"1227\" data-end=\"1230\">• Midas BTR OS11 rödpunktssikte<br data-start=\"1261\" data-end=\"1264\">• Picatinnyfäste<br data-start=\"1280\" data-end=\"1283\">• CR2032-batteri<br data-start=\"1299\" data-end=\"1302\">• Manual</p>\n<p data-start=\"1312\" data-end=\"1419\">Sätt punkten snabbare och tryck av med trygg precision. Beställ nu och känn skillnaden redan på nästa pass.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340770275668",
+  "handle": "athlon-midas-hmr-hd-2-5-15x50-sf-sfp-moa-belyst-kikarsikte",
+  "title": "Athlon Midas HMR HD 2,5-15x50 SF SFP MOA Belyst Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "5495.0",
+  "short_pitch": "Trygg bild i kvällsljuset, från nära håll till längre skott. Belyst MOA-riktmedel och HD-glas när ljuset tryter, och kapslade torn som håller nollan.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492069204",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Midas HMR HD 2,5-15x50?\",\"a\":\"Athlon Midas HMR HD 2,5-15x50 har 2,5-15x förstoring och 50 mm objektiv. Ett allroundspann för nära och längre skott.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Midas HMR HD 2,5-15x50 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Midas HMR HD 2,5-15x50?\",\"a\":\"Klickvärdet är 0,25 MOA per klick, med kapslade torn som håller nollan.\"},{\"q\":\"Vilken tubdiameter har Athlon Midas HMR HD 2,5-15x50 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 30 mm. Du behöver alltså ringar eller montage för 30 mm.\"},{\"q\":\"Har Athlon Midas HMR HD 2,5-15x50 belyst riktmedel?\",\"a\":\"Ja, riktmedlet är belyst. Det hjälper i kvällsljus.\"},{\"q\":\"Vad passar Athlon Midas HMR HD 2,5-15x50 för?\",\"a\":\"Det är ett allroundsikte för jakt, även i kvällsljus. Sidoparallaxen från 10 m gör att du kan skjuta både nära och längre.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "2,5-15x"
+  },
+  "textlangd": 685,
+  "descriptionHtml": "<p><strong>Athlon Midas HMR HD 2,5–15×50 SFP MOA Belyst Kikarsikte</strong><br>Allroundsiktet för jakt och kvällsljus. Belyst riktmedel, 30 mm tub och sidoparallax från 10 m gör att du kan skjuta både nära och längre med stabil bild och tydliga klick.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 2,5–15× med belyst MOA-riktmedel i SFP<br>• Sidoparallax från 10 m till oändligt<br>• Kapslade torn som håller nollan i skogen<br>• HD-glas och avancerad antireflexbehandling</p>\n<p><strong>Teknisk specifikation</strong><br>• Synfält @100 m: ca 13,9–2,3 m<br>• Ögonavstånd: ca 99 mm<br>• Längd: ca 35,1 cm<br>• Vikt: ca 737 g<br>• Tub: 30 mm • Klick: 0,25 MOA</p>\n<p><strong>Detta ingår</strong><br>• Kikarsikte <br>• Linsskydd <br>• Manual</p>\n<p>Ett sikte som täcker de flesta jaktsituationer med trygg bild och ren funktion.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340771357012",
+  "handle": "athlon-midas-tac-hd-5-25x56-ffp-mil-kikarsikte",
+  "title": "Athlon Midas TAC HD 5-25x56 FFP MIL Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "13995.0",
+  "short_pitch": "Tävlingsklar skärpa från rimfire till magnum. HD-glaset ger ren bild långt ut, och Zero-Stop med distinkta 0,1 MIL-klick håller spårningen ren skott för skott.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272491839828",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Midas TAC HD 5-25x56?\",\"a\":\"Athlon Midas TAC HD 5-25x56 har 5-25x förstoring och 56 mm objektiv. Ett brett spann för precision på håll.\"},{\"q\":\"Vilket riktmedel har Athlon Midas TAC HD 5-25x56?\",\"a\":\"Riktmedlet är APRS6 i MIL. Det ger tydliga håll och subtensioner för långhåll.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Midas TAC HD 5-25x56 har riktmedlet i främre fokalplanet (FFP). Det betyder att riktmedlet skalar med förstoringen, så mått och hållpunkter stämmer på alla förstoringar.\"},{\"q\":\"Vad är klickvärdet på Athlon Midas TAC HD 5-25x56?\",\"a\":\"Klickvärdet är 0,1 MIL per klick, med Zero-Stop och stort justeromfång.\"},{\"q\":\"Vilken tubdiameter har Athlon Midas TAC HD 5-25x56 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 34 mm. Du behöver alltså ringar eller montage för 34 mm.\"},{\"q\":\"Har Athlon Midas TAC HD 5-25x56 belyst riktmedel?\",\"a\":\"Nej, Athlon Midas TAC HD 5-25x56 har inte belyst riktmedel.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "5-25x"
+  },
+  "textlangd": 670,
+  "descriptionHtml": "<p data-start=\"6088\" data-end=\"6304\"><strong data-start=\"6088\" data-end=\"6138\">Athlon Midas TAC HD 5–25×56 FFP MIL Kikarsikte</strong><br data-start=\"6138\" data-end=\"6141\">Tävlingsklar optik med HD-glas, 34 mm-tub och Zero-Stop. Rimfire till magnum – Midas TAC levererar ren bild, distinkta klick och stort justeromfång (32 MIL elev.).</p>\n<p data-start=\"6306\" data-end=\"6478\"><strong data-start=\"6306\" data-end=\"6326\">Nyckelfunktioner</strong><br data-start=\"6326\" data-end=\"6329\">• FFP (APRS6/3 MIL), 0,1 MIL/klick<br data-start=\"6363\" data-end=\"6366\">• Zero-Stop, exponerad höjd; kapslad vind<br data-start=\"6407\" data-end=\"6410\">• Parallax från ca 23 m till ∞<br data-start=\"6440\" data-end=\"6443\">• Synfält upp till ca 7,37 m @100 m</p>\n<p data-start=\"6480\" data-end=\"6659\"><strong data-start=\"6480\" data-end=\"6505\">Teknisk specifikation</strong><br data-start=\"6505\" data-end=\"6508\">• Förstoring: 5–25× • Objektiv: 56 mm • Tub: 34 mm<br data-start=\"6558\" data-end=\"6561\">• Synfält @100 m: ca 7,37–1,50 m<br data-start=\"6593\" data-end=\"6596\">• Ögonavstånd: ca 94 mm<br data-start=\"6619\" data-end=\"6622\">• Längd: ca 38,35 cm • Vikt: ca 850 g</p>\n<p data-start=\"6661\" data-end=\"6708\"><strong data-start=\"6661\" data-end=\"6676\">Detta ingår</strong><br data-start=\"6676\" data-end=\"6679\">• Kikarsikte • Bruksanvisning</p>\n<p data-start=\"6710\" data-end=\"6798\">Snabba, säkra justeringar och tydlig bild – exakt det du vill ha när varje poäng räknas.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12340769947988",
+  "handle": "athlon-neos-3-9x40-sfp-kikarsikte",
+  "title": "Athlon Neos 3-9x40 SFP Kikarsikte",
+  "vendor": "Athlon Optics",
+  "type": "Kikarsikte",
+  "pris": "2795.0",
+  "short_pitch": "Ren optik och förutsägbara justeringar utan krångel. Ett tryggt instegssikte för jakt och bana, med kapslade torn du ställer in och låser.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200272492233044",
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Athlon Neos 3-9x40 SFP?\",\"a\":\"Athlon Neos 3-9x40 har 3-9x förstoring och 40 mm objektiv. Ett klassiskt jakt- och banaspann.\"},{\"q\":\"Sitter riktmedlet i främre eller bakre fokalplanet?\",\"a\":\"Athlon Neos 3-9x40 har riktmedlet i andra fokalplanet (SFP). Riktmedlet behåller samma storlek genom hela zoomen, medan subtensionerna stämmer vid en bestämd förstoring.\"},{\"q\":\"Vad är klickvärdet på Athlon Neos 3-9x40?\",\"a\":\"Klickvärdet är 0,25 MOA per klick, med kapslade torn.\"},{\"q\":\"Vilken tubdiameter har Athlon Neos 3-9x40 och vilka ringar behöver jag?\",\"a\":\"Tubdiametern är 25,4 mm (1 tum). Du behöver alltså ringar eller montage för 25,4 mm.\"},{\"q\":\"Har Athlon Neos 3-9x40 belyst riktmedel?\",\"a\":\"Nej, Athlon Neos 3-9x40 har inte belyst riktmedel.\"},{\"q\":\"Vad passar Athlon Neos 3-9x40 för?\",\"a\":\"Det är en trygg instegsmodell för jakt och bana. Parallaxen är fast inställd vid 100 yards.\"}]",
+  "metafalt": {
+   "obj": "40 mm",
+   "forst": "3-9x"
+  },
+  "textlangd": 715,
+  "descriptionHtml": "<p><strong>Athlon Neos 3–9×40 SFP Kikarsikte</strong></p>\n<p>En trygg instegsmodell för jakt och bana med precision nog för vardagsskyttet. Neos 3–9×40 ger ren optik, rimlig vikt och förutsägbara justeringar – utan att krångla till det.</p>\n<p><strong>Nyckelfunktioner</strong><br>• SFP-retikel (Center-X eller BDC-alternativ)<br>• Fullt flermulticoatat glas<br>• Kapslade torn – ställ in och lås<br>• Kvävgasfylld och vädertät konstruktion</p>\n<p><strong>Teknisk specifikation</strong><br>• Förstoring: 3–9×<br>• Objektiv: 40 mm<br>• Tub: 1” (25,4 mm)<br>• Ögonavstånd: ca 76–78 mm<br>• Klicksteg: 0,25 MOA<br>• Parallax: fast vid 100 yards (≈ 91 m)<br>• Längd: ca 315 mm<br>• Vikt: ca 482 g</p>\n<p><strong>Detta ingår</strong><br>• Kikarsikte<br>• Dokumentation</p>\n<p>Rakt, enkelt och prisvärt – välj Neos när du vill få jobbet gjort utan onödiga kompromisser.</p>"
+ }
+]

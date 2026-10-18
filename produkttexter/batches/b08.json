@@ -1,0 +1,750 @@
+[
+ {
+  "id": "gid://shopify/Product/12110384922964",
+  "handle": "focus-action-iii-8x25",
+  "title": "Focus Action III 8x25",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Action III 8x25?\",\"a\":\"8x förstoring med 25 mm objektiv. Kompakt format som ryms i fickan.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Porroprisma med BK-7-glas. Porro ger djup och ljus för pengarna, medan takkant bygger smalare.\"},{\"q\":\"Hur nära kan den fokusera?\",\"a\":\"Närgränsen är 3 m.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"230 g.\"}]",
+  "metafalt": {
+   "obj": "25 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1119,
+  "descriptionHtml": "<p>Kompakt kikare med kraftig gummiklädsel och vridbara ögonmusslor. Focus Action III 8x25 är designad för att ge en klar och skarp bild, vilket gör den idealisk för både jakt och fågelskådning. Med ett stort synfält kan du snabbt och enkelt lokalisera vilda djur i terrängen och följa fåglar i flykt. Den är lätt, smidig och enkel att hantera, vilket gör den till ett utmärkt val för både nybörjare och erfarna användare. Kikaren är utrustad med BK-7 porroprismor för högkvalitativ optik och levereras med bältesväska och nackrem för enkel transport.<br>\n<br>\nNyckelfunktioner<br>\n• Kompakt design för enkel transport<br>\n• Vridbara ögonmusslor för bekväm användning<br>\n• Stort synfält för snabb lokalisering av objekt<br>\n• BK-7 porroprismor för klar och skarp bild<br>\n• Kraftig gummiklädsel för hållbarhet och grepp<br>\n<br>\nTeknisk specifikation<br>\nLängd: 21 cm  <br>\nBredd: 7,3 cm  <br>\nHöjd: 8,5 cm  <br>\nVikt: 230 g  <br>\n<br>\nDetta ingår<br>\n• Bältesväska  <br>\n• Nackrem  <br>\n<br>\nFocus Action III 8x25 erbjuder en högkvalitativ optisk lösning för naturälskare och jägare. Den kombinerar användarvänlighet med robust konstruktion, vilket gör den till ett pålitligt val för alla dina observationsbehov.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110396916052",
+  "handle": "focus-activa-10x25",
+  "title": "Focus Activa 10x25",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "479.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Activa 10x25?\",\"a\":\"Den förstorar 10x med ett 25 mm objektiv. Det är en kompakt kikare med bra balans mellan storlek och prestanda.\"},{\"q\":\"Hur stort synfält har Focus Activa 10x25?\",\"a\":\"Synfältet är 98 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Activa 10x25?\",\"a\":\"Ögonavståndet är 11 mm.\"},{\"q\":\"Hur nära kan man fokusera med Focus Activa 10x25?\",\"a\":\"Närgränsen är 5 m.\"},{\"q\":\"Vilken prismatyp har Focus Activa 10x25?\",\"a\":\"Den har takkantsprismor i BAK-4-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Activa 10x25?\",\"a\":\"Vikten är 265 g.\"},{\"q\":\"Passar Focus Activa 10x25 för jakt?\",\"a\":\"Ja, den är designad för jakt och friluftsliv och passar för spaning och skytte.\"}]",
+  "metafalt": {
+   "obj": "25 mm",
+   "forst": "10x"
+  },
+  "textlangd": 889,
+  "descriptionHtml": "<p>Focus Activa 10x25 är en kompakt kikare designad för både jakt och friluftsliv. Med en förstoring på 10x och en objektivdiameter på 25 mm erbjuder den en utmärkt balans mellan bärbarhet och prestanda. Denna modell är idealisk för observationer på längre avstånd, vilket gör den perfekt för både spaning och skytte. Den har en snabb uppstartstid och ett brett synfält, vilket gör det enkelt att fånga rörliga mål.<br><br><strong>Nyckelfunktioner</strong><br>• Förstoring: 10x<br>• Objektivdiameter: 25 mm<br>• Synfält: 1000 m: 98 m<br>• Fokusering: Centralfokus<br>• Vattentålig: Ja<br>• Vikt: 265 g<br><br><strong>Teknisk specifikation</strong><br>* Längd: 11 cm<br>* Bredd: 10 cm<br>* Höjd: 4,1 cm<br>* Vikt: 265 g<br><br><strong>Detta ingår</strong><br>– Kikare<br>– Bärrem<br>– Skyddshölje<br><br><br>Focus Activa 10x25 är ett pålitligt val för den som söker en lätt och kompakt kikare utan att kompromissa med kvaliteten. Den är enkel att använda och passar perfekt för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110396522836",
+  "handle": "focus-activa-8x21",
+  "title": "Focus Activa 8x21",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "479.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Activa 8x21?\",\"a\":\"Den förstorar 8x med ett 21 mm objektiv. Det är en kompakt och lättviktig kikare.\"},{\"q\":\"Hur stort synfält har Focus Activa 8x21?\",\"a\":\"Synfältet är 122 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Activa 8x21?\",\"a\":\"Ögonavståndet är 11 mm.\"},{\"q\":\"Hur nära kan man fokusera med Focus Activa 8x21?\",\"a\":\"Närgränsen är 5 m.\"},{\"q\":\"Vilken prismatyp har Focus Activa 8x21?\",\"a\":\"Den har takkantsprismor i BAK-4-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Activa 8x21?\",\"a\":\"Vikten är 241 g.\"},{\"q\":\"Passar Focus Activa 8x21 för jakt?\",\"a\":\"Ja, den är idealisk för både observation och jakt och passar för spaning i naturen.\"}]",
+  "metafalt": {
+   "obj": "21 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1051,
+  "descriptionHtml": "<p>Focus Activa 8x21 är en kompakt kikare som är idealiskt för både observation och jakt. Med en förstoring på 8x och ett objektiv på 21 mm erbjuder det en klar och tydlig bild även på längre avstånd. Det är särskilt användbart för spaning i naturen, där detaljer är viktiga. Den kompakta storleken gör det lätt att bära med sig, och dess robusta konstruktion säkerställer att det tål tuffa förhållanden. Den snabba uppstartstiden gör att du snabbt kan vara redo att observera.<br><br><strong>Nyckelfunktioner</strong><br>• Förstoring: 8x<br>• Objektiv: 21 mm<br>• Synfält: 7° <br>• Utgångspupill: 2,6 mm<br>• Vikt: 241 g<br>• Kompakt och lättviktig<br>• Robusta material för hållbarhet<br>• Snabb och enkel användning<br><br><strong>Teknisk specifikation</strong><br>* Längd: 9,6 cm<br>* Bredd: 11,1 cm<br>* Höjd: 4,1 cm<br>* Vikt: 241 g<br><br><strong>Detta ingår</strong><br>• Kikare<br>• Bärrem<br>• Skyddande fodral<br>• Bruksanvisning<br><br>Focus Activa 8x21 är ett praktiskt val för den som söker en pålitlig och lättanvänd kikare för olika utomhusaktiviteter. Den erbjuder en bra balans mellan prestanda och portabilitet, vilket gör den till en utmärkt följeslagare i fält.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110395736404",
+  "handle": "focus-bright-10x25",
+  "title": "Focus Bright 10x25",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "359.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Bright 10x25?\",\"a\":\"Den förstorar 10x med ett 25 mm objektiv. Det är en kompakt och lättviktig kikare.\"},{\"q\":\"Hur stort synfält har Focus Bright 10x25?\",\"a\":\"Synfältet är 101 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Bright 10x25?\",\"a\":\"Ögonavståndet är 10 mm.\"},{\"q\":\"Hur nära kan man fokusera med Focus Bright 10x25?\",\"a\":\"Närgränsen är 5 m.\"},{\"q\":\"Vilken prismatyp har Focus Bright 10x25?\",\"a\":\"Den har takkantsprismor i BK7-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Bright 10x25?\",\"a\":\"Vikten är 200 g.\"},{\"q\":\"Passar Focus Bright 10x25 för jakt?\",\"a\":\"Ja, den är idealisk för jakt, skytte och spaning.\"}]",
+  "metafalt": {
+   "obj": "25 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1234,
+  "descriptionHtml": "<p>Focus Bright 10x25 är en kompakt kikare som är perfekt för äventyr och utomhusaktiviteter. Den är designad för att vara lätt att bära med sig och ger en klar och detaljrik vy med hjälp av antireflexoptik. Tack vare sin gummerade utsida har den ett säkert och halksäkert grepp, vilket förbättrar hållbarheten och gör den lämplig för olika väderförhållanden. Kikaren är också utrustad med BK-7 takprismor och roterbara ögonmusslor, vilket möjliggör enkel justering för både glasögonbärare och icke-glasögonbärare. Den är idealisk för jakt, skytte och spaning.<br>\n<br>\nNyckelfunktioner<br>\n• Lättviktig design för enkel transport<br>\n• Kompakt och ultrakompakt konstruktion<br>\n• Gummerad utsida för halkfritt grepp<br>\n• Antireflexoptik för klara vyer<br>\n• BK-7 takprismor för hög bildkvalitet<br>\n• Roterbara ögonmusslor för komfort<br>\n• Vattentålig konstruktion<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 12,6 cm<br>\n* Bredd: 5,9 cm<br>\n* Höjd: 20 cm<br>\n* Vikt: 200 g<br>\n<br>\nDetta ingår<br>\n• Focus Bright kikare<br>\n• Bärrem<br>\n• Skyddsfodral<br>\n• Mikrofiberduk<br>\n• Handbok<br>\n<br>\nFocus Bright 10x25 erbjuder en pålitlig och praktisk lösning för alla som söker en lätt och kompakt kikare för sina utomhusäventyr. Den är utformad för att ge en bekväm och tydlig observationsupplevelse utan att kompromissa med kvaliteten.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110396588372",
+  "handle": "focus-bright-8x21",
+  "title": "Focus Bright 8x21",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "359.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Bright 8x21?\",\"a\":\"Den förstorar 8x med ett 21 mm objektiv. Det är en ultralätt och kompakt kikare.\"},{\"q\":\"Hur stort synfält har Focus Bright 8x21?\",\"a\":\"Synfältet är 126 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Bright 8x21?\",\"a\":\"Ögonavståndet är 10 mm.\"},{\"q\":\"Hur nära kan man fokusera med Focus Bright 8x21?\",\"a\":\"Närgränsen är 5 m.\"},{\"q\":\"Vilken prismatyp har Focus Bright 8x21?\",\"a\":\"Den har takkantsprismor i BK7-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Bright 8x21?\",\"a\":\"Vikten är 180 g.\"}]",
+  "metafalt": {
+   "obj": "21 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1251,
+  "descriptionHtml": "<p>Focus Bright 8x21 är en kompakt och äventyrsklar kikare som är designad för att vara din ständiga följeslagare. Med en gummerad utsida erbjuder den ett säkert och halksäkert grepp, vilket förbättrar hållbarheten under alla typer av utomhusaktiviteter. Kikaren är perfekt för äventyr på språng och är utrustad med antireflexoptik som ger ljusa, klara vyer genom att minimera bländning. Detta resulterar i en bekväm och detaljerad visuell upplevelse. Den levereras med BK-7 takprismor och roterbara ögonmusslor för enkel justering, vilket gör den användbar för både glasögonbärare och icke glasögonbärare. Focus Bright 8x21 är lättviktig och ultrakompakt, vilket gör den enkel att transportera för både vuxna och barn.<br>\n<br>\nNyckelfunktioner<br>\n• Lättviktig design<br>\n• Ultralätt och kompakt<br>\n• Gummerad utsida för halkfritt grepp<br>\n• Splash-bevis konstruktion<br>\n• Antireflexoptik för klara vyer<br>\n• BK-7 takprismor<br>\n• Roterbara ögonmusslor för enkel justering<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 10,7 cm<br>\n* Bredd: 5,6 cm<br>\n* Höjd: 18,0 cm<br>\n* Vikt: 180 g<br>\n<br>\nDetta ingår<br>\n• Focus Bright kikare<br>\n• Bärrem<br>\n• Skyddsfodral<br>\n• Mikrofiberduk<br>\n• Handbok<br>\n<br>\nFocus Bright 8x21 erbjuder en praktisk och pålitlig lösning för alla dina observationsbehov utan att tumma på kvalitet eller användarvänlighet.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385152340",
+  "handle": "focus-junior-6x21-blue-grey",
+  "title": "Focus Junior 6x21 Blue/Grey",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "349.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Junior 6x21?\",\"a\":\"6x förstoring med 21 mm objektiv. Låg förstoring gör det lättare för barn att hålla bilden stilla.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"120 m på 1000 m. Ett brett fält gör det enkelt att hitta motivet.\"},{\"q\":\"Vem passar den för?\",\"a\":\"Barn och ungdomar. Gummiklädsel och justerbar ögonbredd 50-63 mm är byggd för små händer.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"180 g.\"}]",
+  "metafalt": {
+   "obj": "21 mm",
+   "forst": "6x"
+  },
+  "textlangd": 1343,
+  "descriptionHtml": "<p>Kikare specialbyggd för barn och ungdomar. Focus Junior 6x21 Blue/Grey är designad för att ge unga naturentusiaster en säker och användarvänlig upplevelse. Med en förstoring på 6x underlättar den för barn att hålla kikaren stilla, vilket ger en klar och stabil bild av fåglar, älgar och andra spännande djur i naturen. Kikaren har en gummiklädsel som både dämpar stötar och ger ett bra grepp, vilket gör den idealisk för små händer. Den justerbara ögonbredden mellan 50 och 63 mm och den stora, greppvänliga fokuseringsratten gör det enkelt för barn att justera skärpan. Antireflexbehandlad optik säkerställer bästa möjliga kontrast och skärpa, vilket förbättrar upplevelsen av naturen. Kikaren levereras med en bältesväska och nackrem för enkel transport och förvaring.<br>\n<br>\nNyckelfunktioner<br>\n• Förstoring: 6x<br>\n• Justerbar ögonbredd: 50–63 mm<br>\n• Gummiklädsel: Stöt- och slagabsorberande<br>\n• Antireflexbehandlad optik: För bästa kontrast och skärpa<br>\n• Fokuseringsratt: Greppvänlig och lättanvänd<br>\n• Vikt: 180 g<br>\n• Längd: 14 cm<br>\n• Bredd: 5,7 cm<br>\n<br>\nTeknisk specifikation<br>\nLängd: 14 cm  <br>\nBredd: 5,7 cm  <br>\nHöjd: 18 cm  <br>\nVikt: 180 g  <br>\n<br>\nDetta ingår<br>\n• Kikare  <br>\n• Bältesväska  <br>\n• Nackrem  <br>\n<br>\nFocus Junior 6x21 Blue/Grey är en pålitlig följeslagare för barn som vill utforska naturen. Den kombinerar säkerhet och användarvänlighet, vilket gör den till ett utmärkt val för unga äventyrare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386692436",
+  "handle": "focus-junior-6x21-green",
+  "title": "Focus Junior 6x21 Green",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "349.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Junior 6x21?\",\"a\":\"Förstoringen är 6x och objektivet 21 mm. Den låga förstoringen gör det lättare för barn att hålla bilden stilla.\"},{\"q\":\"Passar den för barn?\",\"a\":\"Ja, den är specialbyggd för barn och ungdomar. Ögonbredden är justerbar mellan 50 och 63 mm och höljet är stöt- och slagavvisande.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 180 g.\"}]",
+  "metafalt": {
+   "obj": "21 mm",
+   "forst": "6x"
+  },
+  "textlangd": 1258,
+  "descriptionHtml": "<p>Focus Junior 6x21 Green är en kikare specialbyggd för barn och ungdomar. Den är utrustad med gummiklädsel som både tar upp stötar och slag samt ger ett säkert grepp. Med centrumled för stabilitet och justerbar ögonbredd mellan 50 och 63 mm är denna kikare anpassad för små händer. Den stora, greppvänliga fokuseringsratten gör det enkelt för barn att justera skärpan. Den lagom stora förstoringen på 6x underlättar för barn att hålla kikaren stilla och ger en lugn bild av fåglar, älgar och andra fina upplevelser i naturen. Kikaren har antireflexbehandlad optik för bästa möjliga kontrast och skärpa, och levereras med bältesväska och nackrem.<br>\n<br>\nNyckelfunktioner<br>\n• Gummiklädsel, stöt- och slagavvisande<br>\n• Centrumled för stabilitet<br>\n• Justerbar ögonbredd mellan 50 och 63 mm<br>\n• Greppvänlig fokuseringsratt<br>\n• 6x förstoring för stabil bild<br>\n• Antireflexbehandlad optik<br>\n• Levereras med bältesväska<br>\n• Levereras med nackrem<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 14 cm<br>\n* Bredd: 17 cm<br>\n* Höjd: 18 cm<br>\n* Vikt: 180 g<br>\n<br>\nDetta ingår<br>\nBältesväska, nackrem<br>\n<br>\nFocus Junior 6x21 Green är ett utmärkt val för unga naturälskare som vill utforska omgivningarna med en lättanvänd och robust kikare. Den erbjuder en fantastisk synupplevelse utan att kompromissa med säkerhet och användarvänlighet.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110384857428",
+  "handle": "focus-junior-6x21-green-orange",
+  "title": "Focus Junior 6x21 Green/Orange",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "349.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Junior 6x21?\",\"a\":\"6x förstoring med 21 mm objektiv. Låg förstoring gör det lättare för barn att hålla bilden stilla.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"120 m på 1000 m. Ett brett fält gör det enkelt att hitta motivet.\"},{\"q\":\"Vem passar den för?\",\"a\":\"Barn och ungdomar. Gummiklädsel och justerbar ögonbredd 50-63 mm är byggd för små händer.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"180 g.\"}]",
+  "metafalt": {
+   "obj": "21 mm",
+   "forst": "6x"
+  },
+  "textlangd": 1213,
+  "descriptionHtml": "<p>Focus Junior 6x21 Green/Orange är en kikare speciellt designad för barn och ungdomar. Den är utrustad med en gummiklädsel som skyddar mot stötar och slag, vilket ger ett säkert grepp. Kikaren har en centrumled för ökad stabilitet och en justerbar ögonbredd mellan 50 och 63 mm, vilket gör den lättanvänd för små händer. Med en förstoring på 6x underlättar den för barn att hålla kikaren stilla och ger en klar och lugn bild av fåglar, älgar och andra spännande naturupplevelser. Den antireflexbehandlade optiken säkerställer bästa möjliga kontrast och skärpa. Kikaren levereras med en praktisk bältesväska och nackrem.<br>\n<br>\nNyckelfunktioner<br>\n• Gummiklädsel som skyddar mot stötar<br>\n• Centrumled för stabilitet<br>\n• Justerbar ögonbredd mellan 50 och 63 mm<br>\n• Greppvänlig fokuseringsratt<br>\n• Förstoring på 6x<br>\n• Antireflexbehandlad optik<br>\n• Levereras med bältesväska<br>\n• Levereras med nackrem<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 11 cm<br>\n* Bredd: 12,5 cm<br>\n* Höjd: 18 cm<br>\n* Vikt: 180 g<br>\n<br>\nDetta ingår<br>\n- Kikare<br>\n- Bältesväska<br>\n- Nackrem<br>\n<br>\nFocus Junior 6x21 Green/Orange är en utmärkt följeslagare för unga naturälskare. Den erbjuder en kombination av hållbarhet och användarvänlighet som gör den idealisk för barn som vill utforska världen omkring dem.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386364756",
+  "handle": "focus-junior-6x21-pink",
+  "title": "Focus Junior 6x21 Pink",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "349.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Junior 6x21?\",\"a\":\"Förstoringen är 6x och objektivet 21 mm. Den låga förstoringen gör det lättare för barn att hålla bilden stilla.\"},{\"q\":\"Passar den för barn?\",\"a\":\"Ja, den är specialbyggd för barn och ungdomar. Ögonbredden är justerbar mellan 50 och 63 mm och höljet har gummiklädsel som skyddar mot stötar.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 180 g.\"}]",
+  "metafalt": {
+   "obj": "21 mm",
+   "forst": "6x"
+  },
+  "textlangd": 1343,
+  "descriptionHtml": "<p>Focus Junior 6x21 Pink är en kikare specialbyggd för barn och ungdomar. Den är utformad för att ge en stabil och lättanvänd upplevelse vid observation av djur och natur. Med en förstoring på 6x är den perfekt för att hjälpa barn att hålla kikaren stilla, vilket ger en klar och lugn bild av fåglar, älgar och andra spännande naturupplevelser. Kikaren har en gummiklädsel som skyddar mot stötar och ger ett säkert grepp. Den justerbara ögonbredden mellan 50 och 63 mm gör det enkelt för användare med olika ansiktsformer att få en bekväm passform. Den antireflexbehandlade optiken säkerställer bästa möjliga kontrast och skärpa. Focus Junior 6x21 Pink levereras även med bältesväska och nackrem för praktisk transport.<br>\n<br>\nNyckelfunktioner<br>\n• Justerbar ögonbredd mellan 50 och 63 mm<br>\n• Gummiklädsel för ökat grepp och skydd<br>\n• Stabil centrumled<br>\n• Förstoring 6x för enkel observation<br>\n• Antireflexbehandlad optik för bra kontrast<br>\n• Stor fokuseringsratt för enkel justering<br>\n• Lättviktig och kompakt design<br>\n• Levereras med bältesväska<br>\n• Levereras med nackrem<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 14 cm<br>\n* Bredd: 17 cm<br>\n* Höjd: 18 cm<br>\n* Vikt: 180 g<br>\n<br>\nDetta ingår<br>\n– Kikare<br>\n– Bältesväska<br>\n– Nackrem<br>\n<br>\nFocus Junior 6x21 Pink är en utmärkt introduktion till observation för barn, kombinerar användarvänlighet med robust konstruktion och ger en klar bild av naturens skönhet.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385217876",
+  "handle": "focus-mono-ii-8x25",
+  "title": "Focus Mono II 8x25",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "749.0",
+  "short_pitch": "Kompakt optisk monokikare på 150 g med 8x förstoring och BaK-4-prisma. Ljus och klar bild för vandring, resa och evenemang.",
+  "short_pitch_metafield_id": "gid://shopify/Metafield/200240835887444",
+  "faq": "[{\"q\":\"Är Focus Mono II en värmekikare?\",\"a\":\"Nej, det är en vanlig optisk monokikare för dagsljus, inte termisk.\"},{\"q\":\"Hur mycket förstorar den?\",\"a\":\"8x förstoring med 25 mm objektiv.\"},{\"q\":\"Vad passar den till?\",\"a\":\"Vandring, camping, resor, konserter och golf där en full kikare blir otymplig.\"},{\"q\":\"Varför BaK-4-prisma?\",\"a\":\"Det ger en ljus och klar bild med god kvalitet även i svagare ljus, tillsammans med flerlagers antireflexbehandling.\"},{\"q\":\"Hur liten och lätt är den?\",\"a\":\"Bara 150 g och 11 cm lång, lätt att bära i fickan.\"}]",
+  "metafalt": {
+   "obj": "25 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1134,
+  "descriptionHtml": "<p>Focus Mono II 8x25 är en kompakt och lättviktsmonokikare som är idealisk för vandring, camping och andra utomhusaktiviteter där varje gram räknas. Med sitt enda okular är den lätt att bära med sig och perfekt för situationer där en större binokulär kikare skulle vara otymplig. Den erbjuder en ljus och klar bild, även i svåra ljusförhållanden, tack vare det högkvalitativa BaK-4-prismat och den flerlagers antireflexbehandlingen på glasytorna. Monokikaren är också lämplig för resor, konserter och golf där man vill ha en närmare vy.<br><br><strong>Nyckelfunktioner</strong><br>• Kompakt design för enkel transport <br>• BaK-4 prisma för hög bildkvalitet <br>• Flerlagers antireflexbehandling för ljusa bilder <br>• Lämplig för olika utomhusaktiviteter <br>• Snabb och enkel justering av fokus <br>• Högt synfält för bredare vyer <br><br><strong>Teknisk specifikation </strong><br>Längd: 11 cm <br>Bredd: 3,8 cm <br>Höjd: 3,8 cm <br>Vikt: 150 g <br><br><strong>Detta ingår </strong><br>• Monokikare <br>• Bärrem<br><br>Focus Mono II 8x25 är en utmärkt lösning för den som söker en lätt och kompakt kikare utan att kompromissa med bildkvaliteten. Den fungerar bra i en mängd olika miljöer och aktiviteter, vilket gör den till ett mångsidigt val för naturälskare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386561364",
+  "handle": "focus-outdoor-ii-10x25",
+  "title": "Focus Outdoor II 10x25",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "1199.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Outdoor II 10x25?\",\"a\":\"Förstoringen är 10x och objektivet 25 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 102 m på 1000 m.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 245 g.\"}]",
+  "metafalt": {
+   "obj": "25 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1496,
+  "descriptionHtml": "<p>Focus Outdoor II 10x25 är en kompakt kikare som är designad för den som spenderar tid i naturen. Denna kikare gör det enkelt att upptäcka detaljer som annars kan förbli dolda. Med en ergonomisk och lätt design erbjuder den ett bekvämt gummerat grepp, vilket gör det lätt att använda även med handskar. Den kompakta storleken gör den smidig att bära med sig och perfekt för långa observationssessioner. Kikaren har ett brett synfält, vilket underlättar observation av fåglar och andra djur i rörelse. Ett stort fokuseringshjul gör det enkelt att snabbt ställa in fokus. Trots sin lätta konstruktion är den robust, vattentät och kvävefylld, vilket förhindrar imbildning under kalla förhållanden. Linserna är belagda med Multi Coating och Bak4-prismorna av optiskt glas säkerställer en bild med hög färgåtergivning och minimal distorsion.<br>\n<br>\nNyckelfunktioner<br>\n• Låg vikt för enkel transport<br>\n• Ergonomiskt gummerat grepp<br>\n• Brett synfält för bättre observation<br>\n• Vattentät och kvävefylld konstruktion<br>\n• Snabb och smidig fokusering med stort fokuseringshjul<br>\n• Optiska glaslinser med Multi Coating<br>\n• Inkluderar skyddande väska<br>\n• Bekväm nackrem för enkel användning<br>\n<br>\nTeknisk specifikation<br>\nLängd: 16,5 cm  <br>\nBredd: 6 cm  <br>\nHöjd: 4,5 cm  <br>\nVikt: 245 g  <br>\n<br>\nDetta ingår<br>\n• Kikare  <br>\n• Skyddande väska  <br>\n• Nackrem  <br>\n<br>\nFocus Outdoor II 10x25 är en pålitlig följeslagare för naturälskare som värdesätter kvalitet och funktionalitet. Den erbjuder en balanserad kombination av design och prestanda utan att kompromissa med användarvänlighet.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386594132",
+  "handle": "focus-outdoor-ii-8x25",
+  "title": "Focus Outdoor II 8x25",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Kompaktkikare",
+  "pris": "1199.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Outdoor II 8x25?\",\"a\":\"Förstoringen är 8x och objektivet 25 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 126 m på 1000 m.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 245 g. Den låga vikten gör den lätt att ta med på vandringen.\"}]",
+  "metafalt": {
+   "obj": "25 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1213,
+  "descriptionHtml": "<p>Focus Outdoor II 8x25 är en kompakt kikare som är idealisk för naturälskare som vill upptäcka detaljer som vanligtvis inte är synliga för blotta ögat. Den är designad för att vara lätt och ergonomisk, vilket gör den bekväm att använda även under längre perioder. Kikaren har ett brett synfält, vilket underlättar observation av fåglar och djur i rörelse. Det stora fokuseringshjulet gör det enkelt att justera skärpan snabbt. Trots sin lätta konstruktion är den robust och vattentät, vilket skyddar mot dimma när du går från värme till kyla. Linserna är belagda med Multi Coating och Bak4-prismorna ger en högkvalitativ bild med minimerad distorsion.<br>\n<br>\nNyckelfunktioner<br>\n• Låg vikt, lätt att ta med på vandringen  <br>\n• Ergonomisk design med gummerat grepp  <br>\n• Vattentät och kvävefylld konstruktion  <br>\n• Brett synfält för enkel observation  <br>\n• Stort och smidigt fokuseringshjul  <br>\n• Linser med Multi Coating för bättre bildkvalitet  <br>\n<br>\nTeknisk specifikation  <br>\n* Längd: 16,5 cm  <br>\n* Bredd: 6 cm  <br>\n* Höjd: 4,5 cm  <br>\n* Vikt: 245 g  <br>\n<br>\nDetta ingår  <br>\n• Skyddande väska  <br>\n• Bekväm nackrem  <br>\n<br>\nFocus Outdoor II 8x25 är en pålitlig följeslagare för alla som vill njuta av naturen, med en kombination av lättvikt och hållbarhet som gör den lätt att bära och använda.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110389412180",
+  "handle": "focus-outdoor-ii-10x42",
+  "title": "Focus Outdoor II 10x42",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1399.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Outdoor II 10x42?\",\"a\":\"Förstoringen är 10x och objektivet 42 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 102 m på 1000 m.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 470 g.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1409,
+  "descriptionHtml": "<p>Focus Outdoor II 10x42 är en kompaktkikare som är idealisk för den som tillbringar tid i naturen. Den gör det enkelt att upptäcka detaljer som vanligtvis inte är synliga för blotta ögat, vilket är perfekt för fågelskådning, jakt eller allmän observation. Med sin ergonomiska och lätta design, samt ett bekvämt gummerat grepp, är den lätt att hantera även med handskar. Kikaren har en kompakt storlek som gör den enkel att bära och bekväm att använda under längre perioder. Den erbjuder ett brett synfält för att underlätta observation av rörliga djur. Det stora fokuseringshjulet gör det enkelt att snabbt hitta och justera fokus. Den robusta, vattentäta konstruktionen skyddar mot väder och fukt, och konstruktionen förhindrar imbildning i kalla förhållanden. Linserna har Multi Coating och BK-7 prismor av optiskt glas, vilket säkerställer en verklighetstrogen färgåtergivning och minimerar distorsion och reflektioner.<br>\n<br>\nNyckelfunktioner<br>\n• Låg vikt<br>\n• Lätt att ta med på vandringen<br>\n• Bra optik<br>\n• Robust och vattentät konstruktion<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,2 cm<br>\n* Bredd: 7,5 cm<br>\n* Höjd: 4,7 cm<br>\n* Vikt: 470 g<br>\n<br>\nDetta ingår<br>\n• Skyddande väska<br>\n• Nackrem<br>\n<br>\nFocus Outdoor II 10x42 är ett pålitligt verktyg för att förbättra din upplevelse i naturen genom att ge en klar och detaljerad utsikt. Den är designad för att vara både funktionell och praktisk, vilket gör den till ett bra val för alla utomhusentusiaster.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110396195156",
+  "handle": "focus-outdoor-ii-10x50",
+  "title": "Focus Outdoor II 10x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1699.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Outdoor II 10x50?\",\"a\":\"Den förstorar 10x med ett 50 mm objektiv. Det stora objektivet släpper in mycket ljus.\"},{\"q\":\"Hur stort synfält har Focus Outdoor II 10x50?\",\"a\":\"Synfältet är 91 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Outdoor II 10x50?\",\"a\":\"Ögonavståndet är 17,5 mm. Det är gott om utrymme även för glasögonbärare.\"},{\"q\":\"Hur nära kan man fokusera med Focus Outdoor II 10x50?\",\"a\":\"Närgränsen är 5 m.\"},{\"q\":\"Vilken prismatyp har Focus Outdoor II 10x50?\",\"a\":\"Den har takkantsprismor i BK7-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Outdoor II 10x50?\",\"a\":\"Vikten är 696 g.\"},{\"q\":\"Passar Focus Outdoor II 10x50 för jakt?\",\"a\":\"Ja, den är idealisk för fågelskådning, jakt och allmän observation.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1455,
+  "descriptionHtml": "<p>Focus Outdoor II 10x50 är en kompakt och bärbar kikare med ett stort 50 mm objektiv, utformad för dig som tillbringar mycket tid i naturen. Den är idealisk för fågelskådning, jakt och allmän observation. Med sin ergonomiska design och gummerade grepp är den lätt att hantera även med handskar. Kikaren erbjuder ett brett synfält som gör det enkelt att följa rörliga djur, och fokuseringshjulet är stort och enkelt att använda. Den robusta konstruktionen gör den vattentät och kvävefylld, vilket förhindrar imbildning på linserna. Linserna har Multi Coating och BK-7-prismor av optiskt glas, vilket ger en verklighetstrogen färgåtergivning och minimerar bländning.<br>\n<br>\nNyckelfunktioner<br>\n• Lättviktig konstruktion för enkel transport<br>\n• Ergonomisk design med gummerat grepp<br>\n• Brett synfält för att observera djur i rörelse<br>\n• Stort fokuseringshjul för snabb justering<br>\n• Vattentät och kvävefylld konstruktion<br>\n• Linser med Multi Coating för bättre bildkvalitet<br>\n• BK-7-prismor av optiskt glas för verklighetstrogen färgåtergivning<br>\n• Levereras med skyddande väska och nackrem<br>\n• 10 års garanti<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 16,2 cm<br>\n* Bredd: 9 cm<br>\n* Höjd: 6,96 cm<br>\n* Vikt: 696 g<br>\n<br>\nDetta ingår<br>\n- Kikare<br>\n- Skyddande väska<br>\n- Nackrem<br>\n<br>\nFocus Outdoor II 10x50 är en pålitlig och funktionell kikare som passar bra för både korta och långa observationer i naturen. Med sin kompakta storlek och robusta design är den ett utmärkt val för både entusiaster och professionella användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110397079892",
+  "handle": "focus-outdoor-ii-12x50",
+  "title": "Focus Outdoor II 12x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1699.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Outdoor II 12x50?\",\"a\":\"Den förstorar 12x med ett 50 mm objektiv. Det stora objektivet släpper in mycket ljus.\"},{\"q\":\"Hur stort synfält har Focus Outdoor II 12x50?\",\"a\":\"Synfältet är 81 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Outdoor II 12x50?\",\"a\":\"Ögonavståndet är 14,5 mm.\"},{\"q\":\"Hur nära kan man fokusera med Focus Outdoor II 12x50?\",\"a\":\"Närgränsen är 5 m.\"},{\"q\":\"Vilken prismatyp har Focus Outdoor II 12x50?\",\"a\":\"Den har takkantsprismor i BK7-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Outdoor II 12x50?\",\"a\":\"Vikten är 694 g.\"},{\"q\":\"Passar Focus Outdoor II 12x50 för jakt?\",\"a\":\"Ja, den är utformad för fågelskådning, jakt och allmän observation.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "12x"
+  },
+  "textlangd": 1384,
+  "descriptionHtml": "<p>Focus Outdoor II 12x50 är en kompakt och bärbar kikare med ett stort 50 mm objektiv, vilket gör den idealisk för naturentusiaster. Den är utformad för att enkelt fånga detaljer som ofta är osynliga för det blotta ögat, vilket gör den perfekt för fågelskådning, jakt och allmän observation. Kikaren är ergonomiskt utformad med ett gummerat grepp som gör den lätt att hålla, även med handskar. Trots sin låga vikt är den robust, vattentät och kvävefylld, vilket förhindrar att linserna immar igen vid plötsliga temperaturförändringar. Med ett brett synfält och ett stort fokuseringshjul är det enkelt att snabbt hitta och fokusera på objekt.<br>\n<br>\nNyckelfunktioner<br>\n• Lättviktig design för enkel transport<br>\n• Ergonomiskt gummerat grepp<br>\n• Vattentät och kvävefylld konstruktion<br>\n• Brett synfält för att observera rörliga objekt<br>\n• Smidigt fokuseringshjul för snabb justering<br>\n• Linser med Multi Coating för bättre färgåtergivning<br>\n• BK-7 prismor av optiskt glas för minimal distorsion<br>\n• Levereras med skyddande väska och nackrem<br>\n• 10 års garanti<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 16,2 cm<br>\n* Bredd: 9 cm<br>\n* Höjd: 6,94 cm<br>\n* Vikt: 694 g<br>\n<br>\nDetta ingår<br>\n- Kikare<br>\n- Skyddande väska<br>\n- Nackrem<br>\n<br>\nFocus Outdoor II 12x50 erbjuder en praktisk och pålitlig lösning för alla som spenderar tid i naturen. Den kombinerar högkvalitativ optik med en robust konstruktion för att säkerställa en överlägsen observationsupplevelse.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110390362452",
+  "handle": "focus-outdoor-ii-8x32",
+  "title": "Focus Outdoor II 8x32",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1299.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Outdoor II 8x32?\",\"a\":\"Förstoringen är 8x och objektivet 32 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 125 m på 1000 m. Det breda synfältet gör det lätt att följa djur i rörelse.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 420 g. Den kompakta storleken gör den lätt att bära under långa observationer.\"}]",
+  "metafalt": {
+   "obj": "32 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1492,
+  "descriptionHtml": "<p>Kompaktkikaren Focus Outdoor II 8x32 är den perfekta följeslagaren för den som spenderar mycket tid i naturen. Den är designad för att hjälpa användaren att upptäcka detaljer som annars kan gå obemärkt förbi. Med sin ergonomiska och lätta konstruktion, tillsammans med ett gummerat grepp, är kikaren enkel att hantera även med handskar. Den kompakta storleken gör den bekväm att bära och att använda under längre observationer. Kikaren erbjuder ett brett synfält, vilket underlättar observation av fåglar och andra djur i rörelse. Det stora fokuseringshjulet gör det även lätt att snabbt justera och fokusera. Med sin robusta, vattentäta och kvävefyllda konstruktion, förhindrar den att linserna immar igen även i kalla förhållanden. Linserna är belagda med Multi Coating och BK-7 prismorna är tillverkade av optiskt glas, vilket ger en verklighetstrogen färgåtergivning med minimal distorsion och blänk.<br>\n<br>\nNyckelfunktioner<br>\n• Låg vikt<br>\n• Lätt att ta med på vandringen<br>\n• Bra optik<br>\n• Robust och vattentät konstruktion<br>\n• Ergonomisk design med gummerat grepp<br>\n• Bredd synfält för enkel observation<br>\n• Stort fokuseringshjul för snabb justering<br>\n• Kvävefylld konstruktion för kondensskydd<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 16,2 cm<br>\n* Bredd: 7,5 cm<br>\n* Höjd: 4,2 cm<br>\n* Vikt: 420 g<br>\n<br>\nDetta ingår<br>\n- Skyddande väska<br>\n- Nackrem<br>\n<br>\nFocus Outdoor II är en pålitlig kikare för alla som värdesätter kvalitet och funktionalitet i sina observationer, oavsett om det handlar om fågelskådning, jakt eller andra utomhusaktiviteter.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110390264148",
+  "handle": "focus-outdoor-ii-8x42",
+  "title": "Focus Outdoor II 8x42",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1399.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Outdoor II 8x42?\",\"a\":\"Förstoringen är 8x och objektivet 42 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 113 m på 1000 m.\"},{\"q\":\"Fungerar den för dig med glasögon?\",\"a\":\"Ja, ögonavståndet är 18 mm.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1451,
+  "descriptionHtml": "<p>Kompaktkikaren Focus Outdoor II 8x42 är den perfekta följeslagaren för naturälskare. Den är utformad för att låta dig upptäcka detaljer som ofta är osynliga för blotta ögat. Med sin ergonomiska och lätta design, samt ett gummerat grepp, är kikaren bekväm att hålla i, även när du har handskar på dig. Den kompakta storleken gör den idealisk att bära och använda under långa observationer. Kikaren har ett brett synfält som underlättar observation av fåglar och andra djur i rörelse. Det stora fokuseringshjulet gör det snabbt och enkelt att justera skärpan. Trots sin låg vikt är konstruktionen robust, vattentät och kvävefylld, vilket förhindrar imma på linserna vid plötsliga temperaturförändringar. Med Multi Coating på linserna och BK-7 prismor av optiskt glas, får du en bild med verklighetstrogen färgåtergivning och minimal distorsion, vilket förhindrar blänk på ytor som vatten.<br>\n<br>\nNyckelfunktioner<br>\n• Låg vikt<br>\n• Lätt att ta med på vandringen<br>\n• Bra optik<br>\n• Robust och vattentät konstruktion<br>\n• Ergonomiskt gummerat grepp<br>\n• Bredd synfält för enkel observation<br>\n• Snabb och smidig fokusering<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,2 cm<br>\n* Bredd: 7,5 cm<br>\n* Höjd: 5,0 cm<br>\n* Vikt: 500 g<br>\n<br>\nDetta ingår<br>\n• Skyddande väska<br>\n• Nackrem<br>\n<br>\nFocus Outdoor II 8x42 är en pålitlig kikare för både fritidsbruk och mer seriösa observationer i naturen. Med sina avancerade optiska egenskaper och robusta konstruktion är den ett utmärkt val för alla som uppskattar naturens detaljer.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110384955732",
+  "handle": "focus-aquafloat-7x50-wp",
+  "title": "Focus Aquafloat 7x50 WP",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Marina kikare",
+  "pris": "1999.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Aquafloat 7x50?\",\"a\":\"7x förstoring med 50 mm objektiv. Ljusstark för både dag- och nattbruk på vattnet.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"132 m på 1000 m. Ett brett fält gör det lätt att svepa av landskapet.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 23 mm.\"},{\"q\":\"Vad passar den till?\",\"a\":\"Marint bruk och navigering. Den är vattentät med individuell fokusering och skärpedjup från 20 m till oändligt.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "7x"
+  },
+  "textlangd": 1370,
+  "descriptionHtml": "<p>Focus Aquafloat 7x50 WP är en vattentät kikare som är en del av båtens grundutrustning för navigations- och säkerhetsskäl. Dessa kikare har hög ljusstyrka för användning både dag och natt, vilket gör dem idealiska för observation av omgivningen under varierande ljusförhållanden. Med ett stort synfält kan du snabbt skanna av landskapet. Den individuella fokuseringen för varje okular ger ett optiskt skärpedjup från 20 meter till oändlighet utan behov av omfokusering. BaK-4 prismor och en flerlagers antireflexbehandling säkerställer en skarp och tydlig bild oavsett ljusförhållanden. Kikarna är designade för att klara den marina miljön och kommer med en väska och rem för enkel transport och förvaring.<br>\n<br>\nNyckelfunktioner<br>\n• Vattentät konstruktion<br>\n• Hög ljusstyrka för dag- och nattbruk<br>\n• Stort synfält för snabb observation<br>\n• Individuell fokusering för varje okular<br>\n• Optiskt skärpedjup från 20 meter till oändlighet<br>\n• BaK-4 prismor för hög bildkvalitet<br>\n• Flerlagers antireflexbehandling<br>\n• Inkluderar väska och rem<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 22 cm<br>\n* Bredd: 19 cm<br>\n* Höjd: 9,1 cm<br>\n* Vikt: 910 g<br>\n<br>\nDetta ingår<br>\n• Kikare<br>\n• Väska<br>\n• Rem<br>\n<br>\nFocus Aquafloat 7x50 WP erbjuder en pålitlig och skarp observationslösning för både fritids- och professionella användare på vattnet. Den är byggd för att tåla marina förhållanden och är en värdefull tillgång för navigering och säkerhet.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110384824660",
+  "handle": "focus-aquafloat-7x50-waterproof-compass",
+  "title": "Focus Aquafloat 7x50 Waterproof Compass",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Marina kikare",
+  "pris": "2499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Aquafloat 7x50 Compass?\",\"a\":\"7x förstoring med 50 mm objektiv. Ljusstark för navigering dag som natt.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"126 m på 1000 m.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 24 mm.\"},{\"q\":\"Vad passar den till?\",\"a\":\"Marin navigering. Den har inbyggd kompass, belysta avståndsskalor och vattentät konstruktion.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "7x"
+  },
+  "textlangd": 1404,
+  "descriptionHtml": "<p>Focus Aquafloat 7x50 Waterproof Compass är en marinkikare som utgör en viktig del av båtens grundutrustning för navigations- och säkerhetsskäl. Den är särskilt anpassad för navigation, vilket gör den idealisk för sjöfarare och fiskare. Med en inbyggd kompass och avståndsskalor som kan belysas vid behov, erbjuder den precision och användarvänlighet. Kikaren har individuell fokusering och ger ett optiskt skärpedjup från 20 meter till oändlighet utan att behöva omfokuseras. Det stora synfältet ger en 3D-effekt och det generösa ljusinsläppet gör den utmärkt för användning nattetid. BaK4-prismor och antireflexbehandling bidrar till en klar och skarp bild. Den är dessutom vattentät, vilket gör den robust nog för den marina miljön.<br>\n<br>\nNyckelfunktioner<br>\n• Inbyggd kompass för navigering<br>\n• Avståndsskalor med belysning<br>\n• Individuell fokusering för skärpedjup 20 m till oändlighet<br>\n• Stort synfält för 3D-seende<br>\n• Hög ljusinsläpp för nattsikt<br>\n• BaK4-prismor för klar bild<br>\n• Antireflexbehandling för skarp bild<br>\n• Vattentät konstruktion<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 24,5 cm<br>\n* Bredd: 23,5 cm<br>\n* Höjd: 9,15 cm<br>\n* Vikt: 915 g<br>\n<br>\nDetta ingår<br>\n• Väska<br>\n• Flytrem<br>\n• Batterier<br>\n<br>\nFocus Aquafloat 7x50 Waterproof Compass erbjuder pålitlig prestanda och är en utmärkt följeslagare för alla som navigerar på vatten. Med sina användarvänliga funktioner och robusta design kan du känna dig trygg och säker i alla väderförhållanden.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110384791892",
+  "handle": "focus-bright-7x50",
+  "title": "Focus Bright 7x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Marina kikare",
+  "pris": "599.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Bright 7x50?\",\"a\":\"7x förstoring med 50 mm objektiv. Låg förstoring och stort objektiv ger ljus, stabil bild.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"123 m på 1000 m.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 17 mm.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Porroprisma med BK-7-glas. Porro ger djup och ljus för pengarna, medan takkant bygger smalare.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "7x"
+  },
+  "textlangd": 1103,
+  "descriptionHtml": "<p>Focus Bright 7x50 är en kikare som erbjuder utmärkt prestanda till ett konkurrenskraftigt pris. Den är idealisk för jakt, skytte och spaning, med en tydlig och skarp optik som ger en fantastisk bildkvalitet över hela synfältet. Kikaren är ergonomiskt utformad för ett stadigt grepp och har stora fokusvred som möjliggör snabb och enkel fokusering. Med sina robusta material och kraftiga gummihölje är den också designad för att klara tuffa förhållanden.<br>\n<br>\nNyckelfunktioner<br>\n• 7x förstoring för stabil observation<br>\n• 50 mm objektivdiameter för bra ljusinsläpp<br>\n• Stadigt grepp för säker hantering<br>\n• Snabb och enkel fokusering med stora fokusvred<br>\n• Kraftigt gummihölje för ökad hållbarhet<br>\n• Kompakt och lätt design för enkel transport<br>\n• Levereras med väska, rem och rengöringsduk<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 20 cm<br>\n* Bredd: 8 cm<br>\n* Höjd: 9,35 cm<br>\n* Vikt: 935 g<br>\n<br>\nDetta ingår<br>\n• Väska<br>\n• Rem<br>\n• Rengöringsduk<br>\n<br>\nFocus Bright 7x50 är ett praktiskt val för den som söker en pålitlig kikare med bra prestanda. Den kombinerar användarvänlighet med robusthet, vilket gör den lämplig för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386463060",
+  "handle": "focus-marine-7x50-compass",
+  "title": "Focus Marine 7x50 Compass",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Marina kikare",
+  "pris": "2199.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Marine 7x50 Compass?\",\"a\":\"Förstoringen är 7x och objektivet 50 mm.\"},{\"q\":\"Vad är den byggd för?\",\"a\":\"Den är en marinkikare för navigering och säkerhet ombord. Den är 100 % vattentät och har inbyggd kompass samt belysta avståndsskalor.\"},{\"q\":\"Fungerar den för dig med glasögon?\",\"a\":\"Ja, ögonavståndet är 27,5 mm.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "7x"
+  },
+  "textlangd": 1388,
+  "descriptionHtml": "<p>Focus Marine 7x50 Compass är en högkvalitativ marina kikare som är gjuten i ett stycke och 100 % vattentät, vilket gör den idealisk för användning i den marina miljön. Den är en viktig del av en båts standardutrustning för navigering och säkerhet. Kikaren är särskilt utformad för navigering och har en inbyggd kompass samt skalor för avståndssökning som kan belysas vid behov. Den stadiga kompassen förenklar orienteringen, och den inbyggda skalan hjälper till att beräkna avstånd eller storlek på föremål. Den kompakta designen gör det lättare att hålla kikaren stilla under längre perioder och är användarvänlig även för personer med glasögon. Fokusinställningen är snabb och exakt, vilket underlättar följandet av rörliga objekt.<br>\n<br>\nNyckelfunktioner<br>\n• 100 % vattentät konstruktion<br>\n• Inbyggd kompass för enkel navigering<br>\n• Belysning för avståndsskalor<br>\n• Kompakt design för stabilt grepp<br>\n• Användarvänlig för glasögonbärare<br>\n• Snabb och exakt fokusinställning<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 21,2 cm<br>\n* Bredd: 23,5 cm<br>\n* Höjd: 9,89 cm<br>\n* Vikt: 989 g<br>\n<br>\nDetta ingår<br>\n- Väska<br>\n- Neoprenrem<br>\n- Batterier<br>\n<br>\nFocus Marine 7x50 Compass erbjuder en pålitlig och robust lösning för navigering och observation, vilket gör den till en värdefull tillgång för alla båtentusiaster. Den kombinerar hög funktionalitet med användarvänlighet, vilket gör den till ett utmärkt val för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385676628",
+  "handle": "focus-sailor-iii-7x50-wp",
+  "title": "Focus Sailor III 7x50 WP",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Marina kikare",
+  "pris": "1799.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Sailor III 7x50?\",\"a\":\"7x förstoring med 50 mm objektiv. Kombinationen ger ljusstark bild och stabil handhållen sikt.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"122 m på 1000 m. Ett brett fält gör det lätt att svepa av horisonten.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 24 mm. Det ger gott om marginal även med glasögon på.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Porroprisma med BAK-4-glas. Porro ger djup och mycket ljus, medan takkant bygger smalare och lättare.\"},{\"q\":\"Vad passar den till?\",\"a\":\"Maritim navigering och observation. Den är vattentålig med flytrem och stort skärpedjup.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "7x"
+  },
+  "textlangd": 1416,
+  "descriptionHtml": "<p>Focus Sailor III 7x50 WP är en avancerad kikare designad för maritim navigering och observation. Med ett stort skärpedjup minimeras behovet av fokusering, vilket gör det enklare och snabbare att identifiera sjömärken och faror som stenar och rev. Den nya designen inkluderar ett förbättrat grepp som underlättar hanteringen med en hand, även under svåra väderförhållanden. Kikaren är vattentålig tack vare sin gummistruktur som säkerställer halkfri hantering, vilket är avgörande vid regn. Sailor III har en utgångspupill på över 7,1 mm och är utrustad med BaK-4-prismor samt avancerad multicoating för att säkerställa klara och skarpa bilder även i svagt ljus. Den är också lätt att justera för användare med glasögon.<br>\n<br>\nNyckelfunktioner<br>\n• Stort skärpedjup för snabb fokusering<br>\n• Förbättrat grepp för enkel hantering<br>\n• Vattentålig och halkfri design<br>\n• Utgångspupill över 7,1 mm för ljusstyrka<br>\n• BaK-4-prismor för hög bildkvalitet<br>\n• Multilagers antireflexbehandling för klarhet<br>\n• Vridbara ögonmusslor för komfort<br>\n• Dioptrijustering på +/-3 för individuell anpassning<br>\n• 24 mm toppunktsavstånd för användarvänlighet<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 21,5 cm<br>\n* Bredd: 20 cm<br>\n* Höjd: 9 cm<br>\n* Vikt: 900 g<br>\n<br>\nDetta ingår<br>\nKikare, fodral, flytrem<br>\n<br>\nFocus Sailor III 7x50 WP erbjuder pålitlig funktionalitet och användarvänlighet för både fritids- och professionella användare som behöver en robust och effektiv kikare för maritimt bruk.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385873236",
+  "handle": "focus-scenery-7x50",
+  "title": "Focus Scenery 7x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Marina kikare",
+  "pris": "1449.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Scenery 7x50?\",\"a\":\"Förstoringen är 7x och objektivet 50 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 122 m på 1000 m.\"},{\"q\":\"Fungerar den för dig med glasögon?\",\"a\":\"Ja, ögonavståndet är 20 mm och ögonmusslorna är vridbara.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "7x"
+  },
+  "textlangd": 1164,
+  "descriptionHtml": "<p>Focus Scenery 7x50 är en allroundkikare som erbjuder tydlig och skarp optik, vilket ger fantastisk bildkvalitet över hela synfältet. Med en stabil och lugn bild, kombinerat med bra ljusstyrka, är den perfekt för jakt, fågelskådning och olika naturupplevelser. Kikaren har ett brett synfält på 5,8–7,5 grader (beroende på modell), vilket gör det enkelt att hitta motiv snabbt. Den är klädd i slitstarkt gummi för extra skydd och komfort, vilket säkerställer ett bra grepp, även med handskar. Vridbara ögonmusslor gör att du kan observera bekvämt under långa stunder, oavsett om du bär glasögon eller inte.<br>\n<br>\nNyckelfunktioner<br>\n• Slitstark gummiring<br>\n• Brett synfält<br>\n• Stort fokusvred för snabb och enkel fokusering<br>\n• Vridbara ögonmusslor<br>\n• Bra prestanda till ett riktigt bra pris<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 8,8 cm<br>\n* Bredd: 20,5 cm<br>\n* Höjd: 8,5 cm<br>\n* Vikt: 850 g<br>\n<br>\nDetta ingår<br>\n– Kikare<br>\n– Rem<br>\n– Bruksanvisning<br>\n<br>\nFocus Scenery 7x50 erbjuder en pålitlig och högkvalitativ optik för den som söker en mångsidig kikare för olika aktiviteter i naturen. Med dess robusta design och användarvänliga funktioner är den en utmärkt följeslagare för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385906004",
+  "handle": "focus-scenery-7x50-ff",
+  "title": "Focus Scenery 7x50 FF",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Marina kikare",
+  "pris": "1249.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Scenery 7x50 FF?\",\"a\":\"Förstoringen är 7x och objektivet 50 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 122 m på 1000 m.\"},{\"q\":\"Vad innebär Free Focus?\",\"a\":\"Med Free Focus hålls avlägsna objekt i fokus utan att du behöver justera hela tiden.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "7x"
+  },
+  "textlangd": 1443,
+  "descriptionHtml": "<p>Focus Scenery 7x50 FF är en mångsidig kikare som erbjuder tydlig och skarp optik för en fantastisk bildkvalitet. Den är designad för att användas vid jakt, fågelskådning och andra naturupplevelser. Med ett brett synfält på 5,8–7,5 grader (beroende på modell) kan du snabbt och enkelt lokalisera ditt motiv. Kikaren är byggd för att ge en lugn och stabil bild med bra ljusstyrka. Slitstark gummiyta ger ett bra grepp och skydd, även under svåra förhållanden. Vridbara ögonmusslor gör att den är bekväm att använda, både med och utan glasögon. Med Free Focus-funktionen hålls avlägsna objekt i fokus utan behov av konstant justering, vilket ytterligare ökar användarvänligheten.<br>\n<br>\nNyckelfunktioner<br>\n• Stadigt grepp för maximal komfort<br>\n• Tydlig och skarp optik för hög bildkvalitet<br>\n• Brett synfält på 5,8–7,5 grader<br>\n• Vridbara ögonmusslor för bekvämt seende<br>\n• Slitstark gummiyta för skydd och grepp<br>\n• Stort fokusvred för snabb fokusering<br>\n• Free Focus för permanent fokus på avlägsna objekt<br>\n• Flexibel allroundkikare för olika aktiviteter<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 20,7 cm<br>\n* Bredd: 8,8 cm<br>\n* Höjd: 8,5 cm<br>\n* Vikt: 850 g<br>\n<br>\nDetta ingår<br>\n- Kikare<br>\n- Bärrem<br>\n- Transportfodral<br>\n- Manual<br>\n<br>\nFocus Scenery 7x50 FF är en pålitlig och funktionell kikare som passar alla som vill ha en högkvalitativ optik för sina utomhusaktiviteter. Den kombinerar användarvänlighet med robusta egenskaper, vilket gör den till ett bra val för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386725204",
+  "handle": "focus-activa-10x32",
+  "title": "Focus Activa 10x32",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "799.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Activa 10x32?\",\"a\":\"Förstoringen är 10x och objektivet 32 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 98 m på 1000 m.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 440 g. Den låga vikten gör den lätt att ta med på jakt och naturspaning.\"}]",
+  "metafalt": {
+   "obj": "32 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1245,
+  "descriptionHtml": "<p>Focus Activa 10x32 är en mångsidig kikare designad för en aktiv livsstil. Med sin lätta konstruktion är den enkel att ta med sig på olika äventyr, vare sig det handlar om jakt, skytte eller naturspaning. Den väderbeständiga designen och den gummibelagda ytan gör att du kan hålla kikaren stabil även i kalla förhållanden, vilket är särskilt viktigt under långvarig användning. Kikaren erbjuder en utmärkt optisk prestanda med avancerad antireflexbehandling (FMC) som ger maximal ljusstyrka och skärpa. Med vridbara ögonmusslor är den också anpassad för både glasögonbärande och icke-glasögonbärande användare.<br>\n<br>\nNyckelfunktioner<br>\n• Lätt design för enkel transport<br>\n• Väderbeständig konstruktion<br>\n• Gummibeläggning för bra grepp<br>\n• Stort fokushjul för enkel fokusjustering<br>\n• Avancerad FMC-beläggning för skarp bild<br>\n• Vridbara ögonmusslor för ökad komfort<br>\n• Skyddande fodral och bekväm rem ingår<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,5 cm<br>\n* Bredd: 7,5 cm<br>\n* Höjd: 4,4 cm<br>\n* Vikt: 440 g<br>\n<br>\nDetta ingår<br>\n- Kikare<br>\n- Skyddande fodral<br>\n- Bekväm rem<br>\n<br>\nFocus Activa 10x32 är ett utmärkt val för den som söker en pålitlig kikare för olika aktiviteter utomhus. Den kombinerar funktionalitet med en kompakt design, vilket gör den till en praktisk följeslagare på dina äventyr.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386626900",
+  "handle": "focus-activa-8x32",
+  "title": "Focus Activa 8x32",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "799.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Activa 8x32?\",\"a\":\"Förstoringen är 8x och objektivet 32 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 102 m på 1000 m.\"},{\"q\":\"Hur nära kan den fokusera?\",\"a\":\"Närgränsen är 2 m.\"}]",
+  "metafalt": {
+   "obj": "32 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1486,
+  "descriptionHtml": "<p>Focus Activa 8x32 är en mångsidig kikar som är perfekt för den aktiva livsstilen. Med en lätt och kompakt design är den enkel att ta med sig på olika äventyr, oavsett om det är för jakt, skytte eller naturspaning. Den väderbeständiga konstruktionen och det gummibelagda greppet säkerställer att du kan använda kikaren under olika väderförhållanden och att den ligger bra i handen, även med handskar. Den stora fokuseringsratten gör det enkelt att justera fokus, så att du snabbt kan få en klar bild av detaljer i landskapet. Den avancerade antireflexbehandlingen (FMC) ger överlägsen ljusstyrka och färgåtergivning, vilket gör att du kan se naturens skönhet i all sin prakt. Kikaren är också utrustad med vridbara ögonmusslor, vilket gör den bekväm för både glasögonbärare och de utan.<br>\n<br>\nNyckelfunktioner<br>\n• Lättviktsdesign för enkel transport<br>\n• Väderbeständig för användning under olika förhållanden<br>\n• Gummibeläggning för bra grepp och stötmotstånd<br>\n• Stort synfält för enkel identifiering av objekt<br>\n• Avancerad FMC-beläggning för maximal ljusstyrka och kontrast<br>\n• Vridbara ögonmusslor för komfort<br>\n• Levereras med skyddande fodral och rem<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,3 cm<br>\n* Bredd: 7,5 cm<br>\n* Höjd: 4,4 cm<br>\n* Vikt: 440 g<br>\n<br>\nDetta ingår<br>\n- Kikare<br>\n- Skyddande fodral<br>\n- Rem<br>\n<br>\nFocus Activa 8x32 är ett utmärkt val för dig som söker en högkvalitativ kikare som är både lätt och funktionell. Med sina användarvänliga egenskaper och robusta design är den perfekt för en rad olika aktiviteter utomhus.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110397210964",
+  "handle": "focus-bright-10x42",
+  "title": "Focus Bright 10x42",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "699.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Bright 10x42?\",\"a\":\"Den förstorar 10x med ett 42 mm objektiv.\"},{\"q\":\"Hur stort synfält har Focus Bright 10x42?\",\"a\":\"Synfältet är 89 m på 1000 m.\"},{\"q\":\"Hur nära kan man fokusera med Focus Bright 10x42?\",\"a\":\"Närgränsen är 4,5 m.\"},{\"q\":\"Vilken prismatyp har Focus Bright 10x42?\",\"a\":\"Den har takkantsprismor i BK7-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Bright 10x42?\",\"a\":\"Vikten är 500 g.\"},{\"q\":\"Passar Focus Bright 10x42 för jakt?\",\"a\":\"Ja, den är gjord för utomhusaktiviteter som fågelskådning och jakt och passar både nybörjare och erfarna användare.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1637,
+  "descriptionHtml": "<p>Focus Bright 10x42 är en instegskikare som är idealisk för alla utomhusaktiviteter, inklusive fågelskådning och jakt. Den erbjuder en kombination av användarvänlighet, hållbarhet och god optisk prestanda, vilket gör den till ett utmärkt val för både nybörjare och erfarna användare. Med ett brett synfält kan du enkelt följa rörliga motiv och fånga detaljer utan att missa något. Kikaren har vridbara ögonmusslor som ger en bekväm passform för både glasögonbärare och icke glasögonbärare, vilket möjliggör långvarig användning utan ansträngning. BK7-prismorna bidrar till ljusstarka och högkontrastbilder, vilket gör att du kan upptäcka detaljer även under svåra ljusförhållanden. De flerskiktade linserna minskar reflexer och maximerar ljusgenomsläppet för en skarp och levande bild. Den lätta och väderbeständiga konstruktionen säkerställer att kikaren presterar bra under olika utomhusförhållanden, oavsett om du befinner dig i skogen, på fältet eller vid vattnet.<br>\n<br>\nNyckelfunktioner<br>\n• Vridbara ögonmusslor för bekväm passform<br>\n• BK7-prismor för hög kontrast<br>\n• Flerskiktade linser för skarp bild<br>\n• Lätt och väderbeständig konstruktion<br>\n• Brett synfält för att följa rörliga motiv<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 16,5 cm<br>\n* Bredd: 7 cm<br>\n* Höjd: 5 cm<br>\n* Vikt: 500 g<br>\n<br>\nDetta ingår<br>\n• Focus Bright kikare<br>\n• Nackrem<br>\n• Skyddsväska<br>\n• Linsduk<br>\n<br>\nFocus Bright 10x42 erbjuder en pålitlig och användarvänlig upplevelse för alla som vill njuta av utomhusaktiviteter. Den är konstruerad för att tåla olika väderförhållanden och ger en klar och detaljerad bild, vilket gör den till ett värdefullt verktyg för både fritidsanvändning och mer seriösa observationer.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385381716",
+  "handle": "focus-bright-10x50",
+  "title": "Focus Bright 10x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "599.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Bright 10x50?\",\"a\":\"10x förstoring med 50 mm objektiv. En ljusstark allroundkombination för jakt och spaning.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"99 m på 1000 m.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Porroprisma med BK-7-glas. Porro ger djup och ljus för pengarna, medan takkant bygger smalare.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"950 g.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1097,
+  "descriptionHtml": "<p>Focus Bright 10x50 är en kraftfull kikkert som erbjuder utmärkt prestanda till ett överkomligt pris. Den är perfekt för olika användningsområden som jakt, skytte och spaning. Med en förstoring på 10x och en objektivdiameter på 50 mm ger kikaren en tydlig och skarp bildkvalitet över hela synfältet. Kikaren är konstruerad för att vara lätt att hantera, och de stora fokusvreden gör det enkelt att justera skärpan snabbt och effektivt. Det kraftiga gummihöljet ger ett bra grepp och extra skydd mot stötar.<br>\n<br>\nNyckelfunktioner<br>\n• Förstoring: 10x<br>\n• Objektivdiameter: 50 mm<br>\n• Bra bildkvalitet över hela synfältet<br>\n• Stort fokusvred för snabb fokusering<br>\n• Kraftigt gummihölje för bra grepp<br>\n• Lämplig för jakt, skytte och spaning<br>\n• Levereras med väska, rem och rengöringsduk<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 20 cm<br>\n* Bredd: 8 cm<br>\n* Höjd: 8 cm<br>\n* Vikt: 950 g<br>\n<br>\nDetta ingår<br>\n• Väska<br>\n• Rem<br>\n• Rengöringsduk<br>\n<br>\nFocus Bright 10x50 är ett pålitligt val för den som söker en högkvalitativ kikare till ett bra pris. Den kombinerar funktionalitet och hållbarhet, vilket gör den idealisk för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385447252",
+  "handle": "focus-bright-12x50",
+  "title": "Focus Bright 12x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "649.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Bright 12x50?\",\"a\":\"12x förstoring med 50 mm objektiv. Passar spaning och skytte där du vill nå längre.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"87 m på 1000 m.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Porroprisma med BK-7-glas. Porro ger djup och ljus för pengarna, medan takkant bygger smalare.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"950 g.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "12x"
+  },
+  "textlangd": 1109,
+  "descriptionHtml": "<p>Focus Bright 12x50 är en kikare designad för att leverera hög kvalitet och prestanda till ett överkomligt pris. Den är idealisk för olika aktiviteter såsom jakt, skytte och spaning. Med en förstoring på 12x och en objektivdiameter på 50 mm erbjuder den ett brett synfält och en klar bildkvalitet även under svåra ljusförhållanden. Kikaren är lätt att fokusera med sina stora fokusvred och har ett robust gummihölje som ger ett stadigt grepp, vilket gör den användarvänlig och hållbar.<br>\n<br>\nNyckelfunktioner<br>\n• Förstoring: 12x  <br>\n• Objektivdiameter: 50 mm  <br>\n• Synfält: 1000 m / 1000 m  <br>\n• Stort fokusvred för snabb justering  <br>\n• Gummihölje för bra grepp  <br>\n• Lättviktig design för enkel transport  <br>\n• Levereras med väska och rem  <br>\n• Rengöringsduk ingår  <br>\n<br>\nTeknisk specifikation  <br>\n* Längd: 20 cm  <br>\n* Bredd: 8 cm  <br>\n* Höjd: 8 cm  <br>\n* Vikt: 950 g  <br>\n<br>\nDetta ingår  <br>\n- Väska  <br>\n- Rem  <br>\n- Rengöringsduk  <br>\n<br>\nFocus Bright 12x50 erbjuder en utmärkt balans mellan pris och prestanda, vilket gör den till ett bra val för både amatörer och erfarna användare. Med sin hållbara konstruktion och klara optik är den designad för att klara olika miljöer och användningsområden.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110386102612",
+  "handle": "focus-bright-8x40",
+  "title": "Focus Bright 8x40",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "549.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Bright 8x40?\",\"a\":\"Förstoringen är 8x och objektivet 40 mm.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Den har porroprisma. Ett porroprisma har ett förskjutet, bredare hus och ger ofta god djupkänsla.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"Vikten är 670 g.\"}]",
+  "metafalt": {
+   "obj": "40 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1154,
+  "descriptionHtml": "<p>Focus Bright 8x40 är en kikare designad för att ge hög prestanda till ett överkomligt pris. Den är idealisk för jakt, skytte och naturspaning, där tydlighet och bildkvalitet är avgörande. Med ett stabilt grepp och en optik som levererar skarpa bilder över hela synfältet, är denna kikare utmärkt för både nybörjare och erfarna användare. Fokusvreden är stora och lättanvända, vilket gör det enkelt att justera skärpan snabbt. Dess kraftiga gummihölje ger ett bra skydd och säkerställer en hållbar användning i olika väderförhållanden.<br>\n<br>\nNyckelfunktioner<br>\n• Förstoring: 8x<br>\n• Objektivdiameter: 40 mm<br>\n• Synfält: 150 m/1000 m<br>\n• Fokusering: Snabb och enkel med stora vred<br>\n• Hölje: Robust gummihölje<br>\n• Grepp: Stadigt och ergonomiskt<br>\n• Leverans: Inkluderar väska, rem och rengöringsduk<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 20,3 cm<br>\n* Bredd: 20 cm<br>\n* Höjd: 6,7 cm<br>\n* Vikt: 670 g<br>\n<br>\nDetta ingår<br>\n• Kikare<br>\n• Väska<br>\n• Rem<br>\n• Rengöringsduk<br>\n<br>\nFocus Bright 8x40 är ett pålitligt val för dem som söker en prisvärd kikare med bra bildkvalitet och hållbarhet. Den kombinerar funktionalitet med ett användarvänligt design, vilket gör den till ett utmärkt verktyg för olika utomhusaktiviteter.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110396326228",
+  "handle": "focus-bright-8x42",
+  "title": "Focus Bright 8x42",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "699.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Bright 8x42?\",\"a\":\"Den förstorar 8x med ett 42 mm objektiv.\"},{\"q\":\"Hur stort synfält har Focus Bright 8x42?\",\"a\":\"Synfältet är 93 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Bright 8x42?\",\"a\":\"Ögonavståndet är 18,5 mm. Det är gott om utrymme och passar bra för glasögonbärare.\"},{\"q\":\"Hur nära kan man fokusera med Focus Bright 8x42?\",\"a\":\"Närgränsen är 4,5 m.\"},{\"q\":\"Vilken prismatyp har Focus Bright 8x42?\",\"a\":\"Den har takkantsprismor i BK7-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Bright 8x42?\",\"a\":\"Vikten är 500 g.\"},{\"q\":\"Passar Focus Bright 8x42 för jakt?\",\"a\":\"Ja, den är designad för utomhusbruk och passar för fågelskådning och jakt.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1574,
+  "descriptionHtml": "<p>Focus Bright 8x42 är en instegskikare designad för utomhusbruk, perfekt för fågelskådning och jakt. Den kombinerar användarvänlighet och hållbarhet med hög optisk prestanda, vilket gör den till ett utmärkt val för både nybörjare och mer erfarna användare. Kikaren har ett brett synfält som gör det enkelt att följa snabba rörelser, så att du aldrig missar en detalj. De vridbara ögonmusslorna ger en bekväm passform för både glasögonbärare och icke glasögonbärare, vilket möjliggör långvarig användning utan ansträngning. Med BK7-prismor får du ljusstarka bilder med hög kontrast, vilket gör kikaren effektiv för att upptäcka detaljer även under svåra ljusförhållanden. De flerskiktade linserna minskar reflexer och maximerar ljusgenomsläppet för en skarp och levande bild. Den lätta och väderbeständiga konstruktionen säkerställer att kikaren står emot olika utomhusförhållanden, oavsett om du är i skogen, på fälten eller vid vattnet.<br>\n<br>\nNyckelfunktioner<br>\n• 8x förstoring för nära observation<br>\n• 42 mm objektivdiameter för bättre ljusinsläpp<br>\n• BK7-prismor för hög kontrast<br>\n• Flerskiktade linser för skarp bild<br>\n• Väderbeständig konstruktion för utomhusbruk<br>\n• Vridbara ögonmusslor för komfort<br>\n• Brett synfält för att följa snabba rörelser<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 16,5 cm<br>\n* Bredd: 7 cm<br>\n* Höjd: 5 cm<br>\n* Vikt: 500 g<br>\n<br>\nDetta ingår<br>\n• Focus Bright kikare<br>\n• Nackrem<br>\n• Skyddsväska<br>\n• Linsduk<br>\n<br>\nFocus Bright 8x42 är en pålitlig följeslagare för alla dina utomhusäventyr, med en kombination av prestanda och användarvänlighet som gör den idealisk för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385185108",
+  "handle": "focus-observer-10x34-hd",
+  "title": "Focus Observer 10x34 HD",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Observer 10x34 HD?\",\"a\":\"10x förstoring med 34 mm objektiv. Kompakt format med hög förstoring.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"106 m på 1000 m.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 16 mm.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Takkantprisma med BAK-4-glas. Takkant bygger smalt och lätt, medan porro ger mer djup per krona.\"}]",
+  "metafalt": {
+   "obj": "34 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1302,
+  "descriptionHtml": "<p>Oavsett om du är ute på vandring, jakt eller fågelskådning ger Focus Observer 10x34 HD-kikaren en klar och detaljerad bild av din omgivning. Den öppna konstruktionen, de vridbara ögonmusslorna och gummiarmaturen ger ett bekvämt och säkert grepp samt enkel hantering. Den avancerade optiken, med faskorrigerade BaK-4-prismor och FMC-antireflexbehandling, gör kikaren idealisk för observation i svagt ljus, vilket är perfekt för utomhusäventyr. Kikaren är byggd för att stå emot väder och vind, med en slitstark gummiarmering som skyddar mot skador. Dess kompakta och lätta design gör den enkel att bära och använda, även med en hand.<br>\n<br>\nNyckelfunktioner<br>\n• HD Optics: högupplösta linser som ger skarpa färger<br>\n• Flerskiktade linser: förbättrad ljusöverföring för klara vyer<br>\n• Bredt synfält: enkelt att upptäcka och spåra djur<br>\n• Tålig och vattentät: byggd för att motstå elementen<br>\n• Bekvämt grepp: halkfritt, ergonomiskt designat<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 15,5 cm<br>\n* Bredd: 7 cm<br>\n* Höjd: 4,25 cm<br>\n* Vikt: 425 g<br>\n<br>\nDetta ingår<br>\n- Rem<br>\n- Skyddsfodral<br>\n- Linsrengöringsduk<br>\n<br>\nFocus Observer 10x34 HD-kikaren erbjuder en pålitlig optik för alla som söker kvalitet och prestanda i sina utomhusäventyr. Med sin tåliga konstruktion och användarvänliga design är den ett utmärkt val för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385054036",
+  "handle": "focus-observer-10x42-hd",
+  "title": "Focus Observer 10x42 HD",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1999.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Observer 10x42 HD?\",\"a\":\"10x förstoring med 42 mm objektiv. En klassisk allroundkombination för jakt och friluftsliv.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"106 m på 1000 m.\"},{\"q\":\"Hur nära kan den fokusera?\",\"a\":\"Närgränsen är 2,5 m.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Takkantprisma med BAK-4-glas. Takkant bygger smalt och lätt, medan porro ger mer djup per krona.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1475,
+  "descriptionHtml": "<p>Focus Observer 10x42 HD är en mångsidig kikare som passar utmärkt för vandring, jakt och fågelskådning. Den öppna konstruktionen, de vridbara ögonmusslorna och gummiarmaturen säkerställer ett bekvämt och säkert grepp, vilket gör hanteringen enkel. Med avancerad optik, faskorrigerade BaK-4-prismor och FMC-antireflexbehandling är denna kikare idealisk för observationer i svagt ljus. Den är byggd för att motstå väder och vind, vilket gör den robust och hållbar. Dess kompakta och lätta design gör den lätt att bära, och den öppna konstruktionen möjliggör enkel användning även med en hand.<br>\n<br>\nNyckelfunktioner<br>\n• HD optics: högupplösta linser ger skarpa färger och bilder<br>\n• Flerskiktade linser: förbättrar ljusöverföring för klara vyer i svagt ljus<br>\n• Bredt synfält: underlättar upptäckten av rörliga djur<br>\n• Tålig och vattentät: designad för att motstå olika väderförhållanden<br>\n• Bekvämt grepp: halkfritt och ergonomiskt för långa tittarsessioner<br>\n• Kompakt och lätt: enkel att bära med sig<br>\n• Levereras med rem, skyddsfodral och linsrengöringsduk<br>\n• 10 års garanti på alla Focus Sport Optics produkter<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17 cm<br>\n* Bredd: 19,7 cm<br>\n* Höjd: 6,2 cm<br>\n* Vikt: 620 g<br>\n<br>\nDetta ingår<br>\n- Rem<br>\n- Skyddsfodral<br>\n- Linsrengöringsduk<br>\n<br>\nFocus Observer 10x42 HD erbjuder en kombination av hög kvalitet och praktisk användning, vilket gör den till ett utmärkt val för utomhusentusiaster. Med sina avancerade funktioner och hållbara konstruktion är den redo för alla typer av äventyr.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110394425684",
+  "handle": "focus-observer-10x50-hd",
+  "title": "Focus Observer 10x50 HD",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "2499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Observer 10x50 HD?\",\"a\":\"Förstoringen är 10x och objektivet 50 mm. Den stora frontlinsen ger ljusstark bild i svagt ljus.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 101 m på 1000 m.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Den har takprisma med faskorrigerade BAK-4-prismor. Ett takprisma ger ett rakt och kompakt hus.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1371,
+  "descriptionHtml": "<p>Oavsett om du är ute på vandring, jakt eller fågelskådning ger Focus Observer 10x50 HD-kikaren dig en klar och detaljerad bild av din omgivning. Den öppna konstruktionen, de vridbara ögonmusslorna och gummiarmaturen ger ett bekvämt och säkert grepp samt enkel hantering. Den avancerade optiken, de faskorrigerade BaK-4-prismorna och FMC-antireflexbehandlingen gör kikaren idealisk för observation i svagt ljus, perfekt för utomhusäventyr. Kikaren är byggd för att stå emot väder och vind med sin slitstarka gummiarmering som skyddar mot skador. Dess kompakta och lätta design gör den enkel att bära och hantera, även med en hand.<br>\n<br>\nNyckelfunktioner<br>\n• HD-optik: Njut av klarhet med högupplösta linser som ger skarpa, verklighetstrogna färger.<br>\n• Flerskiktade linser: Förbättrar ljusöverföringen och ger levande vyer även i svagt ljus.<br>\n• Bredt synfält: Gör det enkelt att upptäcka och spåra djur i rörelse.<br>\n• Tålig och vattentät: Byggd för att motstå elementen, robust och dimsäker.<br>\n• Bekvämt grepp: Halkfritt, ergonomiskt grepp för säker hantering under långa tittarsessioner.<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,3 cm<br>\n* Bredd: 21,5 cm<br>\n* Höjd: 7,5 cm<br>\n* Vikt: 750 g<br>\n<br>\nDetta ingår<br>\n- Kikare<br>\n- Rem<br>\n- Skyddsfodral<br>\n- Linsrengöringsduk<br>\n<br>\nFocus Observer 10x50 HD-kikaren erbjuder en utmärkt optisk prestanda och hållbarhet, vilket gör den till ett pålitligt val för alla utomhusaktiviteter.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385119572",
+  "handle": "focus-observer-8x34-hd",
+  "title": "Focus Observer 8x34 HD",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Observer 8x34 HD?\",\"a\":\"8x förstoring med 34 mm objektiv. Kompakt och lätt för vandring och fågelskådning.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"124 m på 1000 m.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 17,4 mm.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Takkantprisma med BAK-4-glas. Takkant bygger smalt och lätt, medan porro ger mer djup per krona.\"}]",
+  "metafalt": {
+   "obj": "34 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1387,
+  "descriptionHtml": "<p>Oavsett om du är ute på vandring, jakt eller fågelskådning ger Focus Observer 8x34 HD-kikaren en klar och detaljerad bild av din omgivning. Den öppna konstruktionen, de vridbara ögonmusslorna och gummiarmaturen ger ett bekvämt och säkert grepp samt enkel hantering. Den avancerade optiken, de faskorrigerade BaK-4-prismorna och FMC-antireflexbehandlingen gör kikaren idealisk för observation i svagt ljus, vilket gör den perfekt för utomhusäventyr. Kikaren är byggd för att stå emot väder och vind, med slitstark gummiarmering som skyddar mot skador. Dess kompakta och lätta design gör den lätt att bära och hantera, även med bara en hand.<br>\n<br>\nNyckelfunktioner<br>\n• HD-optik: högupplösta linser för skarpa, verklighetstrogna färger<br>\n• Flerskiktade linser: förbättrar ljusöverföringen för klara vyer i svagt ljus<br>\n• Brett synfält: enkelt att upptäcka och spåra djur i rörelse<br>\n• Tålig och vattentät: robust och dimsäker konstruktion för utomhusbruk<br>\n• Bekvämt grepp: halkfritt och ergonomiskt grepp för långvarig användning<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 15,5 cm<br>\n* Bredd: 7 cm<br>\n* Höjd: 4,2 cm<br>\n* Vikt: 420 g<br>\n<br>\nDetta ingår<br>\n– Rem<br>\n– Skyddsfodral<br>\n– Linsrengöringsduk<br>\n<br>\nFocus Observer 8x34 HD-kikaren erbjuder en pålitlig och högkvalitativ lösning för naturbevakning och utomhusaktiviteter. Med sina gedigna funktioner och användarvänliga design är den ett utmärkt val för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385021268",
+  "handle": "focus-observer-8x42-hd",
+  "title": "Focus Observer 8x42 HD",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1999.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Observer 8x42 HD?\",\"a\":\"8x förstoring med 42 mm objektiv. Ljusstark allroundkombination med stabil bild.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"124 m på 1000 m.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 18 mm.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Takkantprisma med BAK-4-glas. Takkant bygger smalt och lätt, medan porro ger mer djup per krona.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1269,
+  "descriptionHtml": "<p>Focus Observer 8x42 HD är en högkvalitativ kikare som är perfekt för vandring, jakt och fågelskådning. Med en öppen konstruktion och vridbara ögonmusslor ger den ett bekvämt och säkert grepp, vilket underlättar hantering. Kikaren har avancerad optik med faskorrigerade BaK-4-prismor och FMC-antireflexbehandling, vilket gör den idealisk för observation i svagt ljus. Den är också byggd för att klara tuffa väderförhållanden, med en robust gummiarmering som skyddar mot skador. Den kompakta och lätta designen gör den lätt att bära, och det breda synfältet gör det enkelt att spåra djur i rörelse.<br>\n<br>\nNyckelfunktioner<br>\n• HD-optik för oöverträffad klarhet<br>\n• Flerskiktade linser för bättre ljusöverföring<br>\n• Bred synfält för enkel djurspårning<br>\n• Tålig och vattentät konstruktion<br>\n• Ergonomiskt och halkfritt grepp<br>\n• Levereras med rem, skyddsfodral och linsrengöringsduk<br>\n• 10 års garanti<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17 cm<br>\n* Bredd: 19,7 cm<br>\n* Höjd: 6,45 cm<br>\n* Vikt: 645 g<br>\n<br>\nDetta ingår<br>\n• Rem<br>\n• Skyddsfodral<br>\n• Linsrengöringsduk<br>\n<br>\nFocus Observer 8x42 HD erbjuder en klar och detaljrik bild av omgivningen och är ett utmärkt val för alla som söker en pålitlig kikare för utomhusaktiviteter. Den kombinerar hållbarhet med hög prestanda, vilket gör den till en bra följeslagare i naturen.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110396981588",
+  "handle": "focus-observer-8x50-hd",
+  "title": "Focus Observer 8x50 HD",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "2499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Observer 8x50 HD?\",\"a\":\"Den förstorar 8x med ett 50 mm objektiv. Det stora objektivet gör den bra för observation i svagt ljus.\"},{\"q\":\"Hur stort synfält har Focus Observer 8x50 HD?\",\"a\":\"Synfältet är 102 m på 1000 m.\"},{\"q\":\"Vad är ögonavståndet på Focus Observer 8x50 HD?\",\"a\":\"Ögonavståndet är 19,8 mm. Det är väldigt gott om utrymme och passar bra för glasögonbärare.\"},{\"q\":\"Hur nära kan man fokusera med Focus Observer 8x50 HD?\",\"a\":\"Närgränsen är 4 m.\"},{\"q\":\"Vilken prismatyp har Focus Observer 8x50 HD?\",\"a\":\"Den har faskorrigerade takkantsprismor i BAK-4-glas. Takkantsprismor ger ett kompakt och rakt hus.\"},{\"q\":\"Hur mycket väger Focus Observer 8x50 HD?\",\"a\":\"Vikten är 760 g.\"},{\"q\":\"Passar Focus Observer 8x50 HD för jakt?\",\"a\":\"Ja, den passar för vandring, jakt och fågelskådning, och de stora objektiven gör den bra i svagt ljus.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1460,
+  "descriptionHtml": "<p>Oavsett om du är ute på vandring, jakt eller fågelskådning ger Focus Observer 8x50 HD-kikaren dig en klar och detaljerad bild av din omgivning. Den öppna konstruktionen, de vridbara ögonmusslorna och gummiarmaturen ger ett bekvämt och säkert grepp, vilket underlättar hanteringen. Med avancerad optik, faskorrigerade BaK-4-prismor och FMC-antireflexbehandling är kikaren idealisk för observationer i svagt ljus, vilket gör den perfekt för utomhusäventyr. Kikaren är byggd för att stå emot väder och vind och har en slitstark gummiarmering som skyddar mot skador och ger ett bra grepp. Den är också kompakt och lätt, vilket gör den lätt att bära och hantera. <br>\n<br>\nNyckelfunktioner<br>\n• HD optics: Njut av klarhet med högupplösta linser som ger skarpa färger<br>\n• Flerskiktade linser: Förbättrar ljusöverföringen för ljusa vyer även i svagt ljus<br>\n• Bredd synfält: Gör det enkelt att upptäcka och spåra djur i rörelse<br>\n• Tålig och vattentät: Byggd för att motstå elementen, vattentät och dimsäker<br>\n• Bekvämt grepp: Halkfritt, ergonomiskt grepp för långa tittarsessioner<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,5 cm<br>\n* Bredd: 21,6 cm<br>\n* Höjd: 7,6 cm<br>\n* Vikt: 760 g<br>\n<br>\nDetta ingår<br>\n– Rem<br>\n– Skyddsfodral<br>\n– Linsrengöringsduk<br>\n<br>\nFocus Observer 8x50 HD-kikaren är utformad för att ge en pålitlig och klar bild av naturen, vilket gör den till ett värdefullt verktyg för alla friluftsaktiviteter. Med sina robusta egenskaper och ergonomiska design är den anpassad för långvarig användning utan besvär.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110384988500",
+  "handle": "focus-observer-8x56-hd",
+  "title": "Focus Observer 8x56 HD",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "3499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Focus Observer 8x56 HD?\",\"a\":\"8x förstoring med 56 mm objektiv. Det stora objektivet ger extra ljus i skymning och gryning.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"112 m på 1000 m.\"},{\"q\":\"Fungerar den med glasögon?\",\"a\":\"Ja, ögonavståndet är 20 mm.\"},{\"q\":\"Vilken prismatyp har den?\",\"a\":\"Takkantprisma med BAK-4-glas. Takkant bygger smalt och lätt, medan porro ger mer djup per krona.\"}]",
+  "metafalt": {
+   "obj": "56 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1342,
+  "descriptionHtml": "<p>Focus Observer 8x56 HD är en pålitlig kikare designad för utomhusaktiviteter såsom vandring, jakt och fågelskådning. Den levererar en klar och detaljerad bild av omgivningen, vilket är avgörande för observation i olika ljusförhållanden. Kikaren har en öppen konstruktion med vridbara ögonmusslor och gummiarmatur, vilket garanterar ett bekvämt och säkert grepp. Med sina faskorrigerade BaK-4-prismor och FMC-antireflexbehandling är den idealisk för användning i svagt ljus. Dess robusta och väderbeständiga konstruktion skyddar mot skador och gör den lätt att hantera, även med en hand.<br>\n<br>\nNyckelfunktioner<br>\n• HD optik ger skarp och klar bild<br>\n• Flerkiktade linser för förbättrad ljusöverföring<br>\n• Bredt synfält för enkel spårning av rörliga objekt<br>\n• Tålig och vattentät konstruktion<br>\n• Ergonomiskt halkfritt grepp<br>\n• Kompakt och lätt design för enkel transport<br>\n• Levereras med rem, skyddsfodral och linsrengöringsduk<br>\n• 10 års garanti<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,8 cm<br>\n* Bredd: 22 cm<br>\n* Höjd: 9,6 cm<br>\n* Vikt: 960 g<br>\n<br>\nDetta ingår<br>\n• Kikare<br>\n• Rem<br>\n• Skyddsfodral<br>\n• Linsrengöringsduk<br>\n<br>\nFocus Observer 8x56 HD erbjuder en högkvalitativ optisk upplevelse och är perfekt för den som vill ha ett pålitligt verktyg för observation i naturen. Med sina robusta egenskaper och användarvänliga design är den ett utmärkt val för både nybörjare och erfarna användare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385971540",
+  "handle": "focus-scenery-10x50",
+  "title": "Focus Scenery 10x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1449.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Scenery 10x50?\",\"a\":\"Förstoringen är 10x och objektivet 50 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 115 m på 1000 m.\"},{\"q\":\"Fungerar den för dig med glasögon?\",\"a\":\"Ja, ögonavståndet är 20 mm och ögonmusslorna är vridbara.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1093,
+  "descriptionHtml": "<p>Focus Scenery 10x50 är en allroundkikare designad för jakt, fågelskådning och naturupplevelser. Den erbjuder en stabil och klar bildkvalitet med ett brett synfält på 5,8–7,5 grader, vilket gör det enkelt att snabbt lokalisera motiv. Kikaren är klädd i slitstarkt gummi för att ge ett bra grepp och skydd, även under svåra väderförhållanden. Med vridbara ögonmusslor kan den användas bekvämt av både användare med och utan glasögon, vilket gör den idealisk för långa observationssessioner.<br>\n<br>\nNyckelfunktioner<br>\n• Slitstark gummiring för bättre grepp<br>\n• Brett synfält för enkel målidentifiering<br>\n• Stort fokusvred för snabb fokusering<br>\n• Vridbara ögonmusslor för komfort<br>\n• Bra ljusstyrka för klara bilder<br>\n• Lämplig för olika typer av naturaktiviteter<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 21 cm<br>\n* Bredd: 9 cm<br>\n* Höjd: 8,5 cm<br>\n* Vikt: 850 g<br>\n<br>\nDetta ingår<br>\n• Kikare<br>\n• Rem<br>\n• Fodral<br>\n• Putsklämma<br>\n<br>\nFocus Scenery 10x50 är ett praktiskt och funktionellt val för alla som söker en pålitlig kikare för utomhusaktiviteter. Den kombinerar hållbarhet med bra prestanda, vilket gör den till ett utmärkt verktyg för naturälskare.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385840468",
+  "handle": "focus-scenery-12x50",
+  "title": "Focus Scenery 12x50",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1449.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Scenery 12x50?\",\"a\":\"Förstoringen är 12x och objektivet 50 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 100 m på 1000 m.\"},{\"q\":\"Fungerar den för dig med glasögon?\",\"a\":\"Ja, ögonavståndet är 20 mm och ögonmusslorna är vridbara.\"}]",
+  "metafalt": {
+   "obj": "50 mm",
+   "forst": "12x"
+  },
+  "textlangd": 1299,
+  "descriptionHtml": "<p>Focus Scenery 12x50 är en mångsidig och robust kikare som är designad för att ge utmärkt bildkvalitet och stabilitet över hela synfältet. Med en förstoring på 12x och en objektivdiameter på 50 mm, passar den perfekt för jakt, fågelskådning och andra naturupplevelser. Kikaren erbjuder ett brett synfält på mellan 5,8 och 7,5 grader, vilket gör det enkelt att snabbt lokalisera och följa ditt motiv. Den klarar av olika ljusförhållanden tack vare sin goda ljusstyrka. Den är även utrustad med vridbara ögonmusslor för bekvämt seende, oavsett om du bär glasögon eller inte. Med sitt slitstarka gummiskydd får du ett bra grepp och skydd mot stötar.<br>\n<br>\nNyckelfunktioner<br>\n• Stabilt grepp<br>\n• Tydlig och skarp optik<br>\n• Brett synfält<br>\n• Vridbara ögonmusslor<br>\n• Stort fokusvred för enkel fokusering<br>\n• Lång observationstid med komfort<br>\n• Slitstarkt gummiskydd<br>\n• Bra prestanda till ett konkurrenskraftigt pris<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 8,8 cm<br>\n* Bredd: 20,7 cm<br>\n* Höjd: 8,5 cm<br>\n* Vikt: 850 g<br>\n<br>\nDetta ingår<br>\n• Kikare<br>\n• Bärrem<br>\n• Skyddande förpackning<br>\n<br>\nFocus Scenery 12x50 är ett utmärkt val för både nybörjare och erfarna användare som söker en pålitlig och högkvalitativ kikare för olika typer av utomhusaktiviteter. Den kombinerar robusthet med användarvänlighet och ger en tydlig och stabil bild för långa observationer.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385938772",
+  "handle": "focus-scenery-8x40",
+  "title": "Focus Scenery 8x40",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "1299.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Vilken förstoring och objektivstorlek har Focus Scenery 8x40?\",\"a\":\"Förstoringen är 8x och objektivet 40 mm.\"},{\"q\":\"Hur stort är synfältet?\",\"a\":\"Synfältet är 130 m på 1000 m. Det breda synfältet gör det lätt att snabbt lokalisera motiv.\"},{\"q\":\"Fungerar den för dig med glasögon?\",\"a\":\"Ja, ögonavståndet är 20 mm och ögonmusslorna är vridbara.\"}]",
+  "metafalt": {
+   "obj": "40 mm",
+   "forst": "8x"
+  },
+  "textlangd": 1181,
+  "descriptionHtml": "<p>Focus Scenery 8x40 är en mångsidig kikare designad för att ge en skarp och klar bildkvalitet över hela synfältet. Med en stabil och lättanvänd konstruktion är den perfekt för jakt, fågelskådning och andra naturupplevelser. Kikaren erbjuder ett brett synfält på 5,8–7,5 grader, vilket gör det enkelt att lokalisera ditt motiv. Den är klädd i slitstarkt gummi som ger bra grepp och skydd, även med handskar. Vridbara ögonmusslor säkerställer bekvämt seende under långa observationer, oavsett om du har glasögon eller inte.<br>\n<br>\nNyckelfunktioner<br>\n• Slitstark gummiyta som ger bra grepp  <br>\n• Brett synfält för snabb motivering  <br>\n• Stort fokusvred för enkel fokusering  <br>\n• Vridbara ögonmusslor för komfort  <br>\n• Lättviktig och kompakt design  <br>\n• Bra ljusstyrka för tydlig bild  <br>\n• Flexibel användning för olika aktiviteter  <br>\n<br>\nTeknisk specifikation<br>\n* Längd: 8,8 cm<br>\n* Bredd: 17,4 cm<br>\n* Höjd: 8,0 cm<br>\n* Vikt: 800 g<br>\n<br>\nDetta ingår<br>\n– Kikare  <br>\n– Bärrem  <br>\n– Skyddande förvaringsväska  <br>\n– Rengöringsduk  <br>\n<br>\nFocus Scenery 8x40 är en pålitlig och användarvänlig kikare som kombinerar bra prestanda med funktionalitet. Den är ett utmärkt val för både nybörjare och erfarna användare som söker en kvalitetsprodukt för utomhusaktiviteter.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385348948",
+  "handle": "zenith-experience-xc-10x42",
+  "title": "Zenith Experience XC 10x42",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "2899.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Zenith Experience XC 10x42?\",\"a\":\"10x förstoring med 42 mm objektiv. En allroundkombination för jakt och naturspaning i skymning och gryning.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "10x"
+  },
+  "textlangd": 1019,
+  "descriptionHtml": "<p>Zenith Experience XC 10x42 är en pålitlig kikare som erbjuder en förstoringsgrad på 10x, vilket gör den idealisk för jakt, skytte och naturspaning. Den är designad för att klara av olika ljusförhållanden, vilket gör att den fungerar bra både vid gryning och skymning. Kikaren är även vattentät och passar glasögonbärare, vilket säkerställer en skarp och klar bild oavsett förhållanden. Med ett stort synfält är det lätt att upptäcka och följa motiv.<br>\n<br>\nNyckelfunktioner<br>\n• Förstoring: 10x<br>\n• Objektivdiameter: 42 mm<br>\n• Vattentät konstruktion<br>\n• Passar glasögonbärare<br>\n• Stort synfält för enkel spårning<br>\n• Låg vikt för enkel transport<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 17,2 cm<br>\n* Bredd: 18 cm<br>\n* Höjd: 0 cm<br>\n* Vikt: 0 g<br>\n<br>\nDetta ingår<br>\n• Kikare<br>\n• Rem<br>\n• Skyddande fodral<br>\n<br>\nZenith Experience XC 10x42 erbjuder en bra balans mellan prestanda och bärbarhet, vilket gör den till ett utmärkt val för både hobbyister och seriösa jägare. Den är lätt att använda och ger en klar bild, vilket gör att du kan njuta av dina utomhusaktiviteter fullt ut.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385250644",
+  "handle": "zenith-experience-xc-8x32",
+  "title": "Zenith Experience XC 8x32",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "2499.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Zenith Experience XC 8x32?\",\"a\":\"8x förstoring med 32 mm objektiv. Smidigt format för jakt och naturspaning.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"430 g.\"}]",
+  "metafalt": {
+   "obj": "32 mm",
+   "forst": "8x"
+  },
+  "textlangd": 987,
+  "descriptionHtml": "<p>Zenith Experience XC 8x32 är en vattentät allroundkikare som erbjuder ett smidigt format och låg vikt, vilket gör den idealisk för både jakt och naturspaning. Den är särskilt anpassad för glasögonbärare och ger en skarp och klar bild, vilket underlättar identifiering av motiv i olika miljöer. Med ett stort synfält är det enkelt att upptäcka och följa objekt, oavsett om det är i dagsljus eller skymning.<br>\n<br>\nNyckelfunktioner<br>\n• Vattentät konstruktion<br>\n• Låg vikt för enkel transport<br>\n• Stort synfält för bättre observation<br>\n• Anpassad för glasögonbärare<br>\n• Skarp och klar bild<br>\n• Idealisk för jakt och naturspaning<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 12,7 cm<br>\n* Bredd: 11,4 cm<br>\n* Höjd: 4,7 cm<br>\n* Vikt: 430 g<br>\n<br>\nDetta ingår<br>\n• Kikare<br>\n• Bärrem<br>\n• Skyddande fodral<br>\n• Linsskydd<br>\n<br>\nZenith Experience XC 8x32 är ett praktiskt val för den som söker en pålitlig kikare för varierande användning i naturen. Den kombinerar funktionalitet med användarvänlighet, vilket gör den till en utmärkt följeslagare på alla äventyr.</p>"
+ },
+ {
+  "id": "gid://shopify/Product/12110385283412",
+  "handle": "zenith-experience-xc-8x42",
+  "title": "Zenith Experience XC 8x42",
+  "vendor": "FOCUS OPTICS",
+  "type": "Kikare/Kikare/Naturkikare",
+  "pris": "2699.0",
+  "short_pitch": null,
+  "short_pitch_metafield_id": null,
+  "faq": "[{\"q\":\"Hur mycket förstorar Zenith Experience XC 8x42?\",\"a\":\"8x förstoring med 42 mm objektiv. En vattentät allroundkikare för jakt och friluftsliv.\"},{\"q\":\"Hur mycket väger den?\",\"a\":\"720 g.\"}]",
+  "metafalt": {
+   "obj": "42 mm",
+   "forst": "8x"
+  },
+  "textlangd": 924,
+  "descriptionHtml": "<p>Zenith Experience XC 8x42 är en vattentät allroundkikare som är designad för både jakt och friluftsliv. Den har en kompakt storlek och låg vikt, vilket gör den lätt att ta med sig. Kikaren är även anpassad för glasögonbärare och erbjuder en skarp och klar bild. Med ett stort synfält blir det enkelt att upptäcka och följa motiv, oavsett om det är i skymning eller gryning.<br>\n<br>\nNyckelfunktioner<br>\n• Vattentät konstruktion<br>\n• Låg vikt för enkel transport<br>\n• Anpassad för glasögonbärare<br>\n• Skarp och klar bildkvalitet<br>\n• Stort synfält för bättre observationer<br>\n• Idealisk för jakt och friluftsliv<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 14,5 cm<br>\n* Bredd: 12,5 cm<br>\n* Höjd: 5,2 cm<br>\n* Vikt: 720 g<br>\n<br>\nDetta ingår<br>\n– Kikare<br>\n– Bärrem<br>\n– Linsskydd<br>\n– Bruksanvisning<br>\n<br>\nSammanfattningsvis är Zenith Experience XC 8x42 en allroundkikare som kombinerar funktionalitet och användarvänlighet, vilket gör den till ett utmärkt val för både nybörjare och erfarna användare.</p>"
+ }
+]
