@@ -1,0 +1,876 @@
+[
+ {
+  "id": "gid://shopify/Product/12110387839316",
+  "handle": "hikmicro-thunder-2-0-te19-thermal-scope",
+  "descriptionHtml": "<p>HIKMICRO Thunder 2.0 TE19 Thermal Scope är ett termiskt kikarsikte för vildsvinsjakt i svagt ljus och totalt mörker. Sensorn på 256x192 med 12 µm pixlar och 19 mm-optiken ger artbestämning kring 210 meter på vildsvin, och OLED-displayen på 1024x768 visar bilden skarpt även i kolsvart mörker. Fokusvredet är omgjort i Thunder 2.0 och huset i magnesiumlegering väger 476 g. Detektionen når upp till 1000 meter och det utbytbara batteriet räcker upp till 10 timmar, så en hel natt vid åteln klaras på en laddning.<br><br><strong>Nyckelfunktioner</strong><br>• Lätt att bära hela passet, 476 g<br>• Detektionsavstånd upp till 1000 meter<br>• Utbytbart och uppladdningsbart batteri som räcker upp till 10 timmar<br>• Flera profiler för riktmedel och inskjutning<br>• IP67 och rekyltålighet upp till 1000 g/0,4 ms<br>• Inbyggd mikrofon med rekylaktivering<br><br><strong>Teknisk specifikation</strong><br>* Mått: 218,7 × 67,1 × 68,0 mm<br>* Vikt: 476 g<br><br><strong>Detta ingår</strong><br>- Kikarsikte<br>- Batteri<br>- Laddare<br>- Användarmanual<br><br>TE19 passar åtel och skogskant, där artbestämning kring 210 meter räcker gott. Vill du ha mer detalj och lite längre räckvidd har <a href=\"/products/hikmicro-thunder-2-0-th25p-thermal-scope\" title=\"TH25P\">TH25P</a> 384-sensor och 25 mm med artbestämning kring 280 meter, och fler modeller hittar du i <a href=\"/collections/hikmicro-thunder-2-0\" title=\"HIKMICRO Thunder 2.0\">Thunder 2.0-serien</a>.</p>",
+  "faq": [
+   {
+    "q": "Är Thunder TE19 ett värmesikte eller en clip-on?",
+    "a": "TE19 är ett värmesikte med eget okular som monteras på vapnet som ett vanligt kikarsikte. Vill du sätta värmekameran framför ditt befintliga dagsikte är det clip-on-modellen TE19CR som gäller."
+   },
+   {
+    "q": "Vilken sensor har TE19?",
+    "a": "En 256x192-sensor med OLED-display i 1024x768."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsavstånd upp till 1000 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Har TE19 avståndsmätare?",
+    "a": "Nej, ingen inbyggd laseravståndsmätare."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Upp till 10 timmar med utbytbart, uppladdningsbart batteri."
+   },
+   {
+    "q": "Hur mycket väger TE19?",
+    "a": "476 gram, i lätt magnesiumlegering med rekylaktiverad inspelning."
+   }
+  ],
+  "metafields": {
+   "short_pitch": "Värmesikte för åteln som väger 476 g: 256-sensor och 19 mm-optik ger detektion upp till 1000 m, och det utbytbara batteriet räcker 10 h."
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder2-0-series-thermal-scope/"
+  ],
+  "changes": [
+   "Pitch/FAQ: 'clip-on' → värmesikte (TE19 är kikarsikte, clip-on-modellen är TE19CR), källa HIKMICRO Thunder 2.0-sida",
+   "Nyckelfunktioner: 'Lätt att fästa och avlägsna clip-on-versionen' → 'IP67 och rekyltålighet upp till 1000 g/0,4 ms'; clip-on-formulering i profilraden borttagen",
+   "Teknisk spec: Längd 11 cm/Bredd 13,5 cm/Höjd 4,76 cm (höjden var vikten) → Mått 218,7 × 67,1 × 68,0 mm (HIKMICRO)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387970388",
+  "handle": "hikmicro-thunder-2-0-th25p-thermal-scope",
+  "descriptionHtml": "<p>HIKMICRO Thunder 2.0 TH25P Thermal Scope<br><br>HIKMICRO Thunder 2.0 TH25P är ett termiskt kikarsikte för vildsvinsjakt i svagt ljus och totalt mörker. Värmedetektorn på 384x288 med 12 µm pixlar och 25 mm-optiken ger artbestämning kring 280 meter på vildsvin och detektion upp till 1200 meter, och OLED-displayen på 1024x768 visar djuren tydligt även i kolsvart mörker. Med 488 g och reglage som går att hantera med handskar är den lätt att ha med hela passet.<br><br><strong>Nyckelfunktioner</strong><br>• Termisk sensor 384x288, 12µm<br>• OLED-display 1024x768<br>• Detektionsavstånd upp till 1200 m<br>• Utbytbart och uppladdningsbart batteri<br>• Batteritid upp till 10 timmar<br>• Robust och lätt magnesiumlegering<br>• Inbyggd mikrofon med rekylaktivering<br>• Flera profiler för retiklar och nollställning<br><br><strong>Teknisk specifikation</strong><br>* Mått: 218,7 × 67,1 × 68,0 mm<br>* Vikt: 488 g<br><br><strong>Detta ingår</strong><br>- Kikarsikte<br>- Utbytbart batteri<br>- Laddningskabel<br>- Användarmanual<br><br><br>Med 384-sensor och 25 mm är TH25P ett sikte för åtel, skogskant och mindre åkrar. Räcker en enklare sensor finns samma 25 mm i <a href=\"/products/hikmicro-thunder-2-0-te25-thermal-scope\" title=\"TE25\">TE25</a> till lägre pris, och ska du se längre ut ger <a href=\"/products/hikmicro-thunder-2-0-zoom-th50z-thermal-scope\" title=\"TH50Z\">TH50Z</a> med 25 och 50 mm i samma sikte artbestämning kring 570 meter.</p>",
+  "faq": [
+   {
+    "q": "Är Thunder TH25P ett värmesikte eller en clip-on?",
+    "a": "TH25P är ett värmesikte med eget okular som monteras på vapnet som ett vanligt kikarsikte, inte en clip-on framför dagsiktet."
+   },
+   {
+    "q": "Vilken sensor har TH25P?",
+    "a": "En 384x288-sensor med 12 µm detektor och OLED-display i 1024x768."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsavstånd upp till 1200 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Har TH25P avståndsmätare?",
+    "a": "Nej, ingen inbyggd laseravståndsmätare."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Upp till 10 timmar med utbytbart, uppladdningsbart batteri."
+   },
+   {
+    "q": "Tål TH25P tuff jakt?",
+    "a": "Ja. Robust och lätt magnesiumlegering med rekylaktiverad inspelning. Vikt 488 g."
+   }
+  ],
+  "metafields": {
+   "short_pitch": "Ser grisen tydligt vid åtel och skogskant: 384-sensor och 25 mm-optik i ett värmesikte på 488 g, med upp till 1200 m detektion och 10 h drift.",
+   "forstoring": "2.2-17.6x"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder2-0-series-thermal-scope/"
+  ],
+  "changes": [
+   "Pitch/FAQ/nyckelfunktion: 'clip-on' → värmesikte (TH25P är kikarsikte), källa HIKMICRO Thunder 2.0-sida",
+   "Teknisk spec: Längd 11 cm/Bredd 13,5 cm/Höjd 4,88 cm → Mått 218,7 × 67,1 × 68,0 mm (HIKMICRO)",
+   "custom.forstoring: 1.5-12.2x → 2.2-17.6x (HIKMICRO: 2.2x-17.6x)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388068692",
+  "handle": "hikmicro-thunder-2-0-te19cr-thermal-clipon",
+  "descriptionHtml": "<p>Upptäck vilt på upp till 1000 meters avstånd, även i totalt mörker.</p>\n<p>Thunder 2.0 TE19CR är en kompakt clip-on som monteras framför ditt befintliga kikarsikte. Den känsliga värmesensorn (256×192, 12 µm) och ljusstarka F1.0-linsen ger tydlig bild även i svåra ljusförhållanden. OLED-displayen med 1024×768 upplösning och en batteritid på upp till 10 timmar räcker för en hel natt vid åteln. Inspelningsfunktionen med rekylaktivering sparar automatiskt video både före och efter skottet.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Clip-on-design för befintligt kikarsikte<br>• Sensor 256×192, 12 µm<br>• Detektionsavstånd upp till 1000 m<br>• Ljusstark F1.0-lins, OLED-display 1024×768<br>• Batteritid upp till 10 timmar<br>• Reglage som går att hantera med handskar<br>• Inspelning med rekylaktivering</p>\n<p><strong>Teknisk specifikation</strong><br>Mått: 184,1 × 67,1 × 68,0 mm<br>Vikt: 499 g</p>\n<p><strong>Detta ingår</strong><br>• Thermal clip-on<br>• Clip-on-adapter<br>• Uppladdningsbart batteri<br>• Laddkabel<br>• Användarmanual</p>\n<p>TE19CR passar dig som vill behålla ditt kikarsikte och jagar på åtelavstånd: 256-sensorn och detektion till 1000 m räcker för skog och gläntor. För öppnare mark ger <a href=\"/products/hikmicro-thunder-3-0-th35c-thermal-clipon\" title=\"Thunder 3.0 TH35C\">Thunder 3.0 TH35C</a> med 384-sensor, 35 mm och NETD &lt;15 mK artbestämning kring 400 meter. Har du flera kikarsikten finns <a href=\"/products/hikmicro-thunder-2-0-3-0-clipon-adapter\" title=\"clip-on-adapter\">clip-on-adapter</a> i fler diametrar.</p>",
+  "faq": null,
+  "metafields": {
+   "sensorupplosning": "256x192",
+   "netd": "≤35 mK",
+   "pixelstorlek": "12 µm",
+   "objektiv": "19 mm",
+   "forstoring": "1x",
+   "detektionsrackvidd": "1000 m",
+   "laseravstandsmatare": "false",
+   "skarmtyp": "OLED"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder2-0-series-thermal-clip-on/"
+  ],
+  "changes": [
+   "Metafält ifyllda (saknades): sensor 256x192, netd ≤35 mK, pixel 12 µm, objektiv 19 mm, förstoring 1x, detektion 1000 m, lrf false, skärm OLED (HIKMICRO Thunder 2.0 clip-on). Art 210/detalj 130 fanns redan",
+   "Teknisk spec: Längd 11 cm/Bredd 14 cm/Höjd 4,99 cm → Mått 184,1 × 67,1 × 68,0 mm (HIKMICRO)",
+   "ChatGPT-attribut (data-start/data-end) borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12172251595092",
+  "handle": "hikmicro-thunder-2-0-te25-thermal-scope",
+  "descriptionHtml": "<p>HIKMICRO Thunder 2.0 TE25 är ett termiskt kikarsikte för jakt i mörker. Med en 256×192-upplöst värmesensor, en ljusstark OLED-display och ett kompakt 25 mm F1.0-objektiv är det anpassat för vildsvinsjakt och annan jakt i svaga ljusförhållanden. Huset i magnesiumlegering väger 494 g utan batteri, och fokusratten är flyttad så att den går att vrida även med handskar. Batteriet är utbytbart, laddningsbart och ger minst 10,5 timmars drift vid 25 °C. Thunder 2.0 har dessutom rekylaktiverad inspelning och inbyggd mikrofon som automatiskt fångar ögonblicket kring skottet. Med 12 µm pixlar och 25 mm ger TE25 artbestämning kring 280 meter på vildsvin, samma som <a href=\"/products/hikmicro-thunder-2-0-th25p-thermal-scope\" title=\"TH25P\">TH25P</a> som har 384-sensor och NETD ≤20 mK för mer detalj i bilden, och för tät skog med kortare håll finns <a href=\"/products/hikmicro-thunder-2-0-te19-thermal-scope\" title=\"TE19\">TE19</a> med 19 mm och artbestämning kring 210 meter.</p>\n<p><strong>Nyckelfunktioner</strong><br>• Termisk sensor 256×192 px med 12 µm pixelstorlek<br>• NETD ≤ 35 mK, skiljer ut små temperaturskillnader<br>• 1024×768 OLED-display ger skarp bild<br>• 25 mm F1.0-objektiv med 3,3× optisk förstoring<br>• Digital zoom upp till 8×<br>• Detektionsavstånd upp till 1200 m<br>• Minst 10,5 timmars batteritid med utbytbart Li-Ion-batteri, två ingår<br>• Rekylaktiverad inspelning och inbyggd mikrofon<br>• IP67-klassning och rekyltestad upp till 1000 g/0,4 ms<br>• Snabbmeny och flera vapenprofiler</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 218,7 mm<br>Bredd: 67,1 mm<br>Höjd: 68,0 mm<br>Vikt: 494 g (utan batteri)</p>\n<p><strong>Detta ingår</strong><br>HIKMICRO Thunder 2.0 TE25<br>Två Li-Ion-batterier<br>USB-C-laddkabel<br>Laddningsstation<br>Skyddsväska<br>Rengöringsduk</p>\n<p>TE25 är ett värmesikte för åtel och skogskant: 25 mm och 12 µm pixlar ger artbestämning kring 280 meter på vildsvin, och med 494 g blir vapnet inte framtungt. Jagar du mest på stora fält ger <a href=\"/products/hikmicro-thunder-2-0-zoom-th50z-thermal-scope\" title=\"TH50Z\">TH50Z</a> med 50 mm-objektivet artbestämning kring 570 meter.</p>",
+  "faq": [
+   {
+    "q": "Är Thunder TE25 ett värmesikte eller en clip-on?",
+    "a": "TE25 är ett värmesikte med eget okular som monteras på vapnet som ett vanligt kikarsikte, inte en clip-on framför dagsiktet."
+   },
+   {
+    "q": "Hur långt kan jag artbestämma med TE25?",
+    "a": "Kring 280 meter på vildsvin vid goda förhållanden. Detektion upp till 1200 m betyder bara att något varmt syns, artbestämning sker på klart kortare håll."
+   },
+   {
+    "q": "Vad skiljer TE25 från TH25P?",
+    "a": "Båda har 25 mm-objektiv och 12 µm pixlar och ger samma artbestämning kring 280 meter. TH25P har 384x288-sensor och NETD under 20 mK, TE25 har 256x192 och NETD under 35 mK till lägre pris."
+   },
+   {
+    "q": "Hur lång batteritid har TE25?",
+    "a": "Minst 10,5 timmar vid 25 °C med hotspot avstängt. Batteriet är utbytbart och laddningsbart."
+   },
+   {
+    "q": "Hur mycket väger TE25?",
+    "a": "494 g utan batteri, i ett hus av magnesiumlegering med IP67-klassning."
+   }
+  ],
+  "metafields": {
+   "sensorupplosning": "256x192",
+   "netd": "≤35 mK",
+   "pixelstorlek": "12 µm",
+   "detektionsrackvidd": "1200 m",
+   "forstoring": "3.3-26x",
+   "laseravstandsmatare": "false",
+   "skarmtyp": "OLED",
+   "short_pitch": "Artbestämning kring 280 m vid åteln: 25 mm-optik och 256-sensor i ett värmesikte på 494 g, med minst 10,5 h drift på utbytbart batteri."
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder2-0-series-thermal-scope/"
+  ],
+  "changes": [
+   "Metafält ifyllda (saknades): sensor 256x192, netd ≤35 mK, pixel 12 µm, detektion 1200 m, förstoring 3.3-26x, lrf false, skärm OLED (HIKMICRO Thunder 2.0). Art 280/detalj 170 fanns redan",
+   "Batteritid: 'upp till 10 timmar' → 'minst 10,5 timmar' (HIKMICRO ≥10.5h @25 °C)",
+   "Ny short_pitch och FAQ (saknades), byggda på verifierad data",
+   "Avslutning (AI-slop 'seriösa jägare'/'beprövat system') omskriven med artbestämning 280 m och länk till TH50Z (570 m ur katalogen)",
+   "ChatGPT-attribut (data-start/data-end) borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390788436",
+  "handle": "hikmicro-thunder-2-0-zoom-th50z-thermal-scope",
+  "descriptionHtml": "<p>HIKMICRO Thunder 2.0 Zoom TH50Z Thermal Scope är ett termiskt kikarsikte med två objektiv, 25 mm F0.8 och 50 mm F1.0, och en 384 × 288-sensor med 12 μm detektor. Med 25 mm får du brett synfält när viltet är nära, och med 50 mm ger det artbestämning kring 570 meter på vildsvin och detektion upp till 2600 meter. NETD &lt; 20 mK håller kontrasten i mörker, dimma och regn, och bilden visas på en 1024 × 768 0,39-tums OLED-skärm. Du väljer mellan fem retikelmönster i fyra färger.<br>\n<br>\nNyckelfunktioner<br>\n• 384 × 288 upplösning med 12 μm detektor<br>\n• Högkänslig termisk modul NETD &lt; 20 mK (25°C, F# = 1,0)<br>\n• Dubbel FOV med 25 mm (F0.8) och 50 mm (F1.0) objektivlinser<br>\n• 1024 × 768 upplösning 0,39-tums OLED-display<br>\n• Minst 10,5 timmars kontinuerlig drift<br>\n• Utbytbara och laddningsbara Li-ion-batteripaket<br>\n• Hög stöttålighet upp till 1000 g/0,4 ms<br>\n• Upptäcktsområde upp till 2600 m<br>\n<br>\nTeknisk specifikation<br>\n* Mått: 241,2 × 67,0 × 73,4 mm<br>\n* Vikt: 750 g<br>\n<br>\nDetta ingår<br>\n• Kikarsikte<br>\n• Utbytbar Li-ion-batteripaket<br>\n• Bruksanvisning<br>\n• Skyddshölje<br>\n<br>\nTvå objektiv i samma sikte gör TH50Z användbar både vid åteln och på öppen mark: 25 mm för överblick när grisen kommer nära, 50 mm för artbestämning kring 570 meter. Vill du ha 640-sensor och ännu längre räckvidd har <a href=\"/products/hikmicro-thunder-2-0-zoom-tq60z-thermal-scope\" title=\"TQ60Z\">TQ60Z</a> 35 och 60 mm med artbestämning kring 680 meter, och räcker ett objektiv ger <a href=\"/products/hikmicro-thunder-2-0-th25p-thermal-scope\" title=\"TH25P\">TH25P</a> med 25 mm kring 280 meter till lägre pris.</p>",
+  "faq": [
+   {
+    "q": "Vad menas med dubbel FOV på TH50Z?",
+    "a": "Siktet har två objektiv, 25 mm F0.8 och 50 mm F1.0, så du kan växla mellan brett synfält och längre räckvidd i samma enhet."
+   },
+   {
+    "q": "Vilken sensor har TH50Z?",
+    "a": "En 384x288-sensor med 12 µm detektor och NETD under 20 mK."
+   },
+   {
+    "q": "Har TH50Z avståndsmätare?",
+    "a": "Nej, TH50Z saknar inbyggd laseravståndsmätare."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Upptäcktsområde upp till 2600 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Display och batteritid?",
+    "a": "0,39-tums OLED 1024x768, med fem riktmedelsmönster och fyra färger, och minst 10,5 timmars drift med utbytbart batteri."
+   },
+   {
+    "q": "Tål TH50Z tuff jakt?",
+    "a": "Ja. Hög stöttålighet upp till 1000 g. Vikt 750 g."
+   }
+  ],
+  "metafields": {
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder-zoom-2-0-thermal-scope/"
+  ],
+  "changes": [
+   "Batteritid: 'upp till 6,5 timmar' → 'minst 10,5 timmar' i text och FAQ (HIKMICRO Thunder Zoom 2.0: ≥10.5h)",
+   "Teknisk spec: Längd 11 cm/Bredd 14,2 cm/Höjd 7,5 cm → Mått 241,2 × 67,0 × 73,4 mm (HIKMICRO)",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390198612",
+  "handle": "hikmicro-thunder-2-0-zoom-tq60z-thermal-scope",
+  "descriptionHtml": "<p>HIKMICRO Thunder 2.0 Zoom TQ60Z har två objektiv, 35 mm F0.9 och 60 mm F1.1, så samma enhet fungerar i skogen och ute på fältet. Sensorn har 640 × 512 pixlar med 12 μm detektor. På 35 mm får du en bred FOV på 22 m och förstoring från 1,8x, och på 60 mm ger den artbestämning kring 680 meter på vildsvin och ett upptäcktsområde på upp till 3000 m. NETD &lt; 20 mK (25°C, F# = 1,0) håller isär små temperaturskillnader, och 0,39-tums OLED-displayen visar bilden i 1024 × 768. Utbytbara, laddningsbara Li-ion-batteripaket ger minst 8,5 timmars drift, och stöttåligheten är upp till 1000 g/0,4 ms.<br>\n<br>\nNyckelfunktioner<br>\n• Upplösning 640 × 512 med 12 μm detektor<br>\n• Dubbel FOV med 35 mm (F0.9) och 60 mm (F1.1) objektiv<br>\n• Hög känslighet NETD &lt; 20 mK<br>\n• 1024 × 768 OLED-display<br>\n• Driftstid minst 8,5 timmar<br>\n• Utbytbara och laddningsbara Li-ion-batteripaket<br>\n• Hög stöttålighet upp till 1000 g/0,4 ms<br>\n• Upptäcktsområde upp till 3000 m<br>\n<br>\nTeknisk specifikation<br>\n* Mått: 254,4 × 68,5 × 80,6 mm<br>\n* Vikt: 843 g<br>\n<br>\nDetta ingår<br>\n- Värmesikte<br>\n- Laddningsbart batteripaket<br>\n- Laddare<br>\n- Användarmanual</p>\n<p>TQ60Z är för dig som jagar både i skog och på stora fält och vill klara båda med ett sikte: 35 mm ger överblick på nära håll och 60 mm artbestämning kring 680 meter. Räcker 384-sensor och 50 mm för dina avstånd finns <a href=\"/products/hikmicro-thunder-2-0-zoom-th50z-thermal-scope\" title=\"TH50Z\">TH50Z</a> med artbestämning kring 570 meter till lägre pris, och hela serien hittar du bland <a href=\"/collections/hikmicro-thunder-zoom-2-0-termiska-sikten\" title=\"HIKMICRO Thunder Zoom 2.0\">Thunder Zoom 2.0</a>.</p>",
+  "faq": [
+   {
+    "q": "Vad menas med dubbel FOV på TQ60Z?",
+    "a": "Siktet har två objektiv, 35 mm F0.9 och 60 mm F1.1, så du växlar mellan brett synfält och längre räckvidd i samma enhet."
+   },
+   {
+    "q": "Vilken sensor har TQ60Z?",
+    "a": "En 640-sensor med 12 µm detektor och NETD under 20 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Upptäcktsområde upp till 3000 meter. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar TQ60Z?",
+    "a": "Från 1,8x, med brett synfält runt 22 m och 0,39-tums OLED-display i 1024x768."
+   },
+   {
+    "q": "Hur lång batteritid?",
+    "a": "Minst 8,5 timmar med utbytbart, laddningsbart Li-ion-batteripaket."
+   },
+   {
+    "q": "Tål TQ60Z tuff jakt?",
+    "a": "Ja. Hög stöttålighet upp till 1000 g. Vikt 843 g."
+   }
+  ],
+  "metafields": {
+   "sensorupplosning": "640x512",
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder-zoom-2-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.sensorupplosning: 640x480 → 640x512 (HIKMICRO Thunder Zoom 2.0)",
+   "Batteritid: 'upp till 6,5 timmar' → 'minst 8,5 timmar' i text och FAQ (HIKMICRO: ≥8.5h)",
+   "Teknisk spec: Längd 13,5 cm/Bredd 11 cm/Höjd 8,43 cm (höjden var vikten) → Mått 254,4 × 68,5 × 80,6 mm (HIKMICRO)",
+   "Detta ingår: 'Värmekikare' → 'Värmesikte' (språkfel, produkten är ett sikte)",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12485571805524",
+  "handle": "hikmicro-thunder-2-0-tq50cr-thermal-clipon",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤20 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder2-0-series-thermal-clip-on/"
+  ],
+  "changes": [
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397243732",
+  "handle": "hikmicro-thunder-3-0-th35c-thermal-clipon",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder-3-0-thermal-clip-on/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396391764",
+  "handle": "hikmicro-thunder-3-0-tq35c-thermal-clipon",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK",
+   "sensorupplosning": "640x512"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder-3-0-thermal-clip-on/"
+  ],
+  "changes": [
+   "custom.sensorupplosning: 640x480 → 640x512 (HIKMICRO Thunder 3.0: TQ35C 640×512)",
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12250415792468",
+  "handle": "hikmicro-thunder-3-0-tq35cl-thermal-clipon",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder-3-0-thermal-clip-on/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396784980",
+  "handle": "hikmicro-thunder-3-0-tq50c-thermal-clipon",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder-3-0-thermal-clip-on/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397669716",
+  "handle": "hikmicro-thunder-3-0-tq50cl-thermal-clipon",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/thunder-3-0-thermal-clip-on/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110395867476",
+  "handle": "hikmicro-solar-panel-for-trail-camera",
+  "descriptionHtml": "<p><strong>HIKMICRO SP5000 solpanel för åtelkamera</strong></p><p>HIKMICRO SP5000 är en solpanel med inbyggt batteri som driver HIKMICRO åtelkamera M15 och T16, så att kameran kan stå längre vid åteln mellan batteribytena.</p><p><strong>Nyckelfunktioner</strong><br>• 5000 mAh uppladdningsbart batteri<br>• 5 W maximal uteffekt<br>• IP66-klassad mot tuffa väderförhållanden</p><p><strong>Detta ingår</strong><br>• SP5000<br>• Snabbstartsguide<br>• Stativ<br>• Monteringsrem<br>• Skruvar<br>• Skiftnyckel<br>• Kabel (× 3)</p><p>Passar <a href=\"/products/hikmicro-trailcamera-m15\" title=\"HIKMICRO M15\">HIKMICRO M15</a> och <a href=\"/products/hikmicro-t16-viltkamera\" title=\"HIKMICRO T16\">HIKMICRO T16</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.focusnordic.com/products/photo/trail-cameras/hikmicro-solar-panel-for-trail-camera",
+   "https://www.focusnordic.com/products/photo/trail-cameras/hikmicro-t16-trail-camera/"
+  ],
+  "changes": [
+   "Ihopklistrad text utan mellanslag/radbrytningar formaterad med rubriker och •-listor (samma innehåll)",
+   "Kompatibilitet: 'driver M15' → 'driver M15 och T16' (Focus Nordic T16-sida: 'Compatible with the optional T-Mount and SP5000 solar panel')",
+   "Länkar till M15 och T16 tillagda"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386790740",
+  "handle": "hikmicro-alpex-cmos-tube-scope-ir-torch-850nm",
+  "descriptionHtml": "<p>IR-lampan används på optiska produkter som digitala mörkersikten. Den använder infrarött ljus som kompletterande ljus för förbättrad bildkvalitet.</p><p><strong>I lådan</strong><br>• IR-lampa</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "Ihopklistrad text ('bildkvalitet.I lådan:IR-lampa') uppdelad i stycke och lista"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386889044",
+  "handle": "hikmicro-alpex-cmos-tube-scope-ir-torch-940nm",
+  "descriptionHtml": "<p>IR-lampan används på optiska produkter som digitala mörkersikten. Den använder infrarött ljus som kompletterande ljus för förbättrad bildkvalitet.</p><p><strong>I lådan</strong><br>• IR-lampa</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "Ihopklistrad text ('bildkvalitet.I lådan:IR-lampa') uppdelad i stycke och lista"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387511636",
+  "handle": "hikmicro-cheetah-thunder1-0-clipon-adaptor-40a-46-51mm",
+  "descriptionHtml": "<p>HM-THUNDER-40A adapter kopplar samman värmebilds-Clip-On med dagsljussiktet.<br><br>I lådan:<br>Adapter<br>Mellanlägg<br>Insexnyckel</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "Ihopklistrad text ('I lådan:AdapterMellanläggInsexnyckel') uppdelad, samma format som 50A-adaptern"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15528668954964",
+  "handle": "hikmicro-t16-viltkamera",
+  "descriptionHtml": "<p><strong>HIKMICRO T16 åtelkamera 18650</strong></p>\n<p>Dubbelt synfält 60°/100° • upp till 24 MP • 4G • 64 GB internminne</p>\n<p>T16 är en uppkopplad 4G-viltkamera som skickar bilder och video direkt till mobilen via HIKMICRO Sight. Med dubbelt synfält, snabb rörelsedetektering och diskret IR-belysning ger den dig ett tydligt underlag om vad som rör sig på platsen, utan att du behöver åka dit och kontrollera.</p>\n<p>Den här versionen drivs på 4 st 18650 och levereras med batterifack för 18650. Batterifacket är utbytbart, och ett fack för AA-batterier finns att köpa till under Tillbehör.</p>\n<p><strong>Nyckelfunktioner</strong></p>\n<ul>\n<li>\n<strong>Dubbelt synfält 60° eller 100°.</strong> Växla synfält direkt i appen utan att flytta kameran. Smalt 60° för stigar och passager, brett 100° för öppna ytor utan döda vinklar.</li>\n<li>\n<strong>4G med integrerat SIM-kort.</strong> Bilder och video går direkt till mobilen via Sight-appen. Inget extra abonnemang behöver kopplas in från start, du köper datapaket i appen.</li>\n<li>\n<strong>Skarpa bilder dag och natt.</strong> Sensor på 6 MP med uppladdning av UHD-foton upp till 24 MP vid behov, samt 1080p-video med ljud. Färg i dagsljus, automatisk svartvit nattbild.</li>\n<li>\n<strong>Diskret nattbelysning.</strong> 940 nm no-glow IR med SmartIR justerar styrkan efter ljuset. Skarpa bilder i mörker utan synligt blixtsken.</li>\n<li>\n<strong>Snabb och träffsäker.</strong> Utlösningstid på 0,4 sekunder, dubbla PIR-sensorer och upp till 25 meters detekteringsräckvidd. Smarta algoritmer filtrerar bort vind och löv för färre falsklarm.</li>\n<li>\n<strong>64 GB internminne.</strong> Inget SD-kort som kan krångla eller ta slut.</li>\n<li>\n<strong>Drift på 4 st 18650.</strong> Uppladdningsbara celler som håller spänningen även i kyla, plus stöd för extern 12V och HIKMICRO SP5000 solpanel för långtidsdrift.</li>\n<li>\n<strong>Byggd för fält.</strong> IP66-klassat hölje för året runt-bruk, samt Wi-Fi-förhandsvisning vid montering för rätt vinkel direkt.</li>\n</ul>\n<p><strong>Teknisk specifikation</strong></p>\n<ul>\n<li>Synfält: 60° eller 100°, valbart i appen</li>\n<li>Sensor: 6 MP</li>\n<li>Fotoupplösning: upp till 24 MP</li>\n<li>Video: 1080p Full HD med ljud, även 720p och WVGA</li>\n<li>Nattbelysning: 940 nm no-glow IR, SmartIR</li>\n<li>PIR: dubbla sensorer, utlösning 0,4 s</li>\n<li>Detekteringsräckvidd: upp till 25 m</li>\n<li>Uppkoppling: 4G LTE, integrerat SIM</li>\n<li>App och plattform: HIKMICRO Sight, HIKZone</li>\n<li>Internminne: 64 GB</li>\n<li>Strömförsörjning: 4 st 18650, extern 12V, SP5000 solpanel</li>\n<li>Täthetsklass: IP66</li>\n<li>Arbetstemperatur: -20 till +55 °C</li>\n</ul>\n<p><strong>Detta ingår</strong></p>\n<ul>\n<li>HIKMICRO T16 viltkamera med integrerat SIM-kort</li>\n<li>Batterifack för 4 st 18650</li>\n<li>Monteringsrem</li>\n<li>Snabbguide</li>\n</ul>\n<p>Batteri ingår ej.</p>\n<p>Med 64 GB internminne, integrerat 4G-SIM och utlösning på 0,4 sekunder ser du i mobilen vad som rör sig vid åteln utan att störa platsen. Vill du köra kameran på AA-batterier finns <a href=\"/products/hikmicro-hm-asb02-aa-t16-battery-compartment-aa\" title=\"Batterifack AA för T16\">batterifacket för AA</a>, och med <a href=\"/products/hikmicro-solar-panel-for-trail-camera\" title=\"HIKMICRO SP5000 solpanel\">solpanelen SP5000</a> kan den stå längre utan batteribyte.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/t16-trail-camera/",
+   "https://www.focusnordic.com/products/photo/trail-cameras/hikmicro-t16-trail-camera/"
+  ],
+  "changes": [
+   "Avslutning omskriven (var låst): 64 GB, 4G-SIM och 0,4 s ur texten, länkar till AA-batterifacket och SP5000-solpanelen",
+   "Solpanelens kompatibilitet med T16 bekräftad (Focus Nordic T16-sidan), T16-texten var alltså rätt"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390067540",
+  "handle": "kit-hikmicro-trailcamera-m15-32g-sd-12st-max-aa",
+  "descriptionHtml": "<p>Hikmicro M15 är en åtelkamera med 4G-stöd som tar bilder i upp till 10 megapixlar och spelar in video i 1080p med ljud. Den är gjord för att bevaka en åtelplats eller hålla koll på vilt och rörelse i skogen, dag som natt. PIR-sensorn löser ut på 0,5 sekunder, och de osynliga IR-lysdioderna på 940 nm ger skarpa nattbilder utan att avslöja kamerans position. Bilderna skickas till mobilen via mobilnätet, och 12 AA-batterier räcker upp till 180 dagar i ett IP66-klassat hölje. I kitet ingår SD-kort på 32 GB och batterierna, så kameran är klar att sätta upp.</p>\n<h3>Nyckelfunktioner</h3>\n<p>• 10 MP fotoupplösning och 1080p video med ljud<br>• Osynliga IR-lysdioder (940 nm) för tydliga nattbilder<br>• Utlösningshastighet på endast 0,5 sekunder<br>• 4G-överföring med 100 fria bildöverföringar per månad<br>• Batteritid upp till 180 dagar med 12 st AA-batterier<br>• IP66-klassat hölje för utomhusbruk året runt<br>• Styrs via Hikmicro Sight-appen<br>• Täcker 25 meters rörelseavstånd med 45° vinkel</p>\n<h3>Teknisk specifikation</h3>\n<p>Längd: 14,3 cm<br>Bredd: 8,6 cm<br>Höjd: 11,2 cm<br>Vikt: 440 g</p>\n<h3>Detta ingår</h3>\n<p>• Hikmicro M15 åtelkamera<br>• Antenn<br>• USB-kabel<br>• Installationsrem<br>• Förinstallerat SIM-kort<br>• Snabbstartsguide<br>• 32 GB SD-kort<br>• 12 st AA-batterier</p>\n<p>Kitet är för dig som vill sätta upp kameran samma dag: SD-kort och batterier ingår, och 12 AA räcker upp till 180 dagar mellan bytena. Vill du ha internminne i stället för SD-kort finns <a href=\"/products/hikmicro-t16-viltkamera\" title=\"HIKMICRO T16\">HIKMICRO T16</a>, och har du redan kort och batterier finns kameran utan tillbehör som <a href=\"/products/hikmicro-trailcamera-m15\" title=\"HIKMICRO M15\">M15</a>.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.focusnordic.com/products/photo/trail-cameras/hikmicro-t16-trail-camera/"
+  ],
+  "changes": [
+   "Detta ingår: '32GB SD-kor' → '32 GB SD-kort', '12 AA-batterier av hög kvalitet' → '12 st AA-batterier' (språkfel/förbjudet uttryck)",
+   "Intro: 'användarvänlig', 'passar perfekt', 'oavsett om', 'trygg och smidig lösning' ersatta med fakta som redan stod i texten (samma som M15-texten)",
+   "Avslutning ('utmärkt val', 'robust nog') omskriven med 180 dagar och länkar till T16 och M15",
+   "ChatGPT-attribut (data-start/data-end) borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110388363604",
+  "handle": "hikmicro-explorer-e20-plus-thermal-camera-for-smartphones-android",
+  "descriptionHtml": "<p><strong>HIKMICRO Explorer E20 Plus värmekamera för Android</strong></p>\n<p>HIKMICRO Explorer E20 Plus är en värmekamera i kubformat som du kopplar till din Android-mobil via USB-C. Med en 256 × 192 VOx-sensor, 9,7 mm-lins och brett synfält får du en tydlig värmebild av terrängen runt dig när du spanar av åtelområdet, letar efter vilt i mörkret eller campar.</p>\n<p>Kameran väger bara 26 gram och mäter 26,6 × 26,6 × 27,2 mm. Den drivs direkt via USB-C från telefonen, så du slipper både extra batterier och laddkablar. All styrning sker i HIKMICRO Sight-appen där du kan växla paletter, spela in video och ta stillbilder direkt i mobilen.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 256 × 192 @ 12 µm VOx-sensor med NETD under 50 mK för skarpa värmebilder även i dimma och lätt regn<br>• 9,7 mm-lins med 18,1° × 13,6° synfält (ca 31,8 × 23,8 m på 100 m) ger bra överblick vid spaning över hyggen, fält och skogsbryn<br>• Detektionsräckvidd upp till cirka 970 m gör det möjligt att upptäcka värmekällor på långt håll<br>• 50 Hz uppdateringsfrekvens ger följsam bild även när du panorerar eller följer rörelse<br>• Sex färgpaletter: Black Hot, White Hot, Red Hot, Rainbow, Ironbow och Birdwatching för olika typer av miljöer och preferenser<br>• Manuell fokus och 1–2× digital zoom för att finjustera bilden efter avstånd och motiv<br>• Styrs via HIKMICRO Sight-appen i mobilen: spela in video, ta stillbilder och dela direkt<br>• Batterilös design med låg strömförbrukning (ca 0,36 W) som drivs direkt från USB-C-porten<br>• Kompakt och tålig: 26,6 × 26,6 × 27,2 mm, endast 26 g, IP40-klassad och arbetstemperatur från -10 till +50 °C<br>• Kan även användas med medföljande kabel för att kika in i trånga utrymmen som elskåp, motorrum och rördragningar</p>\n<p><strong>Teknisk specifikation</strong><br>• Sensor: VOx uncooled focal plane array, 256 × 192 pixlar, 12 µm<br>• Bildfrekvens: 50 Hz<br>• Våglängdsområde: 8–14 µm<br>• NETD: under 50 mK (@ 25 °C, F# = 1,0)<br>• Optik: 9,7 mm F1.0<br>• Synfält (H × V): 18,1° × 13,6° (ca 31,8 × 23,8 m på 100 m)<br>• Digital zoom: 1–2×<br>• Bildlägen/färgpaletter: Black Hot, White Hot, Red Hot, Rainbow, Ironbow, Birdwatching<br>• Bildförbättring: 3D DNR, bildförstärkning, HDR-bildbehandling<br>• Funktioner: Hot Track, PIP (bild-i-bild), digital kompass, foto- och videoinspelning<br>• Detektionsräckvidd: upp till ca 970 m<br>• Dimensioner: 26,6 × 26,6 × 27,2 mm<br>• Vikt: 26 g<br>• Strömmatning: USB Type-C (Android), effekt ca 360 mW<br>• Skyddsklass: IP40<br>• Arbetstemperatur: -10 till +50 °C<br>• App: HIKMICRO Sight (Android, USB-C)<br>• Kompatibilitet: Android-telefoner med USB-C – kontrollera alltid aktuell kompatibilitetslista hos tillverkaren innan köp</p>\n<p><strong>Detta ingår</strong><br>• HIKMICRO Explorer E20 Plus värmekamera<br>• USB-C-kabel<br>• Förvaringsväska<br>• Snabbstartsguide</p>\n<p>Explorer E20 Plus passar dig som vill ha en värmekamera i fickan hela tiden: 26 gram, inget eget batteri att ladda och detektion upp till cirka 970 m räcker för att kolla av åtelområdet eller hitta värmekällor i mörkret. Ska du spana längre stunder med ögat mot okularet är en <a href=\"/collections/varmekikare\" title=\"Värmekikare\">värmekikare</a> bättre, och vi hjälper dig gärna välja.</p>",
+  "faq": [
+   {
+    "q": "Behöver Explorer E20 Plus batteri?",
+    "a": "Nej, den är batterilös och drivs direkt via USB-C från telefonen. Låg förbrukning på cirka 0,36 W."
+   },
+   {
+    "q": "Hur fungerar den?",
+    "a": "Den kopplas till en Android-telefon via USB-C och styrs helt i HIKMICRO Sight-appen, där du växlar paletter, filmar och tar bilder."
+   },
+   {
+    "q": "Vilken telefon krävs?",
+    "a": "En Android-telefon med USB-C. Kontrollera alltid tillverkarens aktuella kompatibilitetslista före köp."
+   },
+   {
+    "q": "Vilken sensor har den?",
+    "a": "En 256x192 VOx-sensor med 12 µm pixel och NETD under 50 mK."
+   },
+   {
+    "q": "Hur långt ser man?",
+    "a": "Detektionsräckvidd upp till cirka 970 m för att upptäcka värmekällor på håll."
+   },
+   {
+    "q": "Hur liten är den?",
+    "a": "Bara 26,6 x 26,6 x 27,2 mm och 26 g, IP40-klassad, får plats i fickan och är redo på sekunder."
+   }
+  ],
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/explorer-thermal-camera-for-smartphones/"
+  ],
+  "changes": [
+   "NETD i tre format (≤ 50 / < 50 / 'under eller lika med 50') → 'under 50 mK' överallt (HIKMICRO: 'Less than 50 mK')",
+   "Mått: avrundat 27 × 27 × 27 mm → 26,6 × 26,6 × 27,2 mm i text och FAQ (HIKMICRO)",
+   "ChatGPT-attribut (data-start/data-end) borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397735252",
+  "handle": "hikmicro-alpex-a40e-4k-tube-scope",
+  "descriptionHtml": "<p>HIKMICRO Alpex A40E 4K Tube Scope är ett digitalt dag- och nattsikte i klassisk tubform. Utrustad med en 4K CMOS-sensor med en upplösning på 3840 × 2160 pixlar och ett f/2,0 40 mm objektiv, ger det en skarp och detaljerad bild även i svåra ljusförhållanden. Den högupplösta OLED-displayen har en uppdateringsfrekvens på 100 Hz, vilket möjliggör smidig spårning av rörliga objekt utan rörelseoskärpa. Med en vikt på 450 gram utan externt batteri är Alpex A40E lätt och bekväm att använda under långa jaktdagar. Den erbjuder också funktioner som HD-videoinspelning, fotoinspelning, ballistisk beräkning, snabbkalibrering och Wi-Fi-anslutning för enkel mediedelning.<br>\n<br>\nNyckelfunktioner:<br>\n• 3840 × 2160 upplösning 4K CMOS-sensor för ultradetaljerad bildbehandling<br>\n• 40 mm f/2,0-optik med 3,5x till 20,5x förstoringsintervall<br>\n• Högkontrast 1920 × 1080 OLED-skärm med 100 Hz uppdateringsfrekvens<br>\n• Pålitlig prestanda i dagsljus och svagt ljus/nattförhållanden<br>\n• Stöd för ballistisk beräkning<br>\n• HD-video och fotoinspelning med snabb kalibrering<br>\n• Inbyggd Wi-Fi-anslutning för appstyrning och tillgång till media<br>\n• Internt batteri plus utbytbart och uppladdningsbart 18650-batteri, upp till 7,5 timmars drift<br>\n• Kompakt design: 450 gram utan externt batteri, 280,7 mm i längd<br>\n<br>\nTeknisk specifikation:<br>\n* Längd: 28 cm<br>\n* Vikt: 450 g (utan externt batteri)<br>\n<br>\nDetta ingår:<br>\n- Alpex 4K Lite A40E kikarsikte<br>\n- Ett utbytbart/uppladdningsbart batteri<br>\n- Batteriladdare<br>\n- Monteringstillbehör<br>\n- Linsduk<br>\n- Användarmanual<br>\n<br>\nA40E ger 4K-sensor, 40 mm F2.0 och 3,5–20,5x i en klassisk tub, och 100 Hz-skärmen håller bilden mjuk när viltet rör sig. Vill du mäta håll i samma sikte finns <a href=\"/products/hikmicro-alpex-a40el-4k-tube-scope\" title=\"Alpex A40EL\">Alpex A40EL</a> med laser 3–1000 m, och <a href=\"/products/hikmicro-alpex-a50e-4k-tube-scope\" title=\"Alpex A50E\">Alpex A50E</a> har 50 mm-objektiv och detektion till 1000 m mot 800 m.</p>",
+  "faq": [
+   {
+    "q": "Är Alpex A40E en värmekamera?",
+    "a": "Nej, det är ett digitalt 4K dag- och nattsikte med CMOS-sensor, inte termiskt."
+   },
+   {
+    "q": "Har A40E avståndsmätare?",
+    "a": "Nej, A40E saknar laser. Titta på A40EL Lite eller A50EL om du vill ha inbyggd LRF."
+   },
+   {
+    "q": "Vilken sensor och skärm?",
+    "a": "En 3840x2160 4K CMOS-sensor och en OLED i 1920x1080 med 100 Hz uppdatering för mjuk följning."
+   },
+   {
+    "q": "Hur mycket förstorar den?",
+    "a": "3,5x till 20,5x med 40 mm F2.0-optiken."
+   },
+   {
+    "q": "Behöver den IR-belysning i mörker?",
+    "a": "Ja, för fullt mörker används extern IR-belysning."
+   },
+   {
+    "q": "Hur lång batteritid och montage?",
+    "a": "Upp till 7,5 h med internt batteri plus utbytbart 18650, klassiskt tubformat och ballistisk kalkyl. Vikt 450 g utan externt batteri."
+   }
+  ],
+  "metafields": {
+   "vikt": "450 g",
+   "short_pitch": "Lätt 4K dag- och nattsikte på 450 g med 40 mm-optik och 100 Hz OLED för mjuk följning och ballistisk kalkyl. Klassiskt tubformat."
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/alpex-4k-lite-digital-day-night-vision-scope/"
+  ],
+  "changes": [
+   "Vikt: 'under 500 gram' / '550 g (med batteri)' → 450 g utan externt batteri i text, pitch, FAQ och custom.vikt (HIKMICRO Alpex 4K Lite: 450 g without external battery)",
+   "Batteritid: 'upp till 8 timmar' → 'upp till 7,5 timmar' (HIKMICRO: 7.5 h), batterityp förtydligad (internt + 18650)",
+   "Längd 280 mm → 280,7 mm (HIKMICRO)",
+   "Detta ingår 'Alpex 4K Lite A40E' är korrekt seriebeteckning hos HIKMICRO, lämnad orörd"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110387085652",
+  "handle": "hikmicro-alpex-a50tn-cmos-tubescope-incl-bracket-and-940nm-ir-lamp",
+  "descriptionHtml": "<p><strong>Hikmicro Alpex A50TN CMOS TubeScope</strong><br>Digitalt dag- och nattsikte i tubform med ljusstark 50 mm F1.2-optik och 940 nm IR-lampa för jakt i mörker. Inklusive lampa och fäste för lampan.</p>\n<p>Alpex A50TN kombinerar en mycket högupplöst 1920×1080 CMOS-sensor med en ljusstark 50 mm F1.2-optik. Den ger skarp färgbild på dagtid och tydlig svartvit kontrast på natten tack vare 940 nm IR-lampa. Upp till 12 timmars drift, IP67-klassning och inspelning till 64 GB internminne gör den redo för långa pass i fält.</p>\n<p><strong>Nyckelfunktioner</strong><br>• <strong>Full HD-sensor</strong> – 1920×1080-upplösning för fin detalj och skärpa, i en bekant tubdesign<br>• <strong>Ljusstark 50 mm F1.2-optik</strong> – tillför maximalt ljus och djup även vid mörker<br>• <strong>940 nm IR-nivå</strong> – integrerad belysning för pålitligt nattseende utan att störa djurlivet<br>• <strong>Lång batteritid</strong> – upp till 12 timmar kontinuerlig drift med intern strömkälla (2 uppladdningsbara batterier) och extern CR123A-lösning<br>• <strong>Allvädersanpassad</strong> – IP67-klassning och tålig aluminiumkropp som klarar rekyl och extrema väderförhållanden<br>• <strong>Full funktionalitet</strong> – inspelning, bildläge för dag &amp; natt, Wi‑Fi-delning, flera inskjutningsprofiler och snabbstart (&lt; 3 s) för att fånga ögonblicket direkt</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: 1920×1080 CMOS, 50 Hz<br>Objektiv: 50 mm, F1.2<br>Förstoring: 3,5× optisk – upp till 14× digital<br>Synfält: cirka 7,7° × 5,8° (13,5 m × 10,1 m vid 100 m)<br>Min. fokusavstånd: 3 m<br>Nattseende: 940 nm IR-belysning<br>Display: 0,39″ OLED, 1024×768 (dag/natt-läge)<br>Skydd: IP67 (dammbeständig och vattentålig)<br>Gränssnitt: USB-C 5 V DC / 2 A, hotspot/Wi‑Fi<br>Minnesfunktioner: video- och snapshot-inspelning, 64 GB internt eMMC-minne<br>Systemstöd: 5 inskjutningsprofiler, retikelval i 10 typer och 8 färger, fryszoom<br>Strömförsörjning: 2 interna uppladdningsbara batterier + 1 extern CR123A, ca 12 timmar drift<br>Vikt: ca 1 062 g (utan okulär och batteri)<br>Mått: ca 442 × 78,1 × 83,5 mm</p>\n<p><strong>Detta ingår</strong><br>• Hikmicro Alpex A50TN CMOS TubeScope<br>• IR‑ficklampa (940 nm) med fäste<br>• Två interna uppladdningsbara batterier + CR123A extern batterilösning<br>• USB‑C-kabel, laddare och transportväska</p>\n<p>A50TN är ett prisvärt sätt att börja med digital nattjakt: 940 nm IR-lampa och fäste ingår, och 3,5x grundförstoring med 13,5 m synfält på 100 m ger överblick vid åteln. Vill du ha 4K-sensor och OLED i 1920x1080 finns <a href=\"/products/kit-hikmicro-alpex-a50e-4k-tube-scope-w-bracket-and-ir-torch-940nm\" title=\"Alpex A50E-kitet\">Alpex A50E-kitet</a>, också det med 940 nm IR-lampa och fäste.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/alpex-series-night-vision-telescope/"
+  ],
+  "changes": [
+   "Nyckelfunktion: '4K i kompakt format – 1920×1080' (självmotsägande) → 'Full HD-sensor – 1920×1080' (HIKMICRO Alpex: 1920 × 1080)",
+   "Stavfel 'flera priciper' → 'flera inskjutningsprofiler' (HIKMICRO: 'Flera inskjutningsprofiler')",
+   "ChatGPT-attribut (data-start/data-end) borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110389576020",
+  "handle": "hikmicro-panther-2-0-lrf-pq35l-thermal-scope",
+  "descriptionHtml": "<p>HIKMICRO Panther 2.0 LRF PQ35L Thermal Scope är ett termiskt sikte med inbyggd laseravståndsmätare för jakt i mörker och dålig sikt. Den erbjuder möjligheten att få en tydlig bild av målet samt att exakt mäta avståndet. Med en hög termisk upplösning på 640 × 512 och en detektor på 12 μm ger den skarpa och detaljerade bilder, och med 35 mm-objektivet sker artbestämning kring 400 m på vildsvin. Den är särskilt användbar för jakt, skytte och spaning, och har funktioner som avståndsmätning, hotspot-funktion, videoinspelning och ögonblicksbild. Den inbyggda digitala zoomen och retikelfunktionen gör det möjligt att anpassa sikten efter behov. Med en 0,39-tums OLED-display och en upplösning på 1024 × 768, erbjuder den en tydlig och lättavläst bild. <br>\n<br>\nNyckelfunktioner<br>\n• Inbyggd laseravståndsmätare med upp till 600 m räckvidd<br>\n• 640 × 512 termisk upplösning med 12 μm detektor<br>\n• Högkänslig termisk modul NETD &lt; 20 mK<br>\n• 35 mm objektiv med detekteringsområde upp till 1800 m<br>\n• 0,39-tums OLED-display med 1024 × 768 upplösning<br>\n• Stöd för ljud och rekylaktiverad inspelning<br>\n• Hög stöttålighet upp till 1000 g/0,4 ms<br>\n• Upp till 5 timmars kontinuerlig drift<br>\n• Vikt 518 g (utan batteri)<br>\n<br>\nTeknisk specifikation<br>\n* Vikt: 518 g<br>\n<br>\nDetta ingår<br>\n- Värmesikte<br>\n- 2 batterier<br>\n- Extern batteriladdare<br>\n- Bruksanvisning<br>\n<br>\nPQ35L ger 640-sensorns breda bild och laser till 600 m i ett sikte på 518 g. För längre håll finns <a href=\"/products/hikmicro-panther-2-0-lrf-ph50l-thermal-scope\" title=\"Panther 2.0 PH50L\">Panther 2.0 PH50L</a> med 50 mm och artbestämning kring 570 m, med 384-sensor till lägre pris.</p>",
+  "faq": [
+   {
+    "q": "Har Panther 2.0 PQ35L avståndsmätare?",
+    "a": "Ja. Inbyggd laseravståndsmätare med räckvidd upp till 600 meter."
+   },
+   {
+    "q": "Vilken sensor har Panther 2.0 PQ35L?",
+    "a": "En 640x512-sensor med 12 µm detektor och NETD under 20 mK."
+   },
+   {
+    "q": "Vad betyder NETD under 20 mK på PQ35L?",
+    "a": "NETD under 20 mK innebär hög värmekänslighet. Ett lägre mK-värde gör att små temperaturskillnader syns tydligare och ger mer detalj mot bakgrunden."
+   },
+   {
+    "q": "Hur långt ser man med Panther 2.0 PQ35L?",
+    "a": "Detekteringsområde upp till 1800 meter med 35 mm-objektivet. Identifiering sker på kortare håll."
+   },
+   {
+    "q": "Hur mycket förstorar Panther 2.0 PQ35L?",
+    "a": "1,8x till 14,6x (8x digital zoom), med 0,39-tums OLED-display i 1024x768."
+   },
+   {
+    "q": "Kan Panther 2.0 PQ35L spela in?",
+    "a": "Ja. Stöd för ljud- och rekylaktiverad inspelning direkt i siktet."
+   }
+  ],
+  "metafields": {
+   "sensorupplosning": "640x512",
+   "forstoring": "1.8-14.6x"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://webassets.hikmicrotech.com/global/asset/e2a8d2e88be34ebe941ceb8e2c98c179.pdf",
+   "https://www.hikmicrotech.com/kr/outdoor-products/panther2-0-thermal-lrf-scope/"
+  ],
+  "changes": [
+   "custom.sensorupplosning: 640x480 → 640x512 (HIKMICRO datablad PQ35L: 640 × 512; Panther 2.0-sidan: synfält 22 m på 100 m stämmer med 640 px)",
+   "custom.forstoring och FAQ: 1.8-18x → 1.8-14.6x (datablad: 1.82× grundförstoring, digital zoom 1×–8×)",
+   "Teknisk spec: Längd 14 cm/Bredd 11,3 cm/Höjd 1,8 cm borttagna (fel; officiellt mått för 2.0 kunde inte verifieras entydigt)",
+   "Detta ingår: 'Värmekamera, Batteri, Laddare' → 'Värmesikte, 2 batterier, Extern batteriladdare' (HIKMICRO Panther 2.0: 'Two batteries and an external battery charger are included in the package box')"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110390460756",
+  "handle": "hikmicro-panther-2-0-lrf-ph50l-thermal-scope",
+  "descriptionHtml": "<p>HIKMICRO Panther 2.0 LRF PH50L Thermal Scope är ett termiskt sikte med inbyggd laseravståndsmätare som ger klar bild av målet i mörker och svåra ljusförhållanden, för jakt, skytte och spaning. Med en termisk upplösning på 384 × 288 och en högkänslig termisk modul med NETD &lt; 20 mK, kan användaren förvänta sig exakta avståndsmätningar och detaljerade bilder. Den har även en 50 mm objektiv som möjliggör detektering av mål upp till 2600 meter, samt stöd för videoinspelning och ögonblicksbilder.<br>\n<br>\nNyckelfunktioner<br>\n• Laseravståndsmätare med räckvidd upp till 600 m<br>\n• Termisk upplösning på 384 × 288<br>\n• Högkänslig termisk modul NETD &lt; 20 mK<br>\n• 50 mm objektiv med detekteringsområde upp till 2600 m<br>\n• 1024 × 768 upplösning på 0,39-tums OLED-display<br>\n• Inbyggd digital zoom och retikelfunktion<br>\n• Stöd för ljud- och rekylaktiverad inspelning<br>\n• Hög stöttålighet upp till 1000 g/0,4 ms<br>\n• Upp till 6 timmars kontinuerlig drift<br>\n<br>\nTeknisk specifikation<br>\n* Längd: 23,4 cm<br>\n* Bredd: 8,4 cm<br>\n* Höjd: 8,6 cm<br>\n* Vikt: 585 g<br>\n<br>\nDetta ingår<br>\n• Värmesikte<br>\n• 2 batterier<br>\n• Extern batteriladdare<br>\n• Bruksanvisning<br>\n<br>\nMed 50 mm-objektivet ger PH50L artbestämning kring 570 m på vildsvin, och lasern mäter hållet till 600 m i ett sikte på 585 g. Vill du ha 640-sensor och bredare bild finns <a href=\"/products/hikmicro-panther-2-0-lrf-pq35l-thermal-scope\" title=\"Panther 2.0 PQ35L\">Panther 2.0 PQ35L</a> med 35 mm och artbestämning kring 400 m.</p>",
+  "faq": null,
+  "metafields": {
+   "netd": "≤20 mK",
+   "forstoring": "4.3-34.4x"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/kr/outdoor-products/panther2-0-thermal-lrf-scope/",
+   "https://webassets.hikmicrotech.com/global/asset/e2a8d2e88be34ebe941ceb8e2c98c179.pdf"
+  ],
+  "changes": [
+   "Detta ingår: 'Värmekikare, Batteri, Laddare' → 'Värmesikte, 2 batterier, Extern batteriladdare' (HIKMICRO Panther 2.0-sidan)",
+   "custom.forstoring: 2.3-18x → 4.3-34.4x (HIKMICRO Panther 2.0: PH50L 4.3x, digital zoom 8x)",
+   "custom.netd: <20 mK → ≤20 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12332265308500",
+  "handle": "hikmicro-cheetah-c32f-rn-night-vision-clipon-940nm-w-reticle",
+  "descriptionHtml": "<p>HIKMICRO Cheetah C32F-RN</p>\n<p>Kompakt digitalt nattseende som fungerar från dagsljus till totalt mörker. Den högupplösta 2560 × 1440-sensorn och 0,49\" OLED-skärmen i 1920 × 1080 ger en klar och detaljerad bild, och den inbyggda 940 nm-IR:n hjälper när ljuset är helt borta. C32F-RN kan användas som clip-on eller som fristående sikte med riktmedel och freeze-zeroing för snabb inskjutning.</p>\n<p>Med lägen för Dag, Natt, Auto och Defog anpassar den sig till väder och sikt. Inbyggt 64 GB minne möjliggör video och stillbild, Wi-Fi-hotspot kopplar mot HIKMICRO Sight-appen, och rekylaktiverad inspelning fångar avgörande ögonblick. IP67-klassning, låg vikt och USB-C-ström gör den robust och enkel i fält.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 2560 × 1440 HD-sensor<br>• 0,49\" OLED-display i 1920 × 1080<br>• 32 mm F1.2-objektiv, synfält 9,9° × 7,5°<br>• Dag/Natt/Auto/Defog<br>• Inbyggd justerbar 940 nm-IR, räckvidd upp till 350 m<br>• Riktmedel och freeze-zeroing<br>• Rekylaktiverad inspelning<br>• Inbyggd eMMC 64 GB för video och bilder<br>• Wi-Fi-hotspot för appstyrning och delning<br>• IP67-klassning<br>• Drifttid upp till 5,5 h vid 25 °C<br>• USB-C för extern strömförsörjning</p>\n<p><strong>Teknisk specifikation</strong><br>Längd: 182,8 mm<br>Bredd: 70 mm<br>Höjd: 87,2 mm<br>Vikt: ≤ 465 g (utan okulär och batterier)<br>Sensorupplösning: 2560 × 1440 (CMOS)<br>Display: 0,49\" OLED, 1920 × 1080<br>Objektiv: 32 mm, F1.2<br>Synfält: 9,9° × 7,5°<br>Minsta fokusavstånd: 3 m<br>Bildfrekvens: 25 Hz<br>Lägen: Dag, Natt, Auto, Defog<br>Ögonavstånd: 10 mm<br>Utgångspupill: 22 mm<br>Digital zoom: 1×<br>Detektionsräckvidd: upp till 350 m (med 940 nm IR på)<br>Lagring: Inbyggd eMMC 64 GB<br>Trådlöst: Wi-Fi-hotspot (HIKMICRO Sight)<br>Max rekyl: 1000 g / 0,4 ms<br>Batteri: 1 × 18650 Li-ion (utbytbart)<br>Drifttid: upp till 5,5 h (@ 25 °C, hotspot och IR av)<br>Skyddsklass: IP67<br>Arbetstemperatur: −30 till +55 °C<br>Strömförsörjning: USB-C 5 VDC, 2 A (stöd för extern ström)</p>\n<p><strong>Detta ingår</strong><br>• Cheetah C32F-RN<br>• 2 × 18650-batterier<br>• Batteriladdare<br>• USB-C-kabel<br>• Mikrofiberduk<br>• Snabbstartsguide<br>• Bärväska</p>\n<p>C32F-RN gör dagsiktet användbart i mörker med osynlig 940 nm-IR och detektion upp till 350 m, och går lika bra att använda fristående med riktmedel. Vill du också mäta håll har <a href=\"/products/hikmicro-cheetah-c32f-rl-night-vision-clipon-850nm-lrf-w-retical\" title=\"Cheetah C32F-RL\">Cheetah C32F-RL</a> laser till 1000 m och 850 nm-IR med räckvidd upp till 400 m.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/cheetah-night-vision-clip-on/"
+  ],
+  "changes": [
+   "Synfält: 8,9° × 7,5° → 9,9° × 7,5° (2 ställen) (HIKMICRO Cheetah clip-on)",
+   "Max rekyl: 750 g → 1000 g / 0,4 ms (HIKMICRO). C32F-RL hade redan rätt värden",
+   "ChatGPT-attribut (data-start/data-end) borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394229076",
+  "handle": "kit-hikmicro-alpex-a50e-4k-tube-scope-w-bracket-and-ir-torch-940nm",
+  "descriptionHtml": "<p><strong>Hikmicro Alpex A50E 4K Tube Scope – komplett kit med IR-lampa och fäste</strong><br>Digitalt kikarsikte i klassiskt 30 mm tubformat med 4K-upplösning, ljusstark optik och IR-belysning – för jägare som vill ha tydlig bild och tillförlitlig funktion i alla ljusförhållanden.</p>\n<p>Alpex A50E kombinerar en 4K UHD-sensor (3840×2160) med en 50 mm lins och justerbar bländare (F1.2–2.5), vilket ger skarp bild både i dagsljus och totalt mörker. Siktet har 3,5× optisk förstoring (upp till 28× digital zoom) och cirka 15,3 m synfält på 100 meters avstånd. Den högupplösta OLED-skärmen ger behaglig visning även vid långa pass. Den medföljande 940 nm IR-lampan med fäste förbättrar siktet under nattjakt utan att skrämma viltet. Konstruktionen är IP67-klassad och rekylsäker, med lång batteritid och snabb uppstart.</p>\n<p><strong>Nyckelfunktioner</strong><br>• 4K UHD-sensor – 3840×2160 för mycket hög detaljrikedom i både dags- och nattläge<br>• Ljusstark och justerbar optik – 50 mm lins med variabel bländare (F1.2–2.5)<br>• Flexibel zoom – 3,5× optisk förstoring och upp till 28× digital zoom<br>• Tydlig OLED-display – 0,49″ skärm med 1920×1080-upplösning<br>• Inkluderad IR-lampa – 940 nm för diskret nattbelysning utan att störa djurlivet<br>• Lång driftstid – två interna batterier + ett externt 18650 ger upp till 11 timmars användning<br>• Robust och pålitlig – IP67-klassad, rekylsäker, inspelningsfunktion, Wi‑Fi och snabbstart (&lt;3 sekunder)<br>• Standardformat – passar direkt i vanliga 30 mm ringmontage</p>\n<p><strong>Teknisk specifikation</strong><br>Sensor: 3840×2160 CMOS, 50 Hz<br>Objektiv: 50 mm, F1.2–2.5 justerbar<br>Förstoring: 3,5× optisk; upp till 28× digital zoom<br>Synfält: ca 15,3 m vid 100 m (8,8° × 5,0°)<br>Display: 0,49″ OLED, 1920×1080<br>Nattläge: Ja, med extern IR-belysning<br>Batteri: Två interna uppladdningsbara + ett utbytbart 18650-batteri<br>Drifttid: Upp till ca 11 timmar<br>Minnesfunktioner: Video- och ljudinspelning, snapshot, 64 GB inbyggt minne<br>Gränssnitt: USB-C, Wi‑Fi, 5 inskjutningsprofiler<br>Skyddsklass: IP67<br>Dimensioner: ca 440 × 71 × 84 mm<br>Vikt: ca 1080 g (utan externt batteri)</p>\n<p><strong>Detta ingår</strong><br>• Hikmicro Alpex A50E 4K Tube Scope<br>• IR-lampa 940 nm med fäste<br>• Två interna batterier + ett 18650-batteri<br>• Batteriladdare och USB-C-kabel<br>• Transportväska och putsduk</p>\n<p>Kitet är för dig som vill börja jaga i mörker direkt: 940 nm IR-lampan och fästet ingår, och 4K-sensorn med upp till 11 timmars drift sitter i en vanlig 30 mm-tub. Har du redan IR-belysning finns <a href=\"/products/hikmicro-alpex-a50e-4k-tube-scope\" title=\"Alpex A50E\">Alpex A50E</a> utan lampa, och vill du även mäta håll finns <a href=\"/products/kit-hikmicro-alpex-a50el-4k-tube-scope-w-bracket-and-ir-torch-940nm-1\" title=\"A50EL-kitet\">A50EL-kitet</a> med laser till 1000 m.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "'stryktålig' → 'rekylsäker' (ordval, samma ord som i nyckelfunktionerna)",
+   "ChatGPT-attribut (data-start/data-end) borttagna"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110386921812",
+  "handle": "hikmicro-gryphon-ir-bracket",
+  "descriptionHtml": "<p>HIKMICRO IR Torch Bracket är ett fäste utformat för montering av HIKMICRO IR Torch på monokikare i GRYPHON och GRYPHON LRF-serierna.</p>",
+  "faq": null,
+  "metafields": null,
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [],
+  "changes": [
+   "Stavfel 'HIKMCIRO' → 'HIKMICRO'"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397440340",
+  "handle": "hikmicro-stellar-sq35l-3-0-thermal-tubescope",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/stellar-3-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: 15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12465695031636",
+  "handle": "hikmicro-stellar-sx60ls-3-0-termiskt-varmesikte",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/stellar-3-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: 15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110397112660",
+  "handle": "hikmicro-stellar-sx60l-3-0-thermal-tubescope",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤18 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/stellar-3-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <18 mK → ≤18 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396948820",
+  "handle": "hikmicro-stellar-sh35-3-0-thermal-tubescope",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/stellar-3-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396162388",
+  "handle": "hikmicro-stellar-sh35l-3-0-thermal-tubescope",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/stellar-3-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110396555604",
+  "handle": "hikmicro-stellar-sh50l-3-0-thermal-tubescope",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/stellar-3-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/12110394982740",
+  "handle": "hikmicro-stellar-sq50l-3-0-thermal-tubescope",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤15 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/stellar-3-0-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <15 mK → ≤15 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186389332",
+  "handle": "hikmicro-neos-ne25",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤18 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/neos-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <18 mK → ≤18 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186258260",
+  "handle": "hikmicro-neos-nh25l",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤18 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/neos-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <18 mK → ≤18 mK (format)"
+  ]
+ },
+ {
+  "id": "gid://shopify/Product/15467186356564",
+  "handle": "hikmicro-neos-nh35l",
+  "descriptionHtml": null,
+  "faq": null,
+  "metafields": {
+   "netd": "≤18 mK"
+  },
+  "title": null,
+  "new_handle": null,
+  "redirect": false,
+  "sources": [
+   "https://www.hikmicrotech.com/se/outdoor-products/neos-thermal-scope/"
+  ],
+  "changes": [
+   "custom.netd: <18 mK → ≤18 mK (format)"
+  ]
+ }
+]

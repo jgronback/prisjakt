@@ -39,3 +39,11 @@
 - Viewmaster ED 16-48x65: Focus anger själv närgräns 5,5 och 3,5 m. Båda borttagna ur text.
 - Outdoor 15-45x60: Focus säger både waterproof och "Waterproof: No". Orört.
 - Utan officiell källa: Action III 8x25, Aquafloat 7x50 WP, Zenith Experience XC (mått/vikt), GPO Mono 10x36 utgångspupill, GPO HD 12,5x50 ögonavstånd/närgräns, Spectra 4.5-27 utgångspupill, Guide TU425S och TE210MS synfält.
+
+### c6 HIKMICRO Thunder/Alpex/Stellar/Panther
+- Explorer E20 Plus: produkttyp "Foto/Åtelkameror" är fel (värmekikare). Byta?
+- Stellar SX60L/SX60LS: batteritid 9 h i HIKMICROs tabell, 6,5 h i listningar. Orört.
+- Panther PQ35L/PH50L: custom.matt 215 x 67 x 87 mm mot datablad gen 1 200,38 × 66,32 × 87,10 mm. Orört.
+- TH50Z: objektiv-metafält "50 mm" (har 25/50 mm). Ändra till "25/50 mm"? Kan påverka filter.
+- Packlistor utan officiell källa: TE25, TQ50CR, TE19CR, A50TN, Kit A50E.
+- Dubblett: hikmicro-lenscover-label-falcon-fq35-fh25-fq50-fh35 och "-1".
