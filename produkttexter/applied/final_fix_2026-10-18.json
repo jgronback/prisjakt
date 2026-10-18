@@ -1,0 +1,47 @@
+{
+ "pitch_fixes": {
+  "gid://shopify/Product/12102881313108": "Riktigt långa håll från fast underlag: 6-48x med ED-glas, 1/8 MOA-klick med nollstopp och belyst VCO-6 MOA i andra fokalplanet, 807 g.",
+  "gid://shopify/Product/12110397964628": "Hittar viltet snabbt på drevet och ger 6x när avståndet växer: fiberbelyst German #4 i sex nivåer, över 90 % ljustransmission och 1/2 MOA-klick, 478 g.",
+  "gid://shopify/Product/12199662485844": "Värmesikte för rörlig jakt i skog och tätare marker: 35 mm f/1.0, 2,5-10x och artbestämning kring 280 m, i ett IPX7-chassi som tål 6000 J.",
+  "gid://shopify/Product/12199662551380": "Åtel och fält med samma sikte: 384-sensor bakom 50 mm f/1.0, 3-12x och artbestämning kring 400 m, i ett IPX7-chassi som tål 6000 J rekyl.",
+  "gid://shopify/Product/12199662584148": "Avståndet på ett knapptryck när grisen står ute på fältet: laser till 800 m med ±1 m, 384-sensor bakom F50/1.0 och upp till 8,5 h drift.",
+  "gid://shopify/Product/12485572002132": "Lugnare sikte i liggande: bipod i kolfiber på 375 g med svivel för ojämnt underlag och fjäderåtergång, höjd 155 till 230 mm."
+ },
+ "deletes": [
+  {
+   "ownerId": "gid://shopify/Product/12485569904980",
+   "namespace": "custom",
+   "key": "synfalt"
+  },
+  {
+   "ownerId": "gid://shopify/Product/15717755912532",
+   "namespace": "custom",
+   "key": "detektionsrackvidd"
+  },
+  {
+   "ownerId": "gid://shopify/Product/15717754765652",
+   "namespace": "custom",
+   "key": "detektionsrackvidd"
+  },
+  {
+   "ownerId": "gid://shopify/Product/15717753815380",
+   "namespace": "custom",
+   "key": "detektionsrackvidd"
+  },
+  {
+   "ownerId": "gid://shopify/Product/15717751488852",
+   "namespace": "custom",
+   "key": "detektionsrackvidd"
+  },
+  {
+   "ownerId": "gid://shopify/Product/15717750407508",
+   "namespace": "custom",
+   "key": "detektionsrackvidd"
+  },
+  {
+   "ownerId": "gid://shopify/Product/15717748474196",
+   "namespace": "custom",
+   "key": "detektionsrackvidd"
+  }
+ ]
+}
