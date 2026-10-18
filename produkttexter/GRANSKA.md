@@ -159,3 +159,43 @@ Siffror och specifikationer är aldrig ändrade av genomgången. Punkterna nedan
 - netd utan ≤: Mile M2 10 mm, Oryx XG35, Telos XG50/XG50 LRF (40 mK = sensor-NETD), XL50, XP50.
 - Mile M2 10 mm: titel och handle saknar "PixFra".
 - Pegasus 2 LRF 640 35/50: ChatGPT-<article>/<div>-omslag kvar.
+
+## b15 Holosun/Innomount
+- Alla 6 EPS Carry: fönster 16 × 21 mm i spec, obj-metafält 20 x 15 mm.
+- holosun-eps-red-6-moa-dot-7075-aluminum-enclosed-1: titel EPS, text EPS Carry RD-6 med solpanel och 14 × 20 mm; trolig dubblett till samma pris.
+- SCRS Green/Red: internt laddbart batteri via solcell i spec, CR2032 i Detta ingår. Green 50 000 h mot Red 20 000 h; FAQ 1 MOA per klick.
+- SCS Titanium MOS: "IP67/IP68 beroende på källa". SCS PDP: lös parentes, 5000 G mot 1000 G.
+- DPS-TH "for Pistol": vikt och mått identiska med DRS-NV; skärm 640 × 480 mot DRS-TH 1024x768.
+- DRS-NV: titel "IR Illuminator", texten nämner ingen IR-lampa.
+- 515 Green: solpanel i text/pitch, inte i titel. 510 Green/510C: 23 x 32 mot 23 x 30 mm.
+- Möjlig dubblett: holosun-hs503cu-rd-red-circle-dot-solar-panel och holosun-503cu-circle-dot-solar-panel.
+
+## b09 Focus Insight/tubkikare/GPO Passion
+- Focus Insight 1-6x24: mått 10 × 7,5 × 5 cm orimliga; "Rifle omfattning" i Detta ingår; "Ljuskägla" mot belyst riktmedel i FAQ.
+- Insight 1,7-10x45 och 2-12x50: mått 11 × 10,5 cm; identiskt ögonavstånd 96–102 mm.
+- Viewmaster ED 16-48x65: närgräns 5,5 mot 3,5 m; synfält samma som 20-60x80; kit med Sirui anger 57–30 m.
+- Kit som saknar stativ i Detta ingår: ED 16-48x65 Sirui 7VA, ED 20-60x80 Velbon VM638, ED 20-60x80 Sirui R2004, ED16-48x65 Videomate 638 ("Fäste").
+- Kit ED16-48x65 Videomate 638 (5 599 kr) billigare än tubkikaren ensam (5 999 kr). Pris ej rört.
+- Fel rad i spec: "Höjd: 2 150 g" (Optimum), "Höjd: 660/770 g" (Outdoor), "Höjd: 1,28 m" (Viewmaster 20-60x80).
+- Optimum 20-60x85: FAQ synfält "44-68 m" omvänt.
+- Platshållare: "[X cm]", "[X g]", "Ej angivet", "Höjd 0 cm"/"Vikt 0 g" på tillbehör.
+- Tillbehörskit 4pcs: "Eyepiece Cover 36–65 mm" troligen objektivlock; nyckelfunktioner stämmer inte med listan.
+- Kit ED 16-48x65 Sirui 7VA: synliga markdown-asterisker i låsta avsnitt.
+- GPO HD Mono 10x36: utgångspupill 3,93 mm (36/10=3,6). ED 10x32: 3,28 mm (3,2). HD 12.5x50: decimalpunkt.
+- focus-eyepiece-cover-dual-45mm: saknat mellanslag "ögonmusslor.Innerstorleken".
+
+## b20 RIX/Rusan
+- Pocket K2: handle 15 mm, titel/text 9 mm; detektion 468 m i text, 500 m i metafält.
+- Pocket K3: 780 m i text, 800 m i metafält; 18650-batteri i text men inte i Detta ingår.
+- Titan T3/T6: 3 års garanti i text, 5 år överlåtbar i FAQ; T6 1 818 m i text, 1800 m i metafält; T3 metafält 1500 m saknas i text; T6 tom <ul> sist.
+- Glint G2: FAQ "under 150 meter" mot text "över 200 meter".
+- Stride ST3/ST6: "Dual Use" i titlarna. ST6 "en av världens minsta 640-värmekameror" overifierat.
+- Tourer T50: video 1796x1080.
+- 26 Rusan-ringar/fästen: tom eller enradig text.
+
+## b22 Telson/Sightmark/Tenebraex
+- Telson varv × MIL per varv ≠ total: ARC 2.5-15x44 MIL (2 × 8 mot 32), Toxin Gen2 (2 × 10 mot 39), Target Master Tactical (3 × 10 mot 32).
+- Presidio 1-6x24 CR1/HDR: batteritid 150–500 h mot 80–1 000 h; nollstopp i båda tornen mot ett.
+- Ultra Shot A-Spec 306 g mot R-Spec 303 g (FAQ säger samma hus).
+- Okularskydd 44/46 mm: Victory och Target Master Tactical anger ingen okulardiameter.
+- focus-insight-rings-qr: tom <h1>/<span>-skräp från inklistring.
