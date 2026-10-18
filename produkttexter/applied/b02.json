@@ -1,0 +1,210 @@
+[
+ {
+  "id": "gid://shopify/Product/15717741756756",
+  "handle": "dnt-zulus-hd-5-20x-digitalt-morkersikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717746049364",
+  "handle": "dnt-zulus-hd-v2-3-12x-lrf-digitalt-morkersikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717744935252",
+  "handle": "dnt-zulus-hd-v2-5-20x-lrf-digitalt-morkersikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717755912532",
+  "handle": "dnt-thermnight-compact-tnc225r-256x192-25-mm-multispektralt-sikte-lrf",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717754765652",
+  "handle": "dnt-thermnight-compact-tnc335r-384x288-35-mm-multispektralt-sikte-lrf",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717753815380",
+  "handle": "dnt-thermnight-compact-tnc635r-640x512-35-mm-multispektralt-sikte-lrf",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717760565588",
+  "handle": "arken-optics-0-moa-cantileverfaste-30-mm",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717760794964",
+  "handle": "arken-optics-0-moa-cantileverfaste-34-mm",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717760958804",
+  "handle": "arken-optics-20-moa-cantileverfaste-30-mm",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717761089876",
+  "handle": "arken-optics-20-moa-cantileverfaste-34-mm",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717760172372",
+  "handle": "arken-optics-bubble-level-30-mm",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717760368980",
+  "handle": "arken-optics-bubble-level-34-mm",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717759811924",
+  "handle": "arken-optics-flip-up-linsskyddskit",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717759648084",
+  "handle": "arken-optics-halo-picatinnyringar",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717760041300",
+  "handle": "arken-optics-throw-lever",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717760467284",
+  "handle": "dnt-18650-batteripack-med-laddare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717761286484",
+  "handle": "dnt-940-nm-ir-modul-for-zulus",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717761384788",
+  "handle": "dnt-gummimussla-for-zulus-hd",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717751488852",
+  "handle": "dnt-hound-h315r-384x288-15-mm-varmekikare-lrf",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717750407508",
+  "handle": "dnt-hound-h325r-384x288-25-mm-varmekikare-lrf",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717748474196",
+  "handle": "dnt-hound-h635r-640x512-35-mm-varmekikare-lrf",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/12340770373972",
+  "handle": "athlon-midas-1-mile-g2-laseravstandsmatare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/12340772405588",
+  "handle": "athlon-talos-800y-laseravstandsmatare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": false,
+  "error": "Återläst text har stavfel från appliceringen: 'fukottät' i st.f. 'fukttät' (sista punkten). Ej rättad, uppdraget ändrades till inga fler mutationer."
+ },
+ {
+  "id": "gid://shopify/Product/12340771979604",
+  "handle": "athlon-talos-g2-laseravstandsmatare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/12340773028180",
+  "handle": "athlon-talos-golf-800y-laseravstandsmatare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": false,
+  "error": "Återläst text har stavfel från appliceringen: 'fuktät' i st.f. 'fukttät' (sista punkten). Ej rättad, uppdraget ändrades till inga fler mutationer."
+ },
+ {
+  "id": "gid://shopify/Product/12340773093716",
+  "handle": "athlon-midas-m3-3x-magnifier",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ }
+]

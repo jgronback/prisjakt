@@ -1,0 +1,354 @@
+[
+ {
+  "id": "gid://shopify/Product/15848263188820",
+  "handle": "bushnell-match-pro-ed-3-18x50-ffp-dm2-mrad-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848263352660",
+  "handle": "bushnell-match-pro-ed-5-30x56-ffp-dm2-mrad-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848263909716",
+  "handle": "bushnell-r3-3-9x50-multi-x-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848264368468",
+  "handle": "bushnell-r5-1-6x24-dd2-qa-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848264728916",
+  "handle": "bushnell-r5-3-9x40-multi-x-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848264892756",
+  "handle": "bushnell-r5-3-9x50-multi-x-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848265089364",
+  "handle": "bushnell-r7-1-8x24-german-4-mrad-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15853012648276",
+  "handle": "bushnell-equinox-x650-5x32-digital-morkerkikare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15853012877652",
+  "handle": "bushnell-equinox-z2-3x30-digital-morkerkikare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848242184532",
+  "handle": "bushnell-ar-optics-trs-26-1x26-rodpunktsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848262631764",
+  "handle": "bushnell-ar-optics-transition-3x24-forstorare",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848242544980",
+  "handle": "bushnell-rxm-300-1x28-rodpunktsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848242938196",
+  "handle": "bushnell-rxs-10-1x25-rodpunktsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848243102036",
+  "handle": "bushnell-rxs-100-1x25-rodpunktsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15848243396948",
+  "handle": "bushnell-trophy-trs-25-1x20-rodpunktsikte",
+  "desc_applied": true,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613321937236",
+  "handle": "delta-optical-chase-10x42-ed-handkikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613321544020",
+  "handle": "delta-optical-chase-12x50-ed-handkikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613322756436",
+  "handle": "delta-optical-t-9x45-fl-hd-rf-kikare-med-laseravstandsmatare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613319676244",
+  "handle": "delta-optical-forest-ii-10x42-kikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613320986964",
+  "handle": "delta-optical-forest-gen3-ed-10x50-kikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613320495444",
+  "handle": "delta-optical-forest-gen3-ed-12x50-kikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613309878612",
+  "handle": "delta-optical-forest-ii-8x42-kikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613319774548",
+  "handle": "delta-optical-forest-ii-42-mm-flipp-skydd",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613320003924",
+  "handle": "delta-optical-forest-ii-50-mm-flipp-skydd",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613326688596",
+  "handle": "delta-optical-sailor-7x50-c1-porrokikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613326229844",
+  "handle": "delta-optical-starlight-15x70-kikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613324689748",
+  "handle": "delta-optical-titanium-8x56-roh-handkikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613298901332",
+  "handle": "delta-optical-titanium-hd-1-5-9x45-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613296116052",
+  "handle": "delta-optical-titanium-hd-1-6x24-4a-s-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613297394004",
+  "handle": "delta-optical-titanium-hd-2-5-10x50-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613296771412",
+  "handle": "delta-optical-titanium-hd-2-5-10x56-di-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613267083604",
+  "handle": "delta-optical-titanium-hd-2-5-10x56-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613206954324",
+  "handle": "delta-optical-titanium-hd-2-5-15x50-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613295624532",
+  "handle": "delta-optical-titanium-hd-2-5-15x56-sf-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613302571348",
+  "handle": "delta-optical-titanium-hd-4-24x50-sf-di-md-belyst-sikte-med-utbytbara-rattar",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613301817684",
+  "handle": "delta-optical-titanium-hd-4-24x50-sf-belyst-kikarsikte",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613300965716",
+  "handle": "delta-optical-titanium-hd-4-24x50-sfp-4a-sb-mil-med-utbytbara-rattar-belyst",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613318299988",
+  "handle": "delta-optical-titanium-hd-bt-ratt-med-4-ringar",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613327671636",
+  "handle": "delta-optical-titanium-ed-50-tubkikare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613319971156",
+  "handle": "delta-optical-rf-1200-hd-laseravstandsmatare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613317939540",
+  "handle": "delta-optical-rf-2000-hd-laseravstandsmatare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613310599508",
+  "handle": "delta-optical-rf-4000-hd-laseravstandsmatare",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613320790356",
+  "handle": "delta-optical-compact-dot-hd-28",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ },
+ {
+  "id": "gid://shopify/Product/15613324919124",
+  "handle": "delta-optical-grd-rodpunktssikte-3-moa",
+  "desc_applied": false,
+  "pitch_applied": true,
+  "readback_ok": true,
+  "error": "descriptionHtml EJ applicerad (uppdraget ändrat till endast förslag); ligger i proposals/b05.json för massuppdatering"
+ }
+]

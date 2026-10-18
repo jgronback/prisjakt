@@ -1,0 +1,266 @@
+[
+ {
+  "id": "gid://shopify/Product/15613326164308",
+  "handle": "delta-optical-javelin-3-5-21x50-ffp-mil-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613326983508",
+  "handle": "delta-optical-javelin-4-5-30x56-ed-ffp-mil-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613318988116",
+  "handle": "delta-optical-mini-dot-26-hd-6-moa",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613309714772",
+  "handle": "delta-optical-mini-dot-26-hd",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613320855892",
+  "handle": "delta-optical-mini-dot-hd-montage-for",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613321216340",
+  "handle": "delta-optical-minidot-3-holografiskt-rodpunktssikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613317185876",
+  "handle": "delta-optical-minidot-bas-passande-6-14-mm-skenor",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613326885204",
+  "handle": "delta-optical-multi-dot-hd-36",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613316759892",
+  "handle": "delta-optical-stryker-hd-1-10x28-sdog-1-ffp-mil-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613325377876",
+  "handle": "delta-optical-stryker-hd-1-6x24-sfp-dgmr-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613320724820",
+  "handle": "delta-optical-stryker-hd-1-6x24-sfp-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613323247956",
+  "handle": "delta-optical-stryker-hd-1-8x24-sfp-damr-mil-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613320200532",
+  "handle": "delta-optical-stryker-hd-3-5-21x44-ffp-dlr-3-mil-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613324099924",
+  "handle": "delta-optical-stryker-hd-3-5-21x44-ffp-dprc-1-mil-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613323346260",
+  "handle": "delta-optical-stryker-hd-4-moa",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": false,
+  "error": "Skrivfel vid applicering: i Nyckelfunktioner står 'fritt sikteöverblick' i Shopify i stället för originalets 'fritt siktesöverblick' (ett 's' saknas). Resten identiskt med förslaget. Ej rättat eftersom uppdraget ändrades till endast förslag; en ny productUpdate med proposals/b06.json åtgärdar det."
+ },
+ {
+  "id": "gid://shopify/Product/15613321445716",
+  "handle": "delta-optical-stryker-hd-4-5-30x56-tactical-ffp-mil-mil-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613322035540",
+  "handle": "delta-optical-stryker-hd-5-50x56-target-sfp-lt-mil-mil-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613322494292",
+  "handle": "delta-optical-stryker-hd-6-moa",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": false,
+  "error": "Skrivfel vid applicering: i Nyckelfunktioner står 'fritt sikteöverblick' i Shopify i stället för originalets 'fritt siktesöverblick' (ett 's' saknas). Resten identiskt med förslaget. Ej rättat eftersom uppdraget ändrades till endast förslag; en ny productUpdate med proposals/b06.json åtgärdar det."
+ },
+ {
+  "id": "gid://shopify/Product/15613324034388",
+  "handle": "delta-optical-stryker-hd-8-moa",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": false,
+  "error": "Skrivfel vid applicering: i Nyckelfunktioner står 'fritt sikteöverblick' i Shopify i stället för originalets 'fritt siktesöverblick' (ett 's' saknas). Resten identiskt med förslaget. Ej rättat eftersom uppdraget ändrades till endast förslag; en ny productUpdate med proposals/b06.json åtgärdar det."
+ },
+ {
+  "id": "gid://shopify/Product/15613321052500",
+  "handle": "delta-optical-stryker-hd-weaverbas",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15613319086420",
+  "handle": "delta-optical-montage-for-6-14-mm-skena-minidot-hd-vortex-razor",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717561762132",
+  "handle": "element-optics-helix-hd-10x42-handkikare",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717554356564",
+  "handle": "element-optics-helix-hd-8x42-handkikare",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717542625620",
+  "handle": "element-optics-helix-1500-ballistisk-laseravstandsmatare",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717513101652",
+  "handle": "element-optics-helix-8x56-raptr-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717402771796",
+  "handle": "element-optics-helix-gen2-4-16x44-ffp-mpr-1c-mrad-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717497012564",
+  "handle": "element-optics-helix-gen2-6-24x50-ffp-mrad-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717492818260",
+  "handle": "element-optics-helix-gen2-6-24x50-sfp-apr-1c-mrad-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717407097172",
+  "handle": "element-optics-helix-hd-1-8x24-l4a-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717482365268",
+  "handle": "element-optics-helix-hd-2-16x50-sfp-raptr-1-mrad-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717485216084",
+  "handle": "element-optics-helix-hd-compact-2-12x42-raptr-1f-belyst-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717489082708",
+  "handle": "element-optics-helix-hdlr-2-16x50-sfp-apr-1c-mrad-kikarsikte",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ },
+ {
+  "id": "gid://shopify/Product/15717550326100",
+  "handle": "element-optics-rf-module-vapenmonterad-avstandsmatare",
+  "desc_applied": true,
+  "pitch_applied": false,
+  "readback_ok": true,
+  "error": null
+ }
+]

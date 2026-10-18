@@ -12,6 +12,7 @@ by_handle = {n["handle"]: n for n in nodes.values()}
 targets = json.load(open(os.path.join(HERE, "link_targets.json"), encoding="utf-8"))
 ART = json.load(open(os.path.join(HERE, "art_table.json"), encoding="utf-8"))
 
+def nfc(s): return re.sub(r"\s+", " ", unicodedata.normalize("NFC", s or "")).strip()
 def text(h): return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", h or "")).strip()
 def norm_num(s):
     s = s.replace(" ", " ").replace(" ", " ")
@@ -26,16 +27,29 @@ def numbers(s):
 def mf_text(n):
     return " ".join(str((n.get(k) or {}).get("value") or "") for k in ("sensor","obj","pitch","lrf","netd","det","forst","faq","sp"))
 def section(h, name):
-    # Avsnittet slutar där dess lista slutar (</p> eller </ul> efter första punkten),
-    # inte vid textens slut: annars räknas den avslutande säljtexten in i "Detta ingår".
+    """Listraderna i ett avsnitt: rader som börjar med • eller <li>, eller har formen
+    "Nyckel: värde". Avsnittet slutar vid första rad efter listan som inte är en
+    listrad, oavsett om stycket är stängt med </p> eller bara skilt med <br><br>.
+    Så kan avslutande säljtext ändras utan att listan räknas som ändrad."""
     h = h or ""
     i = h.find(name)
     if i < 0: return None
-    rest = h[i + len(name):]
-    m = re.search(r"(?:•|<li).*?(?:</p>|</ul>)", rest, re.S)
-    t = text(rest[:m.end()] if m else rest)
-    t = re.split(r"Detta ingår|Teknisk specifikation|Nyckelfunktioner", t)[0]
-    return t.strip()[:3000]
+    rest = re.sub(r"<li[^>]*>", "<br>• ", h[i + len(name):])
+    parts = re.split(r"<br\s*/?>|</p>|<p[^>]*>|</li>|</?ul[^>]*>|\n", rest)
+    items, started = [], False
+    for part in parts:
+        t = re.sub(r"^(•\s*)+", "• ", text(part))
+        if not t: continue
+        if re.match(r"(Detta ingår|Teknisk specifikation|Nyckelfunktioner)\b", t): break
+        kv = name == "Teknisk specifikation" and re.match(r"^[^.:•]{1,30}:\s*\S", t)
+        if (t.startswith("•") or kv) and (len(t) <= 160 or t.count("•") > 1):
+            items.append(t); started = True
+        elif started:
+            break
+        else:
+            items.append(t)   # text direkt efter rubriken innan listan börjar
+            if len(items) > 3: break
+    return "\n".join(items)[:5000]
 def art_numbers(n):
     out = set()
     try:
@@ -83,9 +97,12 @@ def check(p):
             if m and m.group(1) in by_handle: linked.append(by_handle[m.group(1)])
         nlinks = len(re.findall(r"<a\s", new_h)); old_links = len(re.findall(r"<a\s", old_h))
         if nlinks > max(3, old_links): errs.append(f"{nlinks} länkar (max 3)")
+        nt = nfc(text(new_h))
         for nm in ("Teknisk specifikation", "Detta ingår"):
-            a, b = section(old_h, nm), section(new_h, nm)
-            if a is not None and a != b: errs.append(f"avsnittet '{nm}' har ändrats")
+            a = section(old_h, nm)
+            if a is None: continue
+            missing = [ln for ln in a.split("\n") if nfc(ln) not in nt]
+            if missing: errs.append(f"avsnittet '{nm}' har ändrats: {missing[0][:80]}")
         ratio = difflib.SequenceMatcher(None, text(old_h), text(new_h), autojunk=False).ratio()
         if ratio < 0.55: errs.append(f"för stor omskrivning (likhet {ratio:.2f} < 0.55)")
         if len(text(new_h)) < 0.8 * len(text(old_h)): warns.append("texten krympte mer än 20 %")

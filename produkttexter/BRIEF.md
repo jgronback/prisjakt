@@ -46,6 +46,11 @@ Fästen, ringar, adaptrar, batterier, väskor och andra tillbehör: lätt hand. 
 
 Hittar du konflikter mellan text, specifikation, metafält och FAQ (som på A650P i piloten): rör dem inte, lista dem i rapporten.
 
+
+## Egna filer
+
+Använd ALLTID filnamn med ditt batchnummer för hjälpfiler, t.ex. `/tmp/claude-0/-home-user-prisjakt/e6c80847-cf63-549b-9ce3-ffd0aac22a45/scratchpad/bXX/`. Flera agenter kör samtidigt och har skrivit över varandras generiskt namngivna filer.
+
 ## Arbetsgång
 
 1. Skriv förslagen till `proposals/bXX.json`: en lista av
