@@ -64,3 +64,11 @@
 - Falcon FQ25: metafältet matt och 455 g (webbsidan) mot databladet 190,3 × 58,3 × 66,9 mm och 500 g. Texten följer databladet.
 - Packlistor med avvikelse: Condor CQ50L (magnetiskt linsskydd, axelrem), Holosun 507COMP-GR (ingen CR1632 hos Holosun).
 - Lynx LH19 2.0: troligen samma felaktiga mått som LH15 2.0 hade. Ej kontrollerad.
+
+### c9 Telson/Sightmark/Sig Sauer/Vector Optics/Owlset
+- Dubbletter: Continental 1-6x24 Fiber (…-fiber-hd-sfp-kikarsikte och …-hunting-scope-1) är samma SCOC-48. x8 1-8x24 "ED SFP" har samma data som "ED Fiber SFP" (SCOC-51); SCOC-37 är utgången.
+- Telson Toxin/Victory/Tactical: telson.com listar standardlock och linsduk, vår (distributörens) lista saknar dem; Toxin-texten säger "Linsskydd ingår inte".
+- Vector Forester 8-16x56 ED är "Discontinued" hos tillverkaren.
+- Telson ARC/Toxin/TM Tactical: varv × MIL ≠ total står så hos Telson själva. Orört.
+- Sig ROMEO2/ROMEO-X Compact: våra texter säger 25 års garanti, Sig anger "Infinite Guarantee" + 5 år elektronik (USA). Ej verifierat för EU.
+- Sig-synfält: fler sikten kan ha fot/100 yd omräknat som m/100 m (t.ex. TANGO6T 32,2 m). Ej kontrollerat.
