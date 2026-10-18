@@ -199,3 +199,12 @@ Siffror och specifikationer är aldrig ändrade av genomgången. Punkterna nedan
 - Ultra Shot A-Spec 306 g mot R-Spec 303 g (FAQ säger samma hus).
 - Okularskydd 44/46 mm: Victory och Target Master Tactical anger ingen okulardiameter.
 - focus-insight-rings-qr: tom <h1>/<span>-skräp från inklistring.
+
+## b24 Vector Optics/Owlset
+- Frenzy F3 6MOA: spec "Montage: Weaver", inget fäste i Detta ingår (F3 GMR har Picatinnyfäste).
+- Frenzy Plus 1x31x26 MRT: QD-fäste ingår enligt text/FAQ men saknas i Detta ingår; 297 g.
+- FLEX 24x29 GMR ≥120 MOA mot MRT ≥100 MOA; GMR-texten upprepar CZ P-10 OR.
+- Owlset HEIM ES X-Nano: titel XPD, handle "nano-std-wifi"; "150 m igenkänning enligt tillverkaren" mot vår artbestämning 210 m i samma text.
+- Grizzly 1-6x24i HD: FAQ "cirka 900 kr billigare". Forester 8-16x56: FAQ "perfekt för".
+- Paragon 1x18: rekyltest "1000 g" (ska vara G); saknar fetstilad rubrik. Paragon 3x18: grötig text, behöver skrivas om.
+- Grizzly 3-12x56: nämner "Grizzly 2.5-15x50i HD" som inte finns i katalogen.
