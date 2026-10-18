@@ -32,3 +32,10 @@
 - Alpen 5-30x56 BDC: garantiruta "Deluxe" utan löptid hos tillverkaren, 5 år eller utan slutdatum oklart.
 - Apex Thermal 54 mm: vikt 511 g eller 456 g, går inte att verifiera (utgången modell).
 - Alpen Apex XP 8x42 LRF: synfält borttaget, tillverkarens två sajter säger 110 m och 140 m.
+
+### c5 Focus/Zenith/GPO/Guide
+- Focus-kit utan stativ i Detta ingår (ED 16-48x65 Sirui 7VA, ED 20-60x80 Velbon VM638, ED 20-60x80 Sirui R2004, ED16-48x65 Videomate 638 med "Fäste"): ingen officiell packlista.
+- Tillbehörskit 4pcs: "Eyepiece Cover 36–65 mm" troligen objektivlock; "56 mm" i nyckelfunktioner. Ingen källa.
+- Viewmaster ED 16-48x65: Focus anger själv närgräns 5,5 och 3,5 m. Båda borttagna ur text.
+- Outdoor 15-45x60: Focus säger både waterproof och "Waterproof: No". Orört.
+- Utan officiell källa: Action III 8x25, Aquafloat 7x50 WP, Zenith Experience XC (mått/vikt), GPO Mono 10x36 utgångspupill, GPO HD 12,5x50 ögonavstånd/närgräns, Spectra 4.5-27 utgångspupill, Guide TU425S och TE210MS synfält.
