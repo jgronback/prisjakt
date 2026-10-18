@@ -35,20 +35,21 @@ def section(h, name):
     i = h.find(name)
     if i < 0: return None
     rest = re.sub(r"<li[^>]*>", "<br>• ", h[i + len(name):])
-    parts = re.split(r"<br\s*/?>|</p>|<p[^>]*>|</li>|</?ul[^>]*>|\n", rest)
+    parts = re.split(r"<br[^>]*>|</p>|<p[^>]*>|</li>|</?ul[^>]*>|\n", rest)
     items, started = [], False
     for part in parts:
         t = re.sub(r"^(•\s*)+", "• ", text(part))
         if not t: continue
         if re.match(r"(Detta ingår|Teknisk specifikation|Nyckelfunktioner)\b", t): break
         kv = name == "Teknisk specifikation" and re.match(r"^[^.:•]{1,30}:\s*\S", t)
-        if (t.startswith("•") or kv) and (len(t) <= 160 or t.count("•") > 1):
+        if (re.match(r"^[•\-–*]\s", t) or t.startswith("•") or kv) and (len(t) <= 160 or t.count("•") > 1):
             items.append(t); started = True
         elif started:
             break
+        elif not items:
+            items.append(t)   # en rad direkt efter rubriken, t.ex. "Kikare, fodral, rem"
         else:
-            items.append(t)   # text direkt efter rubriken innan listan börjar
-            if len(items) > 3: break
+            break             # andra icke-listraden före en lista = avslutningen
     return "\n".join(items)[:5000]
 def art_numbers(n):
     out = set()
@@ -97,11 +98,11 @@ def check(p):
             if m and m.group(1) in by_handle: linked.append(by_handle[m.group(1)])
         nlinks = len(re.findall(r"<a\s", new_h)); old_links = len(re.findall(r"<a\s", old_h))
         if nlinks > max(3, old_links): errs.append(f"{nlinks} länkar (max 3)")
-        nt = nfc(text(new_h))
+        nt = nfc(text(re.sub(r"<li[^>]*>", "<br>• ", new_h)))
         for nm in ("Teknisk specifikation", "Detta ingår"):
             a = section(old_h, nm)
             if a is None: continue
-            missing = [ln for ln in a.split("\n") if nfc(ln) not in nt]
+            missing = [ln for ln in a.split("\n") if nfc(ln) not in nt and nfc(re.sub(r"^•\s*", "", ln)) not in nt]
             if missing: errs.append(f"avsnittet '{nm}' har ändrats: {missing[0][:80]}")
         ratio = difflib.SequenceMatcher(None, text(old_h), text(new_h), autojunk=False).ratio()
         if ratio < 0.55: errs.append(f"för stor omskrivning (likhet {ratio:.2f} < 0.55)")
